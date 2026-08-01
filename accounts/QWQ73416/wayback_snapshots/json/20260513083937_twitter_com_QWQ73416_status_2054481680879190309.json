@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "2054441137205887310",
+    "created_at": "2026-05-13T08:39:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T09:39:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054481680879190309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1768935696646238208",
+          "start": 0,
+          "username": "PsycheRabbiiOwO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054481680879190309",
+    "in_reply_to_user_id": "1768935696646238208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054441137205887310",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PsycheRabbiiOwO 那福尔马林怎么救呢？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1835,
+        "media_key": "3_2054441129639358464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HILXUpAbMAARcuX.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "2054441137205887310",
+        "created_at": "2026-05-13T08:39:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T09:39:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054481680879190309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1768935696646238208",
+              "start": 0,
+              "username": "PsycheRabbiiOwO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054481680879190309",
+        "in_reply_to_user_id": "1768935696646238208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054441137205887310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PsycheRabbiiOwO 那福尔马林怎么救呢？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054441129639358464"
+          ]
+        },
+        "author_id": "1768935696646238208",
+        "conversation_id": "2054441137205887310",
+        "created_at": "2026-05-13T05:58:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T06:58:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054441137205887310"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F4awa7kHpg",
+              "end": 34,
+              "expanded_url": "https://x.com/PsycheRabbiiOwO/status/2054441137205887310/photo/1",
+              "media_key": "3_2054441129639358464",
+              "start": 11,
+              "url": "https://t.co/F4awa7kHpg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054441137205887310",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 529,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "自切一定要销毁！！！ https://t.co/F4awa7kHpg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "|GAHT/HRT:2025.10.7|\n我已经不想说任何了\n这里烂透了",
+        "id": "1955503492145283072",
+        "name": "🧊泠小米BAYER❄️",
+        "pinned_tweet_id": "2051057649681387801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023719096047771648/WvkPh1aM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 697,
+          "following_count": 327,
+          "like_count": 6497,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 1714
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-16T09:42:03.000Z",
+        "description": "🍥低脂账号/推推空间/偶尔发疯/你喜欢我我喜欢你\n调戏链接：https://t.co/EvAZCy4Miy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/psycherabbii1",
+                "end": 53,
+                "expanded_url": "http://ngl.link/psycherabbii1",
+                "start": 30,
+                "url": "https://t.co/EvAZCy4Miy"
+              }
+            ]
+          }
+        },
+        "id": "1768935696646238208",
+        "location": "People's Dictatorship of China",
+        "name": "🤯凌月月🤯🩵🩷🤍🩷🩵",
+        "pinned_tweet_id": "2050853542223896951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039739001217892352/AZWmDcG-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 928,
+          "following_count": 1462,
+          "like_count": 13255,
+          "listed_count": 2,
+          "media_count": 269,
+          "tweet_count": 2381
+        },
+        "username": "PsycheRabbiiOwO",
+        "verified": false
+      }
+    ]
+  }
+}

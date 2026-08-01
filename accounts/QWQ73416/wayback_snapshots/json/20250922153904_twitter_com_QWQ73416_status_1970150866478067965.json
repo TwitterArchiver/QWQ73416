@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969944068148109312"
+      ],
+      "media_source_tweet_id": [
+        "1969944073604894804"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247288073542463488",
+          "name": "Virtual YouTubers"
+        }
+      }
+    ],
+    "conversation_id": "1970150866478067965",
+    "created_at": "2025-09-22T15:39:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T16:39:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970150866478067965"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 37,
+          "normalized_text": "百鬼あやめちゃん",
+          "probability": 0.2383,
+          "start": 30,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1805229185927122944",
+          "start": 3,
+          "username": "noshikigoi4649"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ev1speKoCR",
+          "end": 63,
+          "expanded_url": "https://x.com/noshikigoi4649/status/1969944073604894804/photo/1",
+          "media_key": "3_1969944068148109312",
+          "start": 40,
+          "url": "https://t.co/Ev1speKoCR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970150866478067965",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 160
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969944073604894804",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @noshikigoi4649: 今日は月が綺麗だね…百鬼あやめちゃん🌙 https://t.co/Ev1speKoCR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1216,
+        "media_key": "3_1969944068148109312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1alsVlbIAABuhK.jpg",
+        "width": 832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969944068148109312"
+          ],
+          "media_source_tweet_id": [
+            "1969944073604894804"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "1970150866478067965",
+        "created_at": "2025-09-22T15:39:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T16:39:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970150866478067965"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 37,
+              "normalized_text": "百鬼あやめちゃん",
+              "probability": 0.2383,
+              "start": 30,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1805229185927122944",
+              "start": 3,
+              "username": "noshikigoi4649"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ev1speKoCR",
+              "end": 63,
+              "expanded_url": "https://x.com/noshikigoi4649/status/1969944073604894804/photo/1",
+              "media_key": "3_1969944068148109312",
+              "start": 40,
+              "url": "https://t.co/Ev1speKoCR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970150866478067965",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 160
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969944073604894804",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @noshikigoi4649: 今日は月が綺麗だね…百鬼あやめちゃん🌙 https://t.co/Ev1speKoCR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969944068148109312"
+          ]
+        },
+        "author_id": "1805229185927122944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "1969944073604894804",
+        "created_at": "2025-09-22T01:57:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T02:57:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969944073604894804"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "百鬼あやめちゃん",
+              "probability": 0.263,
+              "start": 10,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ev1speKoCR",
+              "end": 43,
+              "expanded_url": "https://x.com/noshikigoi4649/status/1969944073604894804/photo/1",
+              "media_key": "3_1969944068148109312",
+              "start": 20,
+              "url": "https://t.co/Ev1speKoCR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969944073604894804",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 612,
+          "impression_count": 41476,
+          "like_count": 3929,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 160
+        },
+        "reply_settings": "everyone",
+        "text": "今日は月が綺麗だね…百鬼あやめちゃん🌙 https://t.co/Ev1speKoCR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 239,
+          "like_count": 3288,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 902
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-24T13:19:28.000Z",
+        "description": "ただのv好き。毎日投稿します！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/Yukisan01",
+                "end": 23,
+                "expanded_url": "http://patreon.com/Yukisan01",
+                "start": 0,
+                "url": "https://t.co/Gnwf6w8HA6"
+              }
+            ]
+          }
+        },
+        "id": "1805229185927122944",
+        "location": "NAI/支援サイト🔞→",
+        "name": "Yuki",
+        "pinned_tweet_id": "1965755241565175854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948771483284619264/bNZt_7Tn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81023,
+          "following_count": 7,
+          "like_count": 11,
+          "listed_count": 326,
+          "media_count": 504,
+          "tweet_count": 551
+        },
+        "url": "https://t.co/Gnwf6w8HA6",
+        "username": "noshikigoi4649",
+        "verified": false
+      }
+    ]
+  }
+}

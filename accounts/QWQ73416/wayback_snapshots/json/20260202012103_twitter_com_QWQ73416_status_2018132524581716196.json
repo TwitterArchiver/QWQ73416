@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "2018122753069752514",
+    "created_at": "2026-02-02T01:21:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T02:21:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018132524581716196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1723532985679704064",
+          "start": 0,
+          "username": "HFLMTF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018132524581716196",
+    "in_reply_to_user_id": "1723532985679704064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018122753069752514",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HFLMTF 那不一样还是因为切了所以不能内射了吗？本质上都是后悔切蛋了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "2018122753069752514",
+        "created_at": "2026-02-02T01:21:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T02:21:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018132524581716196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1723532985679704064",
+              "start": 0,
+              "username": "HFLMTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018132524581716196",
+        "in_reply_to_user_id": "1723532985679704064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018122753069752514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HFLMTF 那不一样还是因为切了所以不能内射了吗？本质上都是后悔切蛋了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1723532985679704064",
+        "conversation_id": "2018122753069752514",
+        "created_at": "2026-02-02T00:42:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T01:42:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018122753069752514"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 25,
+              "tag": "唐毓文"
+            },
+            {
+              "end": 34,
+              "start": 30,
+              "tag": "爱吃蛋"
+            },
+            {
+              "end": 38,
+              "start": 35,
+              "tag": "药娘"
+            },
+            {
+              "end": 43,
+              "start": 39,
+              "tag": "mtf"
+            },
+            {
+              "end": 47,
+              "start": 44,
+              "tag": "自切"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/yuwenmtf/statu…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/yuwenmtf/status/2018081349014581347",
+              "start": 48,
+              "url": "https://t.co/BgLdPoCxDj"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c999e6a453e9ef72"
+        },
+        "id": "2018122753069752514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 156,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018081349014581347",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "并非后悔切蛋，只是因为没办法内射别人而感到可惜😭\n#唐毓文 #爱吃蛋 #药娘 #mtf #自切 https://t.co/BgLdPoCxDj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|GAHT/HRT:2025.10.7|欢迎交朋友|一！个！都！不！准！死！|补佳乐已被母亲发现|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "MTF.wiki",
+                "end": 23,
+                "expanded_url": "http://MTF.wiki",
+                "start": 0,
+                "url": "https://t.co/7tmPTkeoFF"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "∠( ᐛ 」∠)_",
+        "name": "🍥泠小米🍥",
+        "pinned_tweet_id": "2017118020968337439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979202568543784960/OeW4bpMU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 274,
+          "like_count": 4996,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 1216
+        },
+        "url": "https://t.co/7tmPTkeoFF",
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-12T02:47:55.000Z",
+        "description": "2007出厂/大一喽😋/165-46kg/欢迎扩列(记得私信)喵~/🚪52？/🧊🍵酱是我⭐💢(兼老公)@coldtea2025   /   🙏特注:推上搞搞抽象滴，本人完全不一样的，请勿上纲上线当真喽~",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "coldtea2025"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hfrin.com",
+                "end": 23,
+                "expanded_url": "https://www.hfrin.com/",
+                "start": 0,
+                "url": "https://t.co/N9WRdgcDlZ"
+              }
+            ]
+          }
+        },
+        "id": "1723532985679704064",
+        "location": "你心里❤️",
+        "name": "HFRin",
+        "pinned_tweet_id": "1963271742782427557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994968042296778752/utd9W8jF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2160,
+          "following_count": 194,
+          "like_count": 1924,
+          "listed_count": 4,
+          "media_count": 308,
+          "tweet_count": 2286
+        },
+        "url": "https://t.co/N9WRdgcDlZ",
+        "username": "HFLMTF",
+        "verified": false
+      }
+    ]
+  }
+}

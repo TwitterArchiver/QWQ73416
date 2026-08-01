@@ -1,0 +1,520 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968121752292319232"
+      ],
+      "media_source_tweet_id": [
+        "1968121762148913615"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "1968182746792317179",
+    "created_at": "2025-09-17T05:18:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T06:18:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968182746792317179"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 18,
+          "tag": "ブルアカ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1285113556749266944",
+          "start": 3,
+          "username": "shusuchii"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0fORw7mmUr",
+          "end": 47,
+          "expanded_url": "https://x.com/shusuchii/status/1968121762148913615/photo/1",
+          "media_key": "3_1968121752292319232",
+          "start": 24,
+          "url": "https://t.co/0fORw7mmUr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968182746792317179",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 725
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968121762148913615",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shusuchii: 🐰\n #ブルアカ https://t.co/0fORw7mmUr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1968121752292319232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1AsTmAaYAAyyxx.jpg",
+        "width": 1272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968121752292319232"
+          ],
+          "media_source_tweet_id": [
+            "1968121762148913615"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1968182746792317179",
+        "created_at": "2025-09-17T05:18:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T06:18:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968182746792317179"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 18,
+              "tag": "ブルアカ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1285113556749266944",
+              "start": 3,
+              "username": "shusuchii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0fORw7mmUr",
+              "end": 47,
+              "expanded_url": "https://x.com/shusuchii/status/1968121762148913615/photo/1",
+              "media_key": "3_1968121752292319232",
+              "start": 24,
+              "url": "https://t.co/0fORw7mmUr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968182746792317179",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 725
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968121762148913615",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shusuchii: 🐰\n #ブルアカ https://t.co/0fORw7mmUr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968121752292319232"
+          ]
+        },
+        "author_id": "1285113556749266944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          }
+        ],
+        "conversation_id": "1968121762148913615",
+        "created_at": "2025-09-17T01:16:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T02:11:21.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968120557276459150",
+          "1968121762148913615"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 3,
+              "tag": "ブルアカ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0fORw7mmUr",
+              "end": 32,
+              "expanded_url": "https://x.com/shusuchii/status/1968121762148913615/photo/1",
+              "media_key": "3_1968121752292319232",
+              "start": 9,
+              "url": "https://t.co/0fORw7mmUr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968121762148913615",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1138,
+          "impression_count": 60373,
+          "like_count": 6014,
+          "quote_count": 2,
+          "reply_count": 14,
+          "retweet_count": 725
+        },
+        "reply_settings": "everyone",
+        "text": "🐰\n #ブルアカ https://t.co/0fORw7mmUr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 228,
+          "like_count": 2918,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 776
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-20T07:25:31.000Z",
+        "description": "ɪ'ᴍ ꜱʜᴜ｜ᴄɴ / ᴇɴ /ᴊᴘ｜ɪ ᴅʀᴀᴡ ʜᴏʟᴏʟɪᴠᴇ ᴀɴᴅ ɢᴀᴍᴇ ꜰᴀɴ ᴀʀᴛ! | 🧀 https://t.co/gVbsZ2USaS ᴠɢᴇɴ: https://t.co/bChvvcEan3 /🏷️仕事:shushu440920@gmail.com//PFP: ちりこ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Ko-fi.com/shu0920/",
+                "end": 81,
+                "expanded_url": "http://Ko-fi.com/shu0920/",
+                "start": 58,
+                "url": "https://t.co/gVbsZ2USaS"
+              },
+              {
+                "display_url": "vgen.co/Shusuchii",
+                "end": 111,
+                "expanded_url": "https://vgen.co/Shusuchii",
+                "start": 88,
+                "url": "https://t.co/bChvvcEan3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "paypal.me/SHUSHU44",
+                "end": 23,
+                "expanded_url": "https://www.paypal.me/SHUSHU44",
+                "start": 0,
+                "url": "https://t.co/EnuIKZgx52"
+              }
+            ]
+          }
+        },
+        "id": "1285113556749266944",
+        "location": "Mumei",
+        "name": "𝗦𝗛𝗨🐈‍⬛",
+        "pinned_tweet_id": "1967663705572966707",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967504859978248192/jfiNWtTE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31578,
+          "following_count": 245,
+          "like_count": 16614,
+          "listed_count": 152,
+          "media_count": 1691,
+          "tweet_count": 12244
+        },
+        "url": "https://t.co/EnuIKZgx52",
+        "username": "shusuchii",
+        "verified": true
+      }
+    ]
+  }
+}

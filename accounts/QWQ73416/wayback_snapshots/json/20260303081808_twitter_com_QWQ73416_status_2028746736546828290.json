@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "2028746736546828290",
+    "created_at": "2026-03-03T08:18:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T09:18:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028746736546828290"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SnowfairySerin…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/SnowfairySerina/status/2028680425397477482",
+          "start": 8,
+          "url": "https://t.co/m0bfkBoduP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028746736546828290",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028680425397477482",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我去，不早说😧 https://t.co/m0bfkBoduP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "2028746736546828290",
+        "created_at": "2026-03-03T08:18:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T09:18:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028746736546828290"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SnowfairySerin…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/SnowfairySerina/status/2028680425397477482",
+              "start": 8,
+              "url": "https://t.co/m0bfkBoduP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028746736546828290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028680425397477482",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我去，不早说😧 https://t.co/m0bfkBoduP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1869440990970556416",
+        "conversation_id": "2028680425397477482",
+        "created_at": "2026-03-03T03:54:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T04:54:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028680425397477482"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028680425397477482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "整天关注那个唐什么文的玩意儿，你们不嫌烦，我还嫌烦呢。\n骂他的尚可理解，但某些人哈，我个人建议你们专注于自己的生活，而不是跟着疯子撒野"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10🌟|🍥GAHT/HRT:2025.10.7🏳️‍⚧️|\n割手的痕迹被我妈看到了，被骂了一顿|\n好闺蜜 @N2OXYN |\n→I an not a vitual account.(T~T)←|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 53,
+                "username": "N2OXYN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "MTF.wiki",
+                "end": 23,
+                "expanded_url": "http://MTF.wiki",
+                "start": 0,
+                "url": "https://t.co/7tmPTkeoFF"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "🫥",
+        "name": "🧊泠小米🍥❄️",
+        "pinned_tweet_id": "2022184415632433414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023719096047771648/WvkPh1aM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 547,
+          "following_count": 310,
+          "like_count": 6183,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 1512
+        },
+        "url": "https://t.co/7tmPTkeoFF",
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-18T17:54:48.000Z",
+        "description": "行可行之处，伴旅人之舟。在数字荒原里，种下星空绿洲。//如果你使用我的推文用来佐证你的政治立场或揣测我的政治倾向，你会被立刻屏蔽。不要让政治污染我的海畔小屋。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/novel/show.php…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/novel/show.php?id=25860609",
+                "start": 0,
+                "url": "https://t.co/3DFuJVsHdD"
+              }
+            ]
+          }
+        },
+        "id": "1869440990970556416",
+        "location": "摄平星系 清江海畔 古城高川",
+        "name": "⛩️摇光的市隐日记⭐ || 旅者星辰",
+        "pinned_tweet_id": "2028417065892397119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969068756061323264/fJoUuOUi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 963,
+          "following_count": 1015,
+          "like_count": 3518,
+          "listed_count": 3,
+          "media_count": 600,
+          "tweet_count": 4636
+        },
+        "url": "https://t.co/3DFuJVsHdD",
+        "username": "SnowfairySerina",
+        "verified": false
+      }
+    ]
+  }
+}

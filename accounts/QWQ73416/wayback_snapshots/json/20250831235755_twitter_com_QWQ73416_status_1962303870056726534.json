@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962117058575097856"
+      ],
+      "media_source_tweet_id": [
+        "1962117061704118579"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1962303870056726534",
+    "created_at": "2025-08-31T23:57:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T00:57:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962303870056726534"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1855548787785437184",
+          "start": 3,
+          "username": "kodoku220909"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZWim0bCOpX",
+          "end": 41,
+          "expanded_url": "https://x.com/kodoku220909/status/1962117061704118579/photo/1",
+          "media_key": "3_1962117058575097856",
+          "start": 18,
+          "url": "https://t.co/ZWim0bCOpX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962303870056726534",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1210
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962117061704118579",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kodoku220909: https://t.co/ZWim0bCOpX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1962117058575097856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzrXEawaYAAIhof.jpg",
+        "width": 512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962117058575097856"
+          ],
+          "media_source_tweet_id": [
+            "1962117061704118579"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1962303870056726534",
+        "created_at": "2025-08-31T23:57:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T00:57:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962303870056726534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1855548787785437184",
+              "start": 3,
+              "username": "kodoku220909"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZWim0bCOpX",
+              "end": 41,
+              "expanded_url": "https://x.com/kodoku220909/status/1962117061704118579/photo/1",
+              "media_key": "3_1962117058575097856",
+              "start": 18,
+              "url": "https://t.co/ZWim0bCOpX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962303870056726534",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1210
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962117061704118579",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kodoku220909: https://t.co/ZWim0bCOpX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962117058575097856"
+          ]
+        },
+        "author_id": "1855548787785437184",
+        "conversation_id": "1962117061704118579",
+        "created_at": "2025-08-31T11:35:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T12:35:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962117061704118579"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZWim0bCOpX",
+              "end": 23,
+              "expanded_url": "https://x.com/kodoku220909/status/1962117061704118579/photo/1",
+              "media_key": "3_1962117058575097856",
+              "start": 0,
+              "url": "https://t.co/ZWim0bCOpX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962117061704118579",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2436,
+          "impression_count": 262820,
+          "like_count": 17255,
+          "quote_count": 25,
+          "reply_count": 12,
+          "retweet_count": 1210
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ZWim0bCOpX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|小推@QWQ1885|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "QWQ1885"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 78,
+          "following_count": 180,
+          "like_count": 1594,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 398
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-10T09:51:40.000Z",
+        "description": "Playground.\nIf you have any requests, feel free to DM me.",
+        "id": "1855548787785437184",
+        "location": "Midjourney",
+        "name": "kodoku",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909111931367247872/2RgH_r1N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14495,
+          "following_count": 4,
+          "like_count": 525,
+          "listed_count": 112,
+          "media_count": 35,
+          "tweet_count": 41
+        },
+        "username": "kodoku220909",
+        "verified": false
+      }
+    ]
+  }
+}

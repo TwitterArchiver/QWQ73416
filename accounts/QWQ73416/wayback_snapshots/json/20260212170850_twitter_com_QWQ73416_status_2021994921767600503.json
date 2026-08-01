@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "2021433820009173128",
+    "created_at": "2026-02-12T17:08:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T18:08:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021994921767600503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1439979723174514688",
+          "start": 0,
+          "username": "PARADOXbot8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021994921767600503",
+    "in_reply_to_user_id": "1439979723174514688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021601542437048420",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PARADOXbot8964 是的，我不会参与的，只是为了防止她出事。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "2021433820009173128",
+        "created_at": "2026-02-12T17:08:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T18:08:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021994921767600503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1439979723174514688",
+              "start": 0,
+              "username": "PARADOXbot8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021994921767600503",
+        "in_reply_to_user_id": "1439979723174514688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021601542437048420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PARADOXbot8964 是的，我不会参与的，只是为了防止她出事。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1439979723174514688",
+        "conversation_id": "2021433820009173128",
+        "created_at": "2026-02-11T15:05:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T16:05:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021601542437048420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1955503492145283072",
+              "start": 0,
+              "username": "QWQ73416"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021601542437048420",
+        "in_reply_to_user_id": "1955503492145283072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 129,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021433820009173128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QWQ73416 你不能主动参与她的自切行为，你应当负责在情况紧急的时候为她止血和寻求120的帮助"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|GAHT/HRT:2025.10.7|欢迎交朋友|一！个！都！不！准！死！|补佳乐已被母亲发现|好闺蜜@YeJiangXYN |\n→I an not a vitual account.(T~T)←|\n🚪10 要加的私聊，绿，纯好友位|（虽然我知道压根没人加🙃）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "YeJiangXYN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "MTF.wiki",
+                "end": 23,
+                "expanded_url": "http://MTF.wiki",
+                "start": 0,
+                "url": "https://t.co/7tmPTkeoFF"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "∠( 🥵」∠)_",
+        "name": "🧊泠小米🍥",
+        "pinned_tweet_id": "2021499307300618493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021513301444968448/YKJD_L07_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 306,
+          "like_count": 5759,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 1372
+        },
+        "url": "https://t.co/7tmPTkeoFF",
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-20T15:48:30.000Z",
+        "description": "远东新鲁塞尼亚",
+        "id": "1439979723174514688",
+        "location": "紫微垣",
+        "name": "中出西伯的仓鼠球",
+        "pinned_tweet_id": "2010209970458149285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952296859546054656/JHPEJKPF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1914,
+          "following_count": 1796,
+          "like_count": 145776,
+          "listed_count": 8,
+          "media_count": 1580,
+          "tweet_count": 47071
+        },
+        "username": "PARADOXbot8964",
+        "verified": false
+      }
+    ]
+  }
+}

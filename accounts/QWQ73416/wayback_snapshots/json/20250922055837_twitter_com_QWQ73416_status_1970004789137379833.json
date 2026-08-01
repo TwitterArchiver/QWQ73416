@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969726814181539840"
+      ],
+      "media_source_tweet_id": [
+        "1969726817012466111"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1970004789137379833",
+    "created_at": "2025-09-22T05:58:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T06:58:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970004789137379833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1739683743173050368",
+          "start": 3,
+          "username": "_S2_i_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6lX99EKcSl",
+          "end": 38,
+          "expanded_url": "https://x.com/_S2_i_/status/1969726817012466111/photo/1",
+          "media_key": "3_1969726814181539840",
+          "start": 15,
+          "url": "https://t.co/6lX99EKcSl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970004789137379833",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969726817012466111",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_S2_i_: CM https://t.co/6lX99EKcSl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1585,
+        "media_key": "3_1969726814181539840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1XgGffaQAAdj_9.jpg",
+        "width": 1352
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969726814181539840"
+          ],
+          "media_source_tweet_id": [
+            "1969726817012466111"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1970004789137379833",
+        "created_at": "2025-09-22T05:58:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T06:58:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970004789137379833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1739683743173050368",
+              "start": 3,
+              "username": "_S2_i_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6lX99EKcSl",
+              "end": 38,
+              "expanded_url": "https://x.com/_S2_i_/status/1969726817012466111/photo/1",
+              "media_key": "3_1969726814181539840",
+              "start": 15,
+              "url": "https://t.co/6lX99EKcSl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970004789137379833",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969726817012466111",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_S2_i_: CM https://t.co/6lX99EKcSl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969726814181539840"
+          ]
+        },
+        "author_id": "1739683743173050368",
+        "conversation_id": "1969726817012466111",
+        "created_at": "2025-09-21T11:34:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T12:34:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969726817012466111"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6lX99EKcSl",
+              "end": 26,
+              "expanded_url": "https://x.com/_S2_i_/status/1969726817012466111/photo/1",
+              "media_key": "3_1969726814181539840",
+              "start": 3,
+              "url": "https://t.co/6lX99EKcSl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969726817012466111",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 4271,
+          "like_count": 411,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "CM https://t.co/6lX99EKcSl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 238,
+          "like_count": 3195,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 874
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-26T16:25:07.000Z",
+        "description": "commission→DM",
+        "id": "1739683743173050368",
+        "location": "🇰🇷 / BAD AT ENG / 日本語OK",
+        "name": "미요",
+        "pinned_tweet_id": "1969940898973671555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963482766143574017/OhJbTJEU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1430,
+          "following_count": 85,
+          "like_count": 1029,
+          "listed_count": 6,
+          "media_count": 647,
+          "tweet_count": 1940
+        },
+        "username": "_S2_i_",
+        "verified": false
+      }
+    ]
+  }
+}

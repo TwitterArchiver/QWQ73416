@@ -1,0 +1,384 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962010593508102144",
+        "3_1962010579482419200",
+        "3_1962010561174245377"
+      ],
+      "media_source_tweet_id": [
+        "1962010596993651053",
+        "1962010596993651053",
+        "1962010596993651053"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1962013334427115710",
+    "created_at": "2025-08-31T04:43:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T05:43:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962013334427115710"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1903701047589343232",
+          "start": 3,
+          "username": "ceobrus"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/taYTGPVQWj",
+          "end": 103,
+          "expanded_url": "https://x.com/ceobrus/status/1962010596993651053/photo/1",
+          "media_key": "3_1962010593508102144",
+          "start": 80,
+          "url": "https://t.co/taYTGPVQWj"
+        },
+        {
+          "display_url": "pic.x.com/taYTGPVQWj",
+          "end": 103,
+          "expanded_url": "https://x.com/ceobrus/status/1962010596993651053/photo/1",
+          "media_key": "3_1962010579482419200",
+          "start": 80,
+          "url": "https://t.co/taYTGPVQWj"
+        },
+        {
+          "display_url": "pic.x.com/taYTGPVQWj",
+          "end": 103,
+          "expanded_url": "https://x.com/ceobrus/status/1962010596993651053/photo/1",
+          "media_key": "3_1962010561174245377",
+          "start": 80,
+          "url": "https://t.co/taYTGPVQWj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962013334427115710",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962010596993651053",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ceobrus: 小方家的饭🍚\n炒芹菜鸡肉、炒胡萝卜鸡肉、豆芽菜，胡萝卜生吃很难吃，但是和肉一起炒熟之后真的很好吃！\n备菜：懒得算了，成本应该是七八块 https://t.co/taYTGPVQWj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1962010593508102144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzp2PVeakAA6VyL.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1962010579482419200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzp2OhOboAA-L-r.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1962010561174245377",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzp2NdBbEAEiBl-.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962010593508102144",
+            "3_1962010579482419200",
+            "3_1962010561174245377"
+          ],
+          "media_source_tweet_id": [
+            "1962010596993651053",
+            "1962010596993651053",
+            "1962010596993651053"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1962013334427115710",
+        "created_at": "2025-08-31T04:43:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T05:43:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962013334427115710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1903701047589343232",
+              "start": 3,
+              "username": "ceobrus"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/taYTGPVQWj",
+              "end": 103,
+              "expanded_url": "https://x.com/ceobrus/status/1962010596993651053/photo/1",
+              "media_key": "3_1962010593508102144",
+              "start": 80,
+              "url": "https://t.co/taYTGPVQWj"
+            },
+            {
+              "display_url": "pic.x.com/taYTGPVQWj",
+              "end": 103,
+              "expanded_url": "https://x.com/ceobrus/status/1962010596993651053/photo/1",
+              "media_key": "3_1962010579482419200",
+              "start": 80,
+              "url": "https://t.co/taYTGPVQWj"
+            },
+            {
+              "display_url": "pic.x.com/taYTGPVQWj",
+              "end": 103,
+              "expanded_url": "https://x.com/ceobrus/status/1962010596993651053/photo/1",
+              "media_key": "3_1962010561174245377",
+              "start": 80,
+              "url": "https://t.co/taYTGPVQWj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962013334427115710",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962010596993651053",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ceobrus: 小方家的饭🍚\n炒芹菜鸡肉、炒胡萝卜鸡肉、豆芽菜，胡萝卜生吃很难吃，但是和肉一起炒熟之后真的很好吃！\n备菜：懒得算了，成本应该是七八块 https://t.co/taYTGPVQWj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962010593508102144",
+            "3_1962010579482419200",
+            "3_1962010561174245377"
+          ]
+        },
+        "author_id": "1903701047589343232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1962010596993651053",
+        "created_at": "2025-08-31T04:32:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T05:32:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962010596993651053"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/taYTGPVQWj",
+              "end": 90,
+              "expanded_url": "https://x.com/ceobrus/status/1962010596993651053/photo/1",
+              "media_key": "3_1962010593508102144",
+              "start": 67,
+              "url": "https://t.co/taYTGPVQWj"
+            },
+            {
+              "display_url": "pic.x.com/taYTGPVQWj",
+              "end": 90,
+              "expanded_url": "https://x.com/ceobrus/status/1962010596993651053/photo/1",
+              "media_key": "3_1962010579482419200",
+              "start": 67,
+              "url": "https://t.co/taYTGPVQWj"
+            },
+            {
+              "display_url": "pic.x.com/taYTGPVQWj",
+              "end": 90,
+              "expanded_url": "https://x.com/ceobrus/status/1962010596993651053/photo/1",
+              "media_key": "3_1962010561174245377",
+              "start": 67,
+              "url": "https://t.co/taYTGPVQWj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962010596993651053",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "小方家的饭🍚\n炒芹菜鸡肉、炒胡萝卜鸡肉、豆芽菜，胡萝卜生吃很难吃，但是和肉一起炒熟之后真的很好吃！\n备菜：懒得算了，成本应该是七八块 https://t.co/taYTGPVQWj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|小推@QWQ1885|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "QWQ1885"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 165,
+          "like_count": 1493,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 324
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-23T06:51:21.000Z",
+        "description": "They丨femboy丨药娘丨男娘丨含糖hrt2025/1/8丨m丨无性恋丨单身丨180cm/56kg丨记录没好生活(饭桶)日常(暴食)丨友一切！丨喜欢散步！喜欢流汗！喜欢晒太阳！丨碎碎念😿@ceoberus",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 95,
+                "username": "ceoberus"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ceobrus",
+                "end": 23,
+                "expanded_url": "https://t.me/ceobrus",
+                "start": 0,
+                "url": "https://t.co/jjy2nziSM9"
+              }
+            ]
+          }
+        },
+        "id": "1903701047589343232",
+        "location": "武汉",
+        "name": "小方🍅🍳",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939212280874299392/CfqB9_ww_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2661,
+          "following_count": 1621,
+          "like_count": 6894,
+          "listed_count": 4,
+          "media_count": 128,
+          "tweet_count": 1741
+        },
+        "url": "https://t.co/jjy2nziSM9",
+        "username": "ceobrus",
+        "verified": false
+      }
+    ]
+  }
+}

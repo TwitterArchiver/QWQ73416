@@ -1,0 +1,471 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969364111579627523"
+      ],
+      "media_source_tweet_id": [
+        "1969560960307511359"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "サファリパーク型動物園「ジャパリパーク」を舞台に、\"フレンズ\"と呼ばれる少女たちの冒険を描いた人気作の第2期。フレンズのサーバルとカラカルは、森の中で出会ったヒトの子供と共に旅を始める。旅の途中、個性あふれるフレンズやパークの秘密、美味しい物、そして大ピンチに遭遇するなど、サーバルたちの新たなジャパリパークの物語が幕を開ける。\n\n@kemo_projectさんの画像",
+          "id": "10047806188",
+          "name": "けものフレンズ"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1004019391393030145",
+          "name": "Kemono Friends"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1004019391393030145",
+          "name": "Kemono Friends"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "1969613083099480097",
+    "created_at": "2025-09-21T04:02:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T05:02:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969613083099480097"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 44,
+          "start": 36,
+          "tag": "けものフレンズ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "82859852",
+          "start": 3,
+          "username": "kolshicako"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AGolm3r2RR",
+          "end": 68,
+          "expanded_url": "https://x.com/kolshicako/status/1969560960307511359/photo/1",
+          "media_key": "3_1969364111579627523",
+          "start": 45,
+          "url": "https://t.co/AGolm3r2RR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969613083099480097",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 426
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969560960307511359",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kolshicako: 褐色エジプト猫耳スナネコチャン！𓃠🐈☥ #けものフレンズ https://t.co/AGolm3r2RR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1852,
+        "media_key": "3_1969364111579627523",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1SWObAbQAMXePi.jpg",
+        "width": 1191
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969364111579627523"
+          ],
+          "media_source_tweet_id": [
+            "1969560960307511359"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "サファリパーク型動物園「ジャパリパーク」を舞台に、\"フレンズ\"と呼ばれる少女たちの冒険を描いた人気作の第2期。フレンズのサーバルとカラカルは、森の中で出会ったヒトの子供と共に旅を始める。旅の途中、個性あふれるフレンズやパークの秘密、美味しい物、そして大ピンチに遭遇するなど、サーバルたちの新たなジャパリパークの物語が幕を開ける。\n\n@kemo_projectさんの画像",
+              "id": "10047806188",
+              "name": "けものフレンズ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1004019391393030145",
+              "name": "Kemono Friends"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1004019391393030145",
+              "name": "Kemono Friends"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1969613083099480097",
+        "created_at": "2025-09-21T04:02:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T05:02:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969613083099480097"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 44,
+              "start": 36,
+              "tag": "けものフレンズ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "82859852",
+              "start": 3,
+              "username": "kolshicako"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AGolm3r2RR",
+              "end": 68,
+              "expanded_url": "https://x.com/kolshicako/status/1969560960307511359/photo/1",
+              "media_key": "3_1969364111579627523",
+              "start": 45,
+              "url": "https://t.co/AGolm3r2RR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969613083099480097",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 426
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969560960307511359",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kolshicako: 褐色エジプト猫耳スナネコチャン！𓃠🐈☥ #けものフレンズ https://t.co/AGolm3r2RR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969364111579627523"
+          ]
+        },
+        "author_id": "82859852",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "サファリパーク型動物園「ジャパリパーク」を舞台に、\"フレンズ\"と呼ばれる少女たちの冒険を描いた人気作の第2期。フレンズのサーバルとカラカルは、森の中で出会ったヒトの子供と共に旅を始める。旅の途中、個性あふれるフレンズやパークの秘密、美味しい物、そして大ピンチに遭遇するなど、サーバルたちの新たなジャパリパークの物語が幕を開ける。\n\n@kemo_projectさんの画像",
+              "id": "10047806188",
+              "name": "けものフレンズ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1004019391393030145",
+              "name": "Kemono Friends"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1004019391393030145",
+              "name": "Kemono Friends"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1969560960307511359",
+        "created_at": "2025-09-21T00:35:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T01:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969560960307511359"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 20,
+              "tag": "けものフレンズ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AGolm3r2RR",
+              "end": 52,
+              "expanded_url": "https://x.com/kolshicako/status/1969560960307511359/photo/1",
+              "media_key": "3_1969364111579627523",
+              "start": 29,
+              "url": "https://t.co/AGolm3r2RR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969560960307511359",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 295,
+          "impression_count": 25079,
+          "like_count": 2108,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 426
+        },
+        "reply_settings": "everyone",
+        "text": "褐色エジプト猫耳スナネコチャン！𓃠🐈☥ #けものフレンズ https://t.co/AGolm3r2RR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 237,
+          "like_count": 3086,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 828
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2009-10-16T11:58:46.000Z",
+        "description": "乗馬してコンビニ行ったり。(Fur|)suits: Princess Luna, Judy Hopps, けものフレンズ ジャガー, けものフレンズ トキ, シカ, 猫, 悪魔がおる, けものフレンズ ライオン",
+        "id": "82859852",
+        "location": "JRAのおうまさんがトレーニングしているところ",
+        "name": "！湖子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1099318135637782530/l9s_7z0-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49594,
+          "following_count": 793,
+          "like_count": 6549,
+          "listed_count": 573,
+          "media_count": 2443,
+          "tweet_count": 184574
+        },
+        "username": "kolshicako",
+        "verified": false
+      }
+    ]
+  }
+}

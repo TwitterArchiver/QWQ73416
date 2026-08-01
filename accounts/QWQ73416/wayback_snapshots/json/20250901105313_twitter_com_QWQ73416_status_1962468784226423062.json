@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962446945588477952"
+      ],
+      "media_source_tweet_id": [
+        "1962447142951481470"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1962468784226423062",
+    "created_at": "2025-09-01T10:53:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T11:53:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962468784226423062"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1407282450393223169",
+          "start": 3,
+          "username": "uruti_2388"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5DZtw8pMLe",
+          "end": 58,
+          "expanded_url": "https://x.com/uruti_2388/status/1962447142951481470/photo/1",
+          "media_key": "3_1962446945588477952",
+          "start": 35,
+          "url": "https://t.co/5DZtw8pMLe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962468784226423062",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962447142951481470",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @uruti_2388: skebありがとうございました❣️🦊 https://t.co/5DZtw8pMLe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1019,
+        "media_key": "3_1962446945588477952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzwDGXpaAAAV_Wk.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962446945588477952"
+          ],
+          "media_source_tweet_id": [
+            "1962447142951481470"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1962468784226423062",
+        "created_at": "2025-09-01T10:53:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T11:53:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962468784226423062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1407282450393223169",
+              "start": 3,
+              "username": "uruti_2388"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5DZtw8pMLe",
+              "end": 58,
+              "expanded_url": "https://x.com/uruti_2388/status/1962447142951481470/photo/1",
+              "media_key": "3_1962446945588477952",
+              "start": 35,
+              "url": "https://t.co/5DZtw8pMLe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962468784226423062",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962447142951481470",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @uruti_2388: skebありがとうございました❣️🦊 https://t.co/5DZtw8pMLe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962446945588477952"
+          ]
+        },
+        "author_id": "1407282450393223169",
+        "conversation_id": "1962447142951481470",
+        "created_at": "2025-09-01T09:27:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T10:27:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962447142951481470"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5DZtw8pMLe",
+              "end": 42,
+              "expanded_url": "https://x.com/uruti_2388/status/1962447142951481470/photo/1",
+              "media_key": "3_1962446945588477952",
+              "start": 19,
+              "url": "https://t.co/5DZtw8pMLe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962447142951481470",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 1713,
+          "like_count": 146,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "skebありがとうございました❣️🦊 https://t.co/5DZtw8pMLe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|小推@QWQ1885|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "QWQ1885"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 191,
+          "like_count": 1664,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 432
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-22T10:22:15.000Z",
+        "description": "AI学習、無断転載禁止｜Gmail▶uruti2388@gmail.com",
+        "id": "1407282450393223169",
+        "name": "うるち",
+        "pinned_tweet_id": "1944329432342446137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851852603673710592/Qcfe5J2y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83047,
+          "following_count": 838,
+          "like_count": 24069,
+          "listed_count": 497,
+          "media_count": 996,
+          "tweet_count": 12866
+        },
+        "username": "uruti_2388",
+        "verified": true
+      }
+    ]
+  }
+}

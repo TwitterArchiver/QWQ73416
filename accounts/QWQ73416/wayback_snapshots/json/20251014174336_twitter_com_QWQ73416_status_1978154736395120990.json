@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1977730539739050081",
+    "created_at": "2025-10-14T17:43:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T18:43:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978154736395120990"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 25,
+          "normalized_text": "恭喜恭喜",
+          "probability": 0.3565,
+          "start": 22,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1875115728166342656",
+          "start": 0,
+          "username": "3253212MCZ"
+        },
+        {
+          "end": 21,
+          "id": "908312740455907330",
+          "start": 12,
+          "username": "qiuylove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978154736395120990",
+    "in_reply_to_user_id": "1875115728166342656",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977730539739050081",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3253212MCZ @qiuylove 恭喜恭喜🎉🎉🎉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1977730526581800960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3JPb3pawAAWso1.jpg",
+        "width": 988
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1977730539739050081",
+        "created_at": "2025-10-14T17:43:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T18:43:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978154736395120990"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "恭喜恭喜",
+              "probability": 0.3565,
+              "start": 22,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1875115728166342656",
+              "start": 0,
+              "username": "3253212MCZ"
+            },
+            {
+              "end": 21,
+              "id": "908312740455907330",
+              "start": 12,
+              "username": "qiuylove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978154736395120990",
+        "in_reply_to_user_id": "1875115728166342656",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977730539739050081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3253212MCZ @qiuylove 恭喜恭喜🎉🎉🎉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977730526581800960"
+          ]
+        },
+        "author_id": "1875115728166342656",
+        "conversation_id": "1977730539739050081",
+        "created_at": "2025-10-13T13:37:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T14:37:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977730539739050081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 94,
+              "id": "908312740455907330",
+              "start": 85,
+              "username": "qiuylove"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lIHbyVbnX6",
+              "end": 118,
+              "expanded_url": "https://x.com/3253212MCZ/status/1977730539739050081/photo/1",
+              "media_key": "3_1977730526581800960",
+              "start": 95,
+              "url": "https://t.co/lIHbyVbnX6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977730539739050081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2189,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "『我们是可以说\"我想见你”的关系』\n『我们是可以说“我很寂寞”的关系』\n 我现在遇见了你\n 我已经很幸福了 \n 我是世界上\n 最能让你微笑的人！\n 明白了吧？我最喜欢你了@qiuylove https://t.co/lIHbyVbnX6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|GAHT/HRT:2025.10.7|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "MTF.wiki",
+                "end": 23,
+                "expanded_url": "http://MTF.wiki",
+                "start": 0,
+                "url": "https://t.co/7tmPTkeoFF"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "∠( ᐛ 」∠)_",
+        "name": "🍥(￣ヘ￣🍥)",
+        "pinned_tweet_id": "1971859627869708434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 266,
+          "like_count": 4133,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1108
+        },
+        "url": "https://t.co/7tmPTkeoFF",
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-03T09:43:34.000Z",
+        "description": "🐱INFJ | 🌧喜欢雨天发呆 | 🌿讨厌香菜 | 178cm？ | ❤️‍🩹抑郁症自愈者 | 🌈想去看世界！|🍬MTF：2025.7.6 |MIKU重度依赖 | 无证含糖 | ❤️‍🔥分享欲旺 |❤️ 最喜欢@qiuylove| 💌努力互fo | Q:285299219 |💞不定时安慰每个人 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 105,
+                "username": "qiuylove"
+              }
+            ]
+          }
+        },
+        "id": "1875115728166342656",
+        "location": "在北京的雨天散步中～",
+        "name": "零落孤潮🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971931529904545792/RvUA_XhC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 592,
+          "like_count": 2729,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 1878
+        },
+        "username": "3253212MCZ",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-14T12:53:27.000Z",
+        "description": "🕯️ 纯情女高？！/⚠️单取大概率回block⚠️/🥵涩涩or技术推/🥺一只出厂16年的MtF噢/😣未炸柜但被迫断糖😭/退役CChOer/INFP/les/sub/免费私信树洞 /✈️https://t.co/BFK1NVA58J / ❤️主人@3253212MCZ/我想看@Ak1raQ_love 变女孩子🥰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 122,
+                "username": "3253212MCZ"
+              },
+              {
+                "end": 149,
+                "start": 137,
+                "username": "Ak1raQ_love"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xyn8964",
+                "end": 115,
+                "expanded_url": "https://t.me/xyn8964",
+                "start": 92,
+                "url": "https://t.co/BFK1NVA58J"
+              }
+            ]
+          }
+        },
+        "id": "908312740455907330",
+        "location": "Seattle, WA",
+        "name": "🏳️‍⚧️ 小秋月🎀🍥 🕯️",
+        "pinned_tweet_id": "1973961514311881091",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940249656916664320/-CxMK7qJ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 644,
+          "like_count": 35378,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 2290
+        },
+        "username": "qiuylove",
+        "verified": false
+      }
+    ]
+  }
+}

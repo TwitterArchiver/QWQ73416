@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1993982826283401353",
+    "created_at": "2025-11-27T15:22:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-27T16:22:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994064258963837146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1760877178047320064",
+          "start": 0,
+          "username": "ki_lit4717"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994064258963837146",
+    "in_reply_to_user_id": "1760877178047320064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993982826283401353",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ki_lit4717 不錯，給我吃一個泡芙😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_1993982818054230016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6wMzvZa0AAUD1M.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1993982826283401353",
+        "created_at": "2025-11-27T15:22:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T16:22:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994064258963837146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1760877178047320064",
+              "start": 0,
+              "username": "ki_lit4717"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994064258963837146",
+        "in_reply_to_user_id": "1760877178047320064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993982826283401353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ki_lit4717 不錯，給我吃一個泡芙😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993982818054230016"
+          ]
+        },
+        "author_id": "1760877178047320064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1993982826283401353",
+        "created_at": "2025-11-27T09:58:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T10:58:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993982826283401353"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lbebOcWMuW",
+              "end": 35,
+              "expanded_url": "https://x.com/ki_lit4717/status/1993982826283401353/photo/1",
+              "media_key": "3_1993982818054230016",
+              "start": 12,
+              "url": "https://t.co/lbebOcWMuW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993982826283401353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "放学路上买了好多好吃的 https://t.co/lbebOcWMuW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|GAHT/HRT:2025.10.7|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "MTF.wiki",
+                "end": 23,
+                "expanded_url": "http://MTF.wiki",
+                "start": 0,
+                "url": "https://t.co/7tmPTkdQQ7"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "∠( ᐛ 」∠)_",
+        "name": "🍥泠小米🍥",
+        "pinned_tweet_id": "1992944524965130750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979202568543784960/OeW4bpMU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 279,
+          "like_count": 4280,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 1138
+        },
+        "url": "https://t.co/7tmPTkdQQ7",
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-23T04:00:27.000Z",
+        "description": "努力出逃的籠中鳥｜07｜168/50｜重焦重抑绝赞治疗中｜深深深深柜中",
+        "id": "1760877178047320064",
+        "location": "Tokyo",
+        "name": "結綠 🏳️‍⚧️",
+        "pinned_tweet_id": "1993661173808693490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992818227114860544/h1JWiFXg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 72,
+          "like_count": 205,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 16
+        },
+        "username": "ki_lit4717",
+        "verified": false
+      }
+    ]
+  }
+}

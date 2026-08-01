@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "2078509464010015110",
+    "created_at": "2026-07-19T03:33:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T04:33:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078684516982648852"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1807044386104238080",
+          "start": 0,
+          "username": "cishenfeiwoyou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078684516982648852",
+    "in_reply_to_user_id": "1807044386104238080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078509464010015110",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cishenfeiwoyou 人类的仇恨是没有源头的，别因为这个内耗┐(´-｀)┌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "2078509464010015110",
+        "created_at": "2026-07-19T03:33:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T04:33:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078684516982648852"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1807044386104238080",
+              "start": 0,
+              "username": "cishenfeiwoyou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078684516982648852",
+        "in_reply_to_user_id": "1807044386104238080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078509464010015110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cishenfeiwoyou 人类的仇恨是没有源头的，别因为这个内耗┐(´-｀)┌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807044386104238080",
+        "conversation_id": "2078509464010015110",
+        "created_at": "2026-07-18T15:57:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T16:57:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078509464010015110"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078509464010015110",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1494,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "私信收到好多关于跨性别仇视言论…非常极端\n说实话我不知道我错在哪…我明明就在好好生活，努力上班，对每个人都很友好…怎么到他们嘴里就成危害社会，存在就是不应该，就是该死的一个人了…\n我只是和别人有点不一样啊…人和人之间真的要因为这一点不同就仇视成这样吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "|GAHT/HRT:2025.10.7|\n这里烂透了，以后任何事情都别跟我扯上关系，不参与任何所谓的“跨圈”的任何事情\n新推 @QWQ1885",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 63,
+                "username": "QWQ1885"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "name": "🧊泠小米BAYER❄️",
+        "pinned_tweet_id": "2059195074991550825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023719096047771648/WvkPh1aM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 697,
+          "following_count": 320,
+          "like_count": 6326,
+          "listed_count": 2,
+          "media_count": 59,
+          "tweet_count": 1745
+        },
+        "url": "",
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T13:32:32.000Z",
+        "description": "MTF🏳️‍⚧️Ⅰ同类贴贴，关注必回Ⅰ☯东方厨Ⅰ爱听摇滚\n\n妹妹@fufumiaoQxQ_\n姐姐@xinxin9277",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 32,
+                "username": "fufumiaoQxQ_"
+              },
+              {
+                "end": 59,
+                "start": 48,
+                "username": "xinxin9277"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/chat/group_join/g2057509897865236830/Tl6ZU7qDhP",
+                "start": 0,
+                "url": "https://t.co/QLZP6F4RRJ"
+              }
+            ]
+          }
+        },
+        "id": "1807044386104238080",
+        "location": "幻想乡",
+        "name": "小夜🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984705942404153347/0SVgBT98_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1158,
+          "following_count": 953,
+          "like_count": 795,
+          "listed_count": 2,
+          "media_count": 88,
+          "tweet_count": 384
+        },
+        "url": "https://t.co/QLZP6F4RRJ",
+        "username": "cishenfeiwoyou",
+        "verified": true
+      }
+    ]
+  }
+}

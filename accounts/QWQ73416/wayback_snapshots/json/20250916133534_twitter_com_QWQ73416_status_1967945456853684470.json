@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1964892078749728768"
+      ],
+      "media_source_tweet_id": [
+        "1964892081857654910"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1967945456853684470",
+    "created_at": "2025-09-16T13:35:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T14:35:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967945456853684470"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1126325999778422785",
+          "start": 3,
+          "username": "bb_adolf"
+        },
+        {
+          "end": 23,
+          "id": "1652262540293066754",
+          "start": 14,
+          "username": "cactasis"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YqDTwQ9cVM",
+          "end": 47,
+          "expanded_url": "https://x.com/bb_adolf/status/1964892081857654910/photo/1",
+          "media_key": "3_1964892078749728768",
+          "start": 24,
+          "url": "https://t.co/YqDTwQ9cVM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967945456853684470",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964892081857654910",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bb_adolf: @cactasis https://t.co/YqDTwQ9cVM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 388,
+        "media_key": "3_1964892078749728768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0Sy72fbQAAoAbP.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964892078749728768"
+          ],
+          "media_source_tweet_id": [
+            "1964892081857654910"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1967945456853684470",
+        "created_at": "2025-09-16T13:35:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T14:35:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967945456853684470"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1126325999778422785",
+              "start": 3,
+              "username": "bb_adolf"
+            },
+            {
+              "end": 23,
+              "id": "1652262540293066754",
+              "start": 14,
+              "username": "cactasis"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YqDTwQ9cVM",
+              "end": 47,
+              "expanded_url": "https://x.com/bb_adolf/status/1964892081857654910/photo/1",
+              "media_key": "3_1964892078749728768",
+              "start": 24,
+              "url": "https://t.co/YqDTwQ9cVM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967945456853684470",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964892081857654910",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bb_adolf: @cactasis https://t.co/YqDTwQ9cVM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964892078749728768"
+          ]
+        },
+        "author_id": "1126325999778422785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1962197990241955979",
+        "created_at": "2025-09-08T03:22:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T04:22:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964892081857654910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1652262540293066754",
+              "start": 0,
+              "username": "cactasis"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YqDTwQ9cVM",
+              "end": 33,
+              "expanded_url": "https://x.com/bb_adolf/status/1964892081857654910/photo/1",
+              "media_key": "3_1964892078749728768",
+              "start": 10,
+              "url": "https://t.co/YqDTwQ9cVM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964892081857654910",
+        "in_reply_to_user_id": "1652262540293066754",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 65,
+          "impression_count": 72155,
+          "like_count": 590,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962197990241955979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cactasis https://t.co/YqDTwQ9cVM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 226,
+          "like_count": 2853,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 764
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-09T03:20:19.000Z",
+        "description": "気軽にフォローしてね！！",
+        "id": "1126325999778422785",
+        "name": "Adolf",
+        "pinned_tweet_id": "1938909844112843014",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784972410330165248/Q_SAbKb6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 615,
+          "following_count": 698,
+          "like_count": 9671,
+          "listed_count": 9,
+          "media_count": 1384,
+          "tweet_count": 8102
+        },
+        "username": "bb_adolf",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-29T10:44:29.000Z",
+        "description": "サブ@oasis_c2 / skeb https://t.co/hUU3CBRdQ2 / pixiv https://t.co/iNAcFkMmxX /マシュマロ https://t.co/taSMQCV3NS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "oasis_c2"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@cactasis",
+                "end": 42,
+                "expanded_url": "https://skeb.jp/@cactasis",
+                "start": 19,
+                "url": "https://t.co/hUU3CBRdQ2"
+              },
+              {
+                "display_url": "pixiv.net/users/93917492",
+                "end": 74,
+                "expanded_url": "https://www.pixiv.net/users/93917492",
+                "start": 51,
+                "url": "https://t.co/iNAcFkMmxX"
+              },
+              {
+                "display_url": "marshmallow-qa.com/7aysqkcmyil27s9",
+                "end": 105,
+                "expanded_url": "https://marshmallow-qa.com/7aysqkcmyil27s9",
+                "start": 82,
+                "url": "https://t.co/taSMQCV3NS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mirage-sabo.net/profile",
+                "end": 23,
+                "expanded_url": "https://mirage-sabo.net/profile",
+                "start": 0,
+                "url": "https://t.co/5fT1BakFd7"
+              }
+            ]
+          }
+        },
+        "id": "1652262540293066754",
+        "name": "さぼてんのオアシス",
+        "pinned_tweet_id": "1967521310495625320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926080097573847040/m82barPM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2841,
+          "following_count": 518,
+          "like_count": 18543,
+          "listed_count": 8,
+          "media_count": 215,
+          "tweet_count": 6390
+        },
+        "url": "https://t.co/5fT1BakFd7",
+        "username": "cactasis",
+        "verified": false
+      }
+    ]
+  }
+}

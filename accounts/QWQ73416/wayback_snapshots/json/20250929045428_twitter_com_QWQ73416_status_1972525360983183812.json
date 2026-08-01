@@ -1,0 +1,396 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1972312691101638656"
+      ],
+      "media_source_tweet_id": [
+        "1972312700341686464"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1972525360983183812",
+    "created_at": "2025-09-29T04:54:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T05:54:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972525360983183812"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1890764476150104064",
+          "start": 3,
+          "username": "gumi_imup"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EggkqgnFDw",
+          "end": 58,
+          "expanded_url": "https://x.com/gumi_imup/status/1972312700341686464/photo/1",
+          "media_key": "3_1972312691101638656",
+          "start": 35,
+          "url": "https://t.co/EggkqgnFDw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972525360983183812",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 135
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972312700341686464",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gumi_imup: マイクロビキニも描けると尚良いとされる https://t.co/EggkqgnFDw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1412,
+        "media_key": "3_1972312691101638656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G18P8VsboAAQ_yf.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972312691101638656"
+          ],
+          "media_source_tweet_id": [
+            "1972312700341686464"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1972525360983183812",
+        "created_at": "2025-09-29T04:54:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T05:54:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972525360983183812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1890764476150104064",
+              "start": 3,
+              "username": "gumi_imup"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EggkqgnFDw",
+              "end": 58,
+              "expanded_url": "https://x.com/gumi_imup/status/1972312700341686464/photo/1",
+              "media_key": "3_1972312691101638656",
+              "start": 35,
+              "url": "https://t.co/EggkqgnFDw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972525360983183812",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 135
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972312700341686464",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gumi_imup: マイクロビキニも描けると尚良いとされる https://t.co/EggkqgnFDw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972312691101638656"
+          ]
+        },
+        "author_id": "1890764476150104064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1972312700341686464",
+        "created_at": "2025-09-28T14:49:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T15:49:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972312700341686464"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EggkqgnFDw",
+              "end": 43,
+              "expanded_url": "https://x.com/gumi_imup/status/1972312700341686464/photo/1",
+              "media_key": "3_1972312691101638656",
+              "start": 20,
+              "url": "https://t.co/EggkqgnFDw"
+            },
+            {
+              "display_url": "x.com/gumi_imup/stat…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/gumi_imup/status/1966064171520578007",
+              "start": 44,
+              "url": "https://t.co/oNL84bqiJF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972312700341686464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 158,
+          "impression_count": 16768,
+          "like_count": 1005,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 135
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966064171520578007",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "マイクロビキニも描けると尚良いとされる https://t.co/EggkqgnFDw https://t.co/oNL84bqiJF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "pinned_tweet_id": "1971859627869708434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 253,
+          "like_count": 3499,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 995
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-15T14:06:08.000Z",
+        "description": "グミ。雑多/手描き人力趣味and練習絵／投稿は不定期かつマイペース/無断転載や利用、AI学習等利用を禁じます。画像生成AI未使用。NO GEN AI",
+        "id": "1890764476150104064",
+        "location": "カサンドラ",
+        "name": "𝙶͓𝚄̥𝙼͓𝚒̥ꪑ",
+        "pinned_tweet_id": "1971697720596594759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959952764622299136/H21toR1t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 73,
+          "like_count": 2001,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 407
+        },
+        "username": "gumi_imup",
+        "verified": false
+      }
+    ]
+  }
+}

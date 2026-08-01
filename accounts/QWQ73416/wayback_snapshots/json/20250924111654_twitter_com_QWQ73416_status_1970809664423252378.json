@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970749295717687299"
+      ],
+      "media_source_tweet_id": [
+        "1970749302466322608"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1970809664423252378",
+    "created_at": "2025-09-24T11:16:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T12:16:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970809664423252378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1385974038460178438",
+          "start": 3,
+          "username": "atat250"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FH5bvPuFpY",
+          "end": 36,
+          "expanded_url": "https://x.com/atat250/status/1970749302466322608/photo/1",
+          "media_key": "3_1970749295717687299",
+          "start": 13,
+          "url": "https://t.co/FH5bvPuFpY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970809664423252378",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 842
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970749302466322608",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @atat250: https://t.co/FH5bvPuFpY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2128,
+        "media_key": "3_1970749295717687299",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1mCCwCaoAM1hIa.jpg",
+        "width": 2128
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970749295717687299"
+          ],
+          "media_source_tweet_id": [
+            "1970749302466322608"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1970809664423252378",
+        "created_at": "2025-09-24T11:16:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T12:16:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970809664423252378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1385974038460178438",
+              "start": 3,
+              "username": "atat250"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FH5bvPuFpY",
+              "end": 36,
+              "expanded_url": "https://x.com/atat250/status/1970749302466322608/photo/1",
+              "media_key": "3_1970749295717687299",
+              "start": 13,
+              "url": "https://t.co/FH5bvPuFpY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970809664423252378",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 842
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970749302466322608",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @atat250: https://t.co/FH5bvPuFpY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970749295717687299"
+          ]
+        },
+        "author_id": "1385974038460178438",
+        "conversation_id": "1970749302466322608",
+        "created_at": "2025-09-24T07:17:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T08:17:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970749302466322608"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FH5bvPuFpY",
+              "end": 23,
+              "expanded_url": "https://x.com/atat250/status/1970749302466322608/photo/1",
+              "media_key": "3_1970749295717687299",
+              "start": 0,
+              "url": "https://t.co/FH5bvPuFpY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970749302466322608",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1615,
+          "impression_count": 95544,
+          "like_count": 9130,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 842
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/FH5bvPuFpY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 245,
+          "like_count": 3317,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 921
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-24T15:09:43.000Z",
+        "description": "✉️haribouma.0115@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/106893773",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/106893773",
+                "start": 0,
+                "url": "https://t.co/oscfvyXfNb"
+              }
+            ]
+          }
+        },
+        "id": "1385974038460178438",
+        "name": "ケ十キ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813167828910108675/ifvEXADH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105252,
+          "following_count": 406,
+          "like_count": 16373,
+          "listed_count": 760,
+          "media_count": 218,
+          "tweet_count": 1397
+        },
+        "url": "https://t.co/oscfvyXfNb",
+        "username": "atat250",
+        "verified": true
+      }
+    ]
+  }
+}

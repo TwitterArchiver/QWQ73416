@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1966941221894430720"
+      ],
+      "media_source_tweet_id": [
+        "1966941238554145127"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1967399204428583058",
+    "created_at": "2025-09-15T01:24:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-15T02:24:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967399204428583058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1644980826650673152",
+          "start": 3,
+          "username": "CrybabyBuno"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oWO0QSBd3M",
+          "end": 46,
+          "expanded_url": "https://x.com/CrybabyBuno/status/1966941238554145127/photo/1",
+          "media_key": "3_1966941221894430720",
+          "start": 23,
+          "url": "https://t.co/oWO0QSBd3M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967399204428583058",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1198
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966941238554145127",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CrybabyBuno: cm 🩷🪽 https://t.co/oWO0QSBd3M"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1240,
+        "media_key": "3_1966941221894430720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0v6nrkXIAAm5d4.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966941221894430720"
+          ],
+          "media_source_tweet_id": [
+            "1966941238554145127"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1967399204428583058",
+        "created_at": "2025-09-15T01:24:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T02:24:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967399204428583058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1644980826650673152",
+              "start": 3,
+              "username": "CrybabyBuno"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oWO0QSBd3M",
+              "end": 46,
+              "expanded_url": "https://x.com/CrybabyBuno/status/1966941238554145127/photo/1",
+              "media_key": "3_1966941221894430720",
+              "start": 23,
+              "url": "https://t.co/oWO0QSBd3M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967399204428583058",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1198
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966941238554145127",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CrybabyBuno: cm 🩷🪽 https://t.co/oWO0QSBd3M"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966941221894430720"
+          ]
+        },
+        "author_id": "1644980826650673152",
+        "conversation_id": "1966941238554145127",
+        "created_at": "2025-09-13T19:05:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T20:05:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966941238554145127"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oWO0QSBd3M",
+              "end": 29,
+              "expanded_url": "https://x.com/CrybabyBuno/status/1966941238554145127/photo/1",
+              "media_key": "3_1966941221894430720",
+              "start": 6,
+              "url": "https://t.co/oWO0QSBd3M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966941238554145127",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2243,
+          "impression_count": 233583,
+          "like_count": 20976,
+          "quote_count": 16,
+          "reply_count": 10,
+          "retweet_count": 1198
+        },
+        "reply_settings": "everyone",
+        "text": "cm 🩷🪽 https://t.co/oWO0QSBd3M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 223,
+          "like_count": 2629,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 686
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-09T08:29:42.000Z",
+        "description": "call me rou ・( comms open ) 💌 • ..♡..︎ https://t.co/yEgYOIVDLH ..♡..︎ alt : @zomiiSKULLS | ♀ | dont use/copy my art",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 76,
+                "username": "zomiiSKULLS"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "vgen.co/CrybabyBuno",
+                "end": 62,
+                "expanded_url": "http://vgen.co/CrybabyBuno",
+                "start": 39,
+                "url": "https://t.co/yEgYOIVDLH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "crybabybuno.carrd.co",
+                "end": 23,
+                "expanded_url": "https://crybabybuno.carrd.co/",
+                "start": 0,
+                "url": "https://t.co/i9c4kKGSW0"
+              }
+            ]
+          }
+        },
+        "id": "1644980826650673152",
+        "location": "She/her ♡︎ comms info :",
+        "name": "ROU ᗜ˰ᗜ",
+        "pinned_tweet_id": "1944397845101940795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1827272777918828544/SF0Lp7Kz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15602,
+          "following_count": 795,
+          "like_count": 10496,
+          "listed_count": 75,
+          "media_count": 186,
+          "tweet_count": 946
+        },
+        "url": "https://t.co/i9c4kKGSW0",
+        "username": "CrybabyBuno",
+        "verified": false
+      }
+    ]
+  }
+}

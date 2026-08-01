@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "2020469869313933728",
+    "created_at": "2026-02-12T17:05:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T18:05:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021994151181795474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1909550484865650688",
+          "start": 0,
+          "username": "wyqkt"
+        },
+        {
+          "end": 20,
+          "id": "1700948552078467072",
+          "start": 7,
+          "username": "Overdose_DBD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021994151181795474",
+    "in_reply_to_user_id": "1909550484865650688",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021981292460700083",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wyqkt @Overdose_DBD 😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "2020469869313933728",
+        "created_at": "2026-02-12T17:05:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T18:05:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021994151181795474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1909550484865650688",
+              "start": 0,
+              "username": "wyqkt"
+            },
+            {
+              "end": 20,
+              "id": "1700948552078467072",
+              "start": 7,
+              "username": "Overdose_DBD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021994151181795474",
+        "in_reply_to_user_id": "1909550484865650688",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021981292460700083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wyqkt @Overdose_DBD 😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909550484865650688",
+        "conversation_id": "2020469869313933728",
+        "created_at": "2026-02-12T16:14:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T17:14:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021981292460700083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1955503492145283072",
+              "start": 0,
+              "username": "QWQ73416"
+            },
+            {
+              "end": 23,
+              "id": "1700948552078467072",
+              "start": 10,
+              "username": "Overdose_DBD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021981292460700083",
+        "in_reply_to_user_id": "1955503492145283072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020944728821506182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QWQ73416 @Overdose_DBD 我说原视频喵~没说你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|GAHT/HRT:2025.10.7|欢迎交朋友|一！个！都！不！准！死！|补佳乐已被母亲发现|好闺蜜@YeJiangXYN |\n→I an not a vitual account.(T~T)←|\n🚪10 要加的私聊，绿，纯好友位|（虽然我知道压根没人加🙃）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "YeJiangXYN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "MTF.wiki",
+                "end": 23,
+                "expanded_url": "http://MTF.wiki",
+                "start": 0,
+                "url": "https://t.co/7tmPTkeoFF"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "∠( 🥵」∠)_",
+        "name": "🧊泠小米🍥",
+        "pinned_tweet_id": "2021499307300618493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021513301444968448/YKJD_L07_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 306,
+          "like_count": 5748,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 1371
+        },
+        "url": "https://t.co/7tmPTkeoFF",
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-08T10:14:55.000Z",
+        "description": "爱改花刀/爱发疯/友跨/偶尔o/自行避雷谢谢喵 （蒽对感觉副作用更爽说是改花刀都省了）",
+        "id": "1909550484865650688",
+        "location": "北京市丰台区人民政府",
+        "name": "玉米晚安",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019786272781516800/pXSlbDZo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 26,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 76
+        },
+        "username": "wyqkt",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-10T19:05:21.000Z",
+        "description": "谁的附庸？\n高原整活观景台 https://t.co/ALu7jA3QLL\n有事请点击https://t.co/VRpZNWpEVl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/HWA_FK1",
+                "end": 37,
+                "expanded_url": "https://t.me/HWA_FK1",
+                "start": 14,
+                "url": "https://t.co/ALu7jA3QLL"
+              },
+              {
+                "display_url": "t.me/SuperGogogotou",
+                "end": 66,
+                "expanded_url": "https://t.me/SuperGogogotou",
+                "start": 43,
+                "url": "https://t.co/VRpZNWpEVl"
+              }
+            ]
+          }
+        },
+        "id": "1700948552078467072",
+        "name": "超级后后后藤",
+        "pinned_tweet_id": "1777999878117097536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018362784418091009/P1EuyheT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4380,
+          "following_count": 59,
+          "like_count": 2,
+          "listed_count": 10,
+          "media_count": 690,
+          "tweet_count": 6813
+        },
+        "username": "Overdose_DBD",
+        "verified": false
+      }
+    ]
+  }
+}

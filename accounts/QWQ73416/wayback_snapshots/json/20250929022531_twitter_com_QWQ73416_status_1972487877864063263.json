@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1972487829709283328"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1972487877864063263",
+    "created_at": "2025-09-29T02:25:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T03:25:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1972487877864063263"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fQGbxfHPXy",
+          "end": 34,
+          "expanded_url": "https://x.com/QWQ73416/status/1972487877864063263/photo/1",
+          "media_key": "3_1972487829709283328",
+          "start": 11,
+          "url": "https://t.co/fQGbxfHPXy"
+        },
+        {
+          "display_url": "x.com/MTNEKO8964/sta…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/MTNEKO8964/status/1972221507519783083",
+          "start": 35,
+          "url": "https://t.co/1LpCtQZ4jG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972487877864063263",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972221507519783083",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "湖南都还没看完。。。 https://t.co/fQGbxfHPXy https://t.co/1LpCtQZ4jG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1972487829709283328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1-vOv2aYAAmOoC.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2268,
+        "media_key": "3_1972221504051118080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G169AjdagAAErj6.jpg",
+        "width": 2268
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972487829709283328"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1972487877864063263",
+        "created_at": "2025-09-29T02:25:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T03:25:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972487877864063263"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fQGbxfHPXy",
+              "end": 34,
+              "expanded_url": "https://x.com/QWQ73416/status/1972487877864063263/photo/1",
+              "media_key": "3_1972487829709283328",
+              "start": 11,
+              "url": "https://t.co/fQGbxfHPXy"
+            },
+            {
+              "display_url": "x.com/MTNEKO8964/sta…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/MTNEKO8964/status/1972221507519783083",
+              "start": 35,
+              "url": "https://t.co/1LpCtQZ4jG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972487877864063263",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972221507519783083",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "湖南都还没看完。。。 https://t.co/fQGbxfHPXy https://t.co/1LpCtQZ4jG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972221504051118080"
+          ]
+        },
+        "author_id": "1817821126640496640",
+        "conversation_id": "1972221507519783083",
+        "created_at": "2025-09-28T08:47:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T09:47:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972221507519783083"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/p2y5Asiubt",
+              "end": 32,
+              "expanded_url": "https://x.com/MTNEKO8964/status/1972221507519783083/photo/1",
+              "media_key": "3_1972221504051118080",
+              "start": 9,
+              "url": "https://t.co/p2y5Asiubt"
+            },
+            {
+              "display_url": "x.com/carafutaba/sta…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/carafutaba/status/1972186737222058127",
+              "start": 33,
+              "url": "https://t.co/s8QR6U2Wyh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972221507519783083",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 440,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972186737222058127",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "乡巴佬没出过家门 https://t.co/p2y5Asiubt https://t.co/s8QR6U2Wyh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "pinned_tweet_id": "1971859627869708434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 253,
+          "like_count": 3494,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 994
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-29T07:15:16.000Z",
+        "description": "MtX🍥 / 生产日期：896411.07.13 / -14岁xyn / hrt：25.2.11 / 55cm 169kg｜极度社恐 / 泛性恋 / 爱玩抽象 / 社会化程度极低的阿斯 / 一只努力学习做好人类的猫 / 世界是由意大利面构成的｜互fo｜对象🥺🍜❤️@sanmiguelnoodle",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 148,
+                "start": 132,
+                "username": "sanmiguelnoodle"
+              }
+            ]
+          }
+        },
+        "id": "1817821126640496640",
+        "location": "评鉴亚硝酸钠的路上",
+        "name": "面条喵🍥🐱🐈",
+        "pinned_tweet_id": "1959530946673418708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972232480225951744/Lga0T62B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2398,
+          "following_count": 2227,
+          "like_count": 37343,
+          "listed_count": 6,
+          "media_count": 471,
+          "tweet_count": 4982
+        },
+        "username": "MTNEKO8964",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "2000650181411471813",
+    "created_at": "2025-12-17T05:55:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T06:55:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001169271205118202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1765253604229910528",
+          "start": 0,
+          "username": "1leassis"
+        },
+        {
+          "end": 25,
+          "id": "4229371640",
+          "start": 10,
+          "username": "ringochichidim"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001169271205118202",
+    "in_reply_to_user_id": "1765253604229910528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000755695289876962",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1leassis @ringochichidim 谢谢☺️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "2000650181411471813",
+        "created_at": "2025-12-17T05:55:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T06:55:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001169271205118202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1765253604229910528",
+              "start": 0,
+              "username": "1leassis"
+            },
+            {
+              "end": 25,
+              "id": "4229371640",
+              "start": 10,
+              "username": "ringochichidim"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001169271205118202",
+        "in_reply_to_user_id": "1765253604229910528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000755695289876962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1leassis @ringochichidim 谢谢☺️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1765253604229910528",
+        "conversation_id": "2000650181411471813",
+        "created_at": "2025-12-16T02:31:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T03:31:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000755695289876962"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "4229371640",
+              "start": 0,
+              "username": "ringochichidim"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000755695289876962",
+        "in_reply_to_user_id": "4229371640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000650181411471813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ringochichidim 小蜥蜴可爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|GAHT/HRT:2025.10.7|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "MTF.wiki",
+                "end": 23,
+                "expanded_url": "http://MTF.wiki",
+                "start": 0,
+                "url": "https://t.co/7tmPTkdQQ7"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "∠( ᐛ 」∠)_",
+        "name": "🍥泠小米🍥",
+        "pinned_tweet_id": "1992944524965130750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979202568543784960/OeW4bpMU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 278,
+          "like_count": 4306,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 1144
+        },
+        "url": "https://t.co/7tmPTkdQQ7",
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-06T05:50:55.000Z",
+        "description": "伊莉丝神仆                     @inasya_kram",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "inasya_kram"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "1leassis.com",
+                "end": 23,
+                "expanded_url": "http://www.1leassis.com",
+                "start": 0,
+                "url": "https://t.co/DcrJeWZ3DT"
+              }
+            ]
+          }
+        },
+        "id": "1765253604229910528",
+        "location": "通往神国的单程列车",
+        "name": "神仆依拉斯dayoo~~~ 白色圣诞特别版",
+        "pinned_tweet_id": "1765725858189488599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982936301143023616/_lKNNCeS_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 886,
+          "like_count": 24295,
+          "listed_count": 2,
+          "media_count": 275,
+          "tweet_count": 9963
+        },
+        "url": "https://t.co/DcrJeWZ3DT",
+        "username": "1leassis",
+        "verified": false
+      },
+      {
+        "created_at": "2015-11-14T01:26:50.000Z",
+        "description": "来たことがある",
+        "id": "4229371640",
+        "location": "Taiwan",
+        "name": "きた(舊稱窮奇)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1723951782311952384/8ApLa6F9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1331,
+          "following_count": 1231,
+          "like_count": 38351,
+          "listed_count": 8,
+          "media_count": 3256,
+          "tweet_count": 10739
+        },
+        "username": "ringochichidim",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1967158836982341737",
+    "created_at": "2025-09-14T10:06:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T11:06:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967168002568475012"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1503516796493590530",
+          "start": 0,
+          "username": "orangefish_stew"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967168002568475012",
+    "in_reply_to_user_id": "1503516796493590530",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967158836982341737",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@orangefish_stew 抱抱你，可以和我说 (*°▽°)ﾉ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1967158836982341737",
+        "created_at": "2025-09-14T10:06:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T11:06:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967168002568475012"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1503516796493590530",
+              "start": 0,
+              "username": "orangefish_stew"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967168002568475012",
+        "in_reply_to_user_id": "1503516796493590530",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967158836982341737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@orangefish_stew 抱抱你，可以和我说 (*°▽°)ﾉ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1503516796493590530",
+        "conversation_id": "1967158836982341737",
+        "created_at": "2025-09-14T09:29:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T10:29:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967158836982341737"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1967158836982341737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 150,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有巨多负能想发泄但不知道能跟谁说。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 221,
+          "like_count": 2497,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 665
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-14T23:42:07.000Z",
+        "description": "17在校高中牲｜INFP｜代词随意｜🏳️‍🌈🏳️‍⚧️喜欢男的｜汤力水@aliii67285114 最好的🧊@blueicesama 超可爱的🍑@meforeverme1 中推圈最炫压抑side @MaxensesionZM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 35,
+                "username": "aliii67285114"
+              },
+              {
+                "end": 66,
+                "start": 54,
+                "username": "blueicesama"
+              },
+              {
+                "end": 85,
+                "start": 72,
+                "username": "meforeverme1"
+              },
+              {
+                "end": 112,
+                "start": 98,
+                "username": "MaxensesionZM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/orangefish_ste…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/orangefish_stew2",
+                "start": 0,
+                "url": "https://t.co/CnV3d7HHBn"
+              }
+            ]
+          }
+        },
+        "id": "1503516796493590530",
+        "location": "青岛",
+        "name": "橙汁烩鱼🔜北京",
+        "pinned_tweet_id": "1951227998113579191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867818610703339520/TcGpAQTB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7133,
+          "following_count": 1690,
+          "like_count": 33125,
+          "listed_count": 3,
+          "media_count": 305,
+          "tweet_count": 6029
+        },
+        "url": "https://t.co/CnV3d7HHBn",
+        "username": "orangefish_stew",
+        "verified": false
+      }
+    ]
+  }
+}

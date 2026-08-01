@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1967541820914839577",
+    "created_at": "2025-09-15T10:51:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-15T11:51:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967541820914839577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "3223080709",
+          "start": 3,
+          "username": "ceoberus"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co",
+          "end": 139,
+          "start": 126,
+          "url": "https://t.co/"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967541820914839577",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967414446516760767",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ceoberus: 没爹的男孩会变成什么样？\n\n儿子啊，就算爹没带过你没养过你，但你是我儿子所以我说什么你都要听。敢不听？！你个婊子养算什么东西，我抽死你！\n\n五年后\n爹，我下海了，我要谢谢你把我调教成现在这样，我等下要去主人床上做小男女孩了 https://t.co/…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1370,
+        "media_key": "3_1967414441646940160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G02pAshW4AAEnR8.jpg",
+        "width": 802
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1967541820914839577",
+        "created_at": "2025-09-15T10:51:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T11:51:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967541820914839577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3223080709",
+              "start": 3,
+              "username": "ceoberus"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co",
+              "end": 139,
+              "start": 126,
+              "url": "https://t.co/"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967541820914839577",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967414446516760767",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ceoberus: 没爹的男孩会变成什么样？\n\n儿子啊，就算爹没带过你没养过你，但你是我儿子所以我说什么你都要听。敢不听？！你个婊子养算什么东西，我抽死你！\n\n五年后\n爹，我下海了，我要谢谢你把我调教成现在这样，我等下要去主人床上做小男女孩了 https://t.co/…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967414441646940160"
+          ]
+        },
+        "author_id": "3223080709",
+        "conversation_id": "1967414446516760767",
+        "created_at": "2025-09-15T02:25:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T03:25:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967414446516760767"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cBC4aWXynO",
+              "end": 135,
+              "expanded_url": "https://x.com/ceoberus/status/1967414446516760767/photo/1",
+              "media_key": "3_1967414441646940160",
+              "start": 112,
+              "url": "https://t.co/cBC4aWXynO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967414446516760767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 607,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "没爹的男孩会变成什么样？\n\n儿子啊，就算爹没带过你没养过你，但你是我儿子所以我说什么你都要听。敢不听？！你个婊子养算什么东西，我抽死你！\n\n五年后\n爹，我下海了，我要谢谢你把我调教成现在这样，我等下要去主人床上做小男女孩了 https://t.co/cBC4aWXynO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 225,
+          "like_count": 2686,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 703
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2015-05-22T07:07:28.000Z",
+        "description": "Femboy丨hrt2025.1.8丨俺是大胃袋丨小方二号机@ceobrus",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 30,
+                "username": "ceobrus"
+              }
+            ]
+          }
+        },
+        "id": "3223080709",
+        "name": "小方一号机",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966365194814439424/zqszoKyy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 735,
+          "following_count": 528,
+          "like_count": 6281,
+          "listed_count": 3,
+          "media_count": 45,
+          "tweet_count": 306
+        },
+        "username": "ceoberus",
+        "verified": false
+      }
+    ]
+  }
+}

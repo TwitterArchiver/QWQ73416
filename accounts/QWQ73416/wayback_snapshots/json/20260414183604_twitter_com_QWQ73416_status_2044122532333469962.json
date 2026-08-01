@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044122523206594562",
+        "3_2044122523923890176"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2044122532333469962",
+    "created_at": "2026-04-14T18:36:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T19:36:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044122532333469962"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cudyNpB7cr",
+          "end": 43,
+          "expanded_url": "https://x.com/QWQ73416/status/2044122532333469962/photo/1",
+          "media_key": "3_2044122523206594562",
+          "start": 20,
+          "url": "https://t.co/cudyNpB7cr"
+        },
+        {
+          "display_url": "pic.x.com/cudyNpB7cr",
+          "end": 43,
+          "expanded_url": "https://x.com/QWQ73416/status/2044122532333469962/photo/1",
+          "media_key": "3_2044122523923890176",
+          "start": 20,
+          "url": "https://t.co/cudyNpB7cr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044122532333469962",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "那时候我还正在考虑到底要不要吃糖。。。 https://t.co/cudyNpB7cr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2712,
+        "media_key": "3_2044122523206594562",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF4umskasAI07Wk.jpg",
+        "width": 1220
+      },
+      {
+        "height": 2209,
+        "media_key": "3_2044122523923890176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF4umvPbwAAxML9.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044122523206594562",
+            "3_2044122523923890176"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2044122532333469962",
+        "created_at": "2026-04-14T18:36:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T19:36:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044122532333469962"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cudyNpB7cr",
+              "end": 43,
+              "expanded_url": "https://x.com/QWQ73416/status/2044122532333469962/photo/1",
+              "media_key": "3_2044122523206594562",
+              "start": 20,
+              "url": "https://t.co/cudyNpB7cr"
+            },
+            {
+              "display_url": "pic.x.com/cudyNpB7cr",
+              "end": 43,
+              "expanded_url": "https://x.com/QWQ73416/status/2044122532333469962/photo/1",
+              "media_key": "3_2044122523923890176",
+              "start": 20,
+              "url": "https://t.co/cudyNpB7cr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044122532333469962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那时候我还正在考虑到底要不要吃糖。。。 https://t.co/cudyNpB7cr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10🌟|GAHT/HRT:2025.10.7|\n割手的痕迹被我妈看到了，被骂了一顿|\n好闺蜜 @N2OXYN |\n→I an not a vitual account.(T~T)←|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 47,
+                "username": "N2OXYN"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "name": "🧊泠小米❄️",
+        "pinned_tweet_id": "2037669545633325393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023719096047771648/WvkPh1aM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 684,
+          "following_count": 325,
+          "like_count": 6486,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 1694
+        },
+        "username": "QWQ73416",
+        "verified": false
+      }
+    ]
+  }
+}

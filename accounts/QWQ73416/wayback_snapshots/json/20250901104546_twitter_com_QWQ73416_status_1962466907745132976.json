@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962218532323889152"
+      ],
+      "media_source_tweet_id": [
+        "1962228898776645653"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1962466907745132976",
+    "created_at": "2025-09-01T10:45:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T11:45:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962466907745132976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2435106835",
+          "start": 3,
+          "username": "yuuji8668"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xTiuammqdX",
+          "end": 41,
+          "expanded_url": "https://x.com/yuuji8668/status/1962228898776645653/photo/1",
+          "media_key": "3_1962218532323889152",
+          "start": 18,
+          "url": "https://t.co/xTiuammqdX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962466907745132976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 51
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962228898776645653",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuuji8668: 秋空 https://t.co/xTiuammqdX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_1962218532323889152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzszW97akAAjF-H.jpg",
+        "width": 2400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962218532323889152"
+          ],
+          "media_source_tweet_id": [
+            "1962228898776645653"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1962466907745132976",
+        "created_at": "2025-09-01T10:45:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T11:45:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962466907745132976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2435106835",
+              "start": 3,
+              "username": "yuuji8668"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xTiuammqdX",
+              "end": 41,
+              "expanded_url": "https://x.com/yuuji8668/status/1962228898776645653/photo/1",
+              "media_key": "3_1962218532323889152",
+              "start": 18,
+              "url": "https://t.co/xTiuammqdX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962466907745132976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 51
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962228898776645653",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuuji8668: 秋空 https://t.co/xTiuammqdX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962218532323889152"
+          ]
+        },
+        "author_id": "2435106835",
+        "conversation_id": "1962228898776645653",
+        "created_at": "2025-08-31T19:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T20:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962228898776645653"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xTiuammqdX",
+              "end": 26,
+              "expanded_url": "https://x.com/yuuji8668/status/1962228898776645653/photo/1",
+              "media_key": "3_1962218532323889152",
+              "start": 3,
+              "url": "https://t.co/xTiuammqdX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962228898776645653",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 2682,
+          "like_count": 228,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "秋空 https://t.co/xTiuammqdX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|小推@QWQ1885|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "QWQ1885"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 191,
+          "like_count": 1660,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 429
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2014-04-09T07:53:25.000Z",
+        "description": "あまり呟きません！\n★  アップしている画像の無断転載や加工等はご遠慮ください。\nSKEBにてリクエスト募集中です！\nhttps://t.co/WqiFMtFWnQ\nお仕事のご連絡は下記にお願いします。\nemail:syouwanodenntou@hotmail.co.jp",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@yuuji8668",
+                "end": 82,
+                "expanded_url": "http://skeb.jp/@yuuji8668",
+                "start": 59,
+                "url": "https://t.co/WqiFMtFWnQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "http://www.pixiv.net/member.php?id=3575213",
+                "start": 0,
+                "url": "https://t.co/j3e25GRpz7"
+              }
+            ]
+          }
+        },
+        "id": "2435106835",
+        "location": "日本 神奈",
+        "name": "待蔵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/790801062697414656/48OAXwTe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5486,
+          "following_count": 141,
+          "like_count": 2250,
+          "listed_count": 109,
+          "media_count": 1245,
+          "tweet_count": 4425
+        },
+        "url": "https://t.co/j3e25GRpz7",
+        "username": "yuuji8668",
+        "verified": false
+      }
+    ]
+  }
+}

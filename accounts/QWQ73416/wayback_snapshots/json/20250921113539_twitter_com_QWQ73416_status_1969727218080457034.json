@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969717093546508288"
+      ],
+      "media_source_tweet_id": [
+        "1969717198328578406"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1969727218080457034",
+    "created_at": "2025-09-21T11:35:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T12:35:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969727218080457034"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1905853363604037632",
+          "start": 3,
+          "username": "nekozyake_game"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SvyrpoKALK",
+          "end": 48,
+          "expanded_url": "https://x.com/nekozyake_game/status/1969717198328578406/photo/1",
+          "media_key": "3_1969717093546508288",
+          "start": 25,
+          "url": "https://t.co/SvyrpoKALK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969727218080457034",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 30
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969717198328578406",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nekozyake_game: ゆめかわ https://t.co/SvyrpoKALK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_1969717093546508288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1XXQrTawAAD3Xc.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969717093546508288"
+          ],
+          "media_source_tweet_id": [
+            "1969717198328578406"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1969727218080457034",
+        "created_at": "2025-09-21T11:35:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T12:35:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969727218080457034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1905853363604037632",
+              "start": 3,
+              "username": "nekozyake_game"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SvyrpoKALK",
+              "end": 48,
+              "expanded_url": "https://x.com/nekozyake_game/status/1969717198328578406/photo/1",
+              "media_key": "3_1969717093546508288",
+              "start": 25,
+              "url": "https://t.co/SvyrpoKALK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969727218080457034",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 30
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969717198328578406",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nekozyake_game: ゆめかわ https://t.co/SvyrpoKALK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969717093546508288"
+          ]
+        },
+        "author_id": "1905853363604037632",
+        "conversation_id": "1969717198328578406",
+        "created_at": "2025-09-21T10:55:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T11:55:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969717198328578406"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SvyrpoKALK",
+              "end": 28,
+              "expanded_url": "https://x.com/nekozyake_game/status/1969717198328578406/photo/1",
+              "media_key": "3_1969717093546508288",
+              "start": 5,
+              "url": "https://t.co/SvyrpoKALK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969717198328578406",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 1287,
+          "like_count": 215,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "ゆめかわ https://t.co/SvyrpoKALK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 237,
+          "like_count": 3120,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 843
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-29T05:24:02.000Z",
+        "description": "和風絵描きです。ほぼ美少年と狐。自主制作ゲーム「KEEP Reading!」https://t.co/lrdiyxtjy0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skima.jp/profile?id=429…",
+                "end": 61,
+                "expanded_url": "https://skima.jp/profile?id=429136&sh=4k0qe79",
+                "start": 38,
+                "url": "https://t.co/lrdiyxtjy0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "odaibako.net/u/nekozyake_ga…",
+                "end": 23,
+                "expanded_url": "https://odaibako.net/u/nekozyake_game",
+                "start": 0,
+                "url": "https://t.co/7hl6Pje3fI"
+              }
+            ]
+          }
+        },
+        "id": "1905853363604037632",
+        "name": "猫半纏(ねこはんてん)",
+        "pinned_tweet_id": "1962425191826436430",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919423984791429120/cwnsVrKk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3747,
+          "following_count": 705,
+          "like_count": 2481,
+          "listed_count": 31,
+          "media_count": 133,
+          "tweet_count": 828
+        },
+        "url": "https://t.co/7hl6Pje3fI",
+        "username": "nekozyake_game",
+        "verified": false
+      }
+    ]
+  }
+}

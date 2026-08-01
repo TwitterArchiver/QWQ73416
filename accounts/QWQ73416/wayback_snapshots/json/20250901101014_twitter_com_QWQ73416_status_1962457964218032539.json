@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1962425077070529013",
+    "created_at": "2025-09-01T10:10:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T11:10:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962457964218032539"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1573096874852098050",
+          "start": 0,
+          "username": "xunlu49164527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962457964218032539",
+    "in_reply_to_user_id": "1573096874852098050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962425077070529013",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xunlu49164527 中间要加入一种叫好看的元素才能成功"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1962425077070529013",
+        "created_at": "2025-09-01T10:10:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T11:10:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962457964218032539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1573096874852098050",
+              "start": 0,
+              "username": "xunlu49164527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962457964218032539",
+        "in_reply_to_user_id": "1573096874852098050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962425077070529013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xunlu49164527 中间要加入一种叫好看的元素才能成功"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1573096874852098050",
+        "conversation_id": "1962425077070529013",
+        "created_at": "2025-09-01T07:59:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T08:59:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962425077070529013"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1962425077070529013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "男生是恋爱脑，女生是粘人精，就一定能成哈哈哈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|小推@QWQ1885|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "QWQ1885"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 189,
+          "like_count": 1646,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 420
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-22T23:48:42.000Z",
+        "description": "🏳️‍⚧️生活在小瓶子的可爱灵灵呀，谢谢喜欢哦，两年内手术的女孩纸，谢谢尊重",
+        "id": "1573096874852098050",
+        "name": "瓶子（梦灵）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888108040144240640/XaZj2ERI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 202,
+          "like_count": 927,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 760
+        },
+        "username": "xunlu49164527",
+        "verified": false
+      }
+    ]
+  }
+}

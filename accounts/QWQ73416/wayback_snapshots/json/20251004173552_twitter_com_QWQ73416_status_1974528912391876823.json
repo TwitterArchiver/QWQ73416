@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1974464576298315829",
+    "created_at": "2025-10-04T17:35:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T18:35:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974528912391876823"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1766644305660420096",
+          "start": 0,
+          "username": "suikahsnya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974528912391876823",
+    "in_reply_to_user_id": "1766644305660420096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974464576298315829",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suikahsnya Oh my god！元老"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1533,
+        "media_key": "3_1974464531998101504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2a1B9ta0AA6PaJ.jpg",
+        "width": 1639
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1974464576298315829",
+        "created_at": "2025-10-04T17:35:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T18:35:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974528912391876823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1766644305660420096",
+              "start": 0,
+              "username": "suikahsnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974528912391876823",
+        "in_reply_to_user_id": "1766644305660420096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974464576298315829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suikahsnya Oh my god！元老"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1974464531998101504"
+          ]
+        },
+        "author_id": "1766644305660420096",
+        "conversation_id": "1974464576298315829",
+        "created_at": "2025-10-04T13:20:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T14:20:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974464576298315829"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cqb3ShMaME",
+              "end": 43,
+              "expanded_url": "https://x.com/suikahsnya/status/1974464576298315829/photo/1",
+              "media_key": "3_1974464531998101504",
+              "start": 20,
+              "url": "https://t.co/cqb3ShMaME"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974464576298315829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 464,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "找到了傳說中的咱喵Telegram群組 https://t.co/cqb3ShMaME"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "pinned_tweet_id": "1971859627869708434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 261,
+          "like_count": 3773,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1043
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-10T01:56:57.000Z",
+        "description": "09年/高一/LGBTQ🏳️‍⚧️🏳️‍🌈/MtF🍥（hrt2025.9.30）/GD嚴重/極度容貌焦慮/住宿生/期待成年後srs/（半）家長黨（？ 算存疑）/🚪₩0/希望同類互fo貼貼/堅決不自殘不od不抽菸不喝酒不鬧事/皮下醜國男/坐標上海/原帳號@gotousugi被盜，推友巡迴中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 126,
+                "username": "gotousugi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naenara.com.kp",
+                "end": 23,
+                "expanded_url": "http://naenara.com.kp",
+                "start": 0,
+                "url": "https://t.co/iBBruXvmT7"
+              }
+            ]
+          }
+        },
+        "id": "1766644305660420096",
+        "location": "光州広域市，大韓民国🇰🇷（距离你2^31-1km)",
+        "name": "西瓜好酸喵🏳️‍⚧️🍥🍉🧊🍔🍜",
+        "pinned_tweet_id": "1961349996306907630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969054346727059456/GXALGfIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 732,
+          "following_count": 1040,
+          "like_count": 2985,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 1680
+        },
+        "url": "https://t.co/iBBruXvmT7",
+        "username": "suikahsnya",
+        "verified": false
+      }
+    ]
+  }
+}

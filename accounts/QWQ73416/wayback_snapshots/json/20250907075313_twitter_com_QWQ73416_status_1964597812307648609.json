@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1964454575621931008"
+      ],
+      "media_source_tweet_id": [
+        "1964463625453916358"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "1964597812307648609",
+    "created_at": "2025-09-07T07:53:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T08:53:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964597812307648609"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 55,
+          "normalized_text": "heartheartart",
+          "probability": 0.6273,
+          "start": 43,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 56,
+          "start": 42,
+          "tag": "heartheartart"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1566757632958164993",
+          "start": 3,
+          "username": "ch7_linh0612"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hMEiCgWfLs",
+          "end": 80,
+          "expanded_url": "https://x.com/ch7_linh0612/status/1964463625453916358/photo/1",
+          "media_key": "3_1964454575621931008",
+          "start": 57,
+          "url": "https://t.co/hMEiCgWfLs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964597812307648609",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 214
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964463625453916358",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ch7_linh0612: i love this new tv show\n#heartheartart https://t.co/hMEiCgWfLs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 750,
+        "media_key": "3_1964454575621931008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0MlB0VWAAA20P1.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964454575621931008"
+          ],
+          "media_source_tweet_id": [
+            "1964463625453916358"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1964597812307648609",
+        "created_at": "2025-09-07T07:53:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T08:53:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964597812307648609"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 55,
+              "normalized_text": "heartheartart",
+              "probability": 0.6273,
+              "start": 43,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 56,
+              "start": 42,
+              "tag": "heartheartart"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1566757632958164993",
+              "start": 3,
+              "username": "ch7_linh0612"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hMEiCgWfLs",
+              "end": 80,
+              "expanded_url": "https://x.com/ch7_linh0612/status/1964463625453916358/photo/1",
+              "media_key": "3_1964454575621931008",
+              "start": 57,
+              "url": "https://t.co/hMEiCgWfLs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964597812307648609",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 214
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964463625453916358",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ch7_linh0612: i love this new tv show\n#heartheartart https://t.co/hMEiCgWfLs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964454575621931008"
+          ]
+        },
+        "author_id": "1566757632958164993",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1964463625453916358",
+        "created_at": "2025-09-06T23:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T00:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964463625453916358"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 37,
+              "normalized_text": "heartheartart",
+              "probability": 0.6811,
+              "start": 25,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 24,
+              "tag": "heartheartart"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hMEiCgWfLs",
+              "end": 62,
+              "expanded_url": "https://x.com/ch7_linh0612/status/1964463625453916358/photo/1",
+              "media_key": "3_1964454575621931008",
+              "start": 39,
+              "url": "https://t.co/hMEiCgWfLs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964463625453916358",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 173,
+          "impression_count": 11864,
+          "like_count": 2243,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 214
+        },
+        "reply_settings": "everyone",
+        "text": "i love this new tv show\n#heartheartart https://t.co/hMEiCgWfLs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 216,
+          "like_count": 2262,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 614
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-05T11:58:52.000Z",
+        "description": "Call me Linh! | 🇻🇳/🇬🇧 | Touhou/Vtuber artist | eternally silly\ndum neurocat stuff → #nweroshama\n\nPosting art regularly, follow for more sillies :3",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 95,
+                "start": 84,
+                "tag": "nweroshama"
+              }
+            ]
+          }
+        },
+        "id": "1566757632958164993",
+        "name": "⚇",
+        "pinned_tweet_id": "1943819040985952437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949130432509001728/MZL0lUmt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3518,
+          "following_count": 173,
+          "like_count": 3876,
+          "listed_count": 14,
+          "media_count": 127,
+          "tweet_count": 1941
+        },
+        "username": "ch7_linh0612",
+        "verified": false
+      }
+    ]
+  }
+}

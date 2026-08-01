@@ -1,0 +1,453 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967754009504366592"
+      ],
+      "media_source_tweet_id": [
+        "1967754231349461360"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1296394094009151488",
+          "name": "Halloween"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for Halloween for all years",
+          "id": "1301463450099482625",
+          "name": "Halloween "
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "id": "1296394094009151488",
+          "name": "Halloween"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1296394094009151488",
+          "name": "Halloween"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "1967840440696320399",
+    "created_at": "2025-09-16T06:38:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T07:38:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967840440696320399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1595788383653048320",
+          "start": 3,
+          "username": "shea_aizawa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/x1wiS4xgK3",
+          "end": 42,
+          "expanded_url": "https://x.com/shea_aizawa/status/1967754231349461360/photo/1",
+          "media_key": "3_1967754009504366592",
+          "start": 19,
+          "url": "https://t.co/x1wiS4xgK3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967840440696320399",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 97
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967754231349461360",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @shea_aizawa: 👻 https://t.co/x1wiS4xgK3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4050,
+        "media_key": "3_1967754009504366592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G07d2JXbwAA113v.jpg",
+        "width": 2700
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967754009504366592"
+          ],
+          "media_source_tweet_id": [
+            "1967754231349461360"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Halloween for all years",
+              "id": "1301463450099482625",
+              "name": "Halloween "
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "1967840440696320399",
+        "created_at": "2025-09-16T06:38:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T07:38:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967840440696320399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1595788383653048320",
+              "start": 3,
+              "username": "shea_aizawa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/x1wiS4xgK3",
+              "end": 42,
+              "expanded_url": "https://x.com/shea_aizawa/status/1967754231349461360/photo/1",
+              "media_key": "3_1967754009504366592",
+              "start": 19,
+              "url": "https://t.co/x1wiS4xgK3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967840440696320399",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 97
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967754231349461360",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @shea_aizawa: 👻 https://t.co/x1wiS4xgK3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967754009504366592"
+          ]
+        },
+        "author_id": "1595788383653048320",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Halloween for all years",
+              "id": "1301463450099482625",
+              "name": "Halloween "
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296394094009151488",
+              "name": "Halloween"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "1967754231349461360",
+        "created_at": "2025-09-16T00:55:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T01:55:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967754231349461360"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/x1wiS4xgK3",
+              "end": 25,
+              "expanded_url": "https://x.com/shea_aizawa/status/1967754231349461360/photo/1",
+              "media_key": "3_1967754009504366592",
+              "start": 2,
+              "url": "https://t.co/x1wiS4xgK3"
+            },
+            {
+              "display_url": "x.com/mehu884/status…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/mehu884/status/1966730392335233467",
+              "start": 26,
+              "url": "https://t.co/eLs7glWJnM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967754231349461360",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 76,
+          "impression_count": 13795,
+          "like_count": 679,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 97
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966730392335233467",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "👻 https://t.co/x1wiS4xgK3 https://t.co/eLs7glWJnM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 226,
+          "like_count": 2814,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 752
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-24T14:36:38.000Z",
+        "description": "インターネット幽霊",
+        "id": "1595788383653048320",
+        "name": "しぃあ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924149968073277441/yW-7ST6H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2037,
+          "following_count": 66,
+          "like_count": 24133,
+          "listed_count": 18,
+          "media_count": 107,
+          "tweet_count": 5343
+        },
+        "username": "shea_aizawa",
+        "verified": false
+      }
+    ]
+  }
+}

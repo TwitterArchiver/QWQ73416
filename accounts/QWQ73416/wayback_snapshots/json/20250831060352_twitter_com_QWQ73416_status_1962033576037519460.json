@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1962033576037519460",
+    "created_at": "2025-08-31T06:03:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T07:03:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962033576037519460"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1766644305660420096",
+          "start": 3,
+          "username": "Gotousugi_mtf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962033576037519460",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961579594076782895",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Gotousugi_mtf: 究竟几年后的七夕咱才能成为术娘被透……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1962033576037519460",
+        "created_at": "2025-08-31T06:03:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T07:03:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962033576037519460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1766644305660420096",
+              "start": 3,
+              "username": "Gotousugi_mtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962033576037519460",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961579594076782895",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Gotousugi_mtf: 究竟几年后的七夕咱才能成为术娘被透……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766644305660420096",
+        "conversation_id": "1961579594076782895",
+        "created_at": "2025-08-29T23:59:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T00:59:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961579594076782895"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/chinese_114514…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/chinese_114514/status/1961490632192790901",
+              "start": 20,
+              "url": "https://t.co/fAaqRh5d1j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961579594076782895",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 148,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961490632192790901",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "究竟几年后的七夕咱才能成为术娘被透…… https://t.co/fAaqRh5d1j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|小推@QWQ1885|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "QWQ1885"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 171,
+          "like_count": 1521,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 342
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-10T01:56:57.000Z",
+        "description": "09年/高一/友跨🏳️‍⚧️/MtF傾向🍥（hrt開始2025.7.15，斷糖中，在找靠譜糖商）/GD嚴重/苦逼住宿生/期待成年後srs/（半）家長黨（？ 算存疑）/🚪₩0/堅決不自殘不od不抽菸不喝酒不鬧事/皮下醜國男/坐標上海/原帳號@gotousugi被盜，推友巡迴中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 119,
+                "username": "gotousugi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mtf.wiki",
+                "end": 23,
+                "expanded_url": "http://mtf.wiki",
+                "start": 0,
+                "url": "https://t.co/BtTLcpgDR5"
+              }
+            ]
+          }
+        },
+        "id": "1766644305660420096",
+        "location": "光州広域市，大韓民国🇰🇷（距离你2^31-1km)",
+        "name": "後藤すぎ🏳️‍⚧️🍥🧊🍔🍜（大號被盜）",
+        "pinned_tweet_id": "1961349996306907630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961347482136485888/8Q65e8rH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452,
+          "following_count": 671,
+          "like_count": 1074,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 605
+        },
+        "url": "https://t.co/BtTLcpgDR5",
+        "username": "Gotousugi_mtf",
+        "verified": false
+      }
+    ]
+  }
+}

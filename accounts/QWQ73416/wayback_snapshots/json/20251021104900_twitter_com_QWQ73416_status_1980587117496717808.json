@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1980587117496717808",
+    "created_at": "2025-10-21T10:49:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T11:49:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980587117496717808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1621552410048237569",
+          "start": 3,
+          "username": "amecandy_x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980587117496717808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980153234829549723",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amecandy_x: 父权制的大手不会放过任何人。\n它不仅压迫女性，也在规训男性。\n\n它逼男人必须“强”，不能哭，不能脆弱，不能有情绪。\n它要求男人要挣钱、养家、当“顶梁柱”，一旦失败就被骂“废物”“不配当男人”。\n它逼男人去内卷、去打仗、去成为机器的一部分，却不允许…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1980587117496717808",
+        "created_at": "2025-10-21T10:49:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T11:49:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980587117496717808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1621552410048237569",
+              "start": 3,
+              "username": "amecandy_x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980587117496717808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980153234829549723",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amecandy_x: 父权制的大手不会放过任何人。\n它不仅压迫女性，也在规训男性。\n\n它逼男人必须“强”，不能哭，不能脆弱，不能有情绪。\n它要求男人要挣钱、养家、当“顶梁柱”，一旦失败就被骂“废物”“不配当男人”。\n它逼男人去内卷、去打仗、去成为机器的一部分，却不允许…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1621552410048237569",
+        "conversation_id": "1980153234829549723",
+        "created_at": "2025-10-20T06:04:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T07:00:48.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980152198215651671",
+          "1980153145650204946",
+          "1980153234829549723"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/c4_618/status/…",
+              "end": 167,
+              "expanded_url": "https://twitter.com/c4_618/status/1980120577932464256",
+              "start": 144,
+              "url": "https://t.co/7jAgTVm1Mk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980153234829549723",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "父权制的大手不会放过任何人。\n它不仅压迫女性，也在规训男性。\n\n它逼男人必须“强”，不能哭，不能脆弱，不能有情绪。\n它要求男人要挣钱、养家、当“顶梁柱”，一旦失败就被骂“废物”“不配当男人”。\n它逼男人去内卷、去打仗、去成为机器的一部分，却不允许他们有真正的情感和自由。\n\n这就是父权制\n它是所有人的牢笼\n\n不管你是男是女，它终有一天会让你明白——打拳的重要性"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 18890,
+          "like_count": 300,
+          "quote_count": 6,
+          "reply_count": 34,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980120577932464256",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "父权制的大手不会放过任何人。\n它不仅压迫女性，也在规训男性。\n\n它逼男人必须“强”，不能哭，不能脆弱，不能有情绪。\n它要求男人要挣钱、养家、当“顶梁柱”，一旦失败就被骂“废物”“不配当男人”。\n它逼男人去内卷、去打仗、去成为机器的一部分，却不允许他们有真正的情感和自由。\n\n这就是父权制 https://t.co/7jAgTVm1Mk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|GAHT/HRT:2025.10.7|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "MTF.wiki",
+                "end": 23,
+                "expanded_url": "http://MTF.wiki",
+                "start": 0,
+                "url": "https://t.co/7tmPTkeoFF"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "∠( ᐛ 」∠)_",
+        "name": "🍥(￣ヘ￣🍥)",
+        "pinned_tweet_id": "1971859627869708434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979202568543784960/OeW4bpMU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 269,
+          "like_count": 4110,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1108
+        },
+        "url": "https://t.co/7tmPTkeoFF",
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T16:53:25.000Z",
+        "description": "小雨·Rain-chan//07//无业游民//旅游//HRT2022//家长党跨女🏳️‍⚧️//双相情感障碍//写文+搞oc//博客 https://t.co/Ul32kqFwEJ //去过日韩俄//Vocaloid//P社游戏//无门槛欢迎聊天扩列//这是雯雯@wawoqu2772🥰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 132,
+                "username": "wawoqu2772"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 91,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 68,
+                "url": "https://t.co/Ul32kqFwEJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.xyz",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.xyz",
+                "start": 0,
+                "url": "https://t.co/Ul32kqFwEJ"
+              }
+            ]
+          }
+        },
+        "id": "1621552410048237569",
+        "location": "坐标武汉的济南人",
+        "name": "超绝最可爱 Rain 🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976595751519326208/nobANKHE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3966,
+          "following_count": 1401,
+          "like_count": 20782,
+          "listed_count": 12,
+          "media_count": 707,
+          "tweet_count": 6719
+        },
+        "url": "https://t.co/Ul32kqFwEJ",
+        "username": "amecandy_x",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,394 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969652012511084545"
+      ],
+      "media_source_tweet_id": [
+        "1969652053573320804"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1969727148832469026",
+    "created_at": "2025-09-21T11:35:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T12:35:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969727148832469026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "65815456",
+          "start": 3,
+          "username": "Guilo_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fYGAmOTWmu",
+          "end": 46,
+          "expanded_url": "https://x.com/Guilo_/status/1969652053573320804/photo/1",
+          "media_key": "3_1969652012511084545",
+          "start": 23,
+          "url": "https://t.co/fYGAmOTWmu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969727148832469026",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 75
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969652053573320804",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Guilo_: 褐色エジプト猫耳ロリ https://t.co/fYGAmOTWmu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1598,
+        "media_key": "3_1969652012511084545",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1WcEdjbQAEEdlE.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969652012511084545"
+          ],
+          "media_source_tweet_id": [
+            "1969652053573320804"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1969727148832469026",
+        "created_at": "2025-09-21T11:35:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T12:35:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969727148832469026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "65815456",
+              "start": 3,
+              "username": "Guilo_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fYGAmOTWmu",
+              "end": 46,
+              "expanded_url": "https://x.com/Guilo_/status/1969652053573320804/photo/1",
+              "media_key": "3_1969652012511084545",
+              "start": 23,
+              "url": "https://t.co/fYGAmOTWmu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969727148832469026",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 75
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969652053573320804",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Guilo_: 褐色エジプト猫耳ロリ https://t.co/fYGAmOTWmu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969652012511084545"
+          ]
+        },
+        "author_id": "65815456",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1969652053573320804",
+        "created_at": "2025-09-21T06:36:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T07:36:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969652053573320804"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fYGAmOTWmu",
+              "end": 34,
+              "expanded_url": "https://x.com/Guilo_/status/1969652053573320804/photo/1",
+              "media_key": "3_1969652012511084545",
+              "start": 11,
+              "url": "https://t.co/fYGAmOTWmu"
+            },
+            {
+              "display_url": "x.com/cactasis/statu…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/cactasis/status/1962197990241955979",
+              "start": 35,
+              "url": "https://t.co/3iPtUb8y5w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969652053573320804",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 11468,
+          "like_count": 603,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 75
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962197990241955979",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "褐色エジプト猫耳ロリ https://t.co/fYGAmOTWmu https://t.co/3iPtUb8y5w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 237,
+          "like_count": 3117,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 839
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2009-08-15T03:36:03.000Z",
+        "description": "たまに漫画描いてます。 ◆電撃オンライン「ゲームライターもラクじゃない！」「貧困エルフのくらしかた。」、まんがタイムきらら、まんがくらぶで読み切り。他色々。 📪️お仕事は guilo567@gmail.こむ",
+        "id": "65815456",
+        "location": "シャドバン中はサブ垢に籠もってます @Guiloniki",
+        "name": "ギロ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938505914245648387/LlEk7y6J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6111,
+          "following_count": 427,
+          "like_count": 4015,
+          "listed_count": 42,
+          "media_count": 796,
+          "tweet_count": 3069
+        },
+        "username": "Guilo_",
+        "verified": true
+      }
+    ]
+  }
+}

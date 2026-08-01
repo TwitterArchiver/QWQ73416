@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "2011161192056963463",
+    "created_at": "2026-01-13T19:39:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-13T20:39:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011161192056963463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1983213298708574208",
+          "start": 3,
+          "username": "cosmorisa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011161192056963463",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011135654189809673",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cosmorisa: 啊啊啊你们怎么都没蛋惹😭\n俺也想拆蛋😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "2011161192056963463",
+        "created_at": "2026-01-13T19:39:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T20:39:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011161192056963463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1983213298708574208",
+              "start": 3,
+              "username": "cosmorisa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011161192056963463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011135654189809673",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cosmorisa: 啊啊啊你们怎么都没蛋惹😭\n俺也想拆蛋😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983213298708574208",
+        "conversation_id": "2011135654189809673",
+        "created_at": "2026-01-13T17:57:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-13T18:57:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011135654189809673"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2011135654189809673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "啊啊啊你们怎么都没蛋惹😭\n俺也想拆蛋😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|GAHT/HRT:2025.10.7|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "MTF.wiki",
+                "end": 23,
+                "expanded_url": "http://MTF.wiki",
+                "start": 0,
+                "url": "https://t.co/7tmPTkdQQ7"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "∠( ᐛ 」∠)_",
+        "name": "🍥泠小米🍥",
+        "pinned_tweet_id": "1992944524965130750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979202568543784960/OeW4bpMU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 270,
+          "like_count": 4291,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 1148
+        },
+        "url": "https://t.co/7tmPTkdQQ7",
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-28T16:44:41.000Z",
+        "description": "Morisa 森紗｜MtX🍥｜170cm石墩子😇｜眼熟必fo｜窝滴小猫咪@LumidexNZ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "LumidexNZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/cosmorisa",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/cosmorisa",
+                "start": 0,
+                "url": "https://t.co/bMdrCBFSLn"
+              }
+            ]
+          }
+        },
+        "id": "1983213298708574208",
+        "location": "森紗星",
+        "name": "Morisa🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004479100769959938/RmVQPmtH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 330,
+          "like_count": 16887,
+          "listed_count": 0,
+          "media_count": 176,
+          "tweet_count": 2535
+        },
+        "url": "https://t.co/bMdrCBFSLn",
+        "username": "cosmorisa",
+        "verified": false
+      }
+    ]
+  }
+}

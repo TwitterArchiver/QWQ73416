@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1962456744078282794",
+    "created_at": "2025-09-01T10:05:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T11:05:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1962456744078282794"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LCG_Akiball/st…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/LCG_Akiball/status/1938878177755230374",
+          "start": 13,
+          "url": "https://t.co/enuVgHPSmg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962456744078282794",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938878177755230374",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "喵的，为什么。。。。。。 https://t.co/enuVgHPSmg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 972,
+        "media_key": "3_1938878059563683840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuhHUpMXkAAMdgF.png",
+        "width": 692
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1962456744078282794",
+        "created_at": "2025-09-01T10:05:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T11:05:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962456744078282794"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LCG_Akiball/st…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/LCG_Akiball/status/1938878177755230374",
+              "start": 13,
+              "url": "https://t.co/enuVgHPSmg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962456744078282794",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938878177755230374",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "喵的，为什么。。。。。。 https://t.co/enuVgHPSmg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1938878059563683840"
+          ]
+        },
+        "author_id": "1851866685420265472",
+        "conversation_id": "1938878177755230374",
+        "created_at": "2025-06-28T08:32:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T09:32:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938878177755230374"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LaeAm8RZM4",
+              "end": 31,
+              "expanded_url": "https://x.com/LCG_Akiball/status/1938878177755230374/photo/1",
+              "media_key": "3_1938878059563683840",
+              "start": 8,
+              "url": "https://t.co/LaeAm8RZM4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938878177755230374",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 114,
+          "impression_count": 164370,
+          "like_count": 771,
+          "quote_count": 36,
+          "reply_count": 219,
+          "retweet_count": 72
+        },
+        "reply_settings": "everyone",
+        "text": "你好。\n再见。 https://t.co/LaeAm8RZM4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|小推@QWQ1885|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "QWQ1885"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 189,
+          "like_count": 1640,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 419
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-31T06:00:11.000Z",
+        "description": "一只叫Aki的赛博暹罗猫:3🏳️‍⚧️另外的意识体叫Mika, Miyuki，Lumi，球球，mio | MDD+GAD+DID+ASD(纵向评估中) | 小证HRT 25.02.03 |❤️@ling1639040 @D_Level_potato @Yaknga1 | 好姐姐 @nanami_mua",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 108,
+                "start": 96,
+                "username": "ling1639040"
+              },
+              {
+                "end": 124,
+                "start": 109,
+                "username": "D_Level_potato"
+              },
+              {
+                "end": 133,
+                "start": 125,
+                "username": "Yaknga1"
+              },
+              {
+                "end": 151,
+                "start": 140,
+                "username": "nanami_mua"
+              }
+            ]
+          }
+        },
+        "id": "1851866685420265472",
+        "location": "Melbourne, Victoria",
+        "name": "Akiball 🍥",
+        "pinned_tweet_id": "1932365689534480561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885923338822008832/W8Egy59F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 798,
+          "following_count": 94,
+          "like_count": 1529,
+          "listed_count": 8,
+          "media_count": 369,
+          "tweet_count": 1984
+        },
+        "username": "LCG_Akiball",
+        "verified": false
+      }
+    ]
+  }
+}

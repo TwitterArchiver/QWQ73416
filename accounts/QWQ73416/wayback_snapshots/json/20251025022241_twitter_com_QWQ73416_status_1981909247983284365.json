@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1981656823800455317",
+    "created_at": "2025-10-25T02:22:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T03:22:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981909247983284365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1886239119166304256",
+          "start": 0,
+          "username": "buzaicuoguole"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981909247983284365",
+    "in_reply_to_user_id": "1886239119166304256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981656823800455317",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@buzaicuoguole 挺好的（？）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1981656823800455317",
+        "created_at": "2025-10-25T02:22:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T03:22:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981909247983284365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1886239119166304256",
+              "start": 0,
+              "username": "buzaicuoguole"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981909247983284365",
+        "in_reply_to_user_id": "1886239119166304256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981656823800455317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@buzaicuoguole 挺好的（？）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886239119166304256",
+        "conversation_id": "1981656823800455317",
+        "created_at": "2025-10-24T09:39:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T10:39:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981656823800455317"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1981656823800455317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1083,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🌿了  这怎么还有办吃素幼儿园的  傻逼吧  等小孩儿长大了  一个个160都不到  身体又柔弱   全变成男娘去埃及拔草就老实了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|GAHT/HRT:2025.10.7|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "MTF.wiki",
+                "end": 23,
+                "expanded_url": "http://MTF.wiki",
+                "start": 0,
+                "url": "https://t.co/7tmPTkeoFF"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "∠( ᐛ 」∠)_",
+        "name": "🍥(￣ヘ￣🍥)",
+        "pinned_tweet_id": "1971859627869708434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979202568543784960/OeW4bpMU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 273,
+          "like_count": 4145,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1121
+        },
+        "url": "https://t.co/7tmPTkeoFF",
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T02:23:52.000Z",
+        "description": "你总是患得患失  太在意从前  又太担心将来",
+        "id": "1886239119166304256",
+        "name": "永雏塔菲单推人",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974087713474371584/XupNlTpv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 640,
+          "following_count": 527,
+          "like_count": 266,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 232
+        },
+        "username": "buzaicuoguole",
+        "verified": false
+      }
+    ]
+  }
+}

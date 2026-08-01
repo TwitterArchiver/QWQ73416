@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969941891811852288"
+      ],
+      "media_source_tweet_id": [
+        "1969941958023172296"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1970106740160225448",
+    "created_at": "2025-09-22T12:43:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T13:43:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970106740160225448"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1828682045415202816",
+          "start": 3,
+          "username": "suicomic1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OxWl3yruGV",
+          "end": 38,
+          "expanded_url": "https://x.com/suicomic1/status/1969941958023172296/photo/1",
+          "media_key": "3_1969941891811852288",
+          "start": 15,
+          "url": "https://t.co/OxWl3yruGV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970106740160225448",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 363
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969941958023172296",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @suicomic1: https://t.co/OxWl3yruGV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1856,
+        "media_key": "3_1969941891811852288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1ajtqGbQAATUhk.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969941891811852288"
+          ],
+          "media_source_tweet_id": [
+            "1969941958023172296"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1970106740160225448",
+        "created_at": "2025-09-22T12:43:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T13:43:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970106740160225448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1828682045415202816",
+              "start": 3,
+              "username": "suicomic1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OxWl3yruGV",
+              "end": 38,
+              "expanded_url": "https://x.com/suicomic1/status/1969941958023172296/photo/1",
+              "media_key": "3_1969941891811852288",
+              "start": 15,
+              "url": "https://t.co/OxWl3yruGV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970106740160225448",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 363
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969941958023172296",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @suicomic1: https://t.co/OxWl3yruGV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969941891811852288"
+          ]
+        },
+        "author_id": "1828682045415202816",
+        "conversation_id": "1969941958023172296",
+        "created_at": "2025-09-22T01:48:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T02:48:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969941958023172296"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OxWl3yruGV",
+              "end": 23,
+              "expanded_url": "https://x.com/suicomic1/status/1969941958023172296/photo/1",
+              "media_key": "3_1969941891811852288",
+              "start": 0,
+              "url": "https://t.co/OxWl3yruGV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969941958023172296",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1210,
+          "impression_count": 67119,
+          "like_count": 5851,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 363
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/OxWl3yruGV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 238,
+          "like_count": 3275,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 895
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-28T06:32:39.000Z",
+        "description": "🌈🕒️、▶様を掲載(本人B済)/SD メイン: @suicomic サブ(🔞): @suicomic_R Patreon: https://t.co/La0JL8AqQd Pixiv: https://t.co/64Xqzerlfu vspは公開/作成/販売しません",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 24,
+                "username": "suicomic"
+              },
+              {
+                "end": 52,
+                "start": 41,
+                "username": "suicomic_R"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "patreon.com/user?u=1118916…",
+                "end": 85,
+                "expanded_url": "https://patreon.com/user?u=111891671",
+                "start": 62,
+                "url": "https://t.co/La0JL8AqQd"
+              },
+              {
+                "display_url": "pixiv.net/users/101104477",
+                "end": 116,
+                "expanded_url": "https://pixiv.net/users/101104477",
+                "start": 93,
+                "url": "https://t.co/64Xqzerlfu"
+              }
+            ]
+          }
+        },
+        "id": "1828682045415202816",
+        "name": "スイコミック1",
+        "pinned_tweet_id": "1898956386035499364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829093099957895168/wuBsP6Kz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35010,
+          "following_count": 19,
+          "like_count": 703,
+          "listed_count": 179,
+          "media_count": 332,
+          "tweet_count": 659
+        },
+        "username": "suicomic1",
+        "verified": true
+      }
+    ]
+  }
+}

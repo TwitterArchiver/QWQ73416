@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1963169232646181269",
+    "created_at": "2025-09-03T13:16:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T14:16:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963229668859142276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1893280336534216706",
+          "start": 0,
+          "username": "mtnyan8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963229668859142276",
+    "in_reply_to_user_id": "1893280336534216706",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963169232646181269",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mtnyan8964 明明已经走了这么长时间了，为什么要这么想QWQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1963169232646181269",
+        "created_at": "2025-09-03T13:16:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T14:16:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963229668859142276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1893280336534216706",
+              "start": 0,
+              "username": "mtnyan8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963229668859142276",
+        "in_reply_to_user_id": "1893280336534216706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963169232646181269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mtnyan8964 明明已经走了这么长时间了，为什么要这么想QWQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893280336534216706",
+        "conversation_id": "1963169232646181269",
+        "created_at": "2025-09-03T09:16:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T10:16:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963169232646181269"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mtnyan8964/sta…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/mtnyan8964/status/1963165850292154631",
+              "start": 8,
+              "url": "https://t.co/CGakG1gjkE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963169232646181269",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 727,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963165850292154631",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好想死.... https://t.co/CGakG1gjkE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|小推@QWQ1885|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "QWQ1885"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 206,
+          "like_count": 1915,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 526
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-22T12:43:12.000Z",
+        "description": "放过窝吧😭",
+        "id": "1893280336534216706",
+        "location": "在给晶格口",
+        "name": "乌冬面🍥🐱",
+        "pinned_tweet_id": "1961536737232224760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961227208519028737/3F0v-y9L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 588,
+          "like_count": 1987,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 400
+        },
+        "username": "mtnyan8964",
+        "verified": false
+      }
+    ]
+  }
+}

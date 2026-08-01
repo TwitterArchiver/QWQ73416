@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1963652875835277312"
+      ],
+      "media_source_tweet_id": [
+        "1963652881766076647"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1963810552301715679",
+    "created_at": "2025-09-05T03:44:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-05T04:44:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963810552301715679"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 35,
+          "normalized_text": "yuri",
+          "probability": 0.501,
+          "start": 32,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1383524685661360128",
+          "start": 3,
+          "username": "tingusbungus"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/87ZhItNmzO",
+          "end": 61,
+          "expanded_url": "https://x.com/tingusbungus/status/1963652881766076647/photo/1",
+          "media_key": "3_1963652875835277312",
+          "start": 38,
+          "url": "https://t.co/87ZhItNmzO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963810552301715679",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 303
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963652881766076647",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tingusbungus: Thank god for yuri! https://t.co/87ZhItNmzO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1460,
+        "media_key": "3_1963652875835277312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0BL4v5WAAAZ9z5.jpg",
+        "width": 1285
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963652875835277312"
+          ],
+          "media_source_tweet_id": [
+            "1963652881766076647"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1963810552301715679",
+        "created_at": "2025-09-05T03:44:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T04:44:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963810552301715679"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 35,
+              "normalized_text": "yuri",
+              "probability": 0.501,
+              "start": 32,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1383524685661360128",
+              "start": 3,
+              "username": "tingusbungus"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/87ZhItNmzO",
+              "end": 61,
+              "expanded_url": "https://x.com/tingusbungus/status/1963652881766076647/photo/1",
+              "media_key": "3_1963652875835277312",
+              "start": 38,
+              "url": "https://t.co/87ZhItNmzO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963810552301715679",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 303
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963652881766076647",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tingusbungus: Thank god for yuri! https://t.co/87ZhItNmzO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963652875835277312"
+          ]
+        },
+        "author_id": "1383524685661360128",
+        "conversation_id": "1963652881766076647",
+        "created_at": "2025-09-04T17:18:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T18:18:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963652881766076647"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "yuri",
+              "probability": 0.5354,
+              "start": 14,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/87ZhItNmzO",
+              "end": 43,
+              "expanded_url": "https://x.com/tingusbungus/status/1963652881766076647/photo/1",
+              "media_key": "3_1963652875835277312",
+              "start": 20,
+              "url": "https://t.co/87ZhItNmzO"
+            },
+            {
+              "display_url": "x.com/rjneodymium/st…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/rjneodymium/status/1963305123884798167",
+              "start": 44,
+              "url": "https://t.co/Jli4pGA46O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963652881766076647",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 437,
+          "impression_count": 26472,
+          "like_count": 2825,
+          "quote_count": 17,
+          "reply_count": 20,
+          "retweet_count": 303
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963305123884798167",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Thank god for yuri! https://t.co/87ZhItNmzO https://t.co/Jli4pGA46O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|小推@QWQ1885|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "QWQ1885"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 214,
+          "like_count": 2147,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 588
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-17T20:56:24.000Z",
+        "description": "i like drawing things ^_^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fwing.pet",
+                "end": 23,
+                "expanded_url": "https://fwing.pet/",
+                "start": 0,
+                "url": "https://t.co/DOyzrNX7sT"
+              }
+            ]
+          }
+        },
+        "id": "1383524685661360128",
+        "location": "Bog",
+        "name": "ting",
+        "pinned_tweet_id": "1870893171615658481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777808281144107009/uAQUBPAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9576,
+          "following_count": 141,
+          "like_count": 22269,
+          "listed_count": 20,
+          "media_count": 872,
+          "tweet_count": 1747
+        },
+        "url": "https://t.co/DOyzrNX7sT",
+        "username": "tingusbungus",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "2022508133952926031",
+    "created_at": "2026-02-14T03:08:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T04:08:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022508133952926031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1886289385177669632",
+          "start": 3,
+          "username": "Lizzy_522"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022508133952926031",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 255
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022006191128555644",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lizzy_522: 好无聊\n好没劲\n好疲惫\n好空虚\n好烦躁\n好焦虑\n好压抑\n好抑郁\n好迷茫\n好绝望\n好无助\n好痛苦\n好无力\n好饥饿\n好难过\n好害怕\n好狼狈\n好悲惨\n好孤独\n好疏远"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "2022508133952926031",
+        "created_at": "2026-02-14T03:08:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T04:08:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022508133952926031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1886289385177669632",
+              "start": 3,
+              "username": "Lizzy_522"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022508133952926031",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 255
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022006191128555644",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Lizzy_522: 好无聊\n好没劲\n好疲惫\n好空虚\n好烦躁\n好焦虑\n好压抑\n好抑郁\n好迷茫\n好绝望\n好无助\n好痛苦\n好无力\n好饥饿\n好难过\n好害怕\n好狼狈\n好悲惨\n好孤独\n好疏远"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1886289385177669632",
+        "conversation_id": "2022006191128555644",
+        "created_at": "2026-02-12T17:53:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T18:53:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022006191128555644"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022006191128555644",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 22990,
+          "like_count": 1057,
+          "quote_count": 7,
+          "reply_count": 27,
+          "retweet_count": 255
+        },
+        "reply_settings": "everyone",
+        "text": "好无聊\n好没劲\n好疲惫\n好空虚\n好烦躁\n好焦虑\n好压抑\n好抑郁\n好迷茫\n好绝望\n好无助\n好痛苦\n好无力\n好饥饿\n好难过\n好害怕\n好狼狈\n好悲惨\n好孤独\n好疏远"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|GAHT/HRT:2025.10.7|欢迎交朋友|一！个！都！不！准！死！|补佳乐已被母亲发现|好闺蜜@z8897031948836 |\n→I an not a vitual account.(T~T)←|\n🚪10 要加的私聊，绿，纯好友位|（虽然我知道压根没人加🙃）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 54,
+                "username": "z8897031948836"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "MTF.wiki",
+                "end": 23,
+                "expanded_url": "http://MTF.wiki",
+                "start": 0,
+                "url": "https://t.co/7tmPTkeoFF"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "∠( 🥵」∠)_",
+        "name": "🧊泠小米🍥",
+        "pinned_tweet_id": "2022184415632433414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021513301444968448/YKJD_L07_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 307,
+          "like_count": 5929,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 1412
+        },
+        "url": "https://t.co/7tmPTkeoFF",
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-03T05:43:38.000Z",
+        "description": "08 自残逼、磕药蛆、烟鬼、酗酒。成分复杂，钢琴，滚圈涉猎广泛，并爱听点jpop，单车，电子数码垃圾佬。日常吐苦水，友所有群体，只要不是三无号都会回fo。最好的bro @yu_huacs 友情链接@KKKaoru_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 84,
+                "username": "yu_huacs"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "KKKaoru_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizzy_522",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizzy_522",
+                "start": 0,
+                "url": "https://t.co/RDVwBMCX6v"
+              }
+            ]
+          }
+        },
+        "id": "1886289385177669632",
+        "name": "リジー",
+        "pinned_tweet_id": "2018509424474865995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997491540915294208/kFKVZs05_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 201,
+          "like_count": 8813,
+          "listed_count": 1,
+          "media_count": 167,
+          "tweet_count": 1192
+        },
+        "url": "https://t.co/RDVwBMCX6v",
+        "username": "Lizzy_522",
+        "verified": false
+      }
+    ]
+  }
+}

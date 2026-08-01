@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970795152374710272"
+      ],
+      "media_source_tweet_id": [
+        "1970795158938759515"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1970897278228627651",
+    "created_at": "2025-09-24T17:05:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T18:05:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970897278228627651"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1513149924841750531",
+          "start": 3,
+          "username": "yakinasuoisi1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HWP4kgXhch",
+          "end": 42,
+          "expanded_url": "https://x.com/yakinasuoisi1/status/1970795158938759515/photo/1",
+          "media_key": "3_1970795152374710272",
+          "start": 19,
+          "url": "https://t.co/HWP4kgXhch"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970897278228627651",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970795158938759515",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yakinasuoisi1: https://t.co/HWP4kgXhch"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3840,
+        "media_key": "3_1970795152374710272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1mrv9ZbQAAz7BC.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970795152374710272"
+          ],
+          "media_source_tweet_id": [
+            "1970795158938759515"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1970897278228627651",
+        "created_at": "2025-09-24T17:05:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T18:05:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970897278228627651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1513149924841750531",
+              "start": 3,
+              "username": "yakinasuoisi1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HWP4kgXhch",
+              "end": 42,
+              "expanded_url": "https://x.com/yakinasuoisi1/status/1970795158938759515/photo/1",
+              "media_key": "3_1970795152374710272",
+              "start": 19,
+              "url": "https://t.co/HWP4kgXhch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970897278228627651",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970795158938759515",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yakinasuoisi1: https://t.co/HWP4kgXhch"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970795152374710272"
+          ]
+        },
+        "author_id": "1513149924841750531",
+        "conversation_id": "1970795158938759515",
+        "created_at": "2025-09-24T10:19:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T11:19:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970795158938759515"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HWP4kgXhch",
+              "end": 23,
+              "expanded_url": "https://x.com/yakinasuoisi1/status/1970795158938759515/photo/1",
+              "media_key": "3_1970795152374710272",
+              "start": 0,
+              "url": "https://t.co/HWP4kgXhch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970795158938759515",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 2208,
+          "like_count": 143,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/HWP4kgXhch"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 246,
+          "like_count": 3326,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 925
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-10T13:41:33.000Z",
+        "description": "vrchatにハマってる",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "booth.pm/wish_list_name…",
+                "end": 23,
+                "expanded_url": "https://booth.pm/wish_list_names/KVnTAyNw",
+                "start": 0,
+                "url": "https://t.co/dhz8wZ5HzG"
+              }
+            ]
+          }
+        },
+        "id": "1513149924841750531",
+        "location": "胃の中",
+        "name": "めけもち",
+        "pinned_tweet_id": "1645478382325604352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1629760383207755776/ph3xFcmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1043,
+          "following_count": 185,
+          "like_count": 9465,
+          "listed_count": 9,
+          "media_count": 515,
+          "tweet_count": 3303
+        },
+        "url": "https://t.co/dhz8wZ5HzG",
+        "username": "yakinasuoisi1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968274914039001089"
+      ],
+      "media_source_tweet_id": [
+        "1968274920699527605"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1968535746224234968",
+    "created_at": "2025-09-18T04:41:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T05:41:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968535746224234968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1542480351666532353",
+          "start": 3,
+          "username": "sakusakupenpen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/E4jTresKJH",
+          "end": 49,
+          "expanded_url": "https://x.com/sakusakupenpen/status/1968274920699527605/photo/1",
+          "media_key": "3_1968274914039001089",
+          "start": 26,
+          "url": "https://t.co/E4jTresKJH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968535746224234968",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 137
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968274920699527605",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sakusakupenpen: ピラミッド https://t.co/E4jTresKJH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1968274914039001089",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1C3mx-bcAE2rKs.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968274914039001089"
+          ],
+          "media_source_tweet_id": [
+            "1968274920699527605"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1968535746224234968",
+        "created_at": "2025-09-18T04:41:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T05:41:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968535746224234968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1542480351666532353",
+              "start": 3,
+              "username": "sakusakupenpen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E4jTresKJH",
+              "end": 49,
+              "expanded_url": "https://x.com/sakusakupenpen/status/1968274920699527605/photo/1",
+              "media_key": "3_1968274914039001089",
+              "start": 26,
+              "url": "https://t.co/E4jTresKJH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968535746224234968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 137
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968274920699527605",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sakusakupenpen: ピラミッド https://t.co/E4jTresKJH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968274914039001089"
+          ]
+        },
+        "author_id": "1542480351666532353",
+        "conversation_id": "1968274920699527605",
+        "created_at": "2025-09-17T11:24:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T12:24:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968274920699527605"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E4jTresKJH",
+              "end": 29,
+              "expanded_url": "https://x.com/sakusakupenpen/status/1968274920699527605/photo/1",
+              "media_key": "3_1968274914039001089",
+              "start": 6,
+              "url": "https://t.co/E4jTresKJH"
+            },
+            {
+              "display_url": "x.com/sakusakupenpen…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/sakusakupenpen/status/1966834523020423243",
+              "start": 30,
+              "url": "https://t.co/I45JxhFuBd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968274920699527605",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 63,
+          "impression_count": 19669,
+          "like_count": 868,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 137
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966834523020423243",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ピラミッド https://t.co/E4jTresKJH https://t.co/I45JxhFuBd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 229,
+          "like_count": 2998,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 803
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-30T12:11:47.000Z",
+        "description": "絵を描きます🖌たまにMV制作/イラストへの反応フォローありがとうございます/DMに気付かない事があります。リプで教えていただけると助かります/AI・無断転載❌/skeb(https://t.co/PyTegwrBcp)",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@sakusakupenpen",
+                "end": 108,
+                "expanded_url": "https://skeb.jp/@sakusakupenpen",
+                "start": 85,
+                "url": "https://t.co/PyTegwrBcp"
+              }
+            ]
+          }
+        },
+        "id": "1542480351666532353",
+        "name": "桜🌸ぺんぎん",
+        "pinned_tweet_id": "1968274920699527605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1625802757113511937/osSiSeLU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5485,
+          "following_count": 918,
+          "like_count": 34453,
+          "listed_count": 39,
+          "media_count": 82,
+          "tweet_count": 2802
+        },
+        "username": "sakusakupenpen",
+        "verified": false
+      }
+    ]
+  }
+}

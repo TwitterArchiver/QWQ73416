@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "2028381163501605235",
+    "created_at": "2026-03-02T10:42:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T11:42:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028420644841660859"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1901537600143310848",
+          "start": 0,
+          "username": "goofy_90vw0"
+        },
+        {
+          "end": 27,
+          "id": "1390652924481527810",
+          "start": 13,
+          "username": "zqtlovekris99"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028420644841660859",
+    "in_reply_to_user_id": "1901537600143310848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028390488391491931",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@goofy_90vw0 @zqtlovekris99 正确的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "2028381163501605235",
+        "created_at": "2026-03-02T10:42:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T11:42:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028420644841660859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1901537600143310848",
+              "start": 0,
+              "username": "goofy_90vw0"
+            },
+            {
+              "end": 27,
+              "id": "1390652924481527810",
+              "start": 13,
+              "username": "zqtlovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028420644841660859",
+        "in_reply_to_user_id": "1901537600143310848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028390488391491931",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@goofy_90vw0 @zqtlovekris99 正确的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901537600143310848",
+        "conversation_id": "2028381163501605235",
+        "created_at": "2026-03-02T08:42:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T09:42:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028390488391491931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1390652924481527810",
+              "start": 0,
+              "username": "zqtlovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028390488391491931",
+        "in_reply_to_user_id": "1390652924481527810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 163,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028381163501605235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zqtlovekris99 mtf嗑雌二醇唯一的作用就是同类死的时候发散自己的善心😁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10🌟|🍥GAHT/HRT:2025.10.7🏳️‍⚧️|\n割手的痕迹被我妈看到了，被骂了一顿|\n好闺蜜 @z8897031948836 |\n→I an not a vitual account.(T~T)←|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 53,
+                "username": "z8897031948836"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "MTF.wiki",
+                "end": 23,
+                "expanded_url": "http://MTF.wiki",
+                "start": 0,
+                "url": "https://t.co/UK9faF3NwN"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "🫥",
+        "name": "🧊泠小米🍥❄️",
+        "pinned_tweet_id": "2022184415632433414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023719096047771648/WvkPh1aM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 539,
+          "following_count": 309,
+          "like_count": 6151,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 1493
+        },
+        "url": "https://t.co/UK9faF3NwN",
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-17T07:34:52.000Z",
+        "description": "不含糖，顺治，爱跨TV，爱💊TV",
+        "id": "1901537600143310848",
+        "location": "Shanghai, CN",
+        "name": "🍥MTFKILLER🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901537781110931456/FuCNi8dh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 34,
+          "like_count": 75,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 672
+        },
+        "username": "goofy_90vw0",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-07T13:02:12.000Z",
+        "description": "中推跨男娘/翻车顺女第一人 HRT 2023.05.29 | od💊/ed BMI15 | 默认蓝v互关其他回fo请私信，求求你了多来点蓝v吧 | 防走丢小号 @nktblovekris99 小猫 @Citrus_amara",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 80,
+                "username": "nktblovekris99"
+              },
+              {
+                "end": 112,
+                "start": 99,
+                "username": "Citrus_amara"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "confess.ngl.link/nekotonbo",
+                "end": 23,
+                "expanded_url": "https://confess.ngl.link/nekotonbo",
+                "start": 0,
+                "url": "https://t.co/osSiOZZo04"
+              }
+            ]
+          }
+        },
+        "id": "1390652924481527810",
+        "location": "🚪68搞黄128",
+        "name": "🍀🍥竹蜻蜓🍥🍀",
+        "pinned_tweet_id": "2004868318680023495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005202233164709888/10McwBTc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11778,
+          "following_count": 1402,
+          "like_count": 24465,
+          "listed_count": 15,
+          "media_count": 4364,
+          "tweet_count": 26326
+        },
+        "url": "https://t.co/osSiOZZo04",
+        "username": "zqtlovekris99",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "2037545162294034802",
+    "created_at": "2026-03-27T23:00:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T00:00:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037666141699809661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2022181719835914242",
+          "start": 0,
+          "username": "N2OXYN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037666141699809661",
+    "in_reply_to_user_id": "2022181719835914242",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037545162294034802",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N2OXYN 不上推的后果就是查无此人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2037545157575450624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEbQhoMaIAA-0dW.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "2037545162294034802",
+        "created_at": "2026-03-27T23:00:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T00:00:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037666141699809661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2022181719835914242",
+              "start": 0,
+              "username": "N2OXYN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037666141699809661",
+        "in_reply_to_user_id": "2022181719835914242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037545162294034802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N2OXYN 不上推的后果就是查无此人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037545157575450624"
+          ]
+        },
+        "author_id": "2022181719835914242",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2037545162294034802",
+        "created_at": "2026-03-27T14:59:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T15:59:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037545162294034802"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/Cat3wzfZdk"
+            },
+            {
+              "display_url": "pic.x.com/nKYimNefFb",
+              "end": 64,
+              "expanded_url": "https://x.com/N2OXYN/status/2037545162294034802/photo/1",
+              "media_key": "3_2037545157575450624",
+              "start": 41,
+              "url": "https://t.co/nKYimNefFb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037545162294034802",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 309,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/Cat3wzfZdk https://t.co/nKYimNefFb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10🌟|GAHT/HRT:2025.10.7|\n割手的痕迹被我妈看到了，被骂了一顿|\n好闺蜜 @N2OXYN |\n→I an not a vitual account.(T~T)←|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 47,
+                "username": "N2OXYN"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "name": "🧊泠小米❄️",
+        "pinned_tweet_id": "2022184415632433414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023719096047771648/WvkPh1aM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 548,
+          "following_count": 309,
+          "like_count": 6199,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 1531
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T05:31:26.000Z",
+        "description": "MTF｜出厂日期2008.11.25｜hrt日期2025.5.31｜狂躁易怒｜od｜自残｜精神不稳定",
+        "id": "2022181719835914242",
+        "name": "N₂O🍥",
+        "pinned_tweet_id": "2035725110766923968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037518278856519680/uiJXSh_g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4149,
+          "following_count": 158,
+          "like_count": 122,
+          "listed_count": 6,
+          "media_count": 26,
+          "tweet_count": 150
+        },
+        "username": "N2OXYN",
+        "verified": true
+      }
+    ]
+  }
+}

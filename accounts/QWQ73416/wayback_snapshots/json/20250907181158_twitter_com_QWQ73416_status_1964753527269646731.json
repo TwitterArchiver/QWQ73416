@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1964569915379372360",
+    "created_at": "2025-09-07T18:11:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T19:11:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964753527269646731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1490333538972958720",
+          "start": 0,
+          "username": "huddvjhh"
+        },
+        {
+          "end": 25,
+          "id": "1865419581206208512",
+          "start": 10,
+          "username": "DDzhanshou5150"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964753527269646731",
+    "in_reply_to_user_id": "1490333538972958720",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964662094181331013",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huddvjhh @DDzhanshou5150 QWQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1964569915379372360",
+        "created_at": "2025-09-07T18:11:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T19:11:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964753527269646731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1490333538972958720",
+              "start": 0,
+              "username": "huddvjhh"
+            },
+            {
+              "end": 25,
+              "id": "1865419581206208512",
+              "start": 10,
+              "username": "DDzhanshou5150"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964753527269646731",
+        "in_reply_to_user_id": "1490333538972958720",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964662094181331013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huddvjhh @DDzhanshou5150 QWQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1490333538972958720",
+        "conversation_id": "1964569915379372360",
+        "created_at": "2025-09-07T12:08:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T13:08:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964662094181331013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1865419581206208512",
+              "start": 0,
+              "username": "DDzhanshou5150"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964662094181331013",
+        "in_reply_to_user_id": "1865419581206208512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 785,
+          "like_count": 55,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964569915379372360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DDzhanshou5150 知己相隔万里 贱人就在隔壁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 218,
+          "like_count": 2293,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 621
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-06T14:36:32.000Z",
+        "description": "当日记本发，欢迎提问交友，如果我没有和你及时互动，或者不小心“甩大牌”请私信或者提问箱抨击我，宝宝们，我不是故意的💖 沉默的日子也没在偷偷幸福是快死了 深交欢迎私联，不谈恋爱，不玩门槛那一套哈😙❤️全平台都是同一副贱人面孔，熟人见到更是无所谓 早已经和所有圣母割席 防断联及生活小号：@LofiCM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 142,
+                "username": "LofiCM"
+              }
+            ]
+          }
+        },
+        "id": "1490333538972958720",
+        "location": "三丽鸥",
+        "name": "HeteroMorph……",
+        "pinned_tweet_id": "1964005569632882710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901586687270260736/6ZwcUToK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2925,
+          "following_count": 1563,
+          "like_count": 27579,
+          "listed_count": 4,
+          "media_count": 152,
+          "tweet_count": 4055
+        },
+        "username": "huddvjhh",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T15:34:33.000Z",
+        "description": "啊夸单推人 fo咱的咱会尽量回fo 没fo回去就是到限制了 YOYO小可爱@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1865419581206208512",
+        "name": "早露泡泡兔",
+        "pinned_tweet_id": "1894717736468803636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948968254443323393/ZIfIv4ZA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6728,
+          "following_count": 6207,
+          "like_count": 22243,
+          "listed_count": 17,
+          "media_count": 4366,
+          "tweet_count": 31590
+        },
+        "username": "DDzhanshou5150",
+        "verified": false
+      }
+    ]
+  }
+}

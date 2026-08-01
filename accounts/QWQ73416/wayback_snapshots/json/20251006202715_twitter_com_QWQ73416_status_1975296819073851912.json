@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1975296819073851912",
+    "created_at": "2025-10-06T20:27:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T21:27:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1975296819073851912"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Rosmontis233/s…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/Rosmontis233/status/1975197308926226685",
+          "start": 31,
+          "url": "https://t.co/xdgvQp8vK7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975296819073851912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975197308926226685",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "或许。。。真正想死的人不会跟任何人说。。。最终默默离开。。。 https://t.co/xdgvQp8vK7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1975197294606884865",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2lPeXJbIAEsigA.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1975296819073851912",
+        "created_at": "2025-10-06T20:27:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T21:27:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975296819073851912"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Rosmontis233/s…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/Rosmontis233/status/1975197308926226685",
+              "start": 31,
+              "url": "https://t.co/xdgvQp8vK7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975296819073851912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975197308926226685",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "或许。。。真正想死的人不会跟任何人说。。。最终默默离开。。。 https://t.co/xdgvQp8vK7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975197294606884865"
+          ]
+        },
+        "author_id": "1618324076992548865",
+        "conversation_id": "1975197308926226685",
+        "created_at": "2025-10-06T13:51:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T14:51:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975197308926226685"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FIiVUND0KM",
+              "end": 28,
+              "expanded_url": "https://x.com/Rosmontis233/status/1975197308926226685/photo/1",
+              "media_key": "3_1975197294606884865",
+              "start": 5,
+              "url": "https://t.co/FIiVUND0KM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975197308926226685",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 39025,
+          "like_count": 312,
+          "quote_count": 5,
+          "reply_count": 49,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "猫\n再见 https://t.co/FIiVUND0KM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "pinned_tweet_id": "1971859627869708434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 263,
+          "like_count": 3799,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1050
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-25T19:05:09.000Z",
+        "description": "人｜大一｜🍥｜PGP：3CFE FAB3 CAC1 CC73 5D67 DF41 BFFB 7708 8E66 43DC｜https://t.co/I60tmXcy7z",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Rosmontis233",
+                "end": 84,
+                "expanded_url": "http://t.me/Rosmontis233",
+                "start": 61,
+                "url": "https://t.co/I60tmXcy7z"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "example.com",
+                "end": 23,
+                "expanded_url": "http://example.com",
+                "start": 0,
+                "url": "https://t.co/jyk4w3TKRn"
+              }
+            ]
+          }
+        },
+        "id": "1618324076992548865",
+        "location": "尤拉 IX - 统一合作关系部 办公署",
+        "name": "Rosmontic",
+        "pinned_tweet_id": "1682926645836148736",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906737688025411584/NWUJFhEE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1990,
+          "following_count": 503,
+          "like_count": 8112,
+          "listed_count": 8,
+          "media_count": 681,
+          "tweet_count": 7006
+        },
+        "url": "https://t.co/jyk4w3TKRn",
+        "username": "Rosmontis233",
+        "verified": false
+      }
+    ]
+  }
+}

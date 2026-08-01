@@ -1,0 +1,546 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967781979690352641"
+      ],
+      "media_source_tweet_id": [
+        "1967781982957605345"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1401934144238604294",
+          "name": "Pixel art"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1968139951482265641",
+    "created_at": "2025-09-17T02:28:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T03:28:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968139951482265641"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 32,
+          "start": 27,
+          "tag": "ドット絵"
+        },
+        {
+          "end": 42,
+          "start": 33,
+          "tag": "pixelart"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1719697054405169152",
+          "start": 3,
+          "username": "thetkakaka"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BTBHGQIvdb",
+          "end": 66,
+          "expanded_url": "https://x.com/thetkakaka/status/1967781982957605345/photo/1",
+          "media_key": "3_1967781979690352641",
+          "start": 43,
+          "url": "https://t.co/BTBHGQIvdb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968139951482265641",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 43
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967781982957605345",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @thetkakaka: 褐色エジプト猫耳ロリ #ドット絵 #pixelart https://t.co/BTBHGQIvdb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1967781979690352641",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G073SObbwAEAiy7.png",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967781979690352641"
+          ],
+          "media_source_tweet_id": [
+            "1967781982957605345"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1401934144238604294",
+              "name": "Pixel art"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1968139951482265641",
+        "created_at": "2025-09-17T02:28:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T03:28:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968139951482265641"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 27,
+              "tag": "ドット絵"
+            },
+            {
+              "end": 42,
+              "start": 33,
+              "tag": "pixelart"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1719697054405169152",
+              "start": 3,
+              "username": "thetkakaka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BTBHGQIvdb",
+              "end": 66,
+              "expanded_url": "https://x.com/thetkakaka/status/1967781982957605345/photo/1",
+              "media_key": "3_1967781979690352641",
+              "start": 43,
+              "url": "https://t.co/BTBHGQIvdb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968139951482265641",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 43
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967781982957605345",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @thetkakaka: 褐色エジプト猫耳ロリ #ドット絵 #pixelart https://t.co/BTBHGQIvdb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967781979690352641"
+          ]
+        },
+        "author_id": "1719697054405169152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1401934144238604294",
+              "name": "Pixel art"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1967781982957605345",
+        "created_at": "2025-09-16T02:45:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T03:45:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967781982957605345"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 11,
+              "tag": "ドット絵"
+            },
+            {
+              "end": 26,
+              "start": 17,
+              "tag": "pixelart"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BTBHGQIvdb",
+              "end": 50,
+              "expanded_url": "https://x.com/thetkakaka/status/1967781982957605345/photo/1",
+              "media_key": "3_1967781979690352641",
+              "start": 27,
+              "url": "https://t.co/BTBHGQIvdb"
+            },
+            {
+              "display_url": "x.com/cactasis/statu…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/cactasis/status/1962197990241955979",
+              "start": 51,
+              "url": "https://t.co/n1s0XdZn59"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967781982957605345",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 8613,
+          "like_count": 379,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 43
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962197990241955979",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "褐色エジプト猫耳ロリ #ドット絵 #pixelart https://t.co/BTBHGQIvdb https://t.co/n1s0XdZn59"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 228,
+          "like_count": 2887,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 771
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-01T12:45:21.000Z",
+        "description": "I like drawing, music and a lot of other things. 🎧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/96471185",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/96471185",
+                "start": 0,
+                "url": "https://t.co/DCuycsP7zg"
+              }
+            ]
+          }
+        },
+        "id": "1719697054405169152",
+        "location": "on a rock floating in space",
+        "name": "thetka",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945509253948563456/sBqEtqqy_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1581,
+          "following_count": 722,
+          "like_count": 55174,
+          "listed_count": 23,
+          "media_count": 36,
+          "tweet_count": 426
+        },
+        "url": "https://t.co/DCuycsP7zg",
+        "username": "thetkakaka",
+        "verified": false
+      }
+    ]
+  }
+}

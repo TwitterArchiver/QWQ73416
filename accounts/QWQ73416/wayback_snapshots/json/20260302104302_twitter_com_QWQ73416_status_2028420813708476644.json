@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "2028420813708476644",
+    "created_at": "2026-03-02T10:43:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T11:43:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028420813708476644"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/moutianc/statu…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/moutianc/status/2028398947371475087",
+          "start": 16,
+          "url": "https://t.co/C25cC3OyXJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028420813708476644",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028398947371475087",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我靠，还有这事？该死啊，我丢😡 https://t.co/C25cC3OyXJ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "2028420813708476644",
+        "created_at": "2026-03-02T10:43:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T11:43:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028420813708476644"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/moutianc/statu…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/moutianc/status/2028398947371475087",
+              "start": 16,
+              "url": "https://t.co/C25cC3OyXJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028420813708476644",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028398947371475087",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我靠，还有这事？该死啊，我丢😡 https://t.co/C25cC3OyXJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752963005061738496",
+        "conversation_id": "2028381163501605235",
+        "created_at": "2026-03-02T09:16:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T10:16:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028398947371475087"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2018268636180529152",
+              "start": 0,
+              "username": "yoyo936713"
+            },
+            {
+              "end": 26,
+              "id": "1390652924481527810",
+              "start": 12,
+              "username": "zqtlovekris99"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028398947371475087",
+        "in_reply_to_user_id": "2018268636180529152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028397863710101724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoyo936713 @zqtlovekris99 时间线是aki想不开，我去aki家，我离开aki家，aki吞药发推，群友（好像是在悉尼）报警+联系家长，唐打车去现场并直播，他干了鸡毛事情啊还把aki真名爆出来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10🌟|🍥GAHT/HRT:2025.10.7🏳️‍⚧️|\n割手的痕迹被我妈看到了，被骂了一顿|\n好闺蜜 @z8897031948836 |\n→I an not a vitual account.(T~T)←|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 53,
+                "username": "z8897031948836"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "MTF.wiki",
+                "end": 23,
+                "expanded_url": "http://MTF.wiki",
+                "start": 0,
+                "url": "https://t.co/UK9faF3NwN"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "🫥",
+        "name": "🧊泠小米🍥❄️",
+        "pinned_tweet_id": "2022184415632433414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023719096047771648/WvkPh1aM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 539,
+          "following_count": 309,
+          "like_count": 6151,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 1495
+        },
+        "url": "https://t.co/UK9faF3NwN",
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-01T07:52:17.000Z",
+        "description": "永远怀念我们的六年@LCG_Akiball 🍥 看人不爽我就拉黑 这里是互联网你说得都对",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 9,
+                "username": "LCG_Akiball"
+              }
+            ]
+          }
+        },
+        "id": "1752963005061738496",
+        "name": "ななみ_c",
+        "pinned_tweet_id": "1939306841919685027",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939347987609624577/WlyqvB_4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 286,
+          "like_count": 2295,
+          "listed_count": 2,
+          "media_count": 7,
+          "tweet_count": 301
+        },
+        "username": "moutianc",
+        "verified": false
+      }
+    ]
+  }
+}

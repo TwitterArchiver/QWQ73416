@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1962556420475531318",
+    "created_at": "2025-09-02T04:50:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T05:50:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962739989344858297"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1814598522895020033",
+          "start": 0,
+          "username": "LeoTrans112233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962739989344858297",
+    "in_reply_to_user_id": "1814598522895020033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962739248483966978",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LeoTrans112233 实。。。实验班。。。原来实验班也会有推友啊，我还以为都是书呆子的呢，也只有在互联网才能跟你们聊聊天了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1962556420475531318",
+        "created_at": "2025-09-02T04:50:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T05:50:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962739989344858297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1814598522895020033",
+              "start": 0,
+              "username": "LeoTrans112233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962739989344858297",
+        "in_reply_to_user_id": "1814598522895020033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962739248483966978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LeoTrans112233 实。。。实验班。。。原来实验班也会有推友啊，我还以为都是书呆子的呢，也只有在互联网才能跟你们聊聊天了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814598522895020033",
+        "conversation_id": "1962556420475531318",
+        "created_at": "2025-09-02T04:47:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T05:47:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962739248483966978"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1955503492145283072",
+              "start": 0,
+              "username": "QWQ73416"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962739248483966978",
+        "in_reply_to_user_id": "1955503492145283072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962737684776132837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QWQ73416 唔虽说同学不怎么样，但是老师还是不错的……窝是指老师们的水平挺厉害，毕竟咱在学校的实验班里，将来冲一冲名校的说……转班还是算了叭……也就最后一年了，忍忍就过去啦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|小推@QWQ1885|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "QWQ1885"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 194,
+          "like_count": 1690,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 443
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-20T09:49:54.000Z",
+        "description": "MTF|含糖|08高中生|穷|没钱吃饭|求施舍|女装|热爱生活|目标是985大学|害怕爆柜",
+        "id": "1814598522895020033",
+        "name": "锦🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1952321495595958641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930303859240644609/xeAo-Wo1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 96,
+          "like_count": 73,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 52
+        },
+        "username": "LeoTrans112233",
+        "verified": false
+      }
+    ]
+  }
+}

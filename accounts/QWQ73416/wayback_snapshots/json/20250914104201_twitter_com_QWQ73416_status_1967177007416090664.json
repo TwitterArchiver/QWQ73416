@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1967097779626680463",
+    "created_at": "2025-09-14T10:42:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T11:42:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967177007416090664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1700512333100126208",
+          "start": 0,
+          "username": "5pr1ng6rIdge"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967177007416090664",
+    "in_reply_to_user_id": "1700512333100126208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967097779626680463",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@5pr1ng6rIdge 摸摸你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1967097779626680463",
+        "created_at": "2025-09-14T10:42:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T11:42:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967177007416090664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1700512333100126208",
+              "start": 0,
+              "username": "5pr1ng6rIdge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967177007416090664",
+        "in_reply_to_user_id": "1700512333100126208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967097779626680463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5pr1ng6rIdge 摸摸你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700512333100126208",
+        "conversation_id": "1967097779626680463",
+        "created_at": "2025-09-14T05:27:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T06:27:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967097779626680463"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1967097779626680463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 112,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "会在极度有安全感和极度没有安全感的时候哭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 221,
+          "like_count": 2509,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 669
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-09T14:12:46.000Z",
+        "description": "My thoughts will follow you into your dreams ｜ 🏳️‍⚧️ enby (it || she || they)/ 音游批 / 百合豚 / 社交能力==0 / (@4SakennSpiral 是最重要的人喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 102,
+                "username": "4SakennSpiral"
+              }
+            ]
+          }
+        },
+        "id": "1700512333100126208",
+        "location": "fwarinben",
+        "name": "_idge.🍥",
+        "pinned_tweet_id": "1962891589501726893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950793842590187520/bdOblZxZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 588,
+          "like_count": 6807,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 86
+        },
+        "username": "5pr1ng6rIdge",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969256025883885569"
+      ],
+      "media_source_tweet_id": [
+        "1969256260680732721"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1969454206043242725",
+    "created_at": "2025-09-20T17:30:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T18:30:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969454206043242725"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1635456657475145728",
+          "start": 3,
+          "username": "Super_guttari"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZNtFsIwSBk",
+          "end": 48,
+          "expanded_url": "https://x.com/Super_guttari/status/1969256260680732721/photo/1",
+          "media_key": "3_1969256025883885569",
+          "start": 25,
+          "url": "https://t.co/ZNtFsIwSBk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969454206043242725",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 44
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969256260680732721",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Super_guttari: かわいいね https://t.co/ZNtFsIwSBk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1575,
+        "media_key": "3_1969256025883885569",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1Qz7AabQAEMXum.jpg",
+        "width": 1575
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969256025883885569"
+          ],
+          "media_source_tweet_id": [
+            "1969256260680732721"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1969454206043242725",
+        "created_at": "2025-09-20T17:30:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T18:30:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969454206043242725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1635456657475145728",
+              "start": 3,
+              "username": "Super_guttari"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZNtFsIwSBk",
+              "end": 48,
+              "expanded_url": "https://x.com/Super_guttari/status/1969256260680732721/photo/1",
+              "media_key": "3_1969256025883885569",
+              "start": 25,
+              "url": "https://t.co/ZNtFsIwSBk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969454206043242725",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 44
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969256260680732721",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Super_guttari: かわいいね https://t.co/ZNtFsIwSBk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969256025883885569"
+          ]
+        },
+        "author_id": "1635456657475145728",
+        "conversation_id": "1969256260680732721",
+        "created_at": "2025-09-20T04:24:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T05:24:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969256260680732721"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZNtFsIwSBk",
+              "end": 29,
+              "expanded_url": "https://x.com/Super_guttari/status/1969256260680732721/photo/1",
+              "media_key": "3_1969256025883885569",
+              "start": 6,
+              "url": "https://t.co/ZNtFsIwSBk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969256260680732721",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 89,
+          "impression_count": 6132,
+          "like_count": 555,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "かわいいね https://t.co/ZNtFsIwSBk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 235,
+          "like_count": 3073,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 825
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-14T01:44:10.000Z",
+        "description": "絵を描きます。\n受験生のため低浮上です。たまに🔞あげるけどゆるしてね\nサブ→@meccha_guttari",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 38,
+                "username": "meccha_guttari"
+              }
+            ]
+          }
+        },
+        "id": "1635456657475145728",
+        "name": "超ぐったり",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966129428498661376/rgzxVPeD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8603,
+          "following_count": 626,
+          "like_count": 74966,
+          "listed_count": 34,
+          "media_count": 352,
+          "tweet_count": 4197
+        },
+        "username": "Super_guttari",
+        "verified": false
+      }
+    ]
+  }
+}

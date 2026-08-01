@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1962757515579662430",
+    "created_at": "2025-09-02T06:06:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T07:06:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962759072081735942"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1902700598321135616",
+          "start": 0,
+          "username": "Yanluo1019"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962759072081735942",
+    "in_reply_to_user_id": "1902700598321135616",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962757515579662430",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yanluo1019 戳啦，友跨嘛"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1962757501272891392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz0djFuaoAAfGJM.jpg",
+        "width": 864
+      },
+      {
+        "height": 150,
+        "media_key": "3_1962757501335859200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz0djF9bcAAjpzu.jpg",
+        "width": 227
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1962757515579662430",
+        "created_at": "2025-09-02T06:06:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T07:06:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962759072081735942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1902700598321135616",
+              "start": 0,
+              "username": "Yanluo1019"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962759072081735942",
+        "in_reply_to_user_id": "1902700598321135616",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962757515579662430",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yanluo1019 戳啦，友跨嘛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962757501272891392",
+            "3_1962757501335859200"
+          ]
+        },
+        "author_id": "1902700598321135616",
+        "conversation_id": "1962757515579662430",
+        "created_at": "2025-09-02T06:00:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T07:00:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962757515579662430"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1B5ddtQ7nd",
+              "end": 34,
+              "expanded_url": "https://x.com/Yanluo1019/status/1962757515579662430/photo/1",
+              "media_key": "3_1962757501272891392",
+              "start": 11,
+              "url": "https://t.co/1B5ddtQ7nd"
+            },
+            {
+              "display_url": "pic.x.com/1B5ddtQ7nd",
+              "end": 34,
+              "expanded_url": "https://x.com/Yanluo1019/status/1962757515579662430/photo/1",
+              "media_key": "3_1962757501335859200",
+              "start": 11,
+              "url": "https://t.co/1B5ddtQ7nd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962757515579662430",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "陈医生这个头像合适吗 https://t.co/1B5ddtQ7nd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|小推@QWQ1885|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "QWQ1885"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 195,
+          "like_count": 1718,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 458
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-20T12:36:05.000Z",
+        "description": "我的名字是唐毓文/\n成长历程:反跨顺男→反跨男同→反跨跨女同多边→反跨跨女泛多边→友跨跨女泛多边/\n14岁MTF 10月19生日\nHRT STARTED 30th.6.25\n老婆@Zhishi_cook\n老公@wowo_yz\n里推:@FamilyWLZ\n问答ngl:https://t.co/U9hmtvHObD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 89,
+                "username": "Zhishi_cook"
+              },
+              {
+                "end": 112,
+                "start": 104,
+                "username": "wowo_yz"
+              },
+              {
+                "end": 126,
+                "start": 116,
+                "username": "FamilyWLZ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yanluo1019",
+                "end": 156,
+                "expanded_url": "https://ngl.link/yanluo1019",
+                "start": 133,
+                "url": "https://t.co/U9hmtvHObD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "NoMTF.com",
+                "end": 23,
+                "expanded_url": "http://NoMTF.com",
+                "start": 0,
+                "url": "https://t.co/kj7dZuDfkd"
+              }
+            ]
+          }
+        },
+        "id": "1902700598321135616",
+        "location": "Melbourne, Victoria",
+        "name": "唐毓文",
+        "pinned_tweet_id": "1961810141868970381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927264142831865856/oGUnMA-N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 714,
+          "following_count": 180,
+          "like_count": 58,
+          "listed_count": 2,
+          "media_count": 150,
+          "tweet_count": 1981
+        },
+        "url": "https://t.co/kj7dZuDfkd",
+        "username": "Yanluo1019",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967264917553295361"
+      ],
+      "media_source_tweet_id": [
+        "1967264932648681473"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1967367513853001758",
+    "created_at": "2025-09-14T23:19:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-15T00:19:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967367513853001758"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1962156064734138368",
+          "start": 3,
+          "username": "HydrogenNeko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zgTuYeLmOJ",
+          "end": 41,
+          "expanded_url": "https://x.com/HydrogenNeko/status/1967264932648681473/photo/1",
+          "media_key": "3_1967264917553295361",
+          "start": 18,
+          "url": "https://t.co/zgTuYeLmOJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967367513853001758",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967264932648681473",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HydrogenNeko: https://t.co/zgTuYeLmOJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_1967264917553295361",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G00hBP3aMAE034g.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967264917553295361"
+          ],
+          "media_source_tweet_id": [
+            "1967264932648681473"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1967367513853001758",
+        "created_at": "2025-09-14T23:19:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T00:19:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967367513853001758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1962156064734138368",
+              "start": 3,
+              "username": "HydrogenNeko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zgTuYeLmOJ",
+              "end": 41,
+              "expanded_url": "https://x.com/HydrogenNeko/status/1967264932648681473/photo/1",
+              "media_key": "3_1967264917553295361",
+              "start": 18,
+              "url": "https://t.co/zgTuYeLmOJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967367513853001758",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967264932648681473",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HydrogenNeko: https://t.co/zgTuYeLmOJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967264917553295361"
+          ]
+        },
+        "author_id": "1962156064734138368",
+        "conversation_id": "1967264932648681473",
+        "created_at": "2025-09-14T16:31:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T17:31:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967264932648681473"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zgTuYeLmOJ",
+              "end": 23,
+              "expanded_url": "https://x.com/HydrogenNeko/status/1967264932648681473/photo/1",
+              "media_key": "3_1967264917553295361",
+              "start": 0,
+              "url": "https://t.co/zgTuYeLmOJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967264932648681473",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 535,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/zgTuYeLmOJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 223,
+          "like_count": 2574,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 675
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-31T14:10:44.000Z",
+        "description": "MTF🍥・「すべてを癒す万能薬になりたい」・業餘調查記者、偵探・余命1年 ・Wife @Chiyuyu520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 43,
+                "username": "Chiyuyu520"
+              }
+            ]
+          }
+        },
+        "id": "1962156064734138368",
+        "name": "葉加瀬 水素🍥",
+        "pinned_tweet_id": "1962163704134549962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962156244841709568/SgYFPIvk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 205,
+          "like_count": 845,
+          "listed_count": 1,
+          "media_count": 115,
+          "tweet_count": 416
+        },
+        "username": "HydrogenNeko",
+        "verified": false
+      }
+    ]
+  }
+}

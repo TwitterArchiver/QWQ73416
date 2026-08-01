@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "2028362082748641391",
+    "created_at": "2026-03-02T06:49:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T07:49:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028362082748641391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1916543476231208960",
+          "start": 3,
+          "username": "fayoubaike001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028362082748641391",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027972540266909772",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fayoubaike001: 发现推特上真的好多未成年人，学生群体啊什么的，早早的就发病双相或者精分之类的疾病，然后长期休学，还有的就退学辍学了，有的人家里有企业什么的，或者自己有自由职业能赚钱还行，以后真的不知道怎么办。又在学校的这个高度集体主义化的环境里，不痛苦想死…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "2028362082748641391",
+        "created_at": "2026-03-02T06:49:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T07:49:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028362082748641391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1916543476231208960",
+              "start": 3,
+              "username": "fayoubaike001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028362082748641391",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027972540266909772",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fayoubaike001: 发现推特上真的好多未成年人，学生群体啊什么的，早早的就发病双相或者精分之类的疾病，然后长期休学，还有的就退学辍学了，有的人家里有企业什么的，或者自己有自由职业能赚钱还行，以后真的不知道怎么办。又在学校的这个高度集体主义化的环境里，不痛苦想死…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916543476231208960",
+        "conversation_id": "2027972540266909772",
+        "created_at": "2026-03-01T05:01:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T06:01:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027972540266909772"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027972540266909772",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 44610,
+          "like_count": 761,
+          "quote_count": 1,
+          "reply_count": 46,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "发现推特上真的好多未成年人，学生群体啊什么的，早早的就发病双相或者精分之类的疾病，然后长期休学，还有的就退学辍学了，有的人家里有企业什么的，或者自己有自由职业能赚钱还行，以后真的不知道怎么办。又在学校的这个高度集体主义化的环境里，不痛苦想死才怪。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10🌟|🍥GAHT/HRT:2025.10.7🏳️‍⚧️|\n割手的痕迹被我妈看到了，被骂了一顿|\n好闺蜜 @z8897031948836 |\n→I an not a vitual account.(T~T)←|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 53,
+                "username": "z8897031948836"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "MTF.wiki",
+                "end": 23,
+                "expanded_url": "http://MTF.wiki",
+                "start": 0,
+                "url": "https://t.co/UK9faF3NwN"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "🫥",
+        "name": "🧊泠小米🍥❄️",
+        "pinned_tweet_id": "2022184415632433414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023719096047771648/WvkPh1aM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 309,
+          "like_count": 6143,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 1487
+        },
+        "url": "https://t.co/UK9faF3NwN",
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-27T17:22:39.000Z",
+        "description": "以战为刃，以生为誓\n浴血而战，向死而生\n守护苍生，不负使命\n法友革命，救赎不息\n\nhttps://t.co/MU8VTbdyqD",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "fayou.club",
+                "end": 64,
+                "expanded_url": "https://fayou.club/",
+                "start": 41,
+                "url": "https://t.co/MU8VTbdyqD"
+              }
+            ]
+          }
+        },
+        "id": "1916543476231208960",
+        "name": "法友百科",
+        "pinned_tweet_id": "2026980292263899538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026979894404808704/c76br8-L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 82,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 87
+        },
+        "username": "fayoubaike001",
+        "verified": false
+      }
+    ]
+  }
+}

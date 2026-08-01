@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1975291752706904368",
+    "created_at": "2025-10-06T20:29:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T21:29:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975297361988755768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1962156064734138368",
+          "start": 0,
+          "username": "HydrogenNeko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975297361988755768",
+    "in_reply_to_user_id": "1962156064734138368",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975291752706904368",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HydrogenNeko 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1975291752706904368",
+        "created_at": "2025-10-06T20:29:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T21:29:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975297361988755768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1962156064734138368",
+              "start": 0,
+              "username": "HydrogenNeko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975297361988755768",
+        "in_reply_to_user_id": "1962156064734138368",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975291752706904368",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HydrogenNeko 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962156064734138368",
+        "conversation_id": "1975291752706904368",
+        "created_at": "2025-10-06T20:07:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T21:07:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975291752706904368"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1975291752706904368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我要吃人妖药！！（哭闹）（在地上打滚）我要吃人妖药！！！（大声哭喊）（扭动）（面孔狰狞）要吃（上气不接下气）人妖药！！（哭喊）（眼泪鼻涕流一块）我要吃人妖药！！！（大声哭喊）（扭动）（面孔狰狞）（滚下床铺）（挣扎）人妖药！！！要吃！（啜泣）（失声）（眼里充满绝望）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "pinned_tweet_id": "1971859627869708434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 263,
+          "like_count": 3804,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1051
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-31T14:10:44.000Z",
+        "description": "Yekase Suiso | An ordinary person who dares to take a stand | Life turns people into cats | Love, resistance, non-violence, non-cooperation | 15y.o CEO",
+        "id": "1962156064734138368",
+        "name": "HydrogenNeko.CEO",
+        "pinned_tweet_id": "1972630061590434052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974788908069400576/RF-82BmV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 647,
+          "following_count": 394,
+          "like_count": 1390,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 299
+        },
+        "username": "HydrogenNeko",
+        "verified": false
+      }
+    ]
+  }
+}

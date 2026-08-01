@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1963235964840755706",
+    "created_at": "2025-09-03T23:46:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T00:46:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963388216687641056"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1887864488973791232",
+          "start": 0,
+          "username": "06auser"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963388216687641056",
+    "in_reply_to_user_id": "1887864488973791232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963235964840755706",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@06auser 会这个不代表是好人，我宿舍就有两个会翻墙的神人。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1963235964840755706",
+        "created_at": "2025-09-03T23:46:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T00:46:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963388216687641056"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1887864488973791232",
+              "start": 0,
+              "username": "06auser"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963388216687641056",
+        "in_reply_to_user_id": "1887864488973791232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963235964840755706",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@06auser 会这个不代表是好人，我宿舍就有两个会翻墙的神人。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887864488973791232",
+        "conversation_id": "1963235964840755706",
+        "created_at": "2025-09-03T13:41:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T14:41:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963235964840755706"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1963235964840755706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我在大学新生群里找到和我在同一个市而且会翻墙的同学了😋😋😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|小推@QWQ1885|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "QWQ1885"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 210,
+          "like_count": 1956,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 543
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-07T14:02:59.000Z",
+        "description": "双相情感障碍//\n\n等到我死那天世界就会变好",
+        "id": "1887864488973791232",
+        "name": "yice",
+        "pinned_tweet_id": "1963100426028671395",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962134762556121088/LT7UIRNZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 102,
+          "like_count": 1099,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 140
+        },
+        "username": "06auser",
+        "verified": false
+      }
+    ]
+  }
+}

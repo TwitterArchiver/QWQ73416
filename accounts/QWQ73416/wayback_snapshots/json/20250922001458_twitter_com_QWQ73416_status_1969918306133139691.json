@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969554812342845448"
+      ],
+      "media_source_tweet_id": [
+        "1969554954131292406"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1969918306133139691",
+    "created_at": "2025-09-22T00:14:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T01:14:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969918306133139691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "108872315",
+          "start": 3,
+          "username": "mizumi3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Bw7QouoJ06",
+          "end": 51,
+          "expanded_url": "https://x.com/mizumi3/status/1969554954131292406/photo/1",
+          "media_key": "3_1969554812342845448",
+          "start": 28,
+          "url": "https://t.co/Bw7QouoJ06"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969918306133139691",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 103
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969554954131292406",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mizumi3: 褐色エジプト猫耳ロリの絵です https://t.co/Bw7QouoJ06"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1969554812342845448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1VDqqtbQAgirlR.jpg",
+        "width": 907
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969554812342845448"
+          ],
+          "media_source_tweet_id": [
+            "1969554954131292406"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1969918306133139691",
+        "created_at": "2025-09-22T00:14:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T01:14:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969918306133139691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "108872315",
+              "start": 3,
+              "username": "mizumi3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bw7QouoJ06",
+              "end": 51,
+              "expanded_url": "https://x.com/mizumi3/status/1969554954131292406/photo/1",
+              "media_key": "3_1969554812342845448",
+              "start": 28,
+              "url": "https://t.co/Bw7QouoJ06"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969918306133139691",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 103
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969554954131292406",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mizumi3: 褐色エジプト猫耳ロリの絵です https://t.co/Bw7QouoJ06"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969554812342845448"
+          ]
+        },
+        "author_id": "108872315",
+        "conversation_id": "1969554954131292406",
+        "created_at": "2025-09-21T00:11:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T01:11:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969554954131292406"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Bw7QouoJ06",
+              "end": 38,
+              "expanded_url": "https://x.com/mizumi3/status/1969554954131292406/photo/1",
+              "media_key": "3_1969554812342845448",
+              "start": 15,
+              "url": "https://t.co/Bw7QouoJ06"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969554954131292406",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 67,
+          "impression_count": 10833,
+          "like_count": 548,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 103
+        },
+        "reply_settings": "everyone",
+        "text": "褐色エジプト猫耳ロリの絵です https://t.co/Bw7QouoJ06"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 238,
+          "like_count": 3175,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 866
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2010-01-27T07:56:48.000Z",
+        "description": "絵とか描く人\nHP：https://t.co/yJdgXnmTzL\npixiv：https://t.co/d2RXejIeB3\nFANBOX：https://t.co/PE6wnwsYXx\nskeb：https://t.co/LjH2Xwmaat",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "nekuko.weblike.jp",
+                "end": 33,
+                "expanded_url": "http://nekuko.weblike.jp",
+                "start": 10,
+                "url": "https://t.co/yJdgXnmTzL"
+              },
+              {
+                "display_url": "pixiv.net/users/6856",
+                "end": 63,
+                "expanded_url": "http://pixiv.net/users/6856",
+                "start": 40,
+                "url": "https://t.co/d2RXejIeB3"
+              },
+              {
+                "display_url": "mizumi3.fanbox.cc",
+                "end": 94,
+                "expanded_url": "http://mizumi3.fanbox.cc",
+                "start": 71,
+                "url": "https://t.co/PE6wnwsYXx"
+              },
+              {
+                "display_url": "skeb.jp/@mizumi3",
+                "end": 123,
+                "expanded_url": "http://skeb.jp/@mizumi3",
+                "start": 100,
+                "url": "https://t.co/LjH2Xwmaat"
+              }
+            ]
+          }
+        },
+        "id": "108872315",
+        "location": "japan",
+        "name": "みずみちゃん",
+        "pinned_tweet_id": "1947991894153462208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1735552064154107905/xj9eefAx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17401,
+          "following_count": 822,
+          "like_count": 216493,
+          "listed_count": 298,
+          "media_count": 7981,
+          "tweet_count": 403323
+        },
+        "username": "mizumi3",
+        "verified": true
+      }
+    ]
+  }
+}

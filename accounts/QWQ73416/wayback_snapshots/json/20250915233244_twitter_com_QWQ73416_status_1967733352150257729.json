@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967500486728437761"
+      ],
+      "media_source_tweet_id": [
+        "1967515483139375176"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1967733352150257729",
+    "created_at": "2025-09-15T23:32:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T00:32:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967733352150257729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1355820705179258883",
+          "start": 3,
+          "username": "chumuhakuchumu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VDt7SkRFHh",
+          "end": 48,
+          "expanded_url": "https://x.com/chumuhakuchumu/status/1967515483139375176/photo/1",
+          "media_key": "3_1967500486728437761",
+          "start": 25,
+          "url": "https://t.co/VDt7SkRFHh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967733352150257729",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 643
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967515483139375176",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chumuhakuchumu: エジねこ https://t.co/VDt7SkRFHh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1967500486728437761",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G033RLbbUAE1ILS.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967500486728437761"
+          ],
+          "media_source_tweet_id": [
+            "1967515483139375176"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1967733352150257729",
+        "created_at": "2025-09-15T23:32:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T00:32:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967733352150257729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1355820705179258883",
+              "start": 3,
+              "username": "chumuhakuchumu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VDt7SkRFHh",
+              "end": 48,
+              "expanded_url": "https://x.com/chumuhakuchumu/status/1967515483139375176/photo/1",
+              "media_key": "3_1967500486728437761",
+              "start": 25,
+              "url": "https://t.co/VDt7SkRFHh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967733352150257729",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 643
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967515483139375176",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chumuhakuchumu: エジねこ https://t.co/VDt7SkRFHh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967500486728437761"
+          ]
+        },
+        "author_id": "1355820705179258883",
+        "conversation_id": "1967515483139375176",
+        "created_at": "2025-09-15T09:07:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T10:07:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967515483139375176"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VDt7SkRFHh",
+              "end": 28,
+              "expanded_url": "https://x.com/chumuhakuchumu/status/1967515483139375176/photo/1",
+              "media_key": "3_1967500486728437761",
+              "start": 5,
+              "url": "https://t.co/VDt7SkRFHh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967515483139375176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1275,
+          "impression_count": 61848,
+          "like_count": 7695,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 643
+        },
+        "reply_settings": "everyone",
+        "text": "エジねこ https://t.co/VDt7SkRFHh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 225,
+          "like_count": 2723,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 714
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-31T10:10:28.000Z",
+        "description": "毎日投稿中☀️\nまるで白昼夢みたいな、儚くて可愛いAI作品をお届けします。\n\n気軽にふぉろーしてね。\nマシュマロ（Request）や大人向け作品は下のリンクから　iliya~~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/hirushirayume",
+                "end": 23,
+                "expanded_url": "https://lit.link/hirushirayume",
+                "start": 0,
+                "url": "https://t.co/v7izFQgaBl"
+              }
+            ]
+          }
+        },
+        "id": "1355820705179258883",
+        "location": "サークル【揺れるカーテンの教室】",
+        "name": "ひるしらゆめ",
+        "pinned_tweet_id": "1923726286427734182",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884457768834539520/BWng_GCv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34688,
+          "following_count": 543,
+          "like_count": 1210,
+          "listed_count": 155,
+          "media_count": 412,
+          "tweet_count": 907
+        },
+        "url": "https://t.co/v7izFQgaBl",
+        "username": "chumuhakuchumu",
+        "verified": true
+      }
+    ]
+  }
+}

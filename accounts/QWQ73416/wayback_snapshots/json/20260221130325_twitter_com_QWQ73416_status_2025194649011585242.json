@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "2025173531865334264",
+    "created_at": "2026-02-21T13:03:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T14:03:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025194649011585242"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1929416262989557760",
+          "start": 0,
+          "username": "maoxian1527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025194649011585242",
+    "in_reply_to_user_id": "1929416262989557760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025173531865334264",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@maoxian1527 求你了，看看我的推，不要看他的呀，我天。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2025173522151342083",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBrclqxbgAMBZmX.jpg",
+        "width": 1002
+      },
+      {
+        "height": 505,
+        "media_key": "3_2025173522184896514",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBrclq5bgAI_om0.jpg",
+        "width": 1015
+      },
+      {
+        "height": 598,
+        "media_key": "3_2025173522201677824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBrclq9bkAAyTIX.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "2025173531865334264",
+        "created_at": "2026-02-21T13:03:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T14:03:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025194649011585242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929416262989557760",
+              "start": 0,
+              "username": "maoxian1527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025194649011585242",
+        "in_reply_to_user_id": "1929416262989557760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025173531865334264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maoxian1527 求你了，看看我的推，不要看他的呀，我天。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025173522151342083",
+            "3_2025173522184896514",
+            "3_2025173522201677824"
+          ]
+        },
+        "author_id": "1929416262989557760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2025173531865334264",
+        "created_at": "2026-02-21T11:39:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T12:39:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025173531865334264"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LCzCI5pdyx",
+              "end": 36,
+              "expanded_url": "https://x.com/maoxian1527/status/2025173531865334264/photo/1",
+              "media_key": "3_2025173522151342083",
+              "start": 13,
+              "url": "https://t.co/LCzCI5pdyx"
+            },
+            {
+              "display_url": "pic.x.com/LCzCI5pdyx",
+              "end": 36,
+              "expanded_url": "https://x.com/maoxian1527/status/2025173531865334264/photo/1",
+              "media_key": "3_2025173522184896514",
+              "start": 13,
+              "url": "https://t.co/LCzCI5pdyx"
+            },
+            {
+              "display_url": "pic.x.com/LCzCI5pdyx",
+              "end": 36,
+              "expanded_url": "https://x.com/maoxian1527/status/2025173531865334264/photo/1",
+              "media_key": "3_2025173522201677824",
+              "start": 13,
+              "url": "https://t.co/LCzCI5pdyx"
+            },
+            {
+              "display_url": "x.com/hagishigure/st…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/hagishigure/status/2025117775199408434",
+              "start": 37,
+              "url": "https://t.co/BjYmHnH3bK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025173531865334264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 266,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025117775199408434",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个月白还有反转我不行了 https://t.co/LCzCI5pdyx https://t.co/BjYmHnH3bK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10🌟|🍥GAHT/HRT:2025.10.7🏳️‍⚧️|\n割手的痕迹被我妈看到了，被骂了一顿|\n好闺蜜 @z8897031948836 |\n→I an not a vitual account.(T~T)←|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 53,
+                "username": "z8897031948836"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "MTF.wiki",
+                "end": 23,
+                "expanded_url": "http://MTF.wiki",
+                "start": 0,
+                "url": "https://t.co/UK9faF3NwN"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "🫥",
+        "name": "🧊泠小米🍥❄️",
+        "pinned_tweet_id": "2022184415632433414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023719096047771648/WvkPh1aM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 309,
+          "like_count": 6100,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 1468
+        },
+        "url": "https://t.co/UK9faF3NwN",
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-02T05:54:41.000Z",
+        "description": "🤍2010.11.17🤍｜并不可爱小宅女（猫娘…？｜碎碎念ing… | 顺女｜简体｜ 脾气不好 极讨厌私信 | 看成分互fo｜负能｜ @mao_xian1527 ｜含🍥友跨顺女",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "mao_xian1527"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianact.top",
+                "end": 23,
+                "expanded_url": "http://maoxianact.top/",
+                "start": 0,
+                "url": "https://t.co/BsriOOm0E4"
+              }
+            ]
+          }
+        },
+        "id": "1929416262989557760",
+        "location": "中華民國",
+        "name": "猫弦nekogen🍥",
+        "pinned_tweet_id": "2006745052245274725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021082119691534336/-FUI5SF__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1092,
+          "following_count": 266,
+          "like_count": 2508,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 1083
+        },
+        "url": "https://t.co/BsriOOm0E4",
+        "username": "maoxian1527",
+        "verified": false
+      }
+    ]
+  }
+}

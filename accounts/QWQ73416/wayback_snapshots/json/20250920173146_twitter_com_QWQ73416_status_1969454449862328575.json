@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969344952552603649"
+      ],
+      "media_source_tweet_id": [
+        "1969345162426962070"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1969454449862328575",
+    "created_at": "2025-09-20T17:31:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T18:31:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969454449862328575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1618091288318070789",
+          "start": 3,
+          "username": "llucilab"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/B6WaceWuRG",
+          "end": 47,
+          "expanded_url": "https://x.com/llucilab/status/1969345162426962070/photo/1",
+          "media_key": "3_1969344952552603649",
+          "start": 24,
+          "url": "https://t.co/B6WaceWuRG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969454449862328575",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 138
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969345162426962070",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @llucilab: 巫女服キツネちゃん https://t.co/B6WaceWuRG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1620,
+        "media_key": "3_1969344952552603649",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1SEzOEbQAErgg3.jpg",
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969344952552603649"
+          ],
+          "media_source_tweet_id": [
+            "1969345162426962070"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1969454449862328575",
+        "created_at": "2025-09-20T17:31:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T18:31:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969454449862328575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1618091288318070789",
+              "start": 3,
+              "username": "llucilab"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/B6WaceWuRG",
+              "end": 47,
+              "expanded_url": "https://x.com/llucilab/status/1969345162426962070/photo/1",
+              "media_key": "3_1969344952552603649",
+              "start": 24,
+              "url": "https://t.co/B6WaceWuRG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969454449862328575",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 138
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969345162426962070",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @llucilab: 巫女服キツネちゃん https://t.co/B6WaceWuRG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969344952552603649"
+          ]
+        },
+        "author_id": "1618091288318070789",
+        "conversation_id": "1969345162426962070",
+        "created_at": "2025-09-20T10:17:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T11:17:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969345162426962070"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B6WaceWuRG",
+              "end": 33,
+              "expanded_url": "https://x.com/llucilab/status/1969345162426962070/photo/1",
+              "media_key": "3_1969344952552603649",
+              "start": 10,
+              "url": "https://t.co/B6WaceWuRG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969345162426962070",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 196,
+          "impression_count": 23244,
+          "like_count": 1580,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 138
+        },
+        "reply_settings": "everyone",
+        "text": "巫女服キツネちゃん https://t.co/B6WaceWuRG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 235,
+          "like_count": 3075,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 826
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-25T03:40:35.000Z",
+        "description": "Illustration│Original Characters\n【メール】llucilabart@gmail.com\n【pixiv】https://t.co/JK8X0uwjPx",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/90523043",
+                "end": 90,
+                "expanded_url": "https://www.pixiv.net/users/90523043",
+                "start": 67,
+                "url": "https://t.co/JK8X0uwjPx"
+              }
+            ]
+          }
+        },
+        "id": "1618091288318070789",
+        "name": "lluci",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943704155463315456/it2h4fM0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10547,
+          "following_count": 535,
+          "like_count": 8570,
+          "listed_count": 107,
+          "media_count": 101,
+          "tweet_count": 540
+        },
+        "username": "llucilab",
+        "verified": false
+      }
+    ]
+  }
+}

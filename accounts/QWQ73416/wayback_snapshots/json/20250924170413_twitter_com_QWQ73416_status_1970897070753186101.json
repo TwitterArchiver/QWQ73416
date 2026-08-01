@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970837884212305920"
+      ],
+      "media_source_tweet_id": [
+        "1970837890793103850"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1970897070753186101",
+    "created_at": "2025-09-24T17:04:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T18:04:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970897070753186101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1051143133088509952",
+          "start": 3,
+          "username": "popopuri"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZMyMwmXEFi",
+          "end": 51,
+          "expanded_url": "https://x.com/popopuri/status/1970837890793103850/photo/1",
+          "media_key": "3_1970837884212305920",
+          "start": 28,
+          "url": "https://t.co/ZMyMwmXEFi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970897070753186101",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 90
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970837890793103850",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @popopuri: 褐色エジプト猫耳ロリ🐈‍⬛ https://t.co/ZMyMwmXEFi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1970837884212305920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1nSnR5bYAAxPEy.jpg",
+        "width": 1376
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970837884212305920"
+          ],
+          "media_source_tweet_id": [
+            "1970837890793103850"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1970897070753186101",
+        "created_at": "2025-09-24T17:04:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T18:04:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970897070753186101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1051143133088509952",
+              "start": 3,
+              "username": "popopuri"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZMyMwmXEFi",
+              "end": 51,
+              "expanded_url": "https://x.com/popopuri/status/1970837890793103850/photo/1",
+              "media_key": "3_1970837884212305920",
+              "start": 28,
+              "url": "https://t.co/ZMyMwmXEFi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970897070753186101",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 90
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970837890793103850",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @popopuri: 褐色エジプト猫耳ロリ🐈‍⬛ https://t.co/ZMyMwmXEFi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970837884212305920"
+          ]
+        },
+        "author_id": "1051143133088509952",
+        "conversation_id": "1970837890793103850",
+        "created_at": "2025-09-24T13:09:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T14:09:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970837890793103850"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZMyMwmXEFi",
+              "end": 37,
+              "expanded_url": "https://x.com/popopuri/status/1970837890793103850/photo/1",
+              "media_key": "3_1970837884212305920",
+              "start": 14,
+              "url": "https://t.co/ZMyMwmXEFi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970837890793103850",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 103,
+          "impression_count": 10727,
+          "like_count": 614,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 90
+        },
+        "reply_settings": "everyone",
+        "text": "褐色エジプト猫耳ロリ🐈‍⬛ https://t.co/ZMyMwmXEFi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 246,
+          "like_count": 3324,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 924
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2018-10-13T16:10:26.000Z",
+        "description": "illustration￤成人済￤雑多￤イラストの無断転載・無断使用禁止￤お仕事についてのお問合せ、ご連絡はDMからお願いします。￤FANBOX【https://t.co/7EvjLsKdoX】￤",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "popopuri.fanbox.cc",
+                "end": 96,
+                "expanded_url": "https://popopuri.fanbox.cc",
+                "start": 73,
+                "url": "https://t.co/7EvjLsKdoX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@popopuri",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@popopuri",
+                "start": 0,
+                "url": "https://t.co/FaAJWTGJPP"
+              }
+            ]
+          }
+        },
+        "id": "1051143133088509952",
+        "name": "藤原あゆむ",
+        "pinned_tweet_id": "1970837890793103850",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944373559545221120/5eiW7V7r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40176,
+          "following_count": 875,
+          "like_count": 36556,
+          "listed_count": 338,
+          "media_count": 856,
+          "tweet_count": 18801
+        },
+        "url": "https://t.co/FaAJWTGJPP",
+        "username": "popopuri",
+        "verified": true
+      }
+    ]
+  }
+}

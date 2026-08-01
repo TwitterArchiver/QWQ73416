@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1972251149966422016",
+        "3_1972251149727383552"
+      ],
+      "media_source_tweet_id": [
+        "1972251239456108841",
+        "1972251239456108841"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1972528166091833779",
+    "created_at": "2025-09-29T05:05:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T06:05:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972528166091833779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1750684739441446912",
+          "start": 3,
+          "username": "wngy189327"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sykMTpT0Om",
+          "end": 83,
+          "expanded_url": "https://x.com/wngy189327/status/1972251239456108841/photo/1",
+          "media_key": "3_1972251149966422016",
+          "start": 60,
+          "url": "https://t.co/sykMTpT0Om"
+        },
+        {
+          "display_url": "pic.x.com/sykMTpT0Om",
+          "end": 83,
+          "expanded_url": "https://x.com/wngy189327/status/1972251239456108841/photo/1",
+          "media_key": "3_1972251149727383552",
+          "start": 60,
+          "url": "https://t.co/sykMTpT0Om"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972528166091833779",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972251239456108841",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wngy189327: 像这样后面写着待诊或者问号的也算是小证，医院也认，不管是打青春阻断剂和hrt都可以用。 https://t.co/sykMTpT0Om"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1972251149966422016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G17X-LGasAAj5g4.jpg",
+        "width": 1553
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1972251149727383552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G17X-KNbQAAmN0E.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972251149966422016",
+            "3_1972251149727383552"
+          ],
+          "media_source_tweet_id": [
+            "1972251239456108841",
+            "1972251239456108841"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1972528166091833779",
+        "created_at": "2025-09-29T05:05:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T06:05:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972528166091833779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1750684739441446912",
+              "start": 3,
+              "username": "wngy189327"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sykMTpT0Om",
+              "end": 83,
+              "expanded_url": "https://x.com/wngy189327/status/1972251239456108841/photo/1",
+              "media_key": "3_1972251149966422016",
+              "start": 60,
+              "url": "https://t.co/sykMTpT0Om"
+            },
+            {
+              "display_url": "pic.x.com/sykMTpT0Om",
+              "end": 83,
+              "expanded_url": "https://x.com/wngy189327/status/1972251239456108841/photo/1",
+              "media_key": "3_1972251149727383552",
+              "start": 60,
+              "url": "https://t.co/sykMTpT0Om"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972528166091833779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972251239456108841",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wngy189327: 像这样后面写着待诊或者问号的也算是小证，医院也认，不管是打青春阻断剂和hrt都可以用。 https://t.co/sykMTpT0Om"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972251149966422016",
+            "3_1972251149727383552"
+          ]
+        },
+        "author_id": "1750684739441446912",
+        "conversation_id": "1972251239456108841",
+        "created_at": "2025-09-28T10:45:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T11:45:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972251239456108841"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sykMTpT0Om",
+              "end": 67,
+              "expanded_url": "https://x.com/wngy189327/status/1972251239456108841/photo/1",
+              "media_key": "3_1972251149966422016",
+              "start": 44,
+              "url": "https://t.co/sykMTpT0Om"
+            },
+            {
+              "display_url": "pic.x.com/sykMTpT0Om",
+              "end": 67,
+              "expanded_url": "https://x.com/wngy189327/status/1972251239456108841/photo/1",
+              "media_key": "3_1972251149727383552",
+              "start": 44,
+              "url": "https://t.co/sykMTpT0Om"
+            },
+            {
+              "display_url": "x.com/MoMo2007_/stat…",
+              "end": 91,
+              "expanded_url": "https://twitter.com/MoMo2007_/status/1972184609044812281",
+              "start": 68,
+              "url": "https://t.co/1SDkplr8fU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972251239456108841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2365,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972184609044812281",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "像这样后面写着待诊或者问号的也算是小证，医院也认，不管是打青春阻断剂和hrt都可以用。 https://t.co/sykMTpT0Om https://t.co/1SDkplr8fU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "pinned_tweet_id": "1971859627869708434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 253,
+          "like_count": 3509,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 999
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-26T00:59:19.000Z",
+        "description": "一个翻车的法西斯\n130斤\n10年的mtf\n15岁的xyn\n有小证\nhrt🍥：2025年7月5日（正在断糖）\n已炸柜\n1000度近视\n本号不涉政，只更新日常 涉政见大号   @min_hong75899\n同类互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 87,
+                "username": "min_hong75899"
+              }
+            ]
+          }
+        },
+        "id": "1750684739441446912",
+        "name": "核弹 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970280968453050368/psYA8YL__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 258,
+          "like_count": 3816,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 495
+        },
+        "username": "wngy189327",
+        "verified": false
+      }
+    ]
+  }
+}

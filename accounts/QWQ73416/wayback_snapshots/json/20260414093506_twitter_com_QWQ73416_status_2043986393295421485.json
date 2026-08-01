@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "2043733112140796309",
+    "created_at": "2026-04-14T09:35:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T10:35:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043986393295421485"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1860552199585300482",
+          "start": 0,
+          "username": "Seven_Eraya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043986393295421485",
+    "in_reply_to_user_id": "1860552199585300482",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043980433336229889",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Seven_Eraya 。。。。。。。。。。。。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043980428739260419",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF2tXtbasAMuIZp.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "2043733112140796309",
+        "created_at": "2026-04-14T09:35:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T10:35:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043986393295421485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1860552199585300482",
+              "start": 0,
+              "username": "Seven_Eraya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043986393295421485",
+        "in_reply_to_user_id": "1860552199585300482",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043980433336229889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Seven_Eraya 。。。。。。。。。。。。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043980428739260419"
+          ]
+        },
+        "author_id": "1860552199585300482",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2043733112140796309",
+        "created_at": "2026-04-14T09:11:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T10:11:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043980433336229889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1955503492145283072",
+              "start": 0,
+              "username": "QWQ73416"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/smcSXzuH1o",
+              "end": 38,
+              "expanded_url": "https://x.com/Seven_Eraya/status/2043980433336229889/photo/1",
+              "media_key": "3_2043980428739260419",
+              "start": 15,
+              "url": "https://t.co/smcSXzuH1o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043980433336229889",
+        "in_reply_to_user_id": "1955503492145283072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043842047749329086",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QWQ73416 我没招了 https://t.co/smcSXzuH1o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10🌟|GAHT/HRT:2025.10.7|\n割手的痕迹被我妈看到了，被骂了一顿|\n好闺蜜 @N2OXYN |\n→I an not a vitual account.(T~T)←|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 47,
+                "username": "N2OXYN"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "name": "🧊泠小米❄️",
+        "pinned_tweet_id": "2037669545633325393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023719096047771648/WvkPh1aM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 683,
+          "following_count": 322,
+          "like_count": 6453,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 1679
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-24T05:15:08.000Z",
+        "description": "无证含糖🍥|边缘性人格特质|非典型强迫症|重度抑郁|性别烦躁|超强易敏体质|已拥盐|Hrt Start26.3.7|正在研究 C++11",
+        "id": "1860552199585300482",
+        "name": "Eraya🍥_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000119531575095296/-lELMvd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 40,
+          "like_count": 63,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 79
+        },
+        "username": "Seven_Eraya",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970872056515629056"
+      ],
+      "media_source_tweet_id": [
+        "1971545301321138240"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1971591889523749025",
+    "created_at": "2025-09-26T15:05:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-26T16:05:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971591889523749025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1488165320355237893",
+          "start": 3,
+          "username": "inuwoartwork"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tqvLc8ooev",
+          "end": 41,
+          "expanded_url": "https://x.com/inuwoartwork/status/1971545301321138240/photo/1",
+          "media_key": "3_1970872056515629056",
+          "start": 18,
+          "url": "https://t.co/tqvLc8ooev"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971591889523749025",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971545301321138240",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @inuwoartwork: https://t.co/tqvLc8ooev"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1970872056515629056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1nxsXpbkAAfDxY.jpg",
+        "width": 2874
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970872056515629056"
+          ],
+          "media_source_tweet_id": [
+            "1971545301321138240"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1971591889523749025",
+        "created_at": "2025-09-26T15:05:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T16:05:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971591889523749025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1488165320355237893",
+              "start": 3,
+              "username": "inuwoartwork"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tqvLc8ooev",
+              "end": 41,
+              "expanded_url": "https://x.com/inuwoartwork/status/1971545301321138240/photo/1",
+              "media_key": "3_1970872056515629056",
+              "start": 18,
+              "url": "https://t.co/tqvLc8ooev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971591889523749025",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971545301321138240",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @inuwoartwork: https://t.co/tqvLc8ooev"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970872056515629056"
+          ]
+        },
+        "author_id": "1488165320355237893",
+        "conversation_id": "1971545301321138240",
+        "created_at": "2025-09-26T12:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T13:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971545301321138240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tqvLc8ooev",
+              "end": 23,
+              "expanded_url": "https://x.com/inuwoartwork/status/1971545301321138240/photo/1",
+              "media_key": "3_1970872056515629056",
+              "start": 0,
+              "url": "https://t.co/tqvLc8ooev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971545301321138240",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 5376,
+          "like_count": 419,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/tqvLc8ooev"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "pinned_tweet_id": "1971096075286216763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 252,
+          "like_count": 3419,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 965
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-31T15:00:49.000Z",
+        "description": "柴呉 狗ヲ。Shibakure Inuwo/着手10月〜のお仕事募集中です Mail→shibakureinuwo@gmail.com /FA→#狗ヲの餌入れ /Skeb→https://t.co/scfypYKTXa",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 79,
+                "start": 72,
+                "tag": "狗ヲの餌入れ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@inuwoartwork",
+                "end": 109,
+                "expanded_url": "http://skeb.jp/@inuwoartwork",
+                "start": 86,
+                "url": "https://t.co/scfypYKTXa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/inuwoartwork",
+                "end": 23,
+                "expanded_url": "https://lit.link/inuwoartwork",
+                "start": 0,
+                "url": "https://t.co/dqmnVFfKr6"
+              }
+            ]
+          }
+        },
+        "id": "1488165320355237893",
+        "location": "AI学習禁止",
+        "name": "狗ヲ",
+        "pinned_tweet_id": "1928768484504129876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1564228912627871744/SNmLRsHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70516,
+          "following_count": 463,
+          "like_count": 2157,
+          "listed_count": 533,
+          "media_count": 504,
+          "tweet_count": 4324
+        },
+        "url": "https://t.co/dqmnVFfKr6",
+        "username": "inuwoartwork",
+        "verified": false
+      }
+    ]
+  }
+}

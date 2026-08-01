@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1973149590531743978",
+    "created_at": "2025-10-01T02:43:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-01T03:43:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973217160169398385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1661260055914876928",
+          "start": 0,
+          "username": "Kiss_light233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973217160169398385",
+    "in_reply_to_user_id": "1661260055914876928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973149590531743978",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kiss_light233 哇！我最喜欢的歌唉！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1973149587700588546",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2IJGIeaIAIFbuI.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1973149590531743978",
+        "created_at": "2025-10-01T02:43:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T03:43:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973217160169398385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1661260055914876928",
+              "start": 0,
+              "username": "Kiss_light233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973217160169398385",
+        "in_reply_to_user_id": "1661260055914876928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973149590531743978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kiss_light233 哇！我最喜欢的歌唉！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973149587700588546"
+          ]
+        },
+        "author_id": "1661260055914876928",
+        "conversation_id": "1973149590531743978",
+        "created_at": "2025-09-30T22:14:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T23:14:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973149590531743978"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "歌曲名《world.execute (me) ;》，由 Mili 演唱，收录于《Miracle Milk》专辑中，《world.execute (me) ;》下载，《world.execute (me) ;》在线试听，更多world.execute (me) ;相关歌曲推荐，尽在网易云音乐",
+              "display_url": "163cn.tv/KO6nBIk",
+              "end": 62,
+              "expanded_url": "https://163cn.tv/KO6nBIk",
+              "images": [
+                {
+                  "height": 758,
+                  "url": "https://pbs.twimg.com/news_img/1973149616800690176/ZAysaRz8?format=jpg&name=orig",
+                  "width": 758
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1973149616800690176/ZAysaRz8?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 39,
+              "status": 200,
+              "title": "world.execute (me) ; - Mili - 单曲 - 网易云音乐",
+              "unwound_url": "https://y.music.163.com/m/song?id=435278010&uct2=XdlYxGyslU2Tb3iZxYtong%3D%3D&fx-wechatnew=t1&fx-wxqd=c&fx-wordtest=t4&fx-listentest=t3&H5_DownloadVIPGift=&playerUIModeId=2347003&PlayerStyles_SynchronousSharing=t3&dlt=0846&app_version=9.3.70&sc=wm&tn=",
+              "url": "https://t.co/3d80lizTHW"
+            },
+            {
+              "display_url": "pic.x.com/1wKn08ChR0",
+              "end": 104,
+              "expanded_url": "https://x.com/Kiss_light233/status/1973149590531743978/photo/1",
+              "media_key": "3_1973149587700588546",
+              "start": 81,
+              "url": "https://t.co/1wKn08ChR0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973149590531743978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一起分享好听的歌曲吧！\n我先来《world.execute (me) ;》\n https://t.co/3d80lizTHW\n是mili老师唱的www歌词很戳我 https://t.co/1wKn08ChR0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "pinned_tweet_id": "1971859627869708434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 254,
+          "like_count": 3555,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1012
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-24T06:37:30.000Z",
+        "description": "人间路过的阳阳,喜欢世界上可可爱爱的东西 \n-\n会对所有人都保持善意つ♡⊂\n-\n虽然..咱不太擅长聊天...但是想和大家做朋友wq \n-\n拜托了！！请和我聊天！！≥﹏≤\n—树洞投稿私信咱哦~≡ω≡—",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KissLight",
+                "end": 23,
+                "expanded_url": "http://t.me/KissLight",
+                "start": 0,
+                "url": "https://t.co/YQ1vFfAL7l"
+              }
+            ]
+          }
+        },
+        "id": "1661260055914876928",
+        "location": "阳阳的猫窝~",
+        "name": "Light🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1967172985229635691",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967171273513123841/s6mAU-JD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1974,
+          "following_count": 353,
+          "like_count": 4800,
+          "listed_count": 3,
+          "media_count": 368,
+          "tweet_count": 4140
+        },
+        "url": "https://t.co/YQ1vFfAL7l",
+        "username": "Kiss_light233",
+        "verified": false
+      }
+    ]
+  }
+}

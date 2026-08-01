@@ -1,0 +1,513 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1961799109956050945",
+        "3_1961799109989576704",
+        "3_1961799109976948736"
+      ],
+      "media_source_tweet_id": [
+        "1961799116067147962",
+        "1961799116067147962",
+        "1961799116067147962"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1962046233578750134",
+    "created_at": "2025-08-31T06:54:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T07:54:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962046233578750134"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 14,
+          "tag": "今月描いた絵を晒そう"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "749486414501322752",
+          "start": 3,
+          "username": "ramdear2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xYiIypwU0b",
+          "end": 49,
+          "expanded_url": "https://x.com/ramdear2/status/1961799116067147962/photo/1",
+          "media_key": "3_1961799109956050945",
+          "start": 26,
+          "url": "https://t.co/xYiIypwU0b"
+        },
+        {
+          "display_url": "pic.x.com/xYiIypwU0b",
+          "end": 49,
+          "expanded_url": "https://x.com/ramdear2/status/1961799116067147962/photo/1",
+          "media_key": "3_1961799109989576704",
+          "start": 26,
+          "url": "https://t.co/xYiIypwU0b"
+        },
+        {
+          "display_url": "pic.x.com/xYiIypwU0b",
+          "end": 49,
+          "expanded_url": "https://x.com/ramdear2/status/1961799116067147962/photo/1",
+          "media_key": "3_1961799109976948736",
+          "start": 26,
+          "url": "https://t.co/xYiIypwU0b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962046233578750134",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 40
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961799116067147962",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ramdear2: #今月描いた絵を晒そう https://t.co/xYiIypwU0b"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1447,
+        "media_key": "3_1961799109956050945",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzm15X2boAEna4l.jpg",
+        "width": 1053
+      },
+      {
+        "height": 1781,
+        "media_key": "3_1961799109989576704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzm15X-bMAAJR40.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1961799109976948736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzm15X7agAA8-R4.jpg",
+        "width": 1522
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961799109956050945",
+            "3_1961799109989576704",
+            "3_1961799109976948736"
+          ],
+          "media_source_tweet_id": [
+            "1961799116067147962",
+            "1961799116067147962",
+            "1961799116067147962"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1962046233578750134",
+        "created_at": "2025-08-31T06:54:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T07:54:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962046233578750134"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 14,
+              "tag": "今月描いた絵を晒そう"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "749486414501322752",
+              "start": 3,
+              "username": "ramdear2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xYiIypwU0b",
+              "end": 49,
+              "expanded_url": "https://x.com/ramdear2/status/1961799116067147962/photo/1",
+              "media_key": "3_1961799109956050945",
+              "start": 26,
+              "url": "https://t.co/xYiIypwU0b"
+            },
+            {
+              "display_url": "pic.x.com/xYiIypwU0b",
+              "end": 49,
+              "expanded_url": "https://x.com/ramdear2/status/1961799116067147962/photo/1",
+              "media_key": "3_1961799109989576704",
+              "start": 26,
+              "url": "https://t.co/xYiIypwU0b"
+            },
+            {
+              "display_url": "pic.x.com/xYiIypwU0b",
+              "end": 49,
+              "expanded_url": "https://x.com/ramdear2/status/1961799116067147962/photo/1",
+              "media_key": "3_1961799109976948736",
+              "start": 26,
+              "url": "https://t.co/xYiIypwU0b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962046233578750134",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961799116067147962",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ramdear2: #今月描いた絵を晒そう https://t.co/xYiIypwU0b"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961799109956050945",
+            "3_1961799109989576704",
+            "3_1961799109976948736"
+          ]
+        },
+        "author_id": "749486414501322752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1961799116067147962",
+        "created_at": "2025-08-30T14:32:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T15:32:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961799116067147962"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "今月描いた絵を晒そう"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xYiIypwU0b",
+              "end": 35,
+              "expanded_url": "https://x.com/ramdear2/status/1961799116067147962/photo/1",
+              "media_key": "3_1961799109956050945",
+              "start": 12,
+              "url": "https://t.co/xYiIypwU0b"
+            },
+            {
+              "display_url": "pic.x.com/xYiIypwU0b",
+              "end": 35,
+              "expanded_url": "https://x.com/ramdear2/status/1961799116067147962/photo/1",
+              "media_key": "3_1961799109989576704",
+              "start": 12,
+              "url": "https://t.co/xYiIypwU0b"
+            },
+            {
+              "display_url": "pic.x.com/xYiIypwU0b",
+              "end": 35,
+              "expanded_url": "https://x.com/ramdear2/status/1961799116067147962/photo/1",
+              "media_key": "3_1961799109976948736",
+              "start": 12,
+              "url": "https://t.co/xYiIypwU0b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961799116067147962",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 102,
+          "impression_count": 8657,
+          "like_count": 547,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "#今月描いた絵を晒そう https://t.co/xYiIypwU0b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|小推@QWQ1885|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "QWQ1885"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 174,
+          "like_count": 1542,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 370
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-03T06:14:20.000Z",
+        "description": "絵と日常。デフォルメｽｷｰ ▪️有償依頼✉️→ramuta0000@gmail.com Skeb→ https://t.co/HldZrRmSMO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@ramdear2",
+                "end": 73,
+                "expanded_url": "https://skeb.jp/@ramdear2",
+                "start": 50,
+                "url": "https://t.co/HldZrRmSMO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "potofu.me/ramuta",
+                "end": 23,
+                "expanded_url": "https://potofu.me/ramuta",
+                "start": 0,
+                "url": "https://t.co/FOLqzuokkV"
+              }
+            ]
+          }
+        },
+        "id": "749486414501322752",
+        "location": "🦎🐍",
+        "name": "らむた@コミティア153【て27a】",
+        "pinned_tweet_id": "1873864354879373461",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797233860574662656/zHbznVpi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12215,
+          "following_count": 129,
+          "like_count": 546,
+          "listed_count": 97,
+          "media_count": 857,
+          "tweet_count": 1637
+        },
+        "url": "https://t.co/FOLqzuokkV",
+        "username": "ramdear2",
+        "verified": false
+      }
+    ]
+  }
+}

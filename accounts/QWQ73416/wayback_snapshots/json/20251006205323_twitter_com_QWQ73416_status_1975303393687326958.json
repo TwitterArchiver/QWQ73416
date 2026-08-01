@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1975037777109754069",
+    "created_at": "2025-10-06T20:53:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T21:53:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975303393687326958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1734492845958983680",
+          "start": 0,
+          "username": "Ruby0125210"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975303393687326958",
+    "in_reply_to_user_id": "1734492845958983680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975037777109754069",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ruby0125210 真是搞不懂啊。。。人情世故贯穿一辈子。。。实际上0个人在意😥"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1084,
+        "media_key": "3_1975037763347992576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2i-Ya5W0AAKh85.jpg",
+        "width": 1048
+      },
+      {
+        "height": 619,
+        "media_key": "3_1975037763335397377",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2i-Ya2WoAE9e68.jpg",
+        "width": 1036
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1975037777109754069",
+        "created_at": "2025-10-06T20:53:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T21:53:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975303393687326958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1734492845958983680",
+              "start": 0,
+              "username": "Ruby0125210"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975303393687326958",
+        "in_reply_to_user_id": "1734492845958983680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975037777109754069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ruby0125210 真是搞不懂啊。。。人情世故贯穿一辈子。。。实际上0个人在意😥"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975037763347992576",
+            "3_1975037763335397377"
+          ]
+        },
+        "author_id": "1734492845958983680",
+        "conversation_id": "1975037777109754069",
+        "created_at": "2025-10-06T03:17:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T04:17:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975037777109754069"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tcxyQVqOWO",
+              "end": 70,
+              "expanded_url": "https://x.com/Ruby0125210/status/1975037777109754069/photo/1",
+              "media_key": "3_1975037763347992576",
+              "start": 47,
+              "url": "https://t.co/tcxyQVqOWO"
+            },
+            {
+              "display_url": "pic.x.com/tcxyQVqOWO",
+              "end": 70,
+              "expanded_url": "https://x.com/Ruby0125210/status/1975037777109754069/photo/1",
+              "media_key": "3_1975037763335397377",
+              "start": 47,
+              "url": "https://t.co/tcxyQVqOWO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975037777109754069",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 292536,
+          "like_count": 774,
+          "quote_count": 9,
+          "reply_count": 128,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "因为要交作业登了我妈的钉钉\n看到这些……\n想死了……\n好烦……\n好恶心……\n为什么要这样…… https://t.co/tcxyQVqOWO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "pinned_tweet_id": "1971859627869708434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 263,
+          "like_count": 3822,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1058
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-12T08:38:32.000Z",
+        "description": "08年/无证不含糖🍥/渴望变成女孩子/intp/什么也不懂的ばか/同位体：@Sapphire0125210/欢迎同类互fo/关注啦就不要取消啦/🚪50加好友/不线下/希望被大家喜欢/希望被投喂（会掉落特殊素材哦）  不要上来就给咱发你那牛子照！！！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 37,
+                "username": "Sapphire0125210"
+              }
+            ]
+          }
+        },
+        "id": "1734492845958983680",
+        "location": "Backrooms",
+        "name": "Ruby",
+        "pinned_tweet_id": "1901953967057465735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849073045052223488/aWZq_Mqu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 904,
+          "following_count": 481,
+          "like_count": 2802,
+          "listed_count": 1,
+          "media_count": 108,
+          "tweet_count": 725
+        },
+        "username": "Ruby0125210",
+        "verified": false
+      }
+    ]
+  }
+}

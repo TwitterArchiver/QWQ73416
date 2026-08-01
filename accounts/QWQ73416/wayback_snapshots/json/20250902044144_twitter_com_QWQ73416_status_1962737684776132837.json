@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1962556420475531318",
+    "created_at": "2025-09-02T04:41:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T05:41:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962737684776132837"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1814598522895020033",
+          "start": 0,
+          "username": "LeoTrans112233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962737684776132837",
+    "in_reply_to_user_id": "1814598522895020033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962737396648493140",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LeoTrans112233 可以转班吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1962556420475531318",
+        "created_at": "2025-09-02T04:41:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T05:41:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962737684776132837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1814598522895020033",
+              "start": 0,
+              "username": "LeoTrans112233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962737684776132837",
+        "in_reply_to_user_id": "1814598522895020033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962737396648493140",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LeoTrans112233 可以转班吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814598522895020033",
+        "conversation_id": "1962556420475531318",
+        "created_at": "2025-09-02T04:40:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T05:40:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962737396648493140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1955503492145283072",
+              "start": 0,
+              "username": "QWQ73416"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962737396648493140",
+        "in_reply_to_user_id": "1955503492145283072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962733557610332486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QWQ73416 咱还没出柜的说……不过同学们用戏弄的语气说什么“你男性魅力真强，吸引了那么多小学妹”的时候，我真的要崩溃了……咱和大部分女生都很能聊的来的说，就是和自己班里的同学们相处不了……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|小推@QWQ1885|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "QWQ1885"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 194,
+          "like_count": 1685,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 439
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-20T09:49:54.000Z",
+        "description": "MTF|含糖|08高中生|穷|没钱吃饭|求施舍|女装|热爱生活|目标是985大学|害怕爆柜",
+        "id": "1814598522895020033",
+        "name": "锦🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1952321495595958641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930303859240644609/xeAo-Wo1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 96,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 50
+        },
+        "username": "LeoTrans112233",
+        "verified": false
+      }
+    ]
+  }
+}

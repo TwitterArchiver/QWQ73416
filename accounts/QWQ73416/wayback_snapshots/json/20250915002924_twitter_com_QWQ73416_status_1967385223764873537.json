@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967085768922271744"
+      ],
+      "media_source_tweet_id": [
+        "1967085781559959951"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1967385223764873537",
+    "created_at": "2025-09-15T00:29:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-15T01:29:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967385223764873537"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1442636999198855173",
+          "start": 3,
+          "username": "EefojLuk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Rug2IJCmZI",
+          "end": 42,
+          "expanded_url": "https://x.com/EefojLuk/status/1967085781559959951/photo/1",
+          "media_key": "3_1967085768922271744",
+          "start": 19,
+          "url": "https://t.co/Rug2IJCmZI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967385223764873537",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 442
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967085781559959951",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EefojLuk: bird https://t.co/Rug2IJCmZI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1855,
+        "media_key": "3_1967085768922271744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0x-FbNWkAAEOpA.jpg",
+        "width": 1237
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967085768922271744"
+          ],
+          "media_source_tweet_id": [
+            "1967085781559959951"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1967385223764873537",
+        "created_at": "2025-09-15T00:29:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T01:29:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967385223764873537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1442636999198855173",
+              "start": 3,
+              "username": "EefojLuk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Rug2IJCmZI",
+              "end": 42,
+              "expanded_url": "https://x.com/EefojLuk/status/1967085781559959951/photo/1",
+              "media_key": "3_1967085768922271744",
+              "start": 19,
+              "url": "https://t.co/Rug2IJCmZI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967385223764873537",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 442
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967085781559959951",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EefojLuk: bird https://t.co/Rug2IJCmZI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967085768922271744"
+          ]
+        },
+        "author_id": "1442636999198855173",
+        "conversation_id": "1967085781559959951",
+        "created_at": "2025-09-14T04:39:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T05:39:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967085781559959951"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "bird",
+              "probability": 0.5628,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Rug2IJCmZI",
+              "end": 28,
+              "expanded_url": "https://x.com/EefojLuk/status/1967085781559959951/photo/1",
+              "media_key": "3_1967085768922271744",
+              "start": 5,
+              "url": "https://t.co/Rug2IJCmZI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967085781559959951",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 763,
+          "impression_count": 51911,
+          "like_count": 6405,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 442
+        },
+        "reply_settings": "everyone",
+        "text": "bird https://t.co/Rug2IJCmZI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 223,
+          "like_count": 2619,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 682
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-27T23:47:30.000Z",
+        "description": "16+ / 21 ⁕ she/they ⁕ personal @eefojsoup ⁕ ✉️ sonya20072017@gmail.com . SLOW DMS ❗️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 31,
+                "username": "eefojsoup"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "eefoj.straw.page",
+                "end": 23,
+                "expanded_url": "https://eefoj.straw.page/",
+                "start": 0,
+                "url": "https://t.co/UGhsCJxpjY"
+              }
+            ]
+          }
+        },
+        "id": "1442636999198855173",
+        "location": "🦕 comms are closed!",
+        "name": "✶Eefoj 𓅰𖦹",
+        "pinned_tweet_id": "1873825477355536459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1716509987080388608/62jpDzoJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22257,
+          "following_count": 676,
+          "like_count": 24759,
+          "listed_count": 179,
+          "media_count": 256,
+          "tweet_count": 884
+        },
+        "url": "https://t.co/UGhsCJxpjY",
+        "username": "EefojLuk",
+        "verified": false
+      }
+    ]
+  }
+}

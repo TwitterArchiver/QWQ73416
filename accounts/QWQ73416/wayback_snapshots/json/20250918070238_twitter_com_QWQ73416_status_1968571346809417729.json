@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968256371515957248"
+      ],
+      "media_source_tweet_id": [
+        "1968256377903824958"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1968571346809417729",
+    "created_at": "2025-09-18T07:02:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T08:02:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968571346809417729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1967975702483140608",
+          "start": 3,
+          "username": "negima_yoiti02"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6syhdYzUXo",
+          "end": 58,
+          "expanded_url": "https://x.com/negima_yoiti02/status/1968256377903824958/photo/1",
+          "media_key": "3_1968256371515957248",
+          "start": 35,
+          "url": "https://t.co/6syhdYzUXo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968571346809417729",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 84
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968256377903824958",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @negima_yoiti02: 褐色エジプト猫耳ロリきりたん https://t.co/6syhdYzUXo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1968256371515957248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1CmvdsboAAbyux.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968256371515957248"
+          ],
+          "media_source_tweet_id": [
+            "1968256377903824958"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1968571346809417729",
+        "created_at": "2025-09-18T07:02:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T08:02:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968571346809417729"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1967975702483140608",
+              "start": 3,
+              "username": "negima_yoiti02"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6syhdYzUXo",
+              "end": 58,
+              "expanded_url": "https://x.com/negima_yoiti02/status/1968256377903824958/photo/1",
+              "media_key": "3_1968256371515957248",
+              "start": 35,
+              "url": "https://t.co/6syhdYzUXo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968571346809417729",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 84
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968256377903824958",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @negima_yoiti02: 褐色エジプト猫耳ロリきりたん https://t.co/6syhdYzUXo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968256371515957248"
+          ]
+        },
+        "author_id": "1967975702483140608",
+        "conversation_id": "1968256377903824958",
+        "created_at": "2025-09-17T10:11:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T11:11:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968256377903824958"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6syhdYzUXo",
+              "end": 38,
+              "expanded_url": "https://x.com/negima_yoiti02/status/1968256377903824958/photo/1",
+              "media_key": "3_1968256371515957248",
+              "start": 15,
+              "url": "https://t.co/6syhdYzUXo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968256377903824958",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 7508,
+          "like_count": 391,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 84
+        },
+        "reply_settings": "everyone",
+        "text": "褐色エジプト猫耳ロリきりたん https://t.co/6syhdYzUXo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 229,
+          "like_count": 3021,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 805
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-16T15:36:33.000Z",
+        "description": "voiceroid系統のイラストを描いてます 動画で使ってる素材もアップするかも / 動画用アカ @negima_yoiti",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 49,
+                "username": "negima_yoiti"
+              }
+            ]
+          }
+        },
+        "id": "1967975702483140608",
+        "name": "ねぎまよ（さぶ）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967977658937118726/X4oc34zs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 2,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 3
+        },
+        "username": "negima_yoiti02",
+        "verified": false
+      }
+    ]
+  }
+}

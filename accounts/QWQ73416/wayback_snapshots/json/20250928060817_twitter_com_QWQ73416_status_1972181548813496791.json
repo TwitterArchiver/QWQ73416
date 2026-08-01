@@ -1,0 +1,397 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1971843556903124992"
+      ],
+      "media_source_tweet_id": [
+        "1971845080819671294"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1972181548813496791",
+    "created_at": "2025-09-28T06:08:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T07:08:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972181548813496791"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "86487092",
+          "start": 3,
+          "username": "SHISUI101"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IPHOTlk9Se",
+          "end": 77,
+          "expanded_url": "https://x.com/SHISUI101/status/1971845080819671294/photo/1",
+          "media_key": "3_1971843556903124992",
+          "start": 54,
+          "url": "https://t.co/IPHOTlk9Se"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972181548813496791",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 338
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971845080819671294",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SHISUI101: 褐色エジプト猫耳～。\n（めちゃ久々にちゃんとした絵を描いたかもしれん＾＾；） https://t.co/IPHOTlk9Se"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1971843556903124992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G11lRInagAAENTb.jpg",
+        "width": 1296
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971843556903124992"
+          ],
+          "media_source_tweet_id": [
+            "1971845080819671294"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1972181548813496791",
+        "created_at": "2025-09-28T06:08:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T07:08:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972181548813496791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "86487092",
+              "start": 3,
+              "username": "SHISUI101"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IPHOTlk9Se",
+              "end": 77,
+              "expanded_url": "https://x.com/SHISUI101/status/1971845080819671294/photo/1",
+              "media_key": "3_1971843556903124992",
+              "start": 54,
+              "url": "https://t.co/IPHOTlk9Se"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972181548813496791",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 338
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971845080819671294",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SHISUI101: 褐色エジプト猫耳～。\n（めちゃ久々にちゃんとした絵を描いたかもしれん＾＾；） https://t.co/IPHOTlk9Se"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971843556903124992"
+          ]
+        },
+        "author_id": "86487092",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1971845080819671294",
+        "created_at": "2025-09-27T07:51:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T08:51:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971845080819671294"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IPHOTlk9Se",
+              "end": 62,
+              "expanded_url": "https://x.com/SHISUI101/status/1971845080819671294/photo/1",
+              "media_key": "3_1971843556903124992",
+              "start": 39,
+              "url": "https://t.co/IPHOTlk9Se"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971845080819671294",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 229,
+          "impression_count": 27734,
+          "like_count": 1865,
+          "quote_count": 2,
+          "reply_count": 17,
+          "retweet_count": 338
+        },
+        "reply_settings": "everyone",
+        "text": "褐色エジプト猫耳～。\n（めちゃ久々にちゃんとした絵を描いたかもしれん＾＾；） https://t.co/IPHOTlk9Se"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "pinned_tweet_id": "1971096075286216763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 253,
+          "like_count": 3471,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 986
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2009-10-31T08:20:11.000Z",
+        "description": "リハビリと称してらくがきを投下してます。\n基本、返事がめちゃ遅い人なので、数日後にお返しする事多いです。ご了承ください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "http://www.pixiv.net/member.php?id=96253",
+                "start": 0,
+                "url": "https://t.co/iTUr4clEia"
+              }
+            ]
+          }
+        },
+        "id": "86487092",
+        "location": "千葉っぽいとこ",
+        "name": "しすい",
+        "pinned_tweet_id": "1505392675486240770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/477833127792889858/V8HfnzkZ_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14937,
+          "following_count": 471,
+          "like_count": 5151,
+          "listed_count": 225,
+          "media_count": 1714,
+          "tweet_count": 140646
+        },
+        "url": "https://t.co/iTUr4clEia",
+        "username": "SHISUI101",
+        "verified": false
+      }
+    ]
+  }
+}

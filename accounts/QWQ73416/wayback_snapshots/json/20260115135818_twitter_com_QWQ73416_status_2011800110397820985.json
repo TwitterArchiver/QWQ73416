@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "2011602880827199502",
+    "created_at": "2026-01-15T13:58:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-15T14:58:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011800110397820985"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1775149090881560580",
+          "start": 0,
+          "username": "aparicher_core1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011800110397820985",
+    "in_reply_to_user_id": "1775149090881560580",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011602880827199502",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aparicher_core1 水蓝色系衣服完蛋了。。。n55也算是史书留名了。。。。。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2011602845888634880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-qmIWJbYAA1UOn.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "2011602880827199502",
+        "created_at": "2026-01-15T13:58:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T14:58:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011800110397820985"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1775149090881560580",
+              "start": 0,
+              "username": "aparicher_core1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011800110397820985",
+        "in_reply_to_user_id": "1775149090881560580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011602880827199502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aparicher_core1 水蓝色系衣服完蛋了。。。n55也算是史书留名了。。。。。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011602845888634880"
+          ]
+        },
+        "author_id": "1775149090881560580",
+        "conversation_id": "2011602880827199502",
+        "created_at": "2026-01-15T00:54:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T01:54:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011602880827199502"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hGoE8GFV9X",
+              "end": 47,
+              "expanded_url": "https://x.com/aparicher_core1/status/2011602880827199502/photo/1",
+              "media_key": "3_2011602845888634880",
+              "start": 24,
+              "url": "https://t.co/hGoE8GFV9X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011602880827199502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 270,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本喵好像看到了一位故人的影子，是你吗？n55？ https://t.co/hGoE8GFV9X"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|GAHT/HRT:2025.10.7|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "MTF.wiki",
+                "end": 23,
+                "expanded_url": "http://MTF.wiki",
+                "start": 0,
+                "url": "https://t.co/7tmPTkdQQ7"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "∠( ᐛ 」∠)_",
+        "name": "🍥泠小米🍥",
+        "pinned_tweet_id": "2011795096132600302",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979202568543784960/OeW4bpMU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 269,
+          "like_count": 4570,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 1164
+        },
+        "url": "https://t.co/7tmPTkdQQ7",
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-02T13:12:09.000Z",
+        "description": "09年，无业，无证含糖mtf/身高180体重65/🚪30/是一枚爱穿JK的可爱小药娘捏🍥，不卖不援交不od不乱吃药，尽管我没钱，qq：2198461644",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/2027182697",
+                "end": 23,
+                "expanded_url": "http://space.bilibili.com/2027182697",
+                "start": 0,
+                "url": "https://t.co/0qAMIXgYtl"
+              }
+            ]
+          }
+        },
+        "id": "1775149090881560580",
+        "location": "四川成都",
+        "name": "柠檬味软糖_Core1🏳️‍⚧️🍥🍬🍭(互fo～)",
+        "pinned_tweet_id": "1990640830965756028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009460374303625216/z9IVjIV2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 233,
+          "like_count": 387,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 330
+        },
+        "url": "https://t.co/0qAMIXgYtl",
+        "username": "aparicher_core1",
+        "verified": false
+      }
+    ]
+  }
+}

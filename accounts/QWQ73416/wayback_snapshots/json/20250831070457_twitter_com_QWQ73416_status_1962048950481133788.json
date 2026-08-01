@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1962048950481133788",
+    "created_at": "2025-08-31T07:04:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T08:04:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962048950481133788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1302984963805999104",
+          "start": 3,
+          "username": "littlelambqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962048950481133788",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962028856321491444",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @littlelambqwq: 我发现好多人情绪上不好过来找你，ta要的不是你去给她解决办法，而是去口头上情绪上安慰你。这有什么用吗？我口头安慰你了，你问题有得到解决吗？你就只有情绪上得到了“充能”，你其他啥问题也没有得到解决。他才不在乎你给他弄了什么解决办法，他就在乎自…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1962048950481133788",
+        "created_at": "2025-08-31T07:04:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T08:04:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962048950481133788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1302984963805999104",
+              "start": 3,
+              "username": "littlelambqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962048950481133788",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962028856321491444",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @littlelambqwq: 我发现好多人情绪上不好过来找你，ta要的不是你去给她解决办法，而是去口头上情绪上安慰你。这有什么用吗？我口头安慰你了，你问题有得到解决吗？你就只有情绪上得到了“充能”，你其他啥问题也没有得到解决。他才不在乎你给他弄了什么解决办法，他就在乎自…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1302984963805999104",
+        "conversation_id": "1962028856321491444",
+        "created_at": "2025-08-31T05:45:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T06:45:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962028856321491444"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1962028856321491444",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 145,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我发现好多人情绪上不好过来找你，ta要的不是你去给她解决办法，而是去口头上情绪上安慰你。这有什么用吗？我口头安慰你了，你问题有得到解决吗？你就只有情绪上得到了“充能”，你其他啥问题也没有得到解决。他才不在乎你给他弄了什么解决办法，他就在乎自己情绪是否得到“充能”。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|小推@QWQ1885|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "QWQ1885"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 174,
+          "like_count": 1543,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 376
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-07T15:00:08.000Z",
+        "description": "最憨的小女孩(mtx🏳️‍⚧️)/咩咩教教主/纯1/抖s/大龄跨女/控制欲强的变态/幼稚小鬼/粘人依赖人/性格暴躁/找对象ing/bluesky的id和Twitter一样",
+        "id": "1302984963805999104",
+        "location": "咩咩星-山羊州-傻子社区-250号（已搬进这个家）",
+        "name": "小咩咩🐑🍥",
+        "pinned_tweet_id": "1945238117981520297",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925812406929719296/p20A_eZ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1950,
+          "following_count": 929,
+          "like_count": 66374,
+          "listed_count": 14,
+          "media_count": 1212,
+          "tweet_count": 11933
+        },
+        "username": "littlelambqwq",
+        "verified": false
+      }
+    ]
+  }
+}

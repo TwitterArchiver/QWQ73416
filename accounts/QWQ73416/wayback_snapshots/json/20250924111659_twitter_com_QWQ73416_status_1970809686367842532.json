@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970738334562705408"
+      ],
+      "media_source_tweet_id": [
+        "1970738337234157877"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1970809686367842532",
+    "created_at": "2025-09-24T11:16:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T12:16:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970809686367842532"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1519546993181609984",
+          "start": 3,
+          "username": "dndndam"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7JnbGrvekU",
+          "end": 40,
+          "expanded_url": "https://x.com/dndndam/status/1970738337234157877/photo/1",
+          "media_key": "3_1970738334562705408",
+          "start": 17,
+          "url": "https://t.co/7JnbGrvekU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970809686367842532",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 91
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970738337234157877",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @dndndam: 😭🩵🩵 https://t.co/7JnbGrvekU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1970738334562705408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1l4Euja4AAmUj1.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970738334562705408"
+          ],
+          "media_source_tweet_id": [
+            "1970738337234157877"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1970809686367842532",
+        "created_at": "2025-09-24T11:16:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T12:16:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970809686367842532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1519546993181609984",
+              "start": 3,
+              "username": "dndndam"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7JnbGrvekU",
+              "end": 40,
+              "expanded_url": "https://x.com/dndndam/status/1970738337234157877/photo/1",
+              "media_key": "3_1970738334562705408",
+              "start": 17,
+              "url": "https://t.co/7JnbGrvekU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970809686367842532",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 91
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970738337234157877",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @dndndam: 😭🩵🩵 https://t.co/7JnbGrvekU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970738334562705408"
+          ]
+        },
+        "author_id": "1519546993181609984",
+        "conversation_id": "1970738337234157877",
+        "created_at": "2025-09-24T06:33:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T07:33:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970738337234157877"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7JnbGrvekU",
+              "end": 27,
+              "expanded_url": "https://x.com/dndndam/status/1970738337234157877/photo/1",
+              "media_key": "3_1970738334562705408",
+              "start": 4,
+              "url": "https://t.co/7JnbGrvekU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970738337234157877",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 104,
+          "impression_count": 8460,
+          "like_count": 904,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 91
+        },
+        "reply_settings": "everyone",
+        "text": "😭🩵🩵 https://t.co/7JnbGrvekU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 245,
+          "like_count": 3319,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 922
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-28T05:20:14.000Z",
+        "description": "ART: @dndnkm / 블락확인시맞블락                 \n❤️🩶💙🩵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 5,
+                "username": "dndnkm"
+              }
+            ]
+          }
+        },
+        "id": "1519546993181609984",
+        "name": "Dindin🔜FURRAID",
+        "pinned_tweet_id": "1953056987098562591",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909270170994130944/HQeECcre_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5569,
+          "following_count": 706,
+          "like_count": 9505,
+          "listed_count": 26,
+          "media_count": 597,
+          "tweet_count": 13638
+        },
+        "username": "dndndam",
+        "verified": false
+      }
+    ]
+  }
+}

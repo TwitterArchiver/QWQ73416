@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1971253521241735168"
+      ],
+      "media_source_tweet_id": [
+        "1971253528015630817"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1971364035158475184",
+    "created_at": "2025-09-25T23:59:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-26T00:59:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971364035158475184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1494297034769465356",
+          "start": 3,
+          "username": "hataraku73"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EyWPAtx3d9",
+          "end": 41,
+          "expanded_url": "https://x.com/hataraku73/status/1971253528015630817/photo/1",
+          "media_key": "3_1971253521241735168",
+          "start": 18,
+          "url": "https://t.co/EyWPAtx3d9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971364035158475184",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 221
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971253528015630817",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hataraku73: ⁇ https://t.co/EyWPAtx3d9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1971253521241735168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1tMoifaAAAEbX8.jpg",
+        "width": 1313
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971253521241735168"
+          ],
+          "media_source_tweet_id": [
+            "1971253528015630817"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1971364035158475184",
+        "created_at": "2025-09-25T23:59:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T00:59:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971364035158475184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1494297034769465356",
+              "start": 3,
+              "username": "hataraku73"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EyWPAtx3d9",
+              "end": 41,
+              "expanded_url": "https://x.com/hataraku73/status/1971253528015630817/photo/1",
+              "media_key": "3_1971253521241735168",
+              "start": 18,
+              "url": "https://t.co/EyWPAtx3d9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971364035158475184",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 221
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971253528015630817",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hataraku73: ⁇ https://t.co/EyWPAtx3d9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971253521241735168"
+          ]
+        },
+        "author_id": "1494297034769465356",
+        "conversation_id": "1971253528015630817",
+        "created_at": "2025-09-25T16:40:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T17:40:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971253528015630817"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EyWPAtx3d9",
+              "end": 25,
+              "expanded_url": "https://x.com/hataraku73/status/1971253528015630817/photo/1",
+              "media_key": "3_1971253521241735168",
+              "start": 2,
+              "url": "https://t.co/EyWPAtx3d9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971253528015630817",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 383,
+          "impression_count": 18442,
+          "like_count": 2414,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 221
+        },
+        "reply_settings": "everyone",
+        "text": "⁇ https://t.co/EyWPAtx3d9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "pinned_tweet_id": "1971096075286216763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 252,
+          "like_count": 3402,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 954
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-17T13:05:57.000Z",
+        "description": "インテーク、けもみみが好きです / 連絡先 ✉️【0073gok♡https://t.co/lIOhESTM7l】Skeb 【 https://t.co/83NXghnazj 】 sub @hataraku125",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 94,
+                "username": "hataraku125"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "gmail.com",
+                "end": 56,
+                "expanded_url": "http://gmail.com",
+                "start": 33,
+                "url": "https://t.co/lIOhESTM7l"
+              },
+              {
+                "display_url": "skeb.jp/@hataraku73",
+                "end": 87,
+                "expanded_url": "https://skeb.jp/@hataraku73",
+                "start": 64,
+                "url": "https://t.co/83NXghnazj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/hatago",
+                "end": 23,
+                "expanded_url": "https://lit.link/hatago",
+                "start": 0,
+                "url": "https://t.co/eZfiK7tOe2"
+              }
+            ]
+          }
+        },
+        "id": "1494297034769465356",
+        "location": "無断転載、AI利用禁止　ご依頼は→",
+        "name": "はたご",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1661008112755822593/6xcp0FR8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38172,
+          "following_count": 305,
+          "like_count": 6164,
+          "listed_count": 328,
+          "media_count": 239,
+          "tweet_count": 3777
+        },
+        "url": "https://t.co/eZfiK7tOe2",
+        "username": "hataraku73",
+        "verified": true
+      }
+    ]
+  }
+}

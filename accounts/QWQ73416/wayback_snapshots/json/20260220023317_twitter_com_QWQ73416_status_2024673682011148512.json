@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "2023957018105835999",
+    "created_at": "2026-02-20T02:33:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T03:33:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024673682011148512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1815745937010216960",
+          "start": 0,
+          "username": "Granite77777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024673682011148512",
+    "in_reply_to_user_id": "1815745937010216960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023957018105835999",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Granite77777 好了，以后我们要庆幸我们没生在美国了🙃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "2023957018105835999",
+        "created_at": "2026-02-20T02:33:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T03:33:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024673682011148512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1815745937010216960",
+              "start": 0,
+              "username": "Granite77777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024673682011148512",
+        "in_reply_to_user_id": "1815745937010216960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023957018105835999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Granite77777 好了，以后我们要庆幸我们没生在美国了🙃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1815745937010216960",
+        "conversation_id": "2023957018105835999",
+        "created_at": "2026-02-18T03:05:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T04:05:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023957018105835999"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wellsjorda8971…",
+              "end": 115,
+              "expanded_url": "https://twitter.com/wellsjorda89710/status/2023910137342103570",
+              "start": 92,
+              "url": "https://t.co/vooAlWkNja"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023957018105835999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "突发新闻：\n\n🇺🇸 儿童纯真的大胜利！🇺🇸\n\n现在，对未成年人进行变性手术的医生将面临重罪指控、巨额罚款，以及最高10年监禁。\n\n常识终于占了上风——不再允许以意识形态为名残害儿童。\n\n法案以216-211通过，几乎完全按党派划线——民主党人集体投反对票，因为他们希望未成年人被残害，真是多么邪恶的党派。法案现已送交参议院。\n\n你怎么看——全力支持吗？🔥"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 19683,
+          "like_count": 390,
+          "quote_count": 6,
+          "reply_count": 21,
+          "retweet_count": 88
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023910137342103570",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "突发新闻：\n\n🇺🇸 儿童纯真的大胜利！🇺🇸\n\n现在，对未成年人进行变性手术的医生将面临重罪指控、巨额罚款，以及最高10年监禁。\n\n常识终于占了上风——不再允许以意识形态为名残害儿童。 https://t.co/vooAlWkNja"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10🌟|🍥GAHT/HRT:2025.10.7🏳️‍⚧️|\n割手的痕迹被我妈看到了，被骂了一顿|\n好闺蜜 @z8897031948836 |\n→I an not a vitual account.(T~T)←|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 53,
+                "username": "z8897031948836"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "MTF.wiki",
+                "end": 23,
+                "expanded_url": "http://MTF.wiki",
+                "start": 0,
+                "url": "https://t.co/UK9faF3NwN"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "🫥",
+        "name": "🧊泠小米🍥❄️",
+        "pinned_tweet_id": "2022184415632433414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023719096047771648/WvkPh1aM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 309,
+          "like_count": 6083,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 1454
+        },
+        "url": "https://t.co/UK9faF3NwN",
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-23T13:49:30.000Z",
+        "description": "中共不灭，战斗不止！",
+        "id": "1815745937010216960",
+        "location": "New York, USA",
+        "name": "花岗岩³",
+        "pinned_tweet_id": "1845586081023983711",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1817187489351860224/08LGMoBK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14126,
+          "following_count": 568,
+          "like_count": 45145,
+          "listed_count": 54,
+          "media_count": 24394,
+          "tweet_count": 58975
+        },
+        "username": "Granite77777",
+        "verified": true
+      }
+    ]
+  }
+}

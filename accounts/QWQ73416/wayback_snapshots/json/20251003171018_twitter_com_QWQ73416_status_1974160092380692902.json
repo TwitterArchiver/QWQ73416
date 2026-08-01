@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1973850396142792806",
+    "created_at": "2025-10-03T17:10:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T18:10:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974160092380692902"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1768309380108406784",
+          "start": 0,
+          "username": "abaablon"
+        },
+        {
+          "end": 23,
+          "id": "1540063687469404161",
+          "start": 10,
+          "username": "cosplay_riji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974160092380692902",
+    "in_reply_to_user_id": "1768309380108406784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974093619519987950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@abaablon @cosplay_riji 哎，我刚看到也想到这个哎。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1973850396142792806",
+        "created_at": "2025-10-03T17:10:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T18:10:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974160092380692902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1768309380108406784",
+              "start": 0,
+              "username": "abaablon"
+            },
+            {
+              "end": 23,
+              "id": "1540063687469404161",
+              "start": 10,
+              "username": "cosplay_riji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974160092380692902",
+        "in_reply_to_user_id": "1768309380108406784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974093619519987950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@abaablon @cosplay_riji 哎，我刚看到也想到这个哎。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1768309380108406784",
+        "conversation_id": "1973850396142792806",
+        "created_at": "2025-10-03T12:46:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T13:46:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974093619519987950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1540063687469404161",
+              "start": 0,
+              "username": "cosplay_riji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974093619519987950",
+        "in_reply_to_user_id": "1540063687469404161",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 458,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973850396142792806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cosplay_riji 唐毓文高中版"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "pinned_tweet_id": "1971859627869708434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 262,
+          "like_count": 3745,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1031
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-14T16:13:15.000Z",
+        "description": "🇨🇳CN，EN/JP/FR/KR学习中🌏语言学Linguistics\n🏳️‍⚧️糕中生MtF🍥泛性恋pan.🏳️‍🌈PRIDE\n☔二次元老公❤️『笠っち』\n☮️热爱和平☀️反对任何极端主义\n😘ちち@SShn_30741 はは@kir1same7 あね@KiraRettosei",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 109,
+                "start": 98,
+                "username": "SShn_30741"
+              },
+              {
+                "end": 122,
+                "start": 112,
+                "username": "kir1same7"
+              },
+              {
+                "end": 138,
+                "start": 125,
+                "username": "KiraRettosei"
+              }
+            ]
+          }
+        },
+        "id": "1768309380108406784",
+        "location": "kuishuu",
+        "name": "Abaablon🏳️‍🌈🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961376535006625792/-3BEp05p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 989,
+          "following_count": 361,
+          "like_count": 18663,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 1486
+        },
+        "username": "abaablon",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-23T20:06:17.000Z",
+        "description": "已婚｜没把男娘｜我的可爱老婆@xixi_epicene\n｜⚠️偶有🔞或阴暗发言",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "xixi_epicene"
+              }
+            ]
+          }
+        },
+        "id": "1540063687469404161",
+        "name": "Xixi-cosplay-diary",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951488697955667968/bG3-GUUo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20400,
+          "following_count": 12,
+          "like_count": 14562,
+          "listed_count": 50,
+          "media_count": 284,
+          "tweet_count": 8525
+        },
+        "username": "cosplay_riji",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2017117470327525378"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "2017117486605619321",
+    "created_at": "2026-01-30T06:07:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T07:07:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2017117486605619321"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KG3A9Ydooa",
+          "end": 42,
+          "expanded_url": "https://x.com/QWQ73416/status/2017117486605619321/photo/1",
+          "media_key": "3_2017117470327525378",
+          "start": 19,
+          "url": "https://t.co/KG3A9Ydooa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017117486605619321",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "推特你妈的是不是人？别人的讣告你都删 https://t.co/KG3A9Ydooa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1941,
+        "media_key": "3_2017117470327525378",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_49pvEbUAITZMp.jpg",
+        "width": 1217
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017117470327525378"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "2017117486605619321",
+        "created_at": "2026-01-30T06:07:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T07:07:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017117486605619321"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KG3A9Ydooa",
+              "end": 42,
+              "expanded_url": "https://x.com/QWQ73416/status/2017117486605619321/photo/1",
+              "media_key": "3_2017117470327525378",
+              "start": 19,
+              "url": "https://t.co/KG3A9Ydooa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017117486605619321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推特你妈的是不是人？别人的讣告你都删 https://t.co/KG3A9Ydooa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|GAHT/HRT:2025.10.7|欢迎交朋友|一！个！都！不！准！死！|补佳乐已被母亲发现|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "MTF.wiki",
+                "end": 23,
+                "expanded_url": "http://MTF.wiki",
+                "start": 0,
+                "url": "https://t.co/7tmPTkeoFF"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "∠( ᐛ 」∠)_",
+        "name": "🍥泠小米🍥",
+        "pinned_tweet_id": "2011795096132600302",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979202568543784960/OeW4bpMU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 274,
+          "like_count": 4875,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 1180
+        },
+        "url": "https://t.co/7tmPTkeoFF",
+        "username": "QWQ73416",
+        "verified": false
+      }
+    ]
+  }
+}

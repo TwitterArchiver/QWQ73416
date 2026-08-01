@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969780288353193985"
+      ],
+      "media_source_tweet_id": [
+        "1969780292261949613"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1969845989277417819",
+    "created_at": "2025-09-21T19:27:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T20:27:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969845989277417819"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1234893654642135040",
+          "start": 3,
+          "username": "iruri_rapulras"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rvh3Ndo5ne",
+          "end": 46,
+          "expanded_url": "https://x.com/iruri_rapulras/status/1969780292261949613/photo/1",
+          "media_key": "3_1969780288353193985",
+          "start": 23,
+          "url": "https://t.co/rvh3Ndo5ne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969845989277417819",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 106
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969780292261949613",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @iruri_rapulras: 番長 https://t.co/rvh3Ndo5ne"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2937,
+        "media_key": "3_1969780288353193985",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1YQvGTb0AEu8td.jpg",
+        "width": 2249
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969780288353193985"
+          ],
+          "media_source_tweet_id": [
+            "1969780292261949613"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1969845989277417819",
+        "created_at": "2025-09-21T19:27:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T20:27:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969845989277417819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1234893654642135040",
+              "start": 3,
+              "username": "iruri_rapulras"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rvh3Ndo5ne",
+              "end": 46,
+              "expanded_url": "https://x.com/iruri_rapulras/status/1969780292261949613/photo/1",
+              "media_key": "3_1969780288353193985",
+              "start": 23,
+              "url": "https://t.co/rvh3Ndo5ne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969845989277417819",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 106
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969780292261949613",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @iruri_rapulras: 番長 https://t.co/rvh3Ndo5ne"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969780288353193985"
+          ]
+        },
+        "author_id": "1234893654642135040",
+        "conversation_id": "1969780292261949613",
+        "created_at": "2025-09-21T15:06:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T16:06:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969780292261949613"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rvh3Ndo5ne",
+              "end": 26,
+              "expanded_url": "https://x.com/iruri_rapulras/status/1969780292261949613/photo/1",
+              "media_key": "3_1969780288353193985",
+              "start": 3,
+              "url": "https://t.co/rvh3Ndo5ne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969780292261949613",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 542,
+          "impression_count": 32650,
+          "like_count": 3407,
+          "quote_count": 3,
+          "reply_count": 7,
+          "retweet_count": 106
+        },
+        "reply_settings": "everyone",
+        "text": "番長 https://t.co/rvh3Ndo5ne"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 238,
+          "like_count": 3169,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 865
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-03T17:29:34.000Z",
+        "description": "sub🐟@Yun_Yun8754\n\nPatreon https://t.co/zMaWFPB5Tw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 4,
+                "username": "Yun_Yun8754"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "patreon.com/YUIYUI8754",
+                "end": 49,
+                "expanded_url": "http://patreon.com/YUIYUI8754",
+                "start": 26,
+                "url": "https://t.co/zMaWFPB5Tw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/yuiyui8754?igs…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/yuiyui8754?igsh=MXJtZDN0aGgyYXMwOA==",
+                "start": 0,
+                "url": "https://t.co/b261B894BT"
+              }
+            ]
+          }
+        },
+        "id": "1234893654642135040",
+        "location": "🦀 ",
+        "name": "IRURI🐟",
+        "pinned_tweet_id": "1968992923640336420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940655580164583424/YYOdrDil_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148017,
+          "following_count": 452,
+          "like_count": 26182,
+          "listed_count": 427,
+          "media_count": 123,
+          "tweet_count": 13326
+        },
+        "url": "https://t.co/b261B894BT",
+        "username": "iruri_rapulras",
+        "verified": true
+      }
+    ]
+  }
+}

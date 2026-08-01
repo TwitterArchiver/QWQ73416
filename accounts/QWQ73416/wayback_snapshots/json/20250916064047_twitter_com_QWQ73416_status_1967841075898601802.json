@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967540179453018113"
+      ],
+      "media_source_tweet_id": [
+        "1967540195382931572"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1967841075898601802",
+    "created_at": "2025-09-16T06:40:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T07:40:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967841075898601802"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1740919125990674432",
+          "start": 3,
+          "username": "ma_ru_101"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/a9vxR4o6MQ",
+          "end": 49,
+          "expanded_url": "https://x.com/ma_ru_101/status/1967540195382931572/photo/1",
+          "media_key": "3_1967540179453018113",
+          "start": 26,
+          "url": "https://t.co/a9vxR4o6MQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967841075898601802",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 94
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967540195382931572",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ma_ru_101: 癖つめつめデザ練り💜 https://t.co/a9vxR4o6MQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1967540179453018113",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G04bXmWbAAEuarX.jpg",
+        "width": 1583
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967540179453018113"
+          ],
+          "media_source_tweet_id": [
+            "1967540195382931572"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1967841075898601802",
+        "created_at": "2025-09-16T06:40:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T07:40:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967841075898601802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1740919125990674432",
+              "start": 3,
+              "username": "ma_ru_101"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a9vxR4o6MQ",
+              "end": 49,
+              "expanded_url": "https://x.com/ma_ru_101/status/1967540195382931572/photo/1",
+              "media_key": "3_1967540179453018113",
+              "start": 26,
+              "url": "https://t.co/a9vxR4o6MQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967841075898601802",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 94
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967540195382931572",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ma_ru_101: 癖つめつめデザ練り💜 https://t.co/a9vxR4o6MQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967540179453018113"
+          ]
+        },
+        "author_id": "1740919125990674432",
+        "conversation_id": "1967540195382931572",
+        "created_at": "2025-09-15T10:45:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T11:45:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967540195382931572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a9vxR4o6MQ",
+              "end": 34,
+              "expanded_url": "https://x.com/ma_ru_101/status/1967540195382931572/photo/1",
+              "media_key": "3_1967540179453018113",
+              "start": 11,
+              "url": "https://t.co/a9vxR4o6MQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967540195382931572",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 254,
+          "impression_count": 17107,
+          "like_count": 1682,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 94
+        },
+        "reply_settings": "everyone",
+        "text": "癖つめつめデザ練り💜 https://t.co/a9vxR4o6MQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 226,
+          "like_count": 2815,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 753
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-30T02:14:09.000Z",
+        "description": "キャラデザ、自創作中心、黒肌褐色が大好き🖤/18↓/自我あり、3Lあり/自我⇒ @hnkn101 /FA、ネップリ報告⇒ #マルへのお届け物/skeb現在停止中https://t.co/suynkhU3np",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 70,
+                "start": 61,
+                "tag": "マルへのお届け物"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 48,
+                "start": 40,
+                "username": "hnkn101"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@ma_ru_101",
+                "end": 103,
+                "expanded_url": "https://skeb.jp/@ma_ru_101",
+                "start": 80,
+                "url": "https://t.co/suynkhU3np"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/nolqsjuqx3yfht…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/nolqsjuqx3yfht1?t=0q2NHm&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/DW7KDqCqZ1"
+              }
+            ]
+          }
+        },
+        "id": "1740919125990674432",
+        "name": "マル@低浮上",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942445136887336960/x-6RVQE__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1057,
+          "following_count": 347,
+          "like_count": 11135,
+          "listed_count": 22,
+          "media_count": 194,
+          "tweet_count": 1422
+        },
+        "url": "https://t.co/DW7KDqCqZ1",
+        "username": "ma_ru_101",
+        "verified": false
+      }
+    ]
+  }
+}

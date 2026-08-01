@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1971464589465485435",
+    "created_at": "2025-09-26T14:56:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-26T15:56:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971589599207239798"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1817821126640496640",
+          "start": 0,
+          "username": "MTNEKO8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971589599207239798",
+    "in_reply_to_user_id": "1817821126640496640",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971464589465485435",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MTNEKO8964 不要🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1971464589465485435",
+        "created_at": "2025-09-26T14:56:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T15:56:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971589599207239798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1817821126640496640",
+              "start": 0,
+              "username": "MTNEKO8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971589599207239798",
+        "in_reply_to_user_id": "1817821126640496640",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971464589465485435",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MTNEKO8964 不要🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817821126640496640",
+        "conversation_id": "1971464589465485435",
+        "created_at": "2025-09-26T06:39:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T07:39:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971464589465485435"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1971464589465485435",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2166,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我去圆角会有人要我嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "pinned_tweet_id": "1971096075286216763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 252,
+          "like_count": 3412,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 960
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-29T07:15:16.000Z",
+        "description": "MtX🍥 / 生产日期：10011.07.13 / -14岁xyn / hrt：25.2.11 / 55cm 169kg｜极度社恐 / 泛性恋 / 爱玩抽象 / 社会化程度极低的阿斯 / 一只努力学习做好人类的猫 / 世界是由意大利面构成的｜互fo｜对象🥺🍜❤️@sanmiguelnoodle",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 147,
+                "start": 131,
+                "username": "sanmiguelnoodle"
+              }
+            ]
+          }
+        },
+        "id": "1817821126640496640",
+        "location": "评鉴亚硝酸钠的路上",
+        "name": "面条喵🍥🐱🐈",
+        "pinned_tweet_id": "1959530946673418708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958605792330096640/47TPiqrZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2276,
+          "following_count": 2119,
+          "like_count": 37012,
+          "listed_count": 5,
+          "media_count": 443,
+          "tweet_count": 4829
+        },
+        "username": "MTNEKO8964",
+        "verified": true
+      }
+    ]
+  }
+}

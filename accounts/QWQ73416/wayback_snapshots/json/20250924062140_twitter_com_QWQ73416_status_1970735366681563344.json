@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970482459642077185"
+      ],
+      "media_source_tweet_id": [
+        "1970482484040343815"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1970735366681563344",
+    "created_at": "2025-09-24T06:21:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T07:21:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970735366681563344"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "958401345408581632",
+          "start": 3,
+          "username": "yyqw7151"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5OnS6jg5ir",
+          "end": 37,
+          "expanded_url": "https://x.com/yyqw7151/status/1970482484040343815/photo/1",
+          "media_key": "3_1970482459642077185",
+          "start": 14,
+          "url": "https://t.co/5OnS6jg5ir"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970735366681563344",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 290
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970482484040343815",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yyqw7151: https://t.co/5OnS6jg5ir"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1750,
+        "media_key": "3_1970482459642077185",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1iPW2MaoAEJ4C4.jpg",
+        "width": 1150
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970482459642077185"
+          ],
+          "media_source_tweet_id": [
+            "1970482484040343815"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1970735366681563344",
+        "created_at": "2025-09-24T06:21:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T07:21:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970735366681563344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "958401345408581632",
+              "start": 3,
+              "username": "yyqw7151"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5OnS6jg5ir",
+              "end": 37,
+              "expanded_url": "https://x.com/yyqw7151/status/1970482484040343815/photo/1",
+              "media_key": "3_1970482459642077185",
+              "start": 14,
+              "url": "https://t.co/5OnS6jg5ir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970735366681563344",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 290
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970482484040343815",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yyqw7151: https://t.co/5OnS6jg5ir"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970482459642077185"
+          ]
+        },
+        "author_id": "958401345408581632",
+        "conversation_id": "1970482484040343815",
+        "created_at": "2025-09-23T13:36:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T14:36:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970482484040343815"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5OnS6jg5ir",
+              "end": 23,
+              "expanded_url": "https://x.com/yyqw7151/status/1970482484040343815/photo/1",
+              "media_key": "3_1970482459642077185",
+              "start": 0,
+              "url": "https://t.co/5OnS6jg5ir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970482484040343815",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 453,
+          "impression_count": 35648,
+          "like_count": 3607,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 290
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/5OnS6jg5ir"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 244,
+          "like_count": 3306,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 919
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-30T18:07:41.000Z",
+        "description": "１日１枚何か描く\n\nmail→ yyqw7151★https://t.co/57pA4zT1o1\nfanbox→https://t.co/WDoIHGCaBH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "gmail.com",
+                "end": 48,
+                "expanded_url": "http://gmail.com",
+                "start": 25,
+                "url": "https://t.co/57pA4zT1o1"
+              },
+              {
+                "display_url": "yyqw7151.fanbox.cc",
+                "end": 79,
+                "expanded_url": "http://yyqw7151.fanbox.cc",
+                "start": 56,
+                "url": "https://t.co/WDoIHGCaBH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/member.php?id=27631291",
+                "start": 0,
+                "url": "https://t.co/MhKztKFTA0"
+              }
+            ]
+          }
+        },
+        "id": "958401345408581632",
+        "location": "富山県",
+        "name": "ヒロき",
+        "pinned_tweet_id": "1949765864187949167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1227956530302996480/NvngMBw2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435515,
+          "following_count": 5,
+          "like_count": 3251,
+          "listed_count": 3032,
+          "media_count": 2316,
+          "tweet_count": 2405
+        },
+        "url": "https://t.co/MhKztKFTA0",
+        "username": "yyqw7151",
+        "verified": true
+      }
+    ]
+  }
+}

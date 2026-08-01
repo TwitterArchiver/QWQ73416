@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969699651860545536"
+      ],
+      "media_source_tweet_id": [
+        "1969699656985931900"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1969727171620147216",
+    "created_at": "2025-09-21T11:35:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T12:35:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969727171620147216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1115570670371389441",
+          "start": 3,
+          "username": "snake6tenpura"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Is7LS96mrY",
+          "end": 42,
+          "expanded_url": "https://x.com/snake6tenpura/status/1969699656985931900/photo/1",
+          "media_key": "3_1969699651860545536",
+          "start": 19,
+          "url": "https://t.co/Is7LS96mrY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969727171620147216",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969699656985931900",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @snake6tenpura: https://t.co/Is7LS96mrY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1969699651860545536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1XHZb9bwAAiO1U.jpg",
+        "width": 1164
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969699651860545536"
+          ],
+          "media_source_tweet_id": [
+            "1969699656985931900"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1969727171620147216",
+        "created_at": "2025-09-21T11:35:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T12:35:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969727171620147216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1115570670371389441",
+              "start": 3,
+              "username": "snake6tenpura"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Is7LS96mrY",
+              "end": 42,
+              "expanded_url": "https://x.com/snake6tenpura/status/1969699656985931900/photo/1",
+              "media_key": "3_1969699651860545536",
+              "start": 19,
+              "url": "https://t.co/Is7LS96mrY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969727171620147216",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969699656985931900",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @snake6tenpura: https://t.co/Is7LS96mrY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969699651860545536"
+          ]
+        },
+        "author_id": "1115570670371389441",
+        "conversation_id": "1969699656985931900",
+        "created_at": "2025-09-21T09:46:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T10:46:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969699656985931900"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Is7LS96mrY",
+              "end": 23,
+              "expanded_url": "https://x.com/snake6tenpura/status/1969699656985931900/photo/1",
+              "media_key": "3_1969699651860545536",
+              "start": 0,
+              "url": "https://t.co/Is7LS96mrY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969699656985931900",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 5788,
+          "like_count": 445,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Is7LS96mrY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 237,
+          "like_count": 3118,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 841
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-09T11:02:28.000Z",
+        "description": "🦷絵を描いています🦷||お仕事・ご依頼募集中 ||ご連絡先 ✉️snake610pr▫️https://t.co/EgW5D2WPIe ||Skeb https://t.co/CNHFW8gtaR ||通販 https://t.co/i8hKzA6edO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "gmail.com",
+                "end": 67,
+                "expanded_url": "http://gmail.com",
+                "start": 44,
+                "url": "https://t.co/EgW5D2WPIe"
+              },
+              {
+                "display_url": "skeb.jp/@snake6tenpura",
+                "end": 98,
+                "expanded_url": "https://skeb.jp/@snake6tenpura",
+                "start": 75,
+                "url": "https://t.co/CNHFW8gtaR"
+              },
+              {
+                "display_url": "snake6tenpura.booth.pm",
+                "end": 127,
+                "expanded_url": "https://snake6tenpura.booth.pm/",
+                "start": 104,
+                "url": "https://t.co/i8hKzA6edO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/snake6tenpura",
+                "end": 23,
+                "expanded_url": "https://lit.link/snake6tenpura",
+                "start": 0,
+                "url": "https://t.co/WwnEJIxfNV"
+              }
+            ]
+          }
+        },
+        "id": "1115570670371389441",
+        "location": "無断転載、自作発言、無断使用、AI学習等禁止",
+        "name": "蛇ノてんぷら",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1680752521818816512/9KeOu08d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15853,
+          "following_count": 382,
+          "like_count": 5328,
+          "listed_count": 198,
+          "media_count": 498,
+          "tweet_count": 2908
+        },
+        "url": "https://t.co/WwnEJIxfNV",
+        "username": "snake6tenpura",
+        "verified": false
+      }
+    ]
+  }
+}

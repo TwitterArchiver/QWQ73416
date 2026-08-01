@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1964191734595833856",
+    "created_at": "2025-09-06T04:59:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T05:59:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1964191734595833856"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1964191734595833856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "冲人到底有多媚黑？既要援非，又要让他们留下来，还有那么多人喜欢，军训也让我们啥都不干就搁那“炒糖色”。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1964191734595833856",
+        "created_at": "2025-09-06T04:59:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T05:59:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964191734595833856"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1964191734595833856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "冲人到底有多媚黑？既要援非，又要让他们留下来，还有那么多人喜欢，军训也让我们啥都不干就搁那“炒糖色”。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|小推@QWQ1885|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "QWQ1885"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 215,
+          "like_count": 2166,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 594
+        },
+        "username": "QWQ73416",
+        "verified": false
+      }
+    ]
+  }
+}

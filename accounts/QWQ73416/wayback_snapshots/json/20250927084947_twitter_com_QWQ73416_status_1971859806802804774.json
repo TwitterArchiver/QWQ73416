@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1971781372470771712"
+      ],
+      "media_source_tweet_id": [
+        "1971781389927567813"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1971859806802804774",
+    "created_at": "2025-09-27T08:49:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T09:49:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971859806802804774"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1521120116196454400",
+          "start": 3,
+          "username": "rkgksakana"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/E5ZtGMd93i",
+          "end": 39,
+          "expanded_url": "https://x.com/rkgksakana/status/1971781389927567813/photo/1",
+          "media_key": "3_1971781372470771712",
+          "start": 16,
+          "url": "https://t.co/E5ZtGMd93i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971859806802804774",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 84
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971781389927567813",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rkgksakana: https://t.co/E5ZtGMd93i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1559,
+        "media_key": "3_1971781372470771712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G10sthjaQAAwD3p.jpg",
+        "width": 1252
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971781372470771712"
+          ],
+          "media_source_tweet_id": [
+            "1971781389927567813"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1971859806802804774",
+        "created_at": "2025-09-27T08:49:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T09:49:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971859806802804774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1521120116196454400",
+              "start": 3,
+              "username": "rkgksakana"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/E5ZtGMd93i",
+              "end": 39,
+              "expanded_url": "https://x.com/rkgksakana/status/1971781389927567813/photo/1",
+              "media_key": "3_1971781372470771712",
+              "start": 16,
+              "url": "https://t.co/E5ZtGMd93i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971859806802804774",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 84
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971781389927567813",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rkgksakana: https://t.co/E5ZtGMd93i"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971781372470771712"
+          ]
+        },
+        "author_id": "1521120116196454400",
+        "conversation_id": "1971781389927567813",
+        "created_at": "2025-09-27T03:38:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T04:38:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971781389927567813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E5ZtGMd93i",
+              "end": 23,
+              "expanded_url": "https://x.com/rkgksakana/status/1971781389927567813/photo/1",
+              "media_key": "3_1971781372470771712",
+              "start": 0,
+              "url": "https://t.co/E5ZtGMd93i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971781389927567813",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 106,
+          "impression_count": 8994,
+          "like_count": 952,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 84
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/E5ZtGMd93i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "pinned_tweet_id": "1971096075286216763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 252,
+          "like_count": 3446,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 976
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-02T13:32:17.000Z",
+        "description": "らくがき 戯言 oc　https://t.co/y9ngsq4OMT",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/72043434",
+                "end": 34,
+                "expanded_url": "https://www.pixiv.net/users/72043434",
+                "start": 11,
+                "url": "https://t.co/y9ngsq4OMT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tabets…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/tabetskn.bsky.social",
+                "start": 0,
+                "url": "https://t.co/nDJp21GlvS"
+              }
+            ]
+          }
+        },
+        "id": "1521120116196454400",
+        "name": "うぃるきんそん",
+        "pinned_tweet_id": "1944339884799361535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830277384269856768/6oJyX0kW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22368,
+          "following_count": 1,
+          "like_count": 467,
+          "listed_count": 187,
+          "media_count": 550,
+          "tweet_count": 2589
+        },
+        "url": "https://t.co/nDJp21GlvS",
+        "username": "rkgksakana",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1975189409126305932",
+    "created_at": "2025-10-07T05:35:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T06:35:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975434906005348772"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1744976536397340672",
+          "start": 0,
+          "username": "JxunViolet"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975434906005348772",
+    "in_reply_to_user_id": "1744976536397340672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975189409126305932",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JxunViolet 可能是肾上腺素？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1975189389543149568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2lISOfXEAA_Krt.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1975189409126305932",
+        "created_at": "2025-10-07T05:35:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T06:35:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975434906005348772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1744976536397340672",
+              "start": 0,
+              "username": "JxunViolet"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975434906005348772",
+        "in_reply_to_user_id": "1744976536397340672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975189409126305932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JxunViolet 可能是肾上腺素？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975189389543149568"
+          ]
+        },
+        "author_id": "1744976536397340672",
+        "conversation_id": "1975189409126305932",
+        "created_at": "2025-10-06T13:20:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T14:20:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975189409126305932"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K50ukc539Z",
+              "end": 86,
+              "expanded_url": "https://x.com/JxunViolet/status/1975189409126305932/photo/1",
+              "media_key": "3_1975189389543149568",
+              "start": 63,
+              "url": "https://t.co/K50ukc539Z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975189409126305932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 342,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好快乐 今天拉掉了一台碳架闪电\n好样的小破车！那可是你的十倍身价\n话说我每天都有涂糖的凝胶\n怎么一到骑车就跟涂了睾酮一样（） https://t.co/K50ukc539Z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "MTF.wiki",
+                "end": 23,
+                "expanded_url": "http://MTF.wiki",
+                "start": 0,
+                "url": "https://t.co/7tmPTkeoFF"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "∠( ᐛ 」∠)_",
+        "name": "o(￣ヘ￣o)",
+        "pinned_tweet_id": "1971859627869708434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 266,
+          "like_count": 3892,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1070
+        },
+        "url": "https://t.co/7tmPTkeoFF",
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-10T06:56:50.000Z",
+        "description": "大号@Jxun_violet 换手机的时候被不小心封了 高龄超大只无糖mtf｜HRT 09/25｜infj小老头｜待业中 ｜请大家多多指教喵！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "Jxun_violet"
+              }
+            ]
+          }
+        },
+        "id": "1744976536397340672",
+        "location": "夢の地",
+        "name": "薰瑾🏳️‍⚧️",
+        "pinned_tweet_id": "1915129176920821881",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744976943014203392/yQlBnDjt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 592,
+          "like_count": 643,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 330
+        },
+        "username": "JxunViolet",
+        "verified": false
+      }
+    ]
+  }
+}

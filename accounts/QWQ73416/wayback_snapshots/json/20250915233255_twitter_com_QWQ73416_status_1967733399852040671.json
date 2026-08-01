@@ -1,0 +1,476 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967520424826376192"
+      ],
+      "media_source_tweet_id": [
+        "1967521310495625320"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1967733399852040671",
+    "created_at": "2025-09-15T23:32:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T00:32:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967733399852040671"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1652262540293066754",
+          "start": 3,
+          "username": "cactasis"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nfWa85J7Sb",
+          "end": 77,
+          "expanded_url": "https://x.com/cactasis/status/1967521310495625320/photo/1",
+          "media_key": "3_1967520424826376192",
+          "start": 54,
+          "url": "https://t.co/nfWa85J7Sb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967733399852040671",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 297
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967521310495625320",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cactasis: たくさんの引用リポスト、いいねありがとうございます\n感謝の褐色エジプト猫耳ロリ https://t.co/nfWa85J7Sb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3200,
+        "media_key": "3_1967520424826376192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G04JZuoaEAAM6Qi.jpg",
+        "width": 2400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967520424826376192"
+          ],
+          "media_source_tweet_id": [
+            "1967521310495625320"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1967733399852040671",
+        "created_at": "2025-09-15T23:32:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T00:32:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967733399852040671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1652262540293066754",
+              "start": 3,
+              "username": "cactasis"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nfWa85J7Sb",
+              "end": 77,
+              "expanded_url": "https://x.com/cactasis/status/1967521310495625320/photo/1",
+              "media_key": "3_1967520424826376192",
+              "start": 54,
+              "url": "https://t.co/nfWa85J7Sb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967733399852040671",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 297
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967521310495625320",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cactasis: たくさんの引用リポスト、いいねありがとうございます\n感謝の褐色エジプト猫耳ロリ https://t.co/nfWa85J7Sb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967520424826376192"
+          ]
+        },
+        "author_id": "1652262540293066754",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1967521310495625320",
+        "created_at": "2025-09-15T09:30:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T10:30:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967521310495625320"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nfWa85J7Sb",
+              "end": 63,
+              "expanded_url": "https://x.com/cactasis/status/1967521310495625320/photo/1",
+              "media_key": "3_1967520424826376192",
+              "start": 40,
+              "url": "https://t.co/nfWa85J7Sb"
+            },
+            {
+              "display_url": "x.com/cactasis/statu…",
+              "end": 87,
+              "expanded_url": "https://twitter.com/cactasis/status/1962197990241955979",
+              "start": 64,
+              "url": "https://t.co/6b9nzuFecH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967521310495625320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 180,
+          "impression_count": 37880,
+          "like_count": 1718,
+          "quote_count": 4,
+          "reply_count": 4,
+          "retweet_count": 297
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962197990241955979",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "たくさんの引用リポスト、いいねありがとうございます\n感謝の褐色エジプト猫耳ロリ https://t.co/nfWa85J7Sb https://t.co/6b9nzuFecH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 225,
+          "like_count": 2723,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 716
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-29T10:44:29.000Z",
+        "description": "サブ@oasis_c2 / skeb https://t.co/hUU3CBRdQ2 / pixiv https://t.co/iNAcFkMmxX /マシュマロ https://t.co/taSMQCV3NS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "oasis_c2"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@cactasis",
+                "end": 42,
+                "expanded_url": "https://skeb.jp/@cactasis",
+                "start": 19,
+                "url": "https://t.co/hUU3CBRdQ2"
+              },
+              {
+                "display_url": "pixiv.net/users/93917492",
+                "end": 74,
+                "expanded_url": "https://www.pixiv.net/users/93917492",
+                "start": 51,
+                "url": "https://t.co/iNAcFkMmxX"
+              },
+              {
+                "display_url": "marshmallow-qa.com/7aysqkcmyil27s9",
+                "end": 105,
+                "expanded_url": "https://marshmallow-qa.com/7aysqkcmyil27s9",
+                "start": 82,
+                "url": "https://t.co/taSMQCV3NS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mirage-sabo.net/profile",
+                "end": 23,
+                "expanded_url": "https://mirage-sabo.net/profile",
+                "start": 0,
+                "url": "https://t.co/5fT1BakFd7"
+              }
+            ]
+          }
+        },
+        "id": "1652262540293066754",
+        "name": "さぼてんのオアシス",
+        "pinned_tweet_id": "1967521310495625320",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926080097573847040/m82barPM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2814,
+          "following_count": 513,
+          "like_count": 18465,
+          "listed_count": 8,
+          "media_count": 215,
+          "tweet_count": 6359
+        },
+        "url": "https://t.co/5fT1BakFd7",
+        "username": "cactasis",
+        "verified": false
+      }
+    ]
+  }
+}

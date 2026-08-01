@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969780514853896192"
+      ],
+      "media_source_tweet_id": [
+        "1969780525079646577"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1969845437109776605",
+    "created_at": "2025-09-21T19:25:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T20:25:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969845437109776605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1446686990141845510",
+          "start": 3,
+          "username": "Kase_2230117"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OW4S6J3TbY",
+          "end": 41,
+          "expanded_url": "https://x.com/Kase_2230117/status/1969780525079646577/photo/1",
+          "media_key": "3_1969780514853896192",
+          "start": 18,
+          "url": "https://t.co/OW4S6J3TbY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969845437109776605",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 460
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969780525079646577",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kase_2230117: https://t.co/OW4S6J3TbY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1969780514853896192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1YQ8SFaQAAweea.jpg",
+        "width": 3282
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969780514853896192"
+          ],
+          "media_source_tweet_id": [
+            "1969780525079646577"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1969845437109776605",
+        "created_at": "2025-09-21T19:25:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T20:25:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969845437109776605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1446686990141845510",
+              "start": 3,
+              "username": "Kase_2230117"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OW4S6J3TbY",
+              "end": 41,
+              "expanded_url": "https://x.com/Kase_2230117/status/1969780525079646577/photo/1",
+              "media_key": "3_1969780514853896192",
+              "start": 18,
+              "url": "https://t.co/OW4S6J3TbY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969845437109776605",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 460
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969780525079646577",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kase_2230117: https://t.co/OW4S6J3TbY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969780514853896192"
+          ]
+        },
+        "author_id": "1446686990141845510",
+        "conversation_id": "1969780525079646577",
+        "created_at": "2025-09-21T15:07:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T16:07:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969780525079646577"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OW4S6J3TbY",
+              "end": 23,
+              "expanded_url": "https://x.com/Kase_2230117/status/1969780525079646577/photo/1",
+              "media_key": "3_1969780514853896192",
+              "start": 0,
+              "url": "https://t.co/OW4S6J3TbY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969780525079646577",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 917,
+          "impression_count": 43914,
+          "like_count": 5737,
+          "quote_count": 4,
+          "reply_count": 4,
+          "retweet_count": 460
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/OW4S6J3TbY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 238,
+          "like_count": 3162,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 863
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-09T04:00:49.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/43460823",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/43460823",
+                "start": 0,
+                "url": "https://t.co/MA2GQHa4yL"
+              }
+            ]
+          }
+        },
+        "id": "1446686990141845510",
+        "name": "kase",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949459367193149440/liOuHd74_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40822,
+          "following_count": 297,
+          "like_count": 1446,
+          "listed_count": 0,
+          "media_count": 268,
+          "tweet_count": 326
+        },
+        "url": "https://t.co/MA2GQHa4yL",
+        "username": "Kase_2230117",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1980720141827768507",
+    "created_at": "2025-10-22T06:35:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T07:35:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980885801983701287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1553282763490336769",
+          "start": 0,
+          "username": "qianxue_officia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980885801983701287",
+    "in_reply_to_user_id": "1553282763490336769",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980720141827768507",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qianxue_officia 抱抱🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1980720141827768507",
+        "created_at": "2025-10-22T06:35:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T07:35:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980885801983701287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1553282763490336769",
+              "start": 0,
+              "username": "qianxue_officia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980885801983701287",
+        "in_reply_to_user_id": "1553282763490336769",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980720141827768507",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qianxue_officia 抱抱🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1553282763490336769",
+        "conversation_id": "1980720141827768507",
+        "created_at": "2025-10-21T19:37:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T20:37:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980720141827768507"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1980720141827768507",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 391,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "cnm死直男，情商真低"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|GAHT/HRT:2025.10.7|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "MTF.wiki",
+                "end": 23,
+                "expanded_url": "http://MTF.wiki",
+                "start": 0,
+                "url": "https://t.co/7tmPTkeoFF"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "∠( ᐛ 」∠)_",
+        "name": "🍥(￣ヘ￣🍥)",
+        "pinned_tweet_id": "1971859627869708434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979202568543784960/OeW4bpMU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 272,
+          "like_count": 4134,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1118
+        },
+        "url": "https://t.co/7tmPTkeoFF",
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-30T07:34:16.000Z",
+        "description": "25.5.31 hrt｜欢迎xyn xnn 友跨互fo哦｜08年末｜",
+        "id": "1553282763490336769",
+        "location": "Akita-shi, Akita",
+        "name": "千夜あずさ🍥",
+        "pinned_tweet_id": "1973015895913214115",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977455734414888960/KGgIktRp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1319,
+          "following_count": 389,
+          "like_count": 315,
+          "listed_count": 4,
+          "media_count": 92,
+          "tweet_count": 486
+        },
+        "username": "qianxue_officia",
+        "verified": false
+      }
+    ]
+  }
+}

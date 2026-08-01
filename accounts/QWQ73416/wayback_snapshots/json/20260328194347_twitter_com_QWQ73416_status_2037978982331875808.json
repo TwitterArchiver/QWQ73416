@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "2037874390311035265",
+    "created_at": "2026-03-28T19:43:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T20:43:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037978982331875808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1882671462210998272",
+          "start": 0,
+          "username": "HosinoEJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037978982331875808",
+    "in_reply_to_user_id": "1882671462210998272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037874390311035265",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HosinoEJ 哦，我的天呐，这简直就是我！🫪🫪🫪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2037874381985353728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEf79AsbEAAAuje.jpg",
+        "width": 923
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "2037874390311035265",
+        "created_at": "2026-03-28T19:43:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T20:43:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037978982331875808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1882671462210998272",
+              "start": 0,
+              "username": "HosinoEJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037978982331875808",
+        "in_reply_to_user_id": "1882671462210998272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037874390311035265",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HosinoEJ 哦，我的天呐，这简直就是我！🫪🫪🫪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037874381985353728"
+          ]
+        },
+        "author_id": "1882671462210998272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2037874390311035265",
+        "created_at": "2026-03-28T12:48:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T13:48:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037874390311035265"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PfJy9mFg7o",
+              "end": 50,
+              "expanded_url": "https://x.com/HosinoEJ/status/2037874390311035265/photo/1",
+              "media_key": "3_2037874381985353728",
+              "start": 27,
+              "url": "https://t.co/PfJy9mFg7o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037874390311035265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2553,
+          "like_count": 26,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "感覺在哪裡見過，但是想不起來，掛一下看看有沒有認識的 https://t.co/PfJy9mFg7o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10🌟|GAHT/HRT:2025.10.7|\n割手的痕迹被我妈看到了，被骂了一顿|\n好闺蜜 @N2OXYN |\n→I an not a vitual account.(T~T)←|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 47,
+                "username": "N2OXYN"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "name": "🧊泠小米❄️",
+        "pinned_tweet_id": "2037669545633325393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023719096047771648/WvkPh1aM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 316,
+          "like_count": 6297,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 1595
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T06:07:32.000Z",
+        "description": "I love my country,but i'm not Heidrgger.\n\nDiscord: https://t.co/ccn1U72HVa\nE-mail: contact@hosinoneko.me",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/hd2xDaGGRR",
+                "end": 74,
+                "expanded_url": "https://discord.gg/hd2xDaGGRR",
+                "start": 51,
+                "url": "https://t.co/ccn1U72HVa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "NCT.hosinoneko.me",
+                "end": 23,
+                "expanded_url": "https://NCT.hosinoneko.me",
+                "start": 0,
+                "url": "https://t.co/MYVBfe2rap"
+              }
+            ]
+          }
+        },
+        "id": "1882671462210998272",
+        "location": "shanghai",
+        "name": "星野ネコ | HosinoNeko",
+        "pinned_tweet_id": "2037907869560168750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969203560090124288/UXWVrJV5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 845,
+          "following_count": 498,
+          "like_count": 3091,
+          "listed_count": 4,
+          "media_count": 550,
+          "tweet_count": 2932
+        },
+        "url": "https://t.co/MYVBfe2rap",
+        "username": "HosinoEJ",
+        "verified": false
+      }
+    ]
+  }
+}

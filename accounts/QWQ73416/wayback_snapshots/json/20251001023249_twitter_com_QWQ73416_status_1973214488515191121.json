@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1973074315164663808"
+      ],
+      "media_source_tweet_id": [
+        "1973074318452994424"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1973214488515191121",
+    "created_at": "2025-10-01T02:32:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-01T03:32:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973214488515191121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1383524685661360128",
+          "start": 3,
+          "username": "tingusbungus"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8rAvGPyEKx",
+          "end": 64,
+          "expanded_url": "https://x.com/tingusbungus/status/1973074318452994424/photo/1",
+          "media_key": "3_1973074315164663808",
+          "start": 41,
+          "url": "https://t.co/8rAvGPyEKx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973214488515191121",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 339
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973074318452994424",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tingusbungus: She need more SLEEP !! https://t.co/8rAvGPyEKx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1620,
+        "media_key": "3_1973074315164663808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2HEosbWQAA8vsy.jpg",
+        "width": 1657
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973074315164663808"
+          ],
+          "media_source_tweet_id": [
+            "1973074318452994424"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1973214488515191121",
+        "created_at": "2025-10-01T02:32:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T03:32:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973214488515191121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1383524685661360128",
+              "start": 3,
+              "username": "tingusbungus"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8rAvGPyEKx",
+              "end": 64,
+              "expanded_url": "https://x.com/tingusbungus/status/1973074318452994424/photo/1",
+              "media_key": "3_1973074315164663808",
+              "start": 41,
+              "url": "https://t.co/8rAvGPyEKx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973214488515191121",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 339
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973074318452994424",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tingusbungus: She need more SLEEP !! https://t.co/8rAvGPyEKx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973074315164663808"
+          ]
+        },
+        "author_id": "1383524685661360128",
+        "conversation_id": "1973074318452994424",
+        "created_at": "2025-09-30T17:15:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T18:15:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973074318452994424"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8rAvGPyEKx",
+              "end": 46,
+              "expanded_url": "https://x.com/tingusbungus/status/1973074318452994424/photo/1",
+              "media_key": "3_1973074315164663808",
+              "start": 23,
+              "url": "https://t.co/8rAvGPyEKx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973074318452994424",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 298,
+          "impression_count": 15094,
+          "like_count": 2984,
+          "quote_count": 12,
+          "reply_count": 17,
+          "retweet_count": 339
+        },
+        "reply_settings": "everyone",
+        "text": "She need more SLEEP !! https://t.co/8rAvGPyEKx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "pinned_tweet_id": "1971859627869708434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 253,
+          "like_count": 3552,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1008
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-17T20:56:24.000Z",
+        "description": "i like drawing things ^_^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fwing.pet",
+                "end": 23,
+                "expanded_url": "https://fwing.pet/",
+                "start": 0,
+                "url": "https://t.co/DOyzrNX7sT"
+              }
+            ]
+          }
+        },
+        "id": "1383524685661360128",
+        "location": "Bog",
+        "name": "ting",
+        "pinned_tweet_id": "1972774243072086513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970252917148897280/lYqUPDc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13736,
+          "following_count": 163,
+          "like_count": 22855,
+          "listed_count": 31,
+          "media_count": 916,
+          "tweet_count": 1836
+        },
+        "url": "https://t.co/DOyzrNX7sT",
+        "username": "tingusbungus",
+        "verified": false
+      }
+    ]
+  }
+}

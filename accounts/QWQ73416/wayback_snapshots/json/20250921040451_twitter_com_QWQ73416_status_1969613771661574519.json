@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969560717255983110"
+      ],
+      "media_source_tweet_id": [
+        "1969560725963337903"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1339381554087223297",
+          "name": "Character design"
+        }
+      }
+    ],
+    "conversation_id": "1969613771661574519",
+    "created_at": "2025-09-21T04:04:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T05:04:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969613771661574519"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "3151733780",
+          "start": 3,
+          "username": "__Natane"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8AAknPlwxJ",
+          "end": 47,
+          "expanded_url": "https://x.com/__Natane/status/1969560725963337903/photo/1",
+          "media_key": "3_1969560717255983110",
+          "start": 24,
+          "url": "https://t.co/8AAknPlwxJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969613771661574519",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 270
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969560725963337903",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @__Natane: 魔女っ子キャラデザ https://t.co/8AAknPlwxJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4093,
+        "media_key": "3_1969560717255983110",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1VJCYObQAYOtSr.jpg",
+        "width": 2894
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969560717255983110"
+          ],
+          "media_source_tweet_id": [
+            "1969560725963337903"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1339381554087223297",
+              "name": "Character design"
+            }
+          }
+        ],
+        "conversation_id": "1969613771661574519",
+        "created_at": "2025-09-21T04:04:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T05:04:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969613771661574519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3151733780",
+              "start": 3,
+              "username": "__Natane"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8AAknPlwxJ",
+              "end": 47,
+              "expanded_url": "https://x.com/__Natane/status/1969560725963337903/photo/1",
+              "media_key": "3_1969560717255983110",
+              "start": 24,
+              "url": "https://t.co/8AAknPlwxJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969613771661574519",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 270
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969560725963337903",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @__Natane: 魔女っ子キャラデザ https://t.co/8AAknPlwxJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969560717255983110"
+          ]
+        },
+        "author_id": "3151733780",
+        "conversation_id": "1969560725963337903",
+        "created_at": "2025-09-21T00:34:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T01:34:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969560725963337903"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8AAknPlwxJ",
+              "end": 33,
+              "expanded_url": "https://x.com/__Natane/status/1969560725963337903/photo/1",
+              "media_key": "3_1969560717255983110",
+              "start": 10,
+              "url": "https://t.co/8AAknPlwxJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969560725963337903",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 368,
+          "impression_count": 26529,
+          "like_count": 2592,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 270
+        },
+        "reply_settings": "everyone",
+        "text": "魔女っ子キャラデザ https://t.co/8AAknPlwxJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 237,
+          "like_count": 3090,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 832
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2015-04-12T16:46:36.000Z",
+        "description": "Illustrator⋮ジト目とサブカルが好き。アンニュイな女の子を描きます⋮ 年内ご依頼✖︎⋮ Skeb ▷ https://t.co/bXoovJ4IXG⋮各種リンク▷ https://t.co/oRfhV0lj1y FA▶︎ #Nata_tag ✉️：squallea◇https://t.co/7tokTtAy9h",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 125,
+                "start": 116,
+                "tag": "Nata_tag"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@Natane",
+                "end": 79,
+                "expanded_url": "https://skeb.jp/@Natane",
+                "start": 56,
+                "url": "https://t.co/bXoovJ4IXG"
+              },
+              {
+                "display_url": "lit.link/nat4ne",
+                "end": 110,
+                "expanded_url": "https://lit.link/nat4ne",
+                "start": 87,
+                "url": "https://t.co/oRfhV0lj1y"
+              },
+              {
+                "display_url": "gmail.com",
+                "end": 161,
+                "expanded_url": "http://gmail.com",
+                "start": 138,
+                "url": "https://t.co/7tokTtAy9h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xfolio.jp/portfolio/nata…",
+                "end": 23,
+                "expanded_url": "https://xfolio.jp/portfolio/natane",
+                "start": 0,
+                "url": "https://t.co/jIR4v2BFXz"
+              }
+            ]
+          }
+        },
+        "id": "3151733780",
+        "location": "無断使用・無断転載禁止",
+        "name": "NAT4NE",
+        "pinned_tweet_id": "1968873345505472609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966461536559566848/8XvsS9SJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50621,
+          "following_count": 517,
+          "like_count": 4580,
+          "listed_count": 465,
+          "media_count": 150,
+          "tweet_count": 4654
+        },
+        "url": "https://t.co/jIR4v2BFXz",
+        "username": "__Natane",
+        "verified": false
+      }
+    ]
+  }
+}

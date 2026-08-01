@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1967158777007980764",
+    "created_at": "2025-09-14T10:07:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T11:07:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967168301945299166"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1893280336534216706",
+          "start": 0,
+          "username": "mtnyan8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967168301945299166",
+    "in_reply_to_user_id": "1893280336534216706",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967158777007980764",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mtnyan8964 面你在说什么啊！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1967158777007980764",
+        "created_at": "2025-09-14T10:07:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T11:07:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967168301945299166"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1893280336534216706",
+              "start": 0,
+              "username": "mtnyan8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967168301945299166",
+        "in_reply_to_user_id": "1893280336534216706",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967158777007980764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mtnyan8964 面你在说什么啊！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893280336534216706",
+        "conversation_id": "1967158777007980764",
+        "created_at": "2025-09-14T09:29:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T10:29:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967158777007980764"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1967158777007980764",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 86,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小时候喜欢挖鼻屎，现在喜欢吃鼻屎。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 221,
+          "like_count": 2497,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 666
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-22T12:43:12.000Z",
+        "description": "喵呜~",
+        "id": "1893280336534216706",
+        "location": "亚硝酸钠共和国",
+        "name": "乌冬面🍥🐱",
+        "pinned_tweet_id": "1966012698916704443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961227208519028737/3F0v-y9L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1047,
+          "following_count": 725,
+          "like_count": 4618,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 1064
+        },
+        "username": "mtnyan8964",
+        "verified": true
+      }
+    ]
+  }
+}

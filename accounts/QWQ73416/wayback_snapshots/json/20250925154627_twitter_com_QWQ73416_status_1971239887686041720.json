@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1971025431211147270"
+      ],
+      "media_source_tweet_id": [
+        "1971145151754949057"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1971239887686041720",
+    "created_at": "2025-09-25T15:46:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T16:46:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971239887686041720"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 33,
+          "normalized_text": "スーパーシンダラさん",
+          "probability": 0.7525,
+          "start": 24,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1519726797130444800",
+          "start": 3,
+          "username": "4ji6nameco"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7Z3gkoDObC",
+          "end": 88,
+          "expanded_url": "https://x.com/4ji6nameco/status/1971145151754949057/photo/1",
+          "media_key": "3_1971025431211147270",
+          "start": 65,
+          "url": "https://t.co/7Z3gkoDObC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971239887686041720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 181
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971145151754949057",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @4ji6nameco: skebで水着のスーパーシンダラさんを描かせていただきました〜！ありがとうございました〜！！！！ https://t.co/7Z3gkoDObC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2399,
+        "media_key": "3_1971025431211147270",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1p9L86aAAY-oxl.jpg",
+        "width": 1329
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971025431211147270"
+          ],
+          "media_source_tweet_id": [
+            "1971145151754949057"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1971239887686041720",
+        "created_at": "2025-09-25T15:46:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T16:46:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971239887686041720"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 33,
+              "normalized_text": "スーパーシンダラさん",
+              "probability": 0.7525,
+              "start": 24,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1519726797130444800",
+              "start": 3,
+              "username": "4ji6nameco"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7Z3gkoDObC",
+              "end": 88,
+              "expanded_url": "https://x.com/4ji6nameco/status/1971145151754949057/photo/1",
+              "media_key": "3_1971025431211147270",
+              "start": 65,
+              "url": "https://t.co/7Z3gkoDObC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971239887686041720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 181
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971145151754949057",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @4ji6nameco: skebで水着のスーパーシンダラさんを描かせていただきました〜！ありがとうございました〜！！！！ https://t.co/7Z3gkoDObC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971025431211147270"
+          ]
+        },
+        "author_id": "1519726797130444800",
+        "conversation_id": "1971145151754949057",
+        "created_at": "2025-09-25T09:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T10:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971145151754949057"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "スーパーシンダラさん",
+              "probability": 0.7042,
+              "start": 8,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7Z3gkoDObC",
+              "end": 72,
+              "expanded_url": "https://x.com/4ji6nameco/status/1971145151754949057/photo/1",
+              "media_key": "3_1971025431211147270",
+              "start": 49,
+              "url": "https://t.co/7Z3gkoDObC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971145151754949057",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 168,
+          "impression_count": 13436,
+          "like_count": 936,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 181
+        },
+        "reply_settings": "everyone",
+        "text": "skebで水着のスーパーシンダラさんを描かせていただきました〜！ありがとうございました〜！！！！ https://t.co/7Z3gkoDObC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "pinned_tweet_id": "1971096075286216763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 252,
+          "like_count": 3386,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 946
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-28T17:14:49.000Z",
+        "description": "ラクガキ、進捗とか再掲とか。紫色が好きです。\n無断×　\n@RopenYoji",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 28,
+                "username": "RopenYoji"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/9oo02pfzu331nc…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/9oo02pfzu331nct?t=BrNk92&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/wPPcw18Bne"
+              }
+            ]
+          }
+        },
+        "id": "1519726797130444800",
+        "name": "凡脳🔞(よじろりのすがた)",
+        "pinned_tweet_id": "1739482506058199441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842979625816981504/kRUGmqbS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3577,
+          "following_count": 230,
+          "like_count": 9971,
+          "listed_count": 36,
+          "media_count": 441,
+          "tweet_count": 6759
+        },
+        "url": "https://t.co/wPPcw18Bne",
+        "username": "4ji6nameco",
+        "verified": false
+      }
+    ]
+  }
+}

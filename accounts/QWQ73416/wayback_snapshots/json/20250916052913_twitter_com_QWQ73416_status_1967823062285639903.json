@@ -1,0 +1,555 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967598822953234433"
+      ],
+      "media_source_tweet_id": [
+        "1967599120358736262"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10046538474",
+          "name": "Guilty Gear"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "10046538474",
+          "name": "Guilty Gear"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1307106518475522049",
+          "name": "Fighting games"
+        }
+      }
+    ],
+    "conversation_id": "1967823062285639903",
+    "created_at": "2025-09-16T05:29:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T06:29:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967823062285639903"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "247206462",
+          "start": 3,
+          "username": "cure_tatsu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QpkNW8nJlm",
+          "end": 59,
+          "expanded_url": "https://x.com/cure_tatsu/status/1967599120358736262/photo/1",
+          "media_key": "3_1967598822953234433",
+          "start": 36,
+          "url": "https://t.co/QpkNW8nJlm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967823062285639903",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967599120358736262",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cure_tatsu: エジプト褐色猫耳ロリきりたん\nRev2 https://t.co/QpkNW8nJlm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2560,
+        "media_key": "3_1967598822953234433",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G05QtGaasAEMad5.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967598822953234433"
+          ],
+          "media_source_tweet_id": [
+            "1967599120358736262"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10046538474",
+              "name": "Guilty Gear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10046538474",
+              "name": "Guilty Gear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1307106518475522049",
+              "name": "Fighting games"
+            }
+          }
+        ],
+        "conversation_id": "1967823062285639903",
+        "created_at": "2025-09-16T05:29:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T06:29:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967823062285639903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "247206462",
+              "start": 3,
+              "username": "cure_tatsu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QpkNW8nJlm",
+              "end": 59,
+              "expanded_url": "https://x.com/cure_tatsu/status/1967599120358736262/photo/1",
+              "media_key": "3_1967598822953234433",
+              "start": 36,
+              "url": "https://t.co/QpkNW8nJlm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967823062285639903",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967599120358736262",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cure_tatsu: エジプト褐色猫耳ロリきりたん\nRev2 https://t.co/QpkNW8nJlm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967598822953234433"
+          ]
+        },
+        "author_id": "247206462",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10046538474",
+              "name": "Guilty Gear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10046538474",
+              "name": "Guilty Gear"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1307106518475522049",
+              "name": "Fighting games"
+            }
+          }
+        ],
+        "conversation_id": "1967599120358736262",
+        "created_at": "2025-09-15T14:39:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T15:39:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967599120358736262"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QpkNW8nJlm",
+              "end": 43,
+              "expanded_url": "https://x.com/cure_tatsu/status/1967599120358736262/photo/1",
+              "media_key": "3_1967598822953234433",
+              "start": 20,
+              "url": "https://t.co/QpkNW8nJlm"
+            },
+            {
+              "display_url": "x.com/cure_tatsu/sta…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/cure_tatsu/status/1967367902560129065",
+              "start": 44,
+              "url": "https://t.co/RALBG27W1n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967599120358736262",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 4846,
+          "like_count": 265,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967367902560129065",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "エジプト褐色猫耳ロリきりたん\nRev2 https://t.co/QpkNW8nJlm https://t.co/RALBG27W1n"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 226,
+          "like_count": 2800,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 747
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2011-02-04T09:32:59.000Z",
+        "description": "私が勝手に「虎ボルタステップ」と名づけたこのステップの真の動きは最後まで目撃する機会がありませんでした\n干し芋：https://t.co/CbEdAPhGHO\n魔除け：天安門、台湾独立",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 79,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/2RREAQ7EZLAMJ?ref_=wl_share",
+                "start": 56,
+                "url": "https://t.co/CbEdAPhGHO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pripara.jp",
+                "end": 23,
+                "expanded_url": "http://pripara.jp/",
+                "start": 0,
+                "url": "https://t.co/tEQXYqmsmH"
+              }
+            ]
+          }
+        },
+        "id": "247206462",
+        "location": "ラウワンとVR",
+        "name": "キュアたつろう",
+        "pinned_tweet_id": "1955952992102023602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1510089945767354369/gXlZ7tcG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2941,
+          "following_count": 868,
+          "like_count": 26213,
+          "listed_count": 11,
+          "media_count": 10083,
+          "tweet_count": 48291
+        },
+        "url": "https://t.co/tEQXYqmsmH",
+        "username": "cure_tatsu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1978143594767622506",
+    "created_at": "2025-10-14T16:59:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T17:59:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978143594767622506"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 74,
+          "start": 71,
+          "tag": "药娘"
+        },
+        {
+          "end": 79,
+          "start": 75,
+          "tag": "mtf"
+        },
+        {
+          "end": 84,
+          "start": 80,
+          "tag": "高中生"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1894288961771900933",
+          "start": 3,
+          "username": "yangnaisam"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978143594767622506",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978017899286577255",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yangnaisam: 07高三学姐小药娘 被一堆高一男生堵厕所性骚扰了...😥 后面就再也不敢回学校上课了 我还是去辅导机构吧...#药娘 #mtf #高中生"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1978143594767622506",
+        "created_at": "2025-10-14T16:59:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T17:59:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978143594767622506"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 74,
+              "start": 71,
+              "tag": "药娘"
+            },
+            {
+              "end": 79,
+              "start": 75,
+              "tag": "mtf"
+            },
+            {
+              "end": 84,
+              "start": 80,
+              "tag": "高中生"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1894288961771900933",
+              "start": 3,
+              "username": "yangnaisam"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978143594767622506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978017899286577255",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yangnaisam: 07高三学姐小药娘 被一堆高一男生堵厕所性骚扰了...😥 后面就再也不敢回学校上课了 我还是去辅导机构吧...#药娘 #mtf #高中生"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894288961771900933",
+        "conversation_id": "1978017899286577255",
+        "created_at": "2025-10-14T08:39:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T09:39:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978017899286577255"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 58,
+              "start": 55,
+              "tag": "药娘"
+            },
+            {
+              "end": 63,
+              "start": 59,
+              "tag": "mtf"
+            },
+            {
+              "end": 68,
+              "start": 64,
+              "tag": "高中生"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978017899286577255",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 12625,
+          "like_count": 97,
+          "quote_count": 1,
+          "reply_count": 25,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "07高三学姐小药娘 被一堆高一男生堵厕所性骚扰了...😥 后面就再也不敢回学校上课了 我还是去辅导机构吧...#药娘 #mtf #高中生"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|GAHT/HRT:2025.10.7|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "MTF.wiki",
+                "end": 23,
+                "expanded_url": "http://MTF.wiki",
+                "start": 0,
+                "url": "https://t.co/7tmPTkeoFF"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "∠( ᐛ 」∠)_",
+        "name": "🍥(￣ヘ￣🍥)",
+        "pinned_tweet_id": "1971859627869708434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 266,
+          "like_count": 4090,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1091
+        },
+        "url": "https://t.co/7tmPTkeoFF",
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T07:31:35.000Z",
+        "description": "167cm 60kg /// 喜欢同类贴的/无精神问题丨2007.1023 小可爱  无证含糖丨🍥🏳‍⚧ 丨需要50 基础过🚪哦 基础🚪不可涩黄哦丨（先天体质雌高雄低性腺发育不良）半家长党 清纯高中生 咱的好闺蜜妹妹  @zhu99421",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 110,
+                "username": "zhu99421"
+              }
+            ]
+          }
+        },
+        "id": "1894288961771900933",
+        "location": "🚪50 不过🚪勿扰",
+        "name": "小奈奈子酱Sam🍥🏳‍⚧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969634991492775938/enytBYzz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2882,
+          "following_count": 59,
+          "like_count": 9,
+          "listed_count": 7,
+          "media_count": 41,
+          "tweet_count": 129
+        },
+        "username": "yangnaisam",
+        "verified": false
+      }
+    ]
+  }
+}

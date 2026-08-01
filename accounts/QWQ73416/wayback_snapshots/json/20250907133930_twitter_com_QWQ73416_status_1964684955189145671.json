@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1964672643166261405",
+    "created_at": "2025-09-07T13:39:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T14:39:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964684955189145671"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1893280336534216706",
+          "start": 0,
+          "username": "mtnyan8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964684955189145671",
+    "in_reply_to_user_id": "1893280336534216706",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964672643166261405",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mtnyan8964 好收😡😡😡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1964672643166261405",
+        "created_at": "2025-09-07T13:39:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T14:39:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964684955189145671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1893280336534216706",
+              "start": 0,
+              "username": "mtnyan8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964684955189145671",
+        "in_reply_to_user_id": "1893280336534216706",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964672643166261405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mtnyan8964 好收😡😡😡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893280336534216706",
+        "conversation_id": "1964672643166261405",
+        "created_at": "2025-09-07T12:50:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T13:50:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964672643166261405"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1964672643166261405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "md我亚硝酸钠还被收了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 216,
+          "like_count": 2263,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 615
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-22T12:43:12.000Z",
+        "description": "猫",
+        "id": "1893280336534216706",
+        "location": "亚硝酸钠共和国",
+        "name": "乌冬面🍥🐱",
+        "pinned_tweet_id": "1964198000668155924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961227208519028737/3F0v-y9L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 819,
+          "following_count": 875,
+          "like_count": 3234,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 716
+        },
+        "username": "mtnyan8964",
+        "verified": true
+      }
+    ]
+  }
+}

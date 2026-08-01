@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967878634766786560"
+      ],
+      "media_source_tweet_id": [
+        "1967906317697167629"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1968189030304190621",
+    "created_at": "2025-09-17T05:43:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T06:43:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968189030304190621"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 40,
+          "start": 18,
+          "tag": "夏が終わりそうだし今年描いた水着絵を貼ろう"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "910731516086325248",
+          "start": 3,
+          "username": "Harururu0526"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7FWTAASnGh",
+          "end": 64,
+          "expanded_url": "https://x.com/Harururu0526/status/1967906317697167629/photo/1",
+          "media_key": "3_1967878634766786560",
+          "start": 41,
+          "url": "https://t.co/7FWTAASnGh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968189030304190621",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967906317697167629",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Harururu0526: #夏が終わりそうだし今年描いた水着絵を貼ろう https://t.co/7FWTAASnGh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1123,
+        "media_key": "3_1967878634766786560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G09PMSpa4AAHBPw.jpg",
+        "width": 677
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967878634766786560"
+          ],
+          "media_source_tweet_id": [
+            "1967906317697167629"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1968189030304190621",
+        "created_at": "2025-09-17T05:43:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T06:43:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968189030304190621"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 18,
+              "tag": "夏が終わりそうだし今年描いた水着絵を貼ろう"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "910731516086325248",
+              "start": 3,
+              "username": "Harururu0526"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7FWTAASnGh",
+              "end": 64,
+              "expanded_url": "https://x.com/Harururu0526/status/1967906317697167629/photo/1",
+              "media_key": "3_1967878634766786560",
+              "start": 41,
+              "url": "https://t.co/7FWTAASnGh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968189030304190621",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967906317697167629",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Harururu0526: #夏が終わりそうだし今年描いた水着絵を貼ろう https://t.co/7FWTAASnGh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967878634766786560"
+          ]
+        },
+        "author_id": "910731516086325248",
+        "conversation_id": "1967906317697167629",
+        "created_at": "2025-09-16T11:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T12:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967906317697167629"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 0,
+              "tag": "夏が終わりそうだし今年描いた水着絵を貼ろう"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7FWTAASnGh",
+              "end": 46,
+              "expanded_url": "https://x.com/Harururu0526/status/1967906317697167629/photo/1",
+              "media_key": "3_1967878634766786560",
+              "start": 23,
+              "url": "https://t.co/7FWTAASnGh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967906317697167629",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 671,
+          "like_count": 65,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "#夏が終わりそうだし今年描いた水着絵を貼ろう https://t.co/7FWTAASnGh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 228,
+          "like_count": 2942,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 781
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-21T05:04:48.000Z",
+        "description": "Illustrator \nご依頼募集中\n✉：harurunoe@gmail.com \nDiscord：harurunoe0526\n\nhttps://t.co/UTYJAoMGjP　#はるちゃんあーと\n\n⚠️私の制作イラスト加工、無断転載、二次配布、イラスト自動制作サービス（AI）への使用禁止",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 99,
+                "start": 90,
+                "tag": "はるちゃんあーと"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bit.ly/Harurunoe",
+                "end": 89,
+                "expanded_url": "http://bit.ly/Harurunoe",
+                "start": 66,
+                "url": "https://t.co/UTYJAoMGjP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/harurunoe",
+                "end": 23,
+                "expanded_url": "https://lit.link/harurunoe",
+                "start": 0,
+                "url": "https://t.co/1OqXq4ultI"
+              }
+            ]
+          }
+        },
+        "id": "910731516086325248",
+        "location": "Taiwan",
+        "name": "Haruru",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966489735121264640/jja4GHr9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1484,
+          "following_count": 727,
+          "like_count": 12906,
+          "listed_count": 18,
+          "media_count": 390,
+          "tweet_count": 1819
+        },
+        "url": "https://t.co/1OqXq4ultI",
+        "username": "Harururu0526",
+        "verified": true
+      }
+    ]
+  }
+}

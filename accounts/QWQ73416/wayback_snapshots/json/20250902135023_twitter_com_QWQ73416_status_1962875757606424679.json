@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1962875757606424679",
+    "created_at": "2025-09-02T13:50:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T14:50:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962875757606424679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1843201902550634496",
+          "start": 3,
+          "username": "LwrDHYyuxR22499"
+        },
+        {
+          "end": 37,
+          "id": "1648122510121271296",
+          "start": 29,
+          "username": "Zeriy_1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962875757606424679",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962541171315499128",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LwrDHYyuxR22499: 寻血猎犬启动！\n@Zeriy_1真实姓名赵轶群\n年纪22岁\n于一个月前强行被扭转机构绑架至\n河南若水教育\n本人于9.1日晚9点偶然间看到了求救信息\n请\n王某已就位😁\n请帮我转发\n让这位的亲密关系以及朋友看到并且联系我帮我尽快收集更多信息…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1962541163765813248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzxYyltX0AAduD6.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1962541163715436544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzxYylhXIAAe8Lh.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1962541162864029696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzxYyiWXsAADugl.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1962541167435816961",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzxYyzYXoAEyUw6.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1962875757606424679",
+        "created_at": "2025-09-02T13:50:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T14:50:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962875757606424679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1843201902550634496",
+              "start": 3,
+              "username": "LwrDHYyuxR22499"
+            },
+            {
+              "end": 37,
+              "id": "1648122510121271296",
+              "start": 29,
+              "username": "Zeriy_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962875757606424679",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962541171315499128",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LwrDHYyuxR22499: 寻血猎犬启动！\n@Zeriy_1真实姓名赵轶群\n年纪22岁\n于一个月前强行被扭转机构绑架至\n河南若水教育\n本人于9.1日晚9点偶然间看到了求救信息\n请\n王某已就位😁\n请帮我转发\n让这位的亲密关系以及朋友看到并且联系我帮我尽快收集更多信息…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962541163765813248",
+            "3_1962541163715436544",
+            "3_1962541162864029696",
+            "3_1962541167435816961"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "1962541171315499128",
+        "created_at": "2025-09-01T15:40:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T16:40:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962541171315499128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1648122510121271296",
+              "start": 8,
+              "username": "Zeriy_1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cgsWDZv20d",
+              "end": 146,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1962541171315499128/photo/1",
+              "media_key": "3_1962541163765813248",
+              "start": 123,
+              "url": "https://t.co/cgsWDZv20d"
+            },
+            {
+              "display_url": "pic.x.com/cgsWDZv20d",
+              "end": 146,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1962541171315499128/photo/1",
+              "media_key": "3_1962541163715436544",
+              "start": 123,
+              "url": "https://t.co/cgsWDZv20d"
+            },
+            {
+              "display_url": "pic.x.com/cgsWDZv20d",
+              "end": 146,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1962541171315499128/photo/1",
+              "media_key": "3_1962541162864029696",
+              "start": 123,
+              "url": "https://t.co/cgsWDZv20d"
+            },
+            {
+              "display_url": "pic.x.com/cgsWDZv20d",
+              "end": 146,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1962541171315499128/photo/1",
+              "media_key": "3_1962541167435816961",
+              "start": 123,
+              "url": "https://t.co/cgsWDZv20d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962541171315499128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5235,
+          "like_count": 68,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "寻血猎犬启动！\n@Zeriy_1真实姓名赵轶群\n年纪22岁\n于一个月前强行被扭转机构绑架至\n河南若水教育\n本人于9.1日晚9点偶然间看到了求救信息\n请\n王某已就位😁\n请帮我转发\n让这位的亲密关系以及朋友看到并且联系我帮我尽快收集更多信息救援此人 https://t.co/cgsWDZv20d"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|小推@QWQ1885|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "QWQ1885"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 199,
+          "like_count": 1754,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 478
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 624,
+          "following_count": 555,
+          "like_count": 527,
+          "listed_count": 4,
+          "media_count": 178,
+          "tweet_count": 755
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-18T00:33:43.000Z",
+        "description": "一个永不疲倦的幻想者。\n梦幻派艺术家，写诗、散文和小说，画插画和风景画等，只做自己喜欢做的事。很希望认识一些有相同灵魂的朋友。           \n〈mtx~f🍥｜理想主义｜不怎么玩推｜▙精神▚状▒态▐〉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zeriy.art",
+                "end": 23,
+                "expanded_url": "https://zeriy.art",
+                "start": 0,
+                "url": "https://t.co/5jyo9b27zM"
+              }
+            ]
+          }
+        },
+        "id": "1648122510121271296",
+        "location": "Deutschland",
+        "name": "Zeriy🍥",
+        "pinned_tweet_id": "1883175315503247410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945998387871977472/poPedM5b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 44,
+          "like_count": 56,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 122
+        },
+        "url": "https://t.co/5jyo9b27zM",
+        "username": "Zeriy_1",
+        "verified": false
+      }
+    ]
+  }
+}

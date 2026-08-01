@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968570474381881344"
+      ],
+      "media_source_tweet_id": [
+        "1968570482434658691"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1968834833250971950",
+    "created_at": "2025-09-19T00:29:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T01:29:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968834833250971950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "3705515720",
+          "start": 3,
+          "username": "eiken3kyuboy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vGb4afyyaU",
+          "end": 41,
+          "expanded_url": "https://x.com/eiken3kyuboy/status/1968570482434658691/photo/1",
+          "media_key": "3_1968570474381881344",
+          "start": 18,
+          "url": "https://t.co/vGb4afyyaU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968834833250971950",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 657
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968570482434658691",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @eiken3kyuboy: https://t.co/vGb4afyyaU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3898,
+        "media_key": "3_1968570474381881344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1HEaqDasAAtKNx.jpg",
+        "width": 2758
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968570474381881344"
+          ],
+          "media_source_tweet_id": [
+            "1968570482434658691"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1968834833250971950",
+        "created_at": "2025-09-19T00:29:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T01:29:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968834833250971950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "3705515720",
+              "start": 3,
+              "username": "eiken3kyuboy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vGb4afyyaU",
+              "end": 41,
+              "expanded_url": "https://x.com/eiken3kyuboy/status/1968570482434658691/photo/1",
+              "media_key": "3_1968570474381881344",
+              "start": 18,
+              "url": "https://t.co/vGb4afyyaU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968834833250971950",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 657
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968570482434658691",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @eiken3kyuboy: https://t.co/vGb4afyyaU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968570474381881344"
+          ]
+        },
+        "author_id": "3705515720",
+        "conversation_id": "1968570482434658691",
+        "created_at": "2025-09-18T06:59:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T07:59:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968570482434658691"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vGb4afyyaU",
+              "end": 23,
+              "expanded_url": "https://x.com/eiken3kyuboy/status/1968570482434658691/photo/1",
+              "media_key": "3_1968570474381881344",
+              "start": 0,
+              "url": "https://t.co/vGb4afyyaU"
+            },
+            {
+              "display_url": "x.com/eiken3kyuboy/s…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/eiken3kyuboy/status/1968565515628183703",
+              "start": 24,
+              "url": "https://t.co/bTTeoy61gM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968570482434658691",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 636,
+          "impression_count": 103950,
+          "like_count": 5842,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 657
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968565515628183703",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/vGb4afyyaU https://t.co/bTTeoy61gM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 230,
+          "like_count": 3043,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 811
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2015-09-27T16:40:39.000Z",
+        "description": "御用の方はDMまで",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "http://www.pixiv.net/member.php?id=2073587",
+                "start": 0,
+                "url": "https://t.co/qTMtNxcsYk"
+              }
+            ]
+          }
+        },
+        "id": "3705515720",
+        "name": "いわこ脳",
+        "pinned_tweet_id": "1947524135061753998",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1341979014127206400/ozh7rQ8P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141294,
+          "following_count": 1148,
+          "like_count": 94758,
+          "listed_count": 1301,
+          "media_count": 573,
+          "tweet_count": 7558
+        },
+        "url": "https://t.co/qTMtNxcsYk",
+        "username": "eiken3kyuboy",
+        "verified": false
+      }
+    ]
+  }
+}

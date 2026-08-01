@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1978143696882159902",
+    "created_at": "2025-10-14T16:59:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T17:59:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978143696882159902"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1966412261578387457",
+          "start": 3,
+          "username": "tudouniniai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978143696882159902",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977926301177827796",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tudouniniai: 14岁除了下海还能做什么赚钱呢😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1978143696882159902",
+        "created_at": "2025-10-14T16:59:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T17:59:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978143696882159902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1966412261578387457",
+              "start": 3,
+              "username": "tudouniniai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978143696882159902",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977926301177827796",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tudouniniai: 14岁除了下海还能做什么赚钱呢😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1966412261578387457",
+        "conversation_id": "1977926301177827796",
+        "created_at": "2025-10-14T02:35:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T03:35:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977926301177827796"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1977926301177827796",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 14478,
+          "like_count": 114,
+          "quote_count": 1,
+          "reply_count": 67,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "14岁除了下海还能做什么赚钱呢😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|GAHT/HRT:2025.10.7|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "MTF.wiki",
+                "end": 23,
+                "expanded_url": "http://MTF.wiki",
+                "start": 0,
+                "url": "https://t.co/7tmPTkeoFF"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "∠( ᐛ 」∠)_",
+        "name": "🍥(￣ヘ￣🍥)",
+        "pinned_tweet_id": "1971859627869708434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 266,
+          "like_count": 4090,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1093
+        },
+        "url": "https://t.co/7tmPTkeoFF",
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-12T08:03:22.000Z",
+        "description": "11年xyn/170/50/又菜又爱玩/家暴党/天残党/声音超级难听导致的极度内向/hrt：2025.07.05/超级m/能给我发jiji吗/欢迎大家互fo/希望大家喜欢我😢",
+        "id": "1966412261578387457",
+        "location": "山东",
+        "name": "土豆泥泥🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968609290115235841/VUFv7kK5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 433,
+          "like_count": 26,
+          "listed_count": 4,
+          "media_count": 2,
+          "tweet_count": 130
+        },
+        "username": "tudouniniai",
+        "verified": false
+      }
+    ]
+  }
+}

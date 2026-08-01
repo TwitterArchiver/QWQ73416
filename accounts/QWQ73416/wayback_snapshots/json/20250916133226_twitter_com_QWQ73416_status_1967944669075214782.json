@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967832470365302784"
+      ],
+      "media_source_tweet_id": [
+        "1967832478632251470"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1967944669075214782",
+    "created_at": "2025-09-16T13:32:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T14:32:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967944669075214782"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1592839495371542529",
+          "start": 3,
+          "username": "Bunkei_akaten"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hwru4f5nHn",
+          "end": 57,
+          "expanded_url": "https://x.com/Bunkei_akaten/status/1967832478632251470/photo/1",
+          "media_key": "3_1967832470365302784",
+          "start": 34,
+          "url": "https://t.co/hwru4f5nHn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967944669075214782",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 40
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967832478632251470",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Bunkei_akaten: 【絵リク】逆バニーロリムース https://t.co/hwru4f5nHn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1967832470365302784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G08lNK2acAAA3qc.jpg",
+        "width": 1646
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967832470365302784"
+          ],
+          "media_source_tweet_id": [
+            "1967832478632251470"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1967944669075214782",
+        "created_at": "2025-09-16T13:32:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T14:32:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967944669075214782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1592839495371542529",
+              "start": 3,
+              "username": "Bunkei_akaten"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hwru4f5nHn",
+              "end": 57,
+              "expanded_url": "https://x.com/Bunkei_akaten/status/1967832478632251470/photo/1",
+              "media_key": "3_1967832470365302784",
+              "start": 34,
+              "url": "https://t.co/hwru4f5nHn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967944669075214782",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967832478632251470",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Bunkei_akaten: 【絵リク】逆バニーロリムース https://t.co/hwru4f5nHn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967832470365302784"
+          ]
+        },
+        "author_id": "1592839495371542529",
+        "conversation_id": "1967832478632251470",
+        "created_at": "2025-09-16T06:06:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T07:06:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967832478632251470"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hwru4f5nHn",
+              "end": 38,
+              "expanded_url": "https://x.com/Bunkei_akaten/status/1967832478632251470/photo/1",
+              "media_key": "3_1967832470365302784",
+              "start": 15,
+              "url": "https://t.co/hwru4f5nHn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967832478632251470",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 78,
+          "impression_count": 4427,
+          "like_count": 424,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "【絵リク】逆バニーロリムース https://t.co/hwru4f5nHn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 226,
+          "like_count": 2843,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 762
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-16T11:18:32.000Z",
+        "description": "アナログ落書き,執筆垢/マロ→https://t.co/1BtT5oIkIC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/yyf7zf5ls3xss2…",
+                "end": 38,
+                "expanded_url": "https://marshmallow-qa.com/yyf7zf5ls3xss2v?t=zbOPCa&utm_medium=url_text&utm_source=promotion",
+                "start": 15,
+                "url": "https://t.co/1BtT5oIkIC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mypage.syosetu.com/2571154/",
+                "end": 23,
+                "expanded_url": "https://mypage.syosetu.com/2571154/",
+                "start": 0,
+                "url": "https://t.co/3klNSPAE4F"
+              }
+            ]
+          }
+        },
+        "id": "1592839495371542529",
+        "location": "なろうのURL→",
+        "name": "ぶんけい赤テン✍️🎨🗑️",
+        "pinned_tweet_id": "1913152808523899214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869642462479925248/pB9pm0IE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4163,
+          "following_count": 466,
+          "like_count": 1599,
+          "listed_count": 21,
+          "media_count": 770,
+          "tweet_count": 2106
+        },
+        "url": "https://t.co/3klNSPAE4F",
+        "username": "Bunkei_akaten",
+        "verified": false
+      }
+    ]
+  }
+}

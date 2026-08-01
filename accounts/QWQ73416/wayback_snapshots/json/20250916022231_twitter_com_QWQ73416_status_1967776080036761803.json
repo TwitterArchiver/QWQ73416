@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1967541405334851598",
+    "created_at": "2025-09-16T02:22:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T03:22:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967776080036761803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1737474298934161409",
+          "start": 0,
+          "username": "blueicesama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967776080036761803",
+    "in_reply_to_user_id": "1737474298934161409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967541405334851598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@blueicesama 没啥感觉，不影响阅读就行了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1967541405334851598",
+        "created_at": "2025-09-16T02:22:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T03:22:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967776080036761803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1737474298934161409",
+              "start": 0,
+              "username": "blueicesama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967776080036761803",
+        "in_reply_to_user_id": "1737474298934161409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967541405334851598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blueicesama 没啥感觉，不影响阅读就行了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1737474298934161409",
+        "conversation_id": "1967541405334851598",
+        "created_at": "2025-09-15T10:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T11:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967541405334851598"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1967541405334851598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4457,
+          "like_count": 65,
+          "quote_count": 2,
+          "reply_count": 31,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "话说你们会不会反感\n把“再”打成“在”的人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 225,
+          "like_count": 2769,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 734
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-20T14:05:40.000Z",
+        "description": "🏳️‍🌈/INFJ-T/Apple全肯定bot/铁道/mc/大连/美术生/中文·日本語·EN/杂学·碎碎念·生活账/PPP党/三倍厚袜/网蓝/里@blueicesamaQWQ⚠️不扩空号·关注不代表本人立场❗️推止于推/可爱小狐狸@ri_si16512/小狗@OoxizeoO/老公@StarryCloud1123",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 73,
+                "username": "blueicesamaQWQ"
+              },
+              {
+                "end": 127,
+                "start": 116,
+                "username": "ri_si16512"
+              },
+              {
+                "end": 139,
+                "start": 130,
+                "username": "OoxizeoO"
+              },
+              {
+                "end": 158,
+                "start": 142,
+                "username": "StarryCloud1123"
+              }
+            ]
+          }
+        },
+        "id": "1737474298934161409",
+        "location": "「落し水 岐れて細き 川生る」",
+        "name": "蓝冰冰冰蓝蓝",
+        "pinned_tweet_id": "1953842532942483704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875804058004676608/uKIbIoPg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5714,
+          "following_count": 3035,
+          "like_count": 32332,
+          "listed_count": 8,
+          "media_count": 706,
+          "tweet_count": 6495
+        },
+        "username": "blueicesama",
+        "verified": true
+      }
+    ]
+  }
+}

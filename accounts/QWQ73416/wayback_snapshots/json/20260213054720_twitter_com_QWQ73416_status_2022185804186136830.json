@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "2022185804186136830",
+    "created_at": "2026-02-13T05:47:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T06:47:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022185804186136830"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1955503492145283072",
+          "start": 3,
+          "username": "QWQ73416"
+        },
+        {
+          "end": 30,
+          "id": "1954162675513954304",
+          "start": 19,
+          "username": "YeJiangXYN"
+        },
+        {
+          "end": 56,
+          "id": "2022181719835914242",
+          "start": 41,
+          "username": "z8897031948836"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022185804186136830",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022184415632433414",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @QWQ73416: 我的好闺蜜@YeJiangXYN ( 此账号已被盗） @z8897031948836 大家请of这个账号🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "2022185804186136830",
+        "created_at": "2026-02-13T05:47:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T06:47:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022185804186136830"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1955503492145283072",
+              "start": 3,
+              "username": "QWQ73416"
+            },
+            {
+              "end": 30,
+              "id": "1954162675513954304",
+              "start": 19,
+              "username": "YeJiangXYN"
+            },
+            {
+              "end": 56,
+              "id": "2022181719835914242",
+              "start": 41,
+              "username": "z8897031948836"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022185804186136830",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022184415632433414",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @QWQ73416: 我的好闺蜜@YeJiangXYN ( 此账号已被盗） @z8897031948836 大家请of这个账号🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "2022184415632433414",
+        "created_at": "2026-02-13T05:41:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T06:41:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022184415632433414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1954162675513954304",
+              "start": 5,
+              "username": "YeJiangXYN"
+            },
+            {
+              "end": 42,
+              "id": "2022181719835914242",
+              "start": 27,
+              "username": "z8897031948836"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022184415632433414",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我的好闺蜜@YeJiangXYN ( 此账号已被盗） @z8897031948836 大家请of这个账号🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|GAHT/HRT:2025.10.7|欢迎交朋友|一！个！都！不！准！死！|补佳乐已被母亲发现|好闺蜜@z8897031948836 |\n→I an not a vitual account.(T~T)←|\n🚪10 要加的私聊，绿，纯好友位|（虽然我知道压根没人加🙃）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 54,
+                "username": "z8897031948836"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "MTF.wiki",
+                "end": 23,
+                "expanded_url": "http://MTF.wiki",
+                "start": 0,
+                "url": "https://t.co/7tmPTkeoFF"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "∠( 🥵」∠)_",
+        "name": "🧊泠小米🍥",
+        "pinned_tweet_id": "2022184415632433414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021513301444968448/YKJD_L07_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 408,
+          "following_count": 307,
+          "like_count": 5863,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 1395
+        },
+        "url": "https://t.co/7tmPTkeoFF",
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-09T12:47:58.000Z",
+        "description": "MTF｜HRT 25.5.31｜08年末｜真寻佳代子厨｜有点抽象（？）\n求互fo",
+        "id": "1954162675513954304",
+        "name": "白夜🍥",
+        "pinned_tweet_id": "2021444479270650038",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021938745877180422/oUBc4K4l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 81,
+          "like_count": 52,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 65
+        },
+        "username": "YeJiangXYN",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T05:31:26.000Z",
+        "description": "",
+        "id": "2022181719835914242",
+        "name": "千夜🍥",
+        "pinned_tweet_id": "2022184023511191816",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022181955375411200/aVApSqW7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 1,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "username": "z8897031948836",
+        "verified": false
+      }
+    ]
+  }
+}

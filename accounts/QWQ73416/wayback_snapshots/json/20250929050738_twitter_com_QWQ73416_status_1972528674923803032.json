@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1972276227630326118",
+    "created_at": "2025-09-29T05:07:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T06:07:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972528674923803032"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1884536290005368832",
+          "start": 0,
+          "username": "FGfr_218"
+        },
+        {
+          "end": 21,
+          "id": "1817821126640496640",
+          "start": 10,
+          "username": "MTNEKO8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972528674923803032",
+    "in_reply_to_user_id": "1884536290005368832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972508101359419606",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FGfr_218 @MTNEKO8964 姐姐也不要自杀好不好🥺🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1972276227630326118",
+        "created_at": "2025-09-29T05:07:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T06:07:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972528674923803032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1884536290005368832",
+              "start": 0,
+              "username": "FGfr_218"
+            },
+            {
+              "end": 21,
+              "id": "1817821126640496640",
+              "start": 10,
+              "username": "MTNEKO8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972528674923803032",
+        "in_reply_to_user_id": "1884536290005368832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972508101359419606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FGfr_218 @MTNEKO8964 姐姐也不要自杀好不好🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884536290005368832",
+        "conversation_id": "1972276227630326118",
+        "created_at": "2025-09-29T03:45:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T04:45:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972508101359419606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1817821126640496640",
+              "start": 0,
+              "username": "MTNEKO8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972508101359419606",
+        "in_reply_to_user_id": "1817821126640496640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972507753882231107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MTNEKO8964 那你就不要自杀哇😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "pinned_tweet_id": "1971859627869708434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 253,
+          "like_count": 3511,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1000
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-29T09:37:26.000Z",
+        "description": "07年/重度社恐/重度性别.容貌焦虑/泛性恋/无证含糖/二次元/coser/目标赚够手术费/戒od中/加油加油gogogo/\n🚪20.88  zfb口令红包/（最近加我的人太多了哇）\n讨厌讨厌讨厌讨厌讨厌讨厌讨厌讨厌讨厌讨厌讨厌讨厌讨厌讨厌都去死都去死都去死",
+        "id": "1884536290005368832",
+        "location": "舞萌国",
+        "name": "雯菓ふわり🏳️‍⚧️🍬",
+        "pinned_tweet_id": "1969614134863151114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965976722937094144/x_29clzy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1102,
+          "following_count": 338,
+          "like_count": 1273,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 957
+        },
+        "username": "FGfr_218",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-29T07:15:16.000Z",
+        "description": "MtX🍥 / 生产日期：896411.07.13 / -14岁xyn / hrt：25.2.11 / 55cm 169kg｜极度社恐 / 泛性恋 / 爱玩抽象 / 社会化程度极低的阿斯 / 一只努力学习做好人类的猫 / 世界是由意大利面构成的｜互fo｜对象🥺🍜❤️@sanmiguelnoodle",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 148,
+                "start": 132,
+                "username": "sanmiguelnoodle"
+              }
+            ]
+          }
+        },
+        "id": "1817821126640496640",
+        "location": "评鉴亚硝酸钠的路上",
+        "name": "面条喵🍥🐱🐈",
+        "pinned_tweet_id": "1959530946673418708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972232480225951744/Lga0T62B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2401,
+          "following_count": 2228,
+          "like_count": 37376,
+          "listed_count": 6,
+          "media_count": 472,
+          "tweet_count": 4990
+        },
+        "username": "MTNEKO8964",
+        "verified": true
+      }
+    ]
+  }
+}

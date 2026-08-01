@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1964202549042696585",
+    "created_at": "2025-09-06T09:43:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T10:43:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964263190155710759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1907640932893339654",
+          "start": 0,
+          "username": "Ran_Mitake37"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964263190155710759",
+    "in_reply_to_user_id": "1907640932893339654",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964202549042696585",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ran_Mitake37 转发了，但是v50就不用了。。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1307,
+        "media_key": "3_1964202542998704130",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0I_zlpbUAIj7Vf.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1964202546324787202",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0I_zyCbUAIUoCx.jpg",
+        "width": 661
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1964202549042696585",
+        "created_at": "2025-09-06T09:43:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T10:43:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964263190155710759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1907640932893339654",
+              "start": 0,
+              "username": "Ran_Mitake37"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964263190155710759",
+        "in_reply_to_user_id": "1907640932893339654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964202549042696585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ran_Mitake37 转发了，但是v50就不用了。。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964202542998704130",
+            "3_1964202546324787202"
+          ]
+        },
+        "author_id": "1907640932893339654",
+        "conversation_id": "1964202549042696585",
+        "created_at": "2025-09-06T05:42:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T06:42:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964202549042696585"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/akRxHNcFxL",
+              "end": 69,
+              "expanded_url": "https://x.com/Ran_Mitake37/status/1964202549042696585/photo/1",
+              "media_key": "3_1964202542998704130",
+              "start": 46,
+              "url": "https://t.co/akRxHNcFxL"
+            },
+            {
+              "display_url": "pic.x.com/akRxHNcFxL",
+              "end": 69,
+              "expanded_url": "https://x.com/Ran_Mitake37/status/1964202549042696585/photo/1",
+              "media_key": "3_1964202546324787202",
+              "start": 46,
+              "url": "https://t.co/akRxHNcFxL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964202549042696585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2685,
+          "like_count": 66,
+          "quote_count": 2,
+          "reply_count": 21,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "一起床发现1000fo了！\n感谢大家的支持！！\n从转发里面抽一个v50\n&gt;w&lt; https://t.co/akRxHNcFxL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|小推@QWQ1885|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "QWQ1885"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 216,
+          "like_count": 2218,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 605
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-03T03:47:04.000Z",
+        "description": "♂ / 中文 / English / 需要回fo请私信 / 不转R18推 / 无糖 / 永久清水 / 不线下 / 不要和我建政 / 单身但不找对象 / 接近我请谨慎 我并非我所营造的那么美好 / 希望你一直开心 / Wish you happy always / 头像来自小红书 画师id：煎蛋小狗",
+        "id": "1907640932893339654",
+        "location": "Hyperbolic Space",
+        "name": "Ran",
+        "pinned_tweet_id": "1963758431653024208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950488081326366720/7VRCNfxs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1013,
+          "following_count": 372,
+          "like_count": 84,
+          "listed_count": 4,
+          "media_count": 29,
+          "tweet_count": 291
+        },
+        "username": "Ran_Mitake37",
+        "verified": false
+      }
+    ]
+  }
+}

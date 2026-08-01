@@ -1,0 +1,444 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967528458139090944"
+      ],
+      "media_source_tweet_id": [
+        "1967528529740083483"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1101191147588771840",
+          "name": "Azur Lane"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1101191147588771840",
+          "name": "Azur Lane"
+        }
+      }
+    ],
+    "conversation_id": "1967740239461626069",
+    "created_at": "2025-09-16T00:00:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T01:00:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967740239461626069"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 19,
+          "tag": "アズールレーン"
+        },
+        {
+          "end": 37,
+          "start": 28,
+          "tag": "AzurLane"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1881291701903622144",
+          "start": 3,
+          "username": "yasig26836"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3ZMbGu5fka",
+          "end": 61,
+          "expanded_url": "https://x.com/yasig26836/status/1967528529740083483/photo/1",
+          "media_key": "3_1967528458139090944",
+          "start": 38,
+          "url": "https://t.co/3ZMbGu5fka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967740239461626069",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 849
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967528529740083483",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yasig26836: ☀️\n#アズールレーン #AzurLane https://t.co/3ZMbGu5fka"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3520,
+        "media_key": "3_1967528458139090944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G04QtVDaQAAbEOc.jpg",
+        "width": 2480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967528458139090944"
+          ],
+          "media_source_tweet_id": [
+            "1967528529740083483"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1101191147588771840",
+              "name": "Azur Lane"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1101191147588771840",
+              "name": "Azur Lane"
+            }
+          }
+        ],
+        "conversation_id": "1967740239461626069",
+        "created_at": "2025-09-16T00:00:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T01:00:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967740239461626069"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 19,
+              "tag": "アズールレーン"
+            },
+            {
+              "end": 37,
+              "start": 28,
+              "tag": "AzurLane"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1881291701903622144",
+              "start": 3,
+              "username": "yasig26836"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3ZMbGu5fka",
+              "end": 61,
+              "expanded_url": "https://x.com/yasig26836/status/1967528529740083483/photo/1",
+              "media_key": "3_1967528458139090944",
+              "start": 38,
+              "url": "https://t.co/3ZMbGu5fka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967740239461626069",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 849
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967528529740083483",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yasig26836: ☀️\n#アズールレーン #AzurLane https://t.co/3ZMbGu5fka"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967528458139090944"
+          ]
+        },
+        "author_id": "1881291701903622144",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1101191147588771840",
+              "name": "Azur Lane"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1101191147588771840",
+              "name": "Azur Lane"
+            }
+          }
+        ],
+        "conversation_id": "1967528529740083483",
+        "created_at": "2025-09-15T09:58:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T10:58:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967528529740083483"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 3,
+              "tag": "アズールレーン"
+            },
+            {
+              "end": 21,
+              "start": 12,
+              "tag": "AzurLane"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3ZMbGu5fka",
+              "end": 45,
+              "expanded_url": "https://x.com/yasig26836/status/1967528529740083483/photo/1",
+              "media_key": "3_1967528458139090944",
+              "start": 22,
+              "url": "https://t.co/3ZMbGu5fka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967528529740083483",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1098,
+          "impression_count": 80940,
+          "like_count": 6369,
+          "quote_count": 5,
+          "reply_count": 7,
+          "retweet_count": 849
+        },
+        "reply_settings": "everyone",
+        "text": "☀️\n#アズールレーン #AzurLane https://t.co/3ZMbGu5fka"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 225,
+          "like_count": 2749,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 730
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-20T10:44:49.000Z",
+        "description": "오타쿠",
+        "id": "1881291701903622144",
+        "location": "📧yasig7097@gmail.com",
+        "name": "YASIG",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891995379228667904/Ol7g-wRy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1059,
+          "following_count": 64,
+          "like_count": 225,
+          "listed_count": 15,
+          "media_count": 4,
+          "tweet_count": 180
+        },
+        "username": "yasig26836",
+        "verified": false
+      }
+    ]
+  }
+}

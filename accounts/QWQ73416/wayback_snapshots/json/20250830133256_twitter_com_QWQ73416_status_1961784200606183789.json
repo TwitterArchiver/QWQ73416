@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1961274379129770472",
+    "created_at": "2025-08-30T13:32:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-30T14:32:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961784200606183789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1843165745011986432",
+          "start": 0,
+          "username": "LemonMigo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961784200606183789",
+    "in_reply_to_user_id": "1843165745011986432",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961274379129770472",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LemonMigo 。。。。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1961274379129770472",
+        "created_at": "2025-08-30T13:32:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T14:32:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961784200606183789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1843165745011986432",
+              "start": 0,
+              "username": "LemonMigo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961784200606183789",
+        "in_reply_to_user_id": "1843165745011986432",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961274379129770472",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LemonMigo 。。。。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843165745011986432",
+        "conversation_id": "1961274379129770472",
+        "created_at": "2025-08-29T03:47:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T04:47:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961274379129770472"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1961274379129770472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "2018年5月17日 雨\n弟弟走了\n他们说是一场车祸，瞬间的事，没有痛苦，可我的心被撕成了碎片\n我抱着他的校服蜷缩在衣柜里哭到窒息，那上面还有他的味道，淡淡的柠檬香混着阳光的气息\n后妈发现时，我正亲吻着那件校服的领口，她的尖叫引来了父亲，他们看我的眼神像在看一个怪物\n\n2018年6月2日 阴\n我被带去了医院，白大褂说我对弟弟有“不正常的依恋”，说这是病，需要治疗\n电击很痛，但比不上想到再也见不到弟弟的万分之一痛，每次治疗回来，我都躲在被窝里咬着手背哭，怕被他们听见，弟弟最怕我疼了，要是他知道…要是他知道…\n\n2019年1月15日 雨\n“再提他一次，就加一个疗程”父亲把机票拍在桌上\n“下周去美国”\n我麻木地点头，弟弟，哥可能要很久不能想你了，他们说时间会冲淡一切，可我知道，你早已刻在我的骨髓里\n\n2021年8月8日 晴\nLA的超市货架上突然看到草莓牛奶，我愣了很久，结账时顺手拿了两盒，朋友笑着问\n“Hey, since when did you become a gir！”\n“Just..habit”\n是那个总缠着我买草莓牛奶的小混蛋养成的习惯啊，这个习惯，我大概永远改不掉了\n\n2025年8月29日 晴\n4年没梦到你了，弟弟，医生说这是好转的迹象\n可昨晚你突然出现在我梦里，穿着那件蓝条纹睡衣，头发还是乱糟糟的翘着，你对我笑，说：“哥，要好好生活”\n我哭着醒来，枕头湿了一大片，原来这些年我所谓的【遗忘】，不过是把关于你的一切锁进了心底最深的角落罢了\n\n原谅我，弟弟，哥可能….真的要开始学着忘记你了\n\n【让我们把视线切回另一个镜头】\n\n被撞飞那一刻，我最后想的是哥哥烤焦的曲奇饼，虽然我和他没有血缘关系，真遗憾啊，明明好不容易才让他承认喜欢我的\n我看着自己的葬礼，哥哥跪在灵堂前肩膀颤抖得像风中落叶\n我想抱他，手却穿过了他的身体\n\n他们把他绑在电击床上时，我发疯似的在旁边吼叫，没人听得见，他的惨叫像刀子捅进我心脏，我徒劳地一遍遍喊\n\n“哥我在这！看看我啊！”\n\n后来他被送去美国，在超市，他拿起草莓牛奶的瞬间，我高兴得在货架间蹦跳\n哥你还记得！记得我最爱喝这个！\n\n时间对我没有意义，但看着哥眼里的伤痛渐渐沉淀成平静，我知道他在愈合，这很好，虽然这意味着他越来越少想起我\n最近我的存在越来越淡了，像褪色的照片，我知道时候到了\n最后一次，让我任性一回吧\n\n我钻进他的梦境，故意把头发弄得像以前一样乱\n他哭得像个孩子，我想替他擦泪，手指却穿过了他的脸颊\n\n“要好好生活啊，哥”\n\n我努力笑着\n\n“我会变成星星守护你的”\n\n其实当星星什么的都是骗人的，过了今晚，我就会像晨露一样消失了\n\n但没关系，哥\n\n你看，七夕又来了呢"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 80,
+          "impression_count": 41475,
+          "like_count": 566,
+          "quote_count": 9,
+          "reply_count": 74,
+          "retweet_count": 50
+        },
+        "reply_settings": "everyone",
+        "text": "2018年5月17日 雨\n弟弟走了\n他们说是一场车祸，瞬间的事，没有痛苦，可我的心被撕成了碎片\n我抱着他的校服蜷缩在衣柜里哭到窒息，那上面还有他的味道，淡淡的柠檬香混着阳光的气息\n后妈发现时，我正亲吻着那件校服的领口，她的尖叫引来了父亲，他们看我的眼神像在看一个怪物\n\n2018年6月2日 阴"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|小推@QWQ1885|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "QWQ1885"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 161,
+          "like_count": 1446,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 307
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T05:45:45.000Z",
+        "description": "“为了看起来更易于焚烧，我早睡早起，允许健康”",
+        "id": "1843165745011986432",
+        "location": "从梦里想象出来的伊甸园",
+        "name": "Migoooooooooo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961262523606573056/W7d-ziVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5624,
+          "following_count": 249,
+          "like_count": 330,
+          "listed_count": 8,
+          "media_count": 311,
+          "tweet_count": 5388
+        },
+        "username": "LemonMigo",
+        "verified": true
+      }
+    ]
+  }
+}

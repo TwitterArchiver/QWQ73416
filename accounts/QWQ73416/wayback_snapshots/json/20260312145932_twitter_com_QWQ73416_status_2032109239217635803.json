@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "2031788864701096162",
+    "created_at": "2026-03-12T14:59:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T15:59:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032109239217635803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1692711484474929152",
+          "start": 0,
+          "username": "dongbagel114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032109239217635803",
+    "in_reply_to_user_id": "1692711484474929152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031788864701096162",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dongbagel114 😅你在说些什么？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "2031788864701096162",
+        "created_at": "2026-03-12T14:59:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T15:59:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032109239217635803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1692711484474929152",
+              "start": 0,
+              "username": "dongbagel114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032109239217635803",
+        "in_reply_to_user_id": "1692711484474929152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031788864701096162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dongbagel114 😅你在说些什么？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692711484474929152",
+        "conversation_id": "2031788864701096162",
+        "created_at": "2026-03-11T17:46:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T18:46:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031788864701096162"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_toffee/s…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/amber_toffee/status/2031746806036541815",
+              "start": 21,
+              "url": "https://t.co/ydWZtleVLs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031788864701096162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 23849,
+          "like_count": 37,
+          "quote_count": 10,
+          "reply_count": 14,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031746806036541815",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你接触跨性别的唯一方式是和他们约炮 宝子 https://t.co/ydWZtleVLs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10🌟|🍥GAHT/HRT:2025.10.7🏳️‍⚧️|\n割手的痕迹被我妈看到了，被骂了一顿|\n好闺蜜 @N2OXYN |\n→I an not a vitual account.(T~T)←|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 53,
+                "username": "N2OXYN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "MTF.wiki",
+                "end": 23,
+                "expanded_url": "http://MTF.wiki",
+                "start": 0,
+                "url": "https://t.co/7tmPTkeoFF"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "🫥",
+        "name": "🧊泠小米🍥❄️",
+        "pinned_tweet_id": "2022184415632433414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023719096047771648/WvkPh1aM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 546,
+          "following_count": 306,
+          "like_count": 6202,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 1524
+        },
+        "url": "https://t.co/7tmPTkeoFF",
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-19T01:34:11.000Z",
+        "description": "曲婉婷资深粉丝，喜欢东北臭脚白袜体育生",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dongbabysima.com",
+                "end": 23,
+                "expanded_url": "http://www.dongbabysima.com",
+                "start": 0,
+                "url": "https://t.co/lrqxU0mWz7"
+              }
+            ]
+          }
+        },
+        "id": "1692711484474929152",
+        "location": "安徽 南京",
+        "name": "马鞍山徽嫂家政服务-马阿姨",
+        "pinned_tweet_id": "2006540361896964105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014312792535302144/YKo_gG87_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 708,
+          "following_count": 1187,
+          "like_count": 11941,
+          "listed_count": 1,
+          "media_count": 319,
+          "tweet_count": 5109
+        },
+        "url": "https://t.co/lrqxU0mWz7",
+        "username": "dongbagel114",
+        "verified": false
+      }
+    ]
+  }
+}

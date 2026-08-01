@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1971527652420055041"
+      ],
+      "media_source_tweet_id": [
+        "1971527664579301598"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1971589715163029947",
+    "created_at": "2025-09-26T14:56:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-26T15:56:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971589715163029947"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1916242325430550528",
+          "start": 3,
+          "username": "Michishi_Reube"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KOjl3lDy9R",
+          "end": 58,
+          "expanded_url": "https://x.com/Michishi_Reube/status/1971527664579301598/photo/1",
+          "media_key": "3_1971527652420055041",
+          "start": 35,
+          "url": "https://t.co/KOjl3lDy9R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971589715163029947",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 108
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971527664579301598",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Michishi_Reube: 褐色エジプト猫耳ロリきりたん https://t.co/KOjl3lDy9R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1971527652420055041",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1xF9EtbcAEsYTB.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971527652420055041"
+          ],
+          "media_source_tweet_id": [
+            "1971527664579301598"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1971589715163029947",
+        "created_at": "2025-09-26T14:56:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T15:56:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971589715163029947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1916242325430550528",
+              "start": 3,
+              "username": "Michishi_Reube"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KOjl3lDy9R",
+              "end": 58,
+              "expanded_url": "https://x.com/Michishi_Reube/status/1971527664579301598/photo/1",
+              "media_key": "3_1971527652420055041",
+              "start": 35,
+              "url": "https://t.co/KOjl3lDy9R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971589715163029947",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 108
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971527664579301598",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Michishi_Reube: 褐色エジプト猫耳ロリきりたん https://t.co/KOjl3lDy9R"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971527652420055041"
+          ]
+        },
+        "author_id": "1916242325430550528",
+        "conversation_id": "1971527664579301598",
+        "created_at": "2025-09-26T10:49:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T11:49:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971527664579301598"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KOjl3lDy9R",
+              "end": 38,
+              "expanded_url": "https://x.com/Michishi_Reube/status/1971527664579301598/photo/1",
+              "media_key": "3_1971527652420055041",
+              "start": 15,
+              "url": "https://t.co/KOjl3lDy9R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971527664579301598",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 85,
+          "impression_count": 7225,
+          "like_count": 792,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 108
+        },
+        "reply_settings": "everyone",
+        "text": "褐色エジプト猫耳ロリきりたん https://t.co/KOjl3lDy9R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "pinned_tweet_id": "1971096075286216763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 252,
+          "like_count": 3415,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 963
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-26T21:26:10.000Z",
+        "description": "まろ🎨【skeb】https://t.co/KgFROloDzF￤sub(@reube_sub)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 37,
+                "username": "reube_sub"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@Michishi_Reube",
+                "end": 32,
+                "expanded_url": "https://skeb.jp/@Michishi_Reube",
+                "start": 9,
+                "url": "https://t.co/KgFROloDzF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Michishi_Reube",
+                "end": 23,
+                "expanded_url": "https://lit.link/Michishi_Reube",
+                "start": 0,
+                "url": "https://t.co/Nal8sMvZLJ"
+              }
+            ]
+          }
+        },
+        "id": "1916242325430550528",
+        "name": "軌思るぅべ",
+        "pinned_tweet_id": "1969700951327178845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968369658282782720/wUPapLF5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 10,
+          "like_count": 1080,
+          "listed_count": 10,
+          "media_count": 22,
+          "tweet_count": 26
+        },
+        "url": "https://t.co/Nal8sMvZLJ",
+        "username": "Michishi_Reube",
+        "verified": false
+      }
+    ]
+  }
+}

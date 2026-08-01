@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1980673075021820342",
+    "created_at": "2025-10-22T06:17:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T07:17:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980881090626875683"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1760607995300585472",
+          "start": 0,
+          "username": "xiaoeiQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980881090626875683",
+    "in_reply_to_user_id": "1760607995300585472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980673075021820342",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoeiQAQ 在最外圈跟苹果王待在一起🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1980673070412230660",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3zDqdoacAQl9k1.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1980673075021820342",
+        "created_at": "2025-10-22T06:17:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T07:17:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980881090626875683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1760607995300585472",
+              "start": 0,
+              "username": "xiaoeiQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980881090626875683",
+        "in_reply_to_user_id": "1760607995300585472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980673075021820342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoeiQAQ 在最外圈跟苹果王待在一起🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980673070412230660"
+          ]
+        },
+        "author_id": "1760607995300585472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1980673075021820342",
+        "created_at": "2025-10-21T16:30:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T17:30:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980673075021820342"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infintytweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infintytweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1978517149191962625/k4bwbkC6?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1978517149191962625/k4bwbkC6?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infintytweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/sDEzBCZOrA"
+            },
+            {
+              "display_url": "pic.x.com/D7ndV9BuEP",
+              "end": 64,
+              "expanded_url": "https://x.com/xiaoeiQAQ/status/1980673075021820342/photo/1",
+              "media_key": "3_1980673070412230660",
+              "start": 41,
+              "url": "https://t.co/D7ndV9BuEP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980673075021820342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 341,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/sDEzBCZOrA https://t.co/D7ndV9BuEP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|GAHT/HRT:2025.10.7|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "MTF.wiki",
+                "end": 23,
+                "expanded_url": "http://MTF.wiki",
+                "start": 0,
+                "url": "https://t.co/7tmPTkeoFF"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "∠( ᐛ 」∠)_",
+        "name": "🍥(￣ヘ￣🍥)",
+        "pinned_tweet_id": "1971859627869708434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979202568543784960/OeW4bpMU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 272,
+          "like_count": 4120,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1111
+        },
+        "url": "https://t.co/7tmPTkeoFF",
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-22T10:10:39.000Z",
+        "description": "咲苡：15岁mtf，想念姐姐呜呜呜 ，疯狂熬夜哩 165cm/95斤",
+        "id": "1760607995300585472",
+        "location": "济宁",
+        "name": "王咲桃🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974655164452925440/2oc_H0Lu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1194,
+          "following_count": 488,
+          "like_count": 1459,
+          "listed_count": 2,
+          "media_count": 285,
+          "tweet_count": 1422
+        },
+        "username": "xiaoeiQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

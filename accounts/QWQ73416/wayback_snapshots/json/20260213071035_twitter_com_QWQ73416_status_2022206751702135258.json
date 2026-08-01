@@ -1,0 +1,363 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021807892094128128"
+      ],
+      "media_source_tweet_id": [
+        "2021807895340626291"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2022206751702135258",
+    "created_at": "2026-02-13T07:10:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T08:10:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022206751702135258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1860552199585300482",
+          "start": 3,
+          "username": "Seven_Eraya"
+        },
+        {
+          "end": 28,
+          "id": "1954162675513954304",
+          "start": 17,
+          "username": "YeJiangXYN"
+        },
+        {
+          "end": 38,
+          "id": "1955503492145283072",
+          "start": 29,
+          "username": "QWQ73416"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/30G1WbDxvS",
+          "end": 70,
+          "expanded_url": "https://x.com/Seven_Eraya/status/2021807895340626291/photo/1",
+          "media_key": "3_2021807892094128128",
+          "start": 47,
+          "url": "https://t.co/30G1WbDxvS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022206751702135258",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021807895340626291",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Seven_Eraya: @YeJiangXYN @QWQ73416 提早那么多吗（ https://t.co/30G1WbDxvS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2021807892094128128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA7nkNxaEAA1Su0.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021807892094128128"
+          ],
+          "media_source_tweet_id": [
+            "2021807895340626291"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2022206751702135258",
+        "created_at": "2026-02-13T07:10:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T08:10:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022206751702135258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1860552199585300482",
+              "start": 3,
+              "username": "Seven_Eraya"
+            },
+            {
+              "end": 28,
+              "id": "1954162675513954304",
+              "start": 17,
+              "username": "YeJiangXYN"
+            },
+            {
+              "end": 38,
+              "id": "1955503492145283072",
+              "start": 29,
+              "username": "QWQ73416"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/30G1WbDxvS",
+              "end": 70,
+              "expanded_url": "https://x.com/Seven_Eraya/status/2021807895340626291/photo/1",
+              "media_key": "3_2021807892094128128",
+              "start": 47,
+              "url": "https://t.co/30G1WbDxvS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022206751702135258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021807895340626291",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Seven_Eraya: @YeJiangXYN @QWQ73416 提早那么多吗（ https://t.co/30G1WbDxvS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021807892094128128"
+          ]
+        },
+        "author_id": "1860552199585300482",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2021444479270650038",
+        "created_at": "2026-02-12T04:45:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T05:45:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021807895340626291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1954162675513954304",
+              "start": 0,
+              "username": "YeJiangXYN"
+            },
+            {
+              "end": 21,
+              "id": "1955503492145283072",
+              "start": 12,
+              "username": "QWQ73416"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/30G1WbDxvS",
+              "end": 53,
+              "expanded_url": "https://x.com/Seven_Eraya/status/2021807895340626291/photo/1",
+              "media_key": "3_2021807892094128128",
+              "start": 30,
+              "url": "https://t.co/30G1WbDxvS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021807895340626291",
+        "in_reply_to_user_id": "1954162675513954304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021444479270650038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YeJiangXYN @QWQ73416 提早那么多吗（ https://t.co/30G1WbDxvS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|GAHT/HRT:2025.10.7|欢迎交朋友|一！个！都！不！准！死！|补佳乐已被母亲发现|好闺蜜@z8897031948836 |\n→I an not a vitual account.(T~T)←|\n🚪10 要加的私聊，绿，纯好友位|（虽然我知道压根没人加🙃）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 54,
+                "username": "z8897031948836"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "MTF.wiki",
+                "end": 23,
+                "expanded_url": "http://MTF.wiki",
+                "start": 0,
+                "url": "https://t.co/7tmPTkeoFF"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "∠( 🥵」∠)_",
+        "name": "🧊泠小米🍥",
+        "pinned_tweet_id": "2022184415632433414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021513301444968448/YKJD_L07_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 308,
+          "like_count": 5869,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 1400
+        },
+        "url": "https://t.co/7tmPTkeoFF",
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-24T05:15:08.000Z",
+        "description": "我想当ˣʸⁿqnq",
+        "id": "1860552199585300482",
+        "name": "Eraya_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000119531575095296/-lELMvd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 6,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 12
+        },
+        "username": "Seven_Eraya",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-09T12:47:58.000Z",
+        "description": "MTF｜HRT 25.5.31｜08年末｜真寻佳代子厨｜有点抽象（？）\n求互fo",
+        "id": "1954162675513954304",
+        "name": "白夜🍥",
+        "pinned_tweet_id": "2021444479270650038",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021938745877180422/oUBc4K4l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 81,
+          "like_count": 52,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 65
+        },
+        "username": "YeJiangXYN",
+        "verified": false
+      }
+    ]
+  }
+}

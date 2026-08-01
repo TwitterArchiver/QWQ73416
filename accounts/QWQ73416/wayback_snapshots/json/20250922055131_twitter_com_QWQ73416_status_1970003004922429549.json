@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969823535670730752"
+      ],
+      "media_source_tweet_id": [
+        "1969823541479845927"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1970003004922429549",
+    "created_at": "2025-09-22T05:51:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T06:51:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970003004922429549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1597896985423794177",
+          "start": 3,
+          "username": "coldsleeeeeeep"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/k6RtwagsyP",
+          "end": 56,
+          "expanded_url": "https://x.com/coldsleeeeeeep/status/1969823541479845927/photo/1",
+          "media_key": "3_1969823535670730752",
+          "start": 33,
+          "url": "https://t.co/k6RtwagsyP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970003004922429549",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 60
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969823541479845927",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @coldsleeeeeeep: 褐色エジプト猫耳きりたん https://t.co/k6RtwagsyP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1969823535670730752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1Y4EbHboAAMqkZ.jpg",
+        "width": 1776
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969823535670730752"
+          ],
+          "media_source_tweet_id": [
+            "1969823541479845927"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1970003004922429549",
+        "created_at": "2025-09-22T05:51:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T06:51:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970003004922429549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1597896985423794177",
+              "start": 3,
+              "username": "coldsleeeeeeep"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/k6RtwagsyP",
+              "end": 56,
+              "expanded_url": "https://x.com/coldsleeeeeeep/status/1969823541479845927/photo/1",
+              "media_key": "3_1969823535670730752",
+              "start": 33,
+              "url": "https://t.co/k6RtwagsyP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970003004922429549",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 60
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969823541479845927",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @coldsleeeeeeep: 褐色エジプト猫耳きりたん https://t.co/k6RtwagsyP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969823535670730752"
+          ]
+        },
+        "author_id": "1597896985423794177",
+        "conversation_id": "1969823541479845927",
+        "created_at": "2025-09-21T17:58:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T18:58:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969823541479845927"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k6RtwagsyP",
+              "end": 36,
+              "expanded_url": "https://x.com/coldsleeeeeeep/status/1969823541479845927/photo/1",
+              "media_key": "3_1969823535670730752",
+              "start": 13,
+              "url": "https://t.co/k6RtwagsyP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969823541479845927",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 4278,
+          "like_count": 378,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 60
+        },
+        "reply_settings": "everyone",
+        "text": "褐色エジプト猫耳きりたん https://t.co/k6RtwagsyP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 238,
+          "like_count": 3190,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 873
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-30T10:15:17.000Z",
+        "description": "結論 ヘッダー▶︎自立自販機さん(@ZnDDnNd01928374)活動場所リンク▶︎ https://t.co/Ei9lGQU1gW代理兼創作キャラ▶︎#ぴすぶい　　(何かあればマシュマロかDMへ)",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 82,
+                "start": 77,
+                "tag": "ぴすぶい"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 33,
+                "start": 17,
+                "username": "ZnDDnNd01928374"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lit.link/coldsleeeeeeep",
+                "end": 67,
+                "expanded_url": "https://lit.link/coldsleeeeeeep",
+                "start": 44,
+                "url": "https://t.co/Ei9lGQU1gW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "line.me/S/sticker/3000…",
+                "end": 23,
+                "expanded_url": "https://line.me/S/sticker/30000198",
+                "start": 0,
+                "url": "https://t.co/fRabXmOF8n"
+              }
+            ]
+          }
+        },
+        "id": "1597896985423794177",
+        "location": "無断転載、自作発言✖︎ 壁紙は個人使用ならok ",
+        "name": "kユ",
+        "pinned_tweet_id": "1969561601322991640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943215815815262208/gc1qC97Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2142,
+          "following_count": 409,
+          "like_count": 73379,
+          "listed_count": 12,
+          "media_count": 1540,
+          "tweet_count": 14442
+        },
+        "url": "https://t.co/fRabXmOF8n",
+        "username": "coldsleeeeeeep",
+        "verified": false
+      }
+    ]
+  }
+}

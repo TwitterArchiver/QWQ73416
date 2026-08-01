@@ -1,0 +1,432 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968451355758182401"
+      ],
+      "media_source_tweet_id": [
+        "1968451467863539883"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1968533881965166714",
+    "created_at": "2025-09-18T04:33:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T05:33:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968533881965166714"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1527051163870568449",
+          "start": 3,
+          "username": "momose_kumino"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FT4YzY3ZYL",
+          "end": 79,
+          "expanded_url": "https://x.com/momose_kumino/status/1968451467863539883/photo/1",
+          "media_key": "3_1968451355758182401",
+          "start": 56,
+          "url": "https://t.co/FT4YzY3ZYL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968533881965166714",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 141
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968451467863539883",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @momose_kumino: 私も神絵師になりたーい‼️‼️\nので褐色エジプト猫耳ロリかきました🥺🥺🥺 https://t.co/FT4YzY3ZYL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1968451355758182401",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1FYFCmaQAEagPO.jpg",
+        "width": 754
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968451355758182401"
+          ],
+          "media_source_tweet_id": [
+            "1968451467863539883"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1968533881965166714",
+        "created_at": "2025-09-18T04:33:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T05:33:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968533881965166714"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1527051163870568449",
+              "start": 3,
+              "username": "momose_kumino"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FT4YzY3ZYL",
+              "end": 79,
+              "expanded_url": "https://x.com/momose_kumino/status/1968451467863539883/photo/1",
+              "media_key": "3_1968451355758182401",
+              "start": 56,
+              "url": "https://t.co/FT4YzY3ZYL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968533881965166714",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 141
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968451467863539883",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @momose_kumino: 私も神絵師になりたーい‼️‼️\nので褐色エジプト猫耳ロリかきました🥺🥺🥺 https://t.co/FT4YzY3ZYL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968451355758182401"
+          ]
+        },
+        "author_id": "1527051163870568449",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1968451467863539883",
+        "created_at": "2025-09-17T23:06:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T00:06:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968451467863539883"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FT4YzY3ZYL",
+              "end": 60,
+              "expanded_url": "https://x.com/momose_kumino/status/1968451467863539883/photo/1",
+              "media_key": "3_1968451355758182401",
+              "start": 37,
+              "url": "https://t.co/FT4YzY3ZYL"
+            },
+            {
+              "display_url": "x.com/cactasis/statu…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/cactasis/status/1962197990241955979",
+              "start": 61,
+              "url": "https://t.co/uJGV54omHm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968451467863539883",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 146,
+          "impression_count": 16399,
+          "like_count": 1151,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 141
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962197990241955979",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "私も神絵師になりたーい‼️‼️\nので褐色エジプト猫耳ロリかきました🥺🥺🥺 https://t.co/FT4YzY3ZYL https://t.co/uJGV54omHm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 229,
+          "like_count": 2969,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 791
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-18T22:19:22.000Z",
+        "description": "アニメ背景描く仕事してます┊︎サークル(2人)『もものはようちえん』で活動予定┊︎ 𝚜𝚔𝚎𝚋 ▶︎https://t.co/AhzOn3fSWB ┊︎ 🔎息子▶︎@chielmgmg 👀娘▶︎ @rn4r0 ┊︎ 𝙵𝙰▶︎ #くみなーと┊︎報告タグ▶︎ #みてみてくみの ┊︎♀️",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 118,
+                "start": 112,
+                "tag": "くみなーと"
+              },
+              {
+                "end": 135,
+                "start": 127,
+                "tag": "みてみてくみの"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 91,
+                "start": 81,
+                "username": "chielmgmg"
+              },
+              {
+                "end": 103,
+                "start": 97,
+                "username": "rn4r0"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@momose_kumino",
+                "end": 72,
+                "expanded_url": "https://skeb.jp/@momose_kumino",
+                "start": 49,
+                "url": "https://t.co/AhzOn3fSWB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/momosekumino",
+                "end": 23,
+                "expanded_url": "https://lit.link/momosekumino",
+                "start": 0,
+                "url": "https://t.co/a35YGAI130"
+              }
+            ]
+          }
+        },
+        "id": "1527051163870568449",
+        "location": "▼▼ご依頼に関して・その他サイトはこちら",
+        "name": "桃彗くみの🎀💛",
+        "pinned_tweet_id": "1963386204172554717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962909236414865408/-nRJa1q0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6583,
+          "following_count": 687,
+          "like_count": 25743,
+          "listed_count": 80,
+          "media_count": 30,
+          "tweet_count": 22834
+        },
+        "url": "https://t.co/a35YGAI130",
+        "username": "momose_kumino",
+        "verified": false
+      }
+    ]
+  }
+}

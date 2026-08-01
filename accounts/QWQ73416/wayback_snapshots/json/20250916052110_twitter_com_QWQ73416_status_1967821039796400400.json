@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1967436504923525296",
+    "created_at": "2025-09-16T05:21:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T06:21:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967821039796400400"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1942154962974425088",
+          "start": 0,
+          "username": "xzgsb"
+        },
+        {
+          "end": 22,
+          "id": "1966539497795117056",
+          "start": 7,
+          "username": "Yuwen_Tang1019"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967821039796400400",
+    "in_reply_to_user_id": "1942154962974425088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967631281925370071",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xzgsb @Yuwen_Tang1019 没事儿，玩儿去吧。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1967436504923525296",
+        "created_at": "2025-09-16T05:21:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T06:21:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967821039796400400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1942154962974425088",
+              "start": 0,
+              "username": "xzgsb"
+            },
+            {
+              "end": 22,
+              "id": "1966539497795117056",
+              "start": 7,
+              "username": "Yuwen_Tang1019"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967821039796400400",
+        "in_reply_to_user_id": "1942154962974425088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967631281925370071",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xzgsb @Yuwen_Tang1019 没事儿，玩儿去吧。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942154962974425088",
+        "conversation_id": "1967436504923525296",
+        "created_at": "2025-09-15T16:47:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T17:47:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967631281925370071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1966539497795117056",
+              "start": 0,
+              "username": "Yuwen_Tang1019"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967631281925370071",
+        "in_reply_to_user_id": "1966539497795117056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 767,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967436504923525296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuwen_Tang1019 炸柜是什么意思……?（好奇）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 226,
+          "like_count": 2796,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 740
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-07T09:33:33.000Z",
+        "description": "希望每个人都能快快乐乐每一天，还有的是如果我的话让你感到很有乐子，那我也会很有乐子的，我就喜欢乐子，能让人开心的乐子!",
+        "id": "1942154962974425088",
+        "location": "中国",
+        "name": "每天都要快乐啊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949556547895668736/9kmvI4Gz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 1364,
+          "like_count": 16160,
+          "listed_count": 0,
+          "media_count": 771,
+          "tweet_count": 6416
+        },
+        "username": "xzgsb",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-12T16:29:01.000Z",
+        "description": "友跨MTF,反激跨🤔\n我的家人，孩子，笨蛋老婆和老公：@zhishi_cook🤤，@wowo_yz🥵\n仪器出厂日期19th.10.10☺️\n在墨尔本🌝\n异常抽象的出轨多边家暴跨😱（但我的对象依然爱我喵🤓）pua人身攻击的高危mtf👹，从30th.6.2025开始hrt😋\n同类互关😈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "zhishi_cook"
+              },
+              {
+                "end": 49,
+                "start": 41,
+                "username": "wowo_yz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "MTF.WIKI",
+                "end": 23,
+                "expanded_url": "http://MTF.WIKI",
+                "start": 0,
+                "url": "https://t.co/brtIcvQKgy"
+              }
+            ]
+          }
+        },
+        "id": "1966539497795117056",
+        "location": "Melbourne, Victoria",
+        "name": "唐毓文",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966543244889894912/f4sbkyyM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 66,
+          "like_count": 3,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 99
+        },
+        "url": "https://t.co/brtIcvQKgy",
+        "username": "Yuwen_Tang1019",
+        "verified": true
+      }
+    ]
+  }
+}

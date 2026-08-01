@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1971903679256317952"
+      ],
+      "media_source_tweet_id": [
+        "1971907676088287661"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1972179883741876566",
+    "created_at": "2025-09-28T06:01:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T07:01:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972179883741876566"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1884497669609209856",
+          "start": 3,
+          "username": "kahi9317"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Request Box",
+          "display_url": "skeb.jp/@kahi9317",
+          "end": 68,
+          "expanded_url": "https://skeb.jp/@kahi9317",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/1969750446857490432/iBHVg5a9?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1969750446857490432/iBHVg5a9?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 45,
+          "status": 200,
+          "title": "まーぼー (@kahi9317) | Skeb",
+          "unwound_url": "https://skeb.jp/@kahi9317",
+          "url": "https://t.co/O2aA8hpwlz"
+        },
+        {
+          "display_url": "pic.x.com/C6JsRMzwox",
+          "end": 92,
+          "expanded_url": "https://x.com/kahi9317/status/1971907676088287661/photo/1",
+          "media_key": "3_1971903679256317952",
+          "start": 69,
+          "url": "https://t.co/C6JsRMzwox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972179883741876566",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 125
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971907676088287661",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kahi9317: 褐色エジプト猫耳ロリ   \n Skeb commission　https://t.co/O2aA8hpwlz https://t.co/C6JsRMzwox"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3508,
+        "media_key": "3_1971903679256317952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G12b8t1b0AAXoen.jpg",
+        "width": 2480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971903679256317952"
+          ],
+          "media_source_tweet_id": [
+            "1971907676088287661"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1972179883741876566",
+        "created_at": "2025-09-28T06:01:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T07:01:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972179883741876566"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1884497669609209856",
+              "start": 3,
+              "username": "kahi9317"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Request Box",
+              "display_url": "skeb.jp/@kahi9317",
+              "end": 68,
+              "expanded_url": "https://skeb.jp/@kahi9317",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1969750446857490432/iBHVg5a9?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1969750446857490432/iBHVg5a9?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 45,
+              "status": 200,
+              "title": "まーぼー (@kahi9317) | Skeb",
+              "unwound_url": "https://skeb.jp/@kahi9317",
+              "url": "https://t.co/O2aA8hpwlz"
+            },
+            {
+              "display_url": "pic.x.com/C6JsRMzwox",
+              "end": 92,
+              "expanded_url": "https://x.com/kahi9317/status/1971907676088287661/photo/1",
+              "media_key": "3_1971903679256317952",
+              "start": 69,
+              "url": "https://t.co/C6JsRMzwox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972179883741876566",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 125
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971907676088287661",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kahi9317: 褐色エジプト猫耳ロリ   \n Skeb commission　https://t.co/O2aA8hpwlz https://t.co/C6JsRMzwox"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971903679256317952"
+          ]
+        },
+        "author_id": "1884497669609209856",
+        "conversation_id": "1971907676088287661",
+        "created_at": "2025-09-27T12:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T13:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971907676088287661"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Request Box",
+              "display_url": "skeb.jp/@kahi9317",
+              "end": 54,
+              "expanded_url": "https://skeb.jp/@kahi9317",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/1969750446857490432/iBHVg5a9?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1969750446857490432/iBHVg5a9?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 31,
+              "status": 200,
+              "title": "まーぼー (@kahi9317) | Skeb",
+              "unwound_url": "https://skeb.jp/@kahi9317",
+              "url": "https://t.co/O2aA8hpwlz"
+            },
+            {
+              "display_url": "pic.x.com/C6JsRMzwox",
+              "end": 78,
+              "expanded_url": "https://x.com/kahi9317/status/1971907676088287661/photo/1",
+              "media_key": "3_1971903679256317952",
+              "start": 55,
+              "url": "https://t.co/C6JsRMzwox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971907676088287661",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 101,
+          "impression_count": 8844,
+          "like_count": 1114,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 125
+        },
+        "reply_settings": "everyone",
+        "text": "褐色エジプト猫耳ロリ   \n Skeb commission　https://t.co/O2aA8hpwlz https://t.co/C6JsRMzwox"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "pinned_tweet_id": "1971096075286216763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 252,
+          "like_count": 3469,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 984
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-29T07:05:34.000Z",
+        "description": "女の子のイラストを描く人　\n\nSkebコミッション　https://t.co/0usJCVH5l8\npixivFANBOX　https://t.co/WlXEWNraMJ\n\n本アカ　＠mabo9317\n\nお仕事、ご相談等はこちら　mabo4464@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 91,
+                "username": "mabo9317"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@kahi9317",
+                "end": 49,
+                "expanded_url": "https://skeb.jp/@kahi9317",
+                "start": 26,
+                "url": "https://t.co/0usJCVH5l8"
+              },
+              {
+                "display_url": "tlmftfk.fanbox.cc",
+                "end": 85,
+                "expanded_url": "https://tlmftfk.fanbox.cc/",
+                "start": 62,
+                "url": "https://t.co/WlXEWNraMJ"
+              }
+            ]
+          }
+        },
+        "id": "1884497669609209856",
+        "name": "まーぼー",
+        "pinned_tweet_id": "1963033979650769281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901543152009482240/yI3lUhVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1953,
+          "following_count": 10,
+          "like_count": 638,
+          "listed_count": 14,
+          "media_count": 300,
+          "tweet_count": 551
+        },
+        "username": "kahi9317",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1967815828730175674",
+    "created_at": "2025-09-16T05:23:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T06:23:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967821557033734243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1621259482704625671",
+          "start": 0,
+          "username": "Qinnoii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967821557033734243",
+    "in_reply_to_user_id": "1621259482704625671",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967815828730175674",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qinnoii 贵校应该很开放吧awa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1066,
+        "media_key": "3_1967815818085040128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G08WD4RagAAkzk1.jpg",
+        "width": 1066
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1967815828730175674",
+        "created_at": "2025-09-16T05:23:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T06:23:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967821557033734243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1621259482704625671",
+              "start": 0,
+              "username": "Qinnoii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967821557033734243",
+        "in_reply_to_user_id": "1621259482704625671",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967815828730175674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qinnoii 贵校应该很开放吧awa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967815818085040128"
+          ]
+        },
+        "author_id": "1621259482704625671",
+        "conversation_id": "1967815828730175674",
+        "created_at": "2025-09-16T05:00:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T06:00:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967815828730175674"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gaYjB1F6mE",
+              "end": 34,
+              "expanded_url": "https://x.com/Qinnoii/status/1967815828730175674/photo/1",
+              "media_key": "3_1967815818085040128",
+              "start": 11,
+              "url": "https://t.co/gaYjB1F6mE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967815828730175674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是我们副校长发的？ https://t.co/gaYjB1F6mE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 226,
+          "like_count": 2797,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 742
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-02T21:29:55.000Z",
+        "description": "🏳️‍⚧️MtF|正體🇹🇼/简体🇨🇳\n💙@ObjectShadow💚\nフォローをくれてありがとうございます!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 20,
+                "username": "ObjectShadow"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ayaneqin.blogspot.com",
+                "end": 23,
+                "expanded_url": "http://ayaneqin.blogspot.com",
+                "start": 0,
+                "url": "https://t.co/eL7t3GftYz"
+              }
+            ]
+          }
+        },
+        "id": "1621259482704625671",
+        "name": "綾音Ayane",
+        "pinned_tweet_id": "1959513688395960345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929662964526993411/I6Qra0xt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 399,
+          "following_count": 901,
+          "like_count": 11786,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 282
+        },
+        "url": "https://t.co/eL7t3GftYz",
+        "username": "Qinnoii",
+        "verified": false
+      }
+    ]
+  }
+}

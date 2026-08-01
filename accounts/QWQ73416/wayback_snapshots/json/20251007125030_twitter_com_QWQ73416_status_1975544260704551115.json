@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1975465263031329131",
+    "created_at": "2025-10-07T12:50:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-07T13:50:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975544260704551115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1766644305660420096",
+          "start": 0,
+          "username": "suikahsnya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975544260704551115",
+    "in_reply_to_user_id": "1766644305660420096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975465263031329131",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suikahsnya 太占用内存了，必须删掉！还有这东西真的能重新装回来吗？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 439,
+        "media_key": "3_1975465255724879872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2pDLwGbkAAyrOE.jpg",
+        "width": 571
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1975465263031329131",
+        "created_at": "2025-10-07T12:50:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T13:50:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975544260704551115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1766644305660420096",
+              "start": 0,
+              "username": "suikahsnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975544260704551115",
+        "in_reply_to_user_id": "1766644305660420096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975465263031329131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suikahsnya 太占用内存了，必须删掉！还有这东西真的能重新装回来吗？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975465255724879872"
+          ]
+        },
+        "author_id": "1766644305660420096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1975465263031329131",
+        "created_at": "2025-10-07T07:36:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T08:36:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975465263031329131"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sKIJ31Lw4a",
+              "end": 33,
+              "expanded_url": "https://x.com/suikahsnya/status/1975465263031329131/photo/1",
+              "media_key": "3_1975465255724879872",
+              "start": 10,
+              "url": "https://t.co/sKIJ31Lw4a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975465263031329131",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1621,
+          "like_count": 75,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "立即卸載 強制卸載 https://t.co/sKIJ31Lw4a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|GAHT/HRT:2025.10.7|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "MTF.wiki",
+                "end": 23,
+                "expanded_url": "http://MTF.wiki",
+                "start": 0,
+                "url": "https://t.co/7tmPTkeoFF"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "∠( ᐛ 」∠)_",
+        "name": "🍥(￣ヘ￣🏳️‍⚧️)",
+        "pinned_tweet_id": "1971859627869708434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 265,
+          "like_count": 3902,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1074
+        },
+        "url": "https://t.co/7tmPTkeoFF",
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-10T01:56:57.000Z",
+        "description": "09年/高一/LGBTQ🏳️‍⚧️🏳️‍🌈/MtF🍥（hrt2025.9.30）/GD嚴重/極度容貌焦慮/住宿生/🚪₩0/希望同類互fo貼貼/堅決不自殘不od不抽菸不喝酒不鬧事/皮下醜國男/坐標上海/原帳號@gotousugi被盜，推友巡迴中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 103,
+                "username": "gotousugi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naenara.com.kp",
+                "end": 23,
+                "expanded_url": "http://naenara.com.kp",
+                "start": 0,
+                "url": "https://t.co/iBBruXvmT7"
+              }
+            ]
+          }
+        },
+        "id": "1766644305660420096",
+        "location": "光州広域市，大韓民国🇰🇷（距离你2^31-1km)",
+        "name": "西瓜好酸喵🏳️‍⚧️🍥🍉🧊🍔🍜",
+        "pinned_tweet_id": "1961349996306907630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969054346727059456/GXALGfIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 796,
+          "following_count": 1122,
+          "like_count": 3887,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 2105
+        },
+        "url": "https://t.co/iBBruXvmT7",
+        "username": "suikahsnya",
+        "verified": false
+      }
+    ]
+  }
+}

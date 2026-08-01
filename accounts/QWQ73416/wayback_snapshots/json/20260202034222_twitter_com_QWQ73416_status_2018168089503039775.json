@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "2017581360836448473",
+    "created_at": "2026-02-02T03:42:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-02T04:42:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018168089503039775"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1887076618969182208",
+          "start": 0,
+          "username": "Chufeinyax"
+        },
+        {
+          "end": 22,
+          "id": "1896175390005342208",
+          "start": 12,
+          "username": "Chufeinya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018168089503039775",
+    "in_reply_to_user_id": "1887076618969182208",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018167945046974854",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chufeinyax @Chufeinya 😱😱😱😱😱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "2017581360836448473",
+        "created_at": "2026-02-02T03:42:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T04:42:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018168089503039775"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1887076618969182208",
+              "start": 0,
+              "username": "Chufeinyax"
+            },
+            {
+              "end": 22,
+              "id": "1896175390005342208",
+              "start": 12,
+              "username": "Chufeinya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018168089503039775",
+        "in_reply_to_user_id": "1887076618969182208",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018167945046974854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chufeinyax @Chufeinya 😱😱😱😱😱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887076618969182208",
+        "conversation_id": "2017581360836448473",
+        "created_at": "2026-02-02T03:41:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T04:41:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018167945046974854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1955503492145283072",
+              "start": 0,
+              "username": "QWQ73416"
+            },
+            {
+              "end": 20,
+              "id": "1896175390005342208",
+              "start": 10,
+              "username": "Chufeinya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018167945046974854",
+        "in_reply_to_user_id": "1955503492145283072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018149104455696829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QWQ73416 @Chufeinya 请问是10月7日生的 🍥泠小米🍥 女士吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|GAHT/HRT:2025.10.7|欢迎交朋友|一！个！都！不！准！死！|补佳乐已被母亲发现|\n→I an not a vitual account.(T~T)←|\n🚪10 要加的私聊，绿，纯好友位|（虽然我知道压根没人加🙃）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "MTF.wiki",
+                "end": 23,
+                "expanded_url": "http://MTF.wiki",
+                "start": 0,
+                "url": "https://t.co/7tmPTkeoFF"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "∠( 🥵」∠)_",
+        "name": "🍥泠小米🍥",
+        "pinned_tweet_id": "2017118020968337439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979202568543784960/OeW4bpMU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 278,
+          "like_count": 5084,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 1236
+        },
+        "url": "https://t.co/7tmPTkeoFF",
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-05T09:51:52.000Z",
+        "description": "散播暴论 | em chuyển/lesbian | 连夜梦觉 Liên Dạ Mộng Giác | 我那未曾谋面的姐姐因我逝，我要替她活下去😖 | @Chufeinya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 76,
+                "username": "Chufeinya"
+              }
+            ]
+          }
+        },
+        "id": "1887076618969182208",
+        "location": "Lăng Nha",
+        "name": "Sơ Phi🇻🇳",
+        "pinned_tweet_id": "2011074984731640090",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001324143204290560/MkZeQFNh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 87,
+          "like_count": 426,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 94
+        },
+        "username": "Chufeinyax",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-02T12:27:09.000Z",
+        "description": "em chuyển/lesbian | 连夜梦觉 Liên Dạ Mộng Giác | 我那未曾谋面的姐姐因我逝，我要替她活下去😖 | @Chufeinyax",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 69,
+                "username": "Chufeinyax"
+              }
+            ]
+          }
+        },
+        "id": "1896175390005342208",
+        "location": "琅琊",
+        "name": "初菲",
+        "pinned_tweet_id": "2017581360836448473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943719684911845376/4TIxDZo-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1201,
+          "following_count": 1838,
+          "like_count": 16774,
+          "listed_count": 4,
+          "media_count": 47,
+          "tweet_count": 1271
+        },
+        "username": "Chufeinya",
+        "verified": false
+      }
+    ]
+  }
+}

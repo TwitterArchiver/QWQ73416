@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "2021444479270650038",
+    "created_at": "2026-05-02T09:35:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T10:35:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050509586344665483"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1955308233192824832",
+          "start": 0,
+          "username": "chnghuyng116110"
+        },
+        {
+          "end": 28,
+          "id": "1954162675513954304",
+          "start": 17,
+          "username": "YeJiangXYN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050509586344665483",
+    "in_reply_to_user_id": "1955308233192824832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050355178684006792",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chnghuyng116110 @YeJiangXYN 我都不知道怎么跟你说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "2021444479270650038",
+        "created_at": "2026-05-02T09:35:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T10:35:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050509586344665483"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1955308233192824832",
+              "start": 0,
+              "username": "chnghuyng116110"
+            },
+            {
+              "end": 28,
+              "id": "1954162675513954304",
+              "start": 17,
+              "username": "YeJiangXYN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050509586344665483",
+        "in_reply_to_user_id": "1955308233192824832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050355178684006792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chnghuyng116110 @YeJiangXYN 我都不知道怎么跟你说"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955308233192824832",
+        "conversation_id": "2021444479270650038",
+        "created_at": "2026-05-01T23:22:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T00:22:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050355178684006792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1954162675513954304",
+              "start": 0,
+              "username": "YeJiangXYN"
+            },
+            {
+              "end": 21,
+              "id": "1955503492145283072",
+              "start": 12,
+              "username": "QWQ73416"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050355178684006792",
+        "in_reply_to_user_id": "1954162675513954304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021444479270650038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YeJiangXYN @QWQ73416 兄弟……啊呸姐们现在还活着吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10🌟|GAHT/HRT:2025.10.7|\n割手的痕迹被我妈看到了，被骂了一顿|\n好闺蜜 @QY404XYN |\n→I an not a vitual account.(T~T)←|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 47,
+                "username": "QY404XYN"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "name": "🧊泠小米BAYER❄️",
+        "pinned_tweet_id": "2037669545633325393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023719096047771648/WvkPh1aM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 703,
+          "following_count": 328,
+          "like_count": 6531,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 1710
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-12T16:42:45.000Z",
+        "description": "",
+        "id": "1955308233192824832",
+        "name": "程铧炀",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955308989102665728/Y2xLEI7u_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 28,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 13
+        },
+        "username": "chnghuyng116110",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-09T12:47:58.000Z",
+        "description": "MTF｜HRT 25.5.31｜08年末｜真寻佳代子厨｜有点抽象（？）\n求互fo",
+        "id": "1954162675513954304",
+        "name": "白夜🍥",
+        "pinned_tweet_id": "2021444479270650038",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021938745877180422/oUBc4K4l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 35,
+          "like_count": 67,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 65
+        },
+        "username": "YeJiangXYN",
+        "verified": false
+      }
+    ]
+  }
+}

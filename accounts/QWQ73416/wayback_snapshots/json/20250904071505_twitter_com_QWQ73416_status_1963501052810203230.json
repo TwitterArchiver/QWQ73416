@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1963495737997889978",
+    "created_at": "2025-09-04T07:15:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T08:15:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963501052810203230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1902700598321135616",
+          "start": 0,
+          "username": "Yanluo1019"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963501052810203230",
+    "in_reply_to_user_id": "1902700598321135616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963495737997889978",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yanluo1019 独轮车？🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1963495737997889978",
+        "created_at": "2025-09-04T07:15:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T08:15:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963501052810203230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1902700598321135616",
+              "start": 0,
+              "username": "Yanluo1019"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963501052810203230",
+        "in_reply_to_user_id": "1902700598321135616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963495737997889978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yanluo1019 独轮车？🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902700598321135616",
+        "conversation_id": "1963495737997889978",
+        "created_at": "2025-09-04T06:53:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T07:53:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963495737997889978"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1963495737997889978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我自愿吃糖的，没有强制，思想也没变，可以随时停，没翻车"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|小推@QWQ1885|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "QWQ1885"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 212,
+          "like_count": 2078,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 571
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-20T12:36:05.000Z",
+        "description": "我的名字是唐毓文/\n成长历程:反跨顺男→反跨男同→反跨跨女同多边→反跨跨女泛多边→友跨跨女泛多边/\n14岁MTF 10月19生日\nHRT STARTED 30th.6.25\n老婆@Zhishi_cook\n老公@wowo_yz\n里推:@FamilyWLZ\n问答ngl:https://t.co/U9hmtvHObD",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 89,
+                "username": "Zhishi_cook"
+              },
+              {
+                "end": 112,
+                "start": 104,
+                "username": "wowo_yz"
+              },
+              {
+                "end": 126,
+                "start": 116,
+                "username": "FamilyWLZ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/yanluo1019",
+                "end": 156,
+                "expanded_url": "https://ngl.link/yanluo1019",
+                "start": 133,
+                "url": "https://t.co/U9hmtvHObD"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "NoMTF.com",
+                "end": 23,
+                "expanded_url": "http://NoMTF.com",
+                "start": 0,
+                "url": "https://t.co/kj7dZuDfkd"
+              }
+            ]
+          }
+        },
+        "id": "1902700598321135616",
+        "location": "Melbourne, Victoria",
+        "name": "唐毓文",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927264142831865856/oGUnMA-N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 736,
+          "following_count": 185,
+          "like_count": 61,
+          "listed_count": 2,
+          "media_count": 159,
+          "tweet_count": 2029
+        },
+        "url": "https://t.co/kj7dZuDfkd",
+        "username": "Yanluo1019",
+        "verified": true
+      }
+    ]
+  }
+}

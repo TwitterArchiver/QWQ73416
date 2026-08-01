@@ -1,0 +1,443 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968354196979433472"
+      ],
+      "media_source_tweet_id": [
+        "1968354204340330630"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1968534341891641361",
+    "created_at": "2025-09-18T04:35:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T05:35:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968534341891641361"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1401818953345757184",
+          "start": 3,
+          "username": "ka_kokono"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CiBvois1vX",
+          "end": 78,
+          "expanded_url": "https://x.com/ka_kokono/status/1968354204340330630/photo/1",
+          "media_key": "3_1968354196979433472",
+          "start": 55,
+          "url": "https://t.co/CiBvois1vX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968534341891641361",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1262
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968354204340330630",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ka_kokono: 褐色エジプト猫耳ロリ🐈‍⬛⚱️ \n神絵師までは多分無理かもしれんけど、頑張る！ https://t.co/CiBvois1vX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1968354196979433472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1D_tp8bwAAGYsE.jpg",
+        "width": 1372
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968354196979433472"
+          ],
+          "media_source_tweet_id": [
+            "1968354204340330630"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1968534341891641361",
+        "created_at": "2025-09-18T04:35:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T05:35:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968534341891641361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1401818953345757184",
+              "start": 3,
+              "username": "ka_kokono"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CiBvois1vX",
+              "end": 78,
+              "expanded_url": "https://x.com/ka_kokono/status/1968354204340330630/photo/1",
+              "media_key": "3_1968354196979433472",
+              "start": 55,
+              "url": "https://t.co/CiBvois1vX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968534341891641361",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1262
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968354204340330630",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ka_kokono: 褐色エジプト猫耳ロリ🐈‍⬛⚱️ \n神絵師までは多分無理かもしれんけど、頑張る！ https://t.co/CiBvois1vX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968354196979433472"
+          ]
+        },
+        "author_id": "1401818953345757184",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1968354204340330630",
+        "created_at": "2025-09-17T16:39:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T17:39:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968354204340330630"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CiBvois1vX",
+              "end": 63,
+              "expanded_url": "https://x.com/ka_kokono/status/1968354204340330630/photo/1",
+              "media_key": "3_1968354196979433472",
+              "start": 40,
+              "url": "https://t.co/CiBvois1vX"
+            },
+            {
+              "display_url": "x.com/cactasis/statu…",
+              "end": 87,
+              "expanded_url": "https://twitter.com/cactasis/status/1962197990241955979",
+              "start": 64,
+              "url": "https://t.co/BF5Bktm3Sp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968354204340330630",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2506,
+          "impression_count": 293656,
+          "like_count": 14639,
+          "quote_count": 5,
+          "reply_count": 20,
+          "retweet_count": 1262
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962197990241955979",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "褐色エジプト猫耳ロリ🐈‍⬛⚱️ \n神絵師までは多分無理かもしれんけど、頑張る！ https://t.co/CiBvois1vX https://t.co/BF5Bktm3Sp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 229,
+          "like_count": 2980,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 800
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-07T08:33:05.000Z",
+        "description": "🇭🇰中文/日本語/English 🥹Thank u for everyone of ur reactions to my drawing",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/en/users/22338…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/en/users/22338905",
+                "start": 0,
+                "url": "https://t.co/8HA6m8YnjF"
+              }
+            ]
+          }
+        },
+        "id": "1401818953345757184",
+        "name": "小花Kokono_ka",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856513258276171776/KmHG0HI9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31061,
+          "following_count": 107,
+          "like_count": 2632,
+          "listed_count": 171,
+          "media_count": 171,
+          "tweet_count": 442
+        },
+        "url": "https://t.co/8HA6m8YnjF",
+        "username": "ka_kokono",
+        "verified": false
+      }
+    ]
+  }
+}

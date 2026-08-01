@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967516386823204864"
+      ],
+      "media_source_tweet_id": [
+        "1967517167135740157"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1967737917566226632",
+    "created_at": "2025-09-15T23:50:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T00:50:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967737917566226632"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1249014758616920068",
+          "start": 3,
+          "username": "asdfg21_snivy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/L36URpocv1",
+          "end": 53,
+          "expanded_url": "https://x.com/asdfg21_snivy/status/1967517167135740157/photo/1",
+          "media_key": "3_1967516386823204864",
+          "start": 30,
+          "url": "https://t.co/L36URpocv1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967737917566226632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 338
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967517167135740157",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @asdfg21_snivy: 狐色エジプト狐耳口リ https://t.co/L36URpocv1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1608,
+        "media_key": "3_1967516386823204864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G04Fur5bcAAbOZD.jpg",
+        "width": 1508
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967516386823204864"
+          ],
+          "media_source_tweet_id": [
+            "1967517167135740157"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1967737917566226632",
+        "created_at": "2025-09-15T23:50:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T00:50:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967737917566226632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1249014758616920068",
+              "start": 3,
+              "username": "asdfg21_snivy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/L36URpocv1",
+              "end": 53,
+              "expanded_url": "https://x.com/asdfg21_snivy/status/1967517167135740157/photo/1",
+              "media_key": "3_1967516386823204864",
+              "start": 30,
+              "url": "https://t.co/L36URpocv1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967737917566226632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 338
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967517167135740157",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @asdfg21_snivy: 狐色エジプト狐耳口リ https://t.co/L36URpocv1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967516386823204864"
+          ]
+        },
+        "author_id": "1249014758616920068",
+        "conversation_id": "1967517167135740157",
+        "created_at": "2025-09-15T09:13:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T10:13:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967517167135740157"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L36URpocv1",
+              "end": 34,
+              "expanded_url": "https://x.com/asdfg21_snivy/status/1967517167135740157/photo/1",
+              "media_key": "3_1967516386823204864",
+              "start": 11,
+              "url": "https://t.co/L36URpocv1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967517167135740157",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 409,
+          "impression_count": 38472,
+          "like_count": 3054,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 338
+        },
+        "reply_settings": "everyone",
+        "text": "狐色エジプト狐耳口リ https://t.co/L36URpocv1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 225,
+          "like_count": 2738,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 724
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-11T16:42:12.000Z",
+        "description": "今はVRChatにはまっています。昔は絵を描いたり3Dモデルを作ったりしてましたが今はオリキャラをStableDiffusionに学習させて描かせてます。\nケモノ系キャラクターが好きです。\nVRChat ID: Kemono-chan\nBOOTH: https://t.co/twZ5GPRs1R",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "asdfg21.booth.pm",
+                "end": 148,
+                "expanded_url": "http://asdfg21.booth.pm",
+                "start": 125,
+                "url": "https://t.co/twZ5GPRs1R"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/5446694",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/5446694",
+                "start": 0,
+                "url": "https://t.co/fdsd7AwJtN"
+              }
+            ]
+          }
+        },
+        "id": "1249014758616920068",
+        "name": "Kemono-chan",
+        "pinned_tweet_id": "1477874032444063748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1249015435887960064/rmtxFZa1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5053,
+          "following_count": 355,
+          "like_count": 19612,
+          "listed_count": 54,
+          "media_count": 422,
+          "tweet_count": 3694
+        },
+        "url": "https://t.co/fdsd7AwJtN",
+        "username": "asdfg21_snivy",
+        "verified": false
+      }
+    ]
+  }
+}

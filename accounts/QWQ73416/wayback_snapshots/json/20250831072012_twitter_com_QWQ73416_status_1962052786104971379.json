@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1962052401214751178",
+    "created_at": "2025-08-31T07:20:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T08:20:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962052786104971379"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1790399279129088000",
+          "start": 0,
+          "username": "yanshiyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962052786104971379",
+    "in_reply_to_user_id": "1790399279129088000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962052401214751178",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yanshiyo 我都吃不到，你还不想吃&lt;(｀^´)&gt;"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1962052401214751178",
+        "created_at": "2025-08-31T07:20:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T08:20:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962052786104971379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1790399279129088000",
+              "start": 0,
+              "username": "yanshiyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962052786104971379",
+        "in_reply_to_user_id": "1790399279129088000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962052401214751178",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yanshiyo 我都吃不到，你还不想吃&lt;(｀^´)&gt;"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790399279129088000",
+        "conversation_id": "1962052401214751178",
+        "created_at": "2025-08-31T07:18:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T08:18:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962052401214751178"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amecandy_x/sta…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/amecandy_x/status/1962003781799092427",
+              "start": 6,
+              "url": "https://t.co/sA5j94ojUf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962052401214751178",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962003781799092427",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "右下角的喵 https://t.co/sA5j94ojUf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|小推@QWQ1885|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "QWQ1885"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 174,
+          "like_count": 1549,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 382
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T15:10:38.000Z",
+        "description": "大量无意义转贴＋负能量碎碎念＝我的贴文\n\n需要咱回关的麻烦私讯说一下\n\nMtX/Asexual/Agender/精神病/自残惯犯/自尽未遂/沉迷幻想/酒精依赖/乐子人/地雷田力/抽象/尽量伪装成正常人/大专辍学2年/在家摆烂/作息紊乱/随时失联/急事电话qq联系",
+        "id": "1790399279129088000",
+        "location": "自杀研究所",
+        "name": "yanshiyo🏳️‍⚧️《转贴大王》（地雷女？！）（od理论学习中）（七宗罪之傲慢的人间化身！）",
+        "pinned_tweet_id": "1958432661002940523",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958067574941564928/bgPIZPSt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 269,
+          "like_count": 947,
+          "listed_count": 1,
+          "media_count": 1111,
+          "tweet_count": 5091
+        },
+        "username": "yanshiyo",
+        "verified": false
+      }
+    ]
+  }
+}

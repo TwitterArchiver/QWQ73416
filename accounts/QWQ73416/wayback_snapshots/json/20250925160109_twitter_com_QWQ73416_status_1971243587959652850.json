@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1971225976899256330",
+    "created_at": "2025-09-25T16:01:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T17:01:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971243587959652850"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1884536290005368832",
+          "start": 0,
+          "username": "FGfr_218"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971243587959652850",
+    "in_reply_to_user_id": "1884536290005368832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971225976899256330",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FGfr_218 嘻嘻，我也是伤病连awa"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1971225976899256330",
+        "created_at": "2025-09-25T16:01:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T17:01:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971243587959652850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1884536290005368832",
+              "start": 0,
+              "username": "FGfr_218"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971243587959652850",
+        "in_reply_to_user_id": "1884536290005368832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971225976899256330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FGfr_218 嘻嘻，我也是伤病连awa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884536290005368832",
+        "conversation_id": "1971225976899256330",
+        "created_at": "2025-09-25T14:51:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T15:51:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971225976899256330"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1971225976899256330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 98,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这军训天天在伤病连（病假区）坐得腿麻）怎么请假还是这么累哇（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "pinned_tweet_id": "1971096075286216763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 252,
+          "like_count": 3399,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 950
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-29T09:37:26.000Z",
+        "description": "07年/重度社恐/重度性别.容貌焦虑/泛性恋/无证含糖/二次元/coser/目标赚够手术费/戒od中/加油加油gogogo/\n🚪10.88  zfb口令红包/（最近加我的人太多了哇）\n目前已经有喜欢的人了哦",
+        "id": "1884536290005368832",
+        "location": "舞萌国",
+        "name": "雯菓ふわり🏳️‍⚧️🍬",
+        "pinned_tweet_id": "1969614134863151114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965976722937094144/x_29clzy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1078,
+          "following_count": 317,
+          "like_count": 1184,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 893
+        },
+        "username": "FGfr_218",
+        "verified": true
+      }
+    ]
+  }
+}

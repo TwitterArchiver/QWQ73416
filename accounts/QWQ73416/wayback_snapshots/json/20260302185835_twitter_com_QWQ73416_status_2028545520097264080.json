@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "2028545520097264080",
+    "created_at": "2026-03-02T18:58:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T19:58:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028545520097264080"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ManYiLam1/stat…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/ManYiLam1/status/2028533449561387119",
+          "start": 12,
+          "url": "https://t.co/OgB3YOAQVk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028545520097264080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028533449561387119",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我就知道会有这张图片🤣 https://t.co/OgB3YOAQVk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 928,
+        "media_key": "3_2028533442431086592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCbMaxMa8AA4Wwb.jpg",
+        "width": 1266
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "2028545520097264080",
+        "created_at": "2026-03-02T18:58:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T19:58:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028545520097264080"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ManYiLam1/stat…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/ManYiLam1/status/2028533449561387119",
+              "start": 12,
+              "url": "https://t.co/OgB3YOAQVk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028545520097264080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028533449561387119",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就知道会有这张图片🤣 https://t.co/OgB3YOAQVk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028533442431086592"
+          ]
+        },
+        "author_id": "1542857921457197056",
+        "conversation_id": "2028524973841912195",
+        "created_at": "2026-03-02T18:10:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T19:10:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028533449561387119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1889695481938448384",
+              "start": 0,
+              "username": "PnKoZCN"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nUAnuZAhJz",
+              "end": 42,
+              "expanded_url": "https://x.com/ManYiLam1/status/2028533449561387119/photo/1",
+              "media_key": "3_2028533442431086592",
+              "start": 19,
+              "url": "https://t.co/nUAnuZAhJz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028533449561387119",
+        "in_reply_to_user_id": "1889695481938448384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 512,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028524973841912195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PnKoZCN 复。。。复活了？！ https://t.co/nUAnuZAhJz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10🌟|🍥GAHT/HRT:2025.10.7🏳️‍⚧️|\n割手的痕迹被我妈看到了，被骂了一顿|\n好闺蜜 @N2OXYN |\n→I an not a vitual account.(T~T)←|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 53,
+                "username": "N2OXYN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "MTF.wiki",
+                "end": 23,
+                "expanded_url": "http://MTF.wiki",
+                "start": 0,
+                "url": "https://t.co/7tmPTkeoFF"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "🫥",
+        "name": "🧊泠小米🍥❄️",
+        "pinned_tweet_id": "2022184415632433414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023719096047771648/WvkPh1aM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 541,
+          "following_count": 310,
+          "like_count": 6166,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 1500
+        },
+        "url": "https://t.co/7tmPTkeoFF",
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-01T13:09:43.000Z",
+        "description": "QQ ：3627350672（百花繚乱）",
+        "id": "1542857921457197056",
+        "location": "ick！！！！！",
+        "name": "警下QwQ",
+        "pinned_tweet_id": "2026239469792481394",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726606537567895552/8NWxgLl9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 613,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 48
+        },
+        "username": "ManYiLam1",
+        "verified": false
+      }
+    ]
+  }
+}

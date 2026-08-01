@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "2043380632886350099",
+    "created_at": "2026-04-13T11:34:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T12:34:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043654012197859551"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1639816523190763521",
+          "start": 0,
+          "username": "ggdxfulan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043654012197859551",
+    "in_reply_to_user_id": "1639816523190763521",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043380632886350099",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ggdxfulan 老中典型的两面派，给你一种正在努力解决的感觉，其实吃油水吃到饱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043380622631284736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFuL2ZjasAAvid-.jpg",
+        "width": 360
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2043380622656442368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFuL2ZpakAAT9KM.jpg",
+        "width": 414
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2043380622643884032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFuL2Zma8AASitq.jpg",
+        "width": 450
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2043380622639730688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFuL2ZlbkAA_1bc.jpg",
+        "width": 386
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "2043380632886350099",
+        "created_at": "2026-04-13T11:34:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T12:34:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043654012197859551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1639816523190763521",
+              "start": 0,
+              "username": "ggdxfulan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043654012197859551",
+        "in_reply_to_user_id": "1639816523190763521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043380632886350099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ggdxfulan 老中典型的两面派，给你一种正在努力解决的感觉，其实吃油水吃到饱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043380622631284736",
+            "3_2043380622656442368",
+            "3_2043380622643884032",
+            "3_2043380622639730688"
+          ]
+        },
+        "author_id": "1639816523190763521",
+        "conversation_id": "2043380632886350099",
+        "created_at": "2026-04-12T17:28:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T18:28:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043380632886350099"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "mp.weixin.qq.com/s/j9G1p5kMTcIX…",
+              "end": 37,
+              "expanded_url": "https://mp.weixin.qq.com/s/j9G1p5kMTcIXQGnQ8VO3ZQ?clicktag=bar_praise&scene=294&clickpos=5361&from_safari=1",
+              "start": 14,
+              "unwound_url": "https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HCLW22mj8npXhVmoTcPRi2Q5pxFvRZwUJzQw-iuR&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fj9G1p5kMTcIXQGnQ8VO3ZQ%3Fclicktag%3Dbar_praise%26scene%3D294%26clickpos%3D5361%26from_safari%3D1",
+              "url": "https://t.co/WQXLAnIZ3d"
+            },
+            {
+              "display_url": "pic.x.com/gFuLLO8OHI",
+              "end": 61,
+              "expanded_url": "https://x.com/ggdxfulan/status/2043380632886350099/photo/1",
+              "media_key": "3_2043380622631284736",
+              "start": 38,
+              "url": "https://t.co/gFuLLO8OHI"
+            },
+            {
+              "display_url": "pic.x.com/gFuLLO8OHI",
+              "end": 61,
+              "expanded_url": "https://x.com/ggdxfulan/status/2043380632886350099/photo/1",
+              "media_key": "3_2043380622656442368",
+              "start": 38,
+              "url": "https://t.co/gFuLLO8OHI"
+            },
+            {
+              "display_url": "pic.x.com/gFuLLO8OHI",
+              "end": 61,
+              "expanded_url": "https://x.com/ggdxfulan/status/2043380632886350099/photo/1",
+              "media_key": "3_2043380622643884032",
+              "start": 38,
+              "url": "https://t.co/gFuLLO8OHI"
+            },
+            {
+              "display_url": "pic.x.com/gFuLLO8OHI",
+              "end": 61,
+              "expanded_url": "https://x.com/ggdxfulan/status/2043380632886350099/photo/1",
+              "media_key": "3_2043380622639730688",
+              "start": 38,
+              "url": "https://t.co/gFuLLO8OHI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043380632886350099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2508,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "央视曝光戒网瘾学校的文章\n\nhttps://t.co/WQXLAnIZ3d https://t.co/gFuLLO8OHI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10🌟|GAHT/HRT:2025.10.7|\n割手的痕迹被我妈看到了，被骂了一顿|\n好闺蜜 @N2OXYN |\n→I an not a vitual account.(T~T)←|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 47,
+                "username": "N2OXYN"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "name": "🧊泠小米❄️",
+        "pinned_tweet_id": "2037669545633325393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023719096047771648/WvkPh1aM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 685,
+          "following_count": 322,
+          "like_count": 6443,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 1673
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T02:28:25.000Z",
+        "description": "二次翻车的小芙兰\n药娘1 纯1哦",
+        "id": "1639816523190763521",
+        "location": "距离你2km",
+        "name": "乖乖哒二小姐",
+        "pinned_tweet_id": "2039230799497547970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002781704680030208/O0cqzBz3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16634,
+          "following_count": 494,
+          "like_count": 35224,
+          "listed_count": 33,
+          "media_count": 3689,
+          "tweet_count": 11437
+        },
+        "username": "ggdxfulan",
+        "verified": true
+      }
+    ]
+  }
+}

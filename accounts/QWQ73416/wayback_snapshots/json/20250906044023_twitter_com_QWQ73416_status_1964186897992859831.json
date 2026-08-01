@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1964171805972705508",
+    "created_at": "2025-09-06T04:40:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T05:40:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964186897992859831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1312002569988841472",
+          "start": 0,
+          "username": "zhishi_cook"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964186897992859831",
+    "in_reply_to_user_id": "1312002569988841472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964171805972705508",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhishi_cook 玩的这么花？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1964171805972705508",
+        "created_at": "2025-09-06T04:40:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T05:40:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964186897992859831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1312002569988841472",
+              "start": 0,
+              "username": "zhishi_cook"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964186897992859831",
+        "in_reply_to_user_id": "1312002569988841472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964171805972705508",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhishi_cook 玩的这么花？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1312002569988841472",
+        "conversation_id": "1964171805972705508",
+        "created_at": "2025-09-06T03:40:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T04:40:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964171805972705508"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1964171805972705508",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 261,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唐把我屎草出来就当润滑了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|小推@QWQ1885|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "QWQ1885"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 214,
+          "like_count": 2157,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 589
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-02T12:12:55.000Z",
+        "description": "全宇宙最好的小孩/申必mtf🏳️‍⚧️🤔🤔/家长不管(?/超级缺爱🥵/ENFP-T/提问:https://t.co/bDeKeMQflf / 会写php py的小孩/生产日期:2009-03-07/小号:@TypezhiQwQ/同类互fo喵🤓/老婆:@Yanluo1019",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 102,
+                "username": "TypezhiQwQ"
+              },
+              {
+                "end": 136,
+                "start": 125,
+                "username": "Yanluo1019"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/zhishi_cook1",
+                "end": 68,
+                "expanded_url": "https://ngl.link/zhishi_cook1",
+                "start": 45,
+                "url": "https://t.co/bDeKeMQflf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zinet.top",
+                "end": 23,
+                "expanded_url": "http://zinet.top",
+                "start": 0,
+                "url": "https://t.co/842XMZusZR"
+              }
+            ]
+          }
+        },
+        "id": "1312002569988841472",
+        "location": "坐在唐毓文的大鸡巴上",
+        "name": "知式🍥",
+        "pinned_tweet_id": "1920328261478793373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920010651700973568/DmyTtkvn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3790,
+          "following_count": 1250,
+          "like_count": 1256,
+          "listed_count": 5,
+          "media_count": 329,
+          "tweet_count": 3189
+        },
+        "url": "https://t.co/842XMZusZR",
+        "username": "zhishi_cook",
+        "verified": true
+      }
+    ]
+  }
+}

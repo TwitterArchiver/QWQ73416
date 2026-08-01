@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1971213467018571776"
+      ],
+      "media_source_tweet_id": [
+        "1971220055045382491"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1971368469418606813",
+    "created_at": "2025-09-26T00:17:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-26T01:17:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971368469418606813"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 21,
+          "tag": "milfy"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1373553361039941633",
+          "start": 3,
+          "username": "kembamnas_music"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/l7KoNv1J2H",
+          "end": 54,
+          "expanded_url": "https://x.com/kembamnas_music/status/1971220055045382491/photo/1",
+          "media_key": "3_1971213467018571776",
+          "start": 31,
+          "url": "https://t.co/l7KoNv1J2H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971368469418606813",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 175
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971220055045382491",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kembamnas_music: #milfy　👻👑 https://t.co/l7KoNv1J2H"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1971213467018571776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1soNE4bsAAGRiP.jpg",
+        "width": 3883
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971213467018571776"
+          ],
+          "media_source_tweet_id": [
+            "1971220055045382491"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1971368469418606813",
+        "created_at": "2025-09-26T00:17:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T01:17:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971368469418606813"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 21,
+              "tag": "milfy"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1373553361039941633",
+              "start": 3,
+              "username": "kembamnas_music"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/l7KoNv1J2H",
+              "end": 54,
+              "expanded_url": "https://x.com/kembamnas_music/status/1971220055045382491/photo/1",
+              "media_key": "3_1971213467018571776",
+              "start": 31,
+              "url": "https://t.co/l7KoNv1J2H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971368469418606813",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 175
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971220055045382491",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kembamnas_music: #milfy　👻👑 https://t.co/l7KoNv1J2H"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971213467018571776"
+          ]
+        },
+        "author_id": "1373553361039941633",
+        "conversation_id": "1971220055045382491",
+        "created_at": "2025-09-25T14:27:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T15:27:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971220055045382491"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "milfy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/l7KoNv1J2H",
+              "end": 33,
+              "expanded_url": "https://x.com/kembamnas_music/status/1971220055045382491/photo/1",
+              "media_key": "3_1971213467018571776",
+              "start": 10,
+              "url": "https://t.co/l7KoNv1J2H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971220055045382491",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 338,
+          "impression_count": 47006,
+          "like_count": 2776,
+          "quote_count": 7,
+          "reply_count": 5,
+          "retweet_count": 175
+        },
+        "reply_settings": "everyone",
+        "text": "#milfy　👻👑 https://t.co/l7KoNv1J2H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "pinned_tweet_id": "1971096075286216763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 252,
+          "like_count": 3413,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 959
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-21T08:33:47.000Z",
+        "description": "かわいそうが好き",
+        "id": "1373553361039941633",
+        "name": "おなかゆるた。",
+        "pinned_tweet_id": "1693745291009159224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955221935866130432/knHgamur_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 602,
+          "following_count": 509,
+          "like_count": 3350,
+          "listed_count": 7,
+          "media_count": 214,
+          "tweet_count": 1262
+        },
+        "username": "kembamnas_music",
+        "verified": false
+      }
+    ]
+  }
+}

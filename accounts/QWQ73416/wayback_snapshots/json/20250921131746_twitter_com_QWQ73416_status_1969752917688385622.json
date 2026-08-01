@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969719269505298432"
+      ],
+      "media_source_tweet_id": [
+        "1969719524556771631"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1969752917688385622",
+    "created_at": "2025-09-21T13:17:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T14:17:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969752917688385622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "345758525",
+          "start": 3,
+          "username": "kagi_2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dh4nEHlm3J",
+          "end": 52,
+          "expanded_url": "https://x.com/kagi_2/status/1969719524556771631/photo/1",
+          "media_key": "3_1969719269505298432",
+          "start": 29,
+          "url": "https://t.co/dh4nEHlm3J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969752917688385622",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 69
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969719524556771631",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kagi_2: 褐色エジプト猫耳ロリ冒険者ちゃん https://t.co/dh4nEHlm3J"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_1969719269505298432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1XZPVYa8AA8v16.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969719269505298432"
+          ],
+          "media_source_tweet_id": [
+            "1969719524556771631"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1969752917688385622",
+        "created_at": "2025-09-21T13:17:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T14:17:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969752917688385622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "345758525",
+              "start": 3,
+              "username": "kagi_2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dh4nEHlm3J",
+              "end": 52,
+              "expanded_url": "https://x.com/kagi_2/status/1969719524556771631/photo/1",
+              "media_key": "3_1969719269505298432",
+              "start": 29,
+              "url": "https://t.co/dh4nEHlm3J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969752917688385622",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 69
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969719524556771631",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kagi_2: 褐色エジプト猫耳ロリ冒険者ちゃん https://t.co/dh4nEHlm3J"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969719269505298432"
+          ]
+        },
+        "author_id": "345758525",
+        "conversation_id": "1969719524556771631",
+        "created_at": "2025-09-21T11:05:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T12:05:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969719524556771631"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dh4nEHlm3J",
+              "end": 40,
+              "expanded_url": "https://x.com/kagi_2/status/1969719524556771631/photo/1",
+              "media_key": "3_1969719269505298432",
+              "start": 17,
+              "url": "https://t.co/dh4nEHlm3J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969719524556771631",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 4545,
+          "like_count": 361,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 69
+        },
+        "reply_settings": "everyone",
+        "text": "褐色エジプト猫耳ロリ冒険者ちゃん https://t.co/dh4nEHlm3J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 237,
+          "like_count": 3123,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 846
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2011-07-31T03:47:56.000Z",
+        "description": "描きたいものだけ描いてる                     \nTumblr ：https://t.co/7JpCJBEubH \n避難所1：https://t.co/rTM2aJCRBZ \n　　　2：https://t.co/adzYkftuSV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kagi-2.tumblr.com",
+                "end": 65,
+                "expanded_url": "http://kagi-2.tumblr.com",
+                "start": 42,
+                "url": "https://t.co/7JpCJBEubH"
+              },
+              {
+                "display_url": "bsky.app/profile/kagi2.…",
+                "end": 95,
+                "expanded_url": "https://bsky.app/profile/kagi2.bsky.social",
+                "start": 72,
+                "url": "https://t.co/rTM2aJCRBZ"
+              },
+              {
+                "display_url": "misskey.io/@kagi_2",
+                "end": 125,
+                "expanded_url": "http://misskey.io/@kagi_2",
+                "start": 102,
+                "url": "https://t.co/adzYkftuSV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "http://www.pixiv.net/member.php?id=986719",
+                "start": 0,
+                "url": "https://t.co/KZCFrtULUu"
+              }
+            ]
+          }
+        },
+        "id": "345758525",
+        "name": "かぎのに",
+        "pinned_tweet_id": "1880596454663995649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882054887300845568/uu3FXWGF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18522,
+          "following_count": 204,
+          "like_count": 8114,
+          "listed_count": 277,
+          "media_count": 625,
+          "tweet_count": 64299
+        },
+        "url": "https://t.co/KZCFrtULUu",
+        "username": "kagi_2",
+        "verified": false
+      }
+    ]
+  }
+}

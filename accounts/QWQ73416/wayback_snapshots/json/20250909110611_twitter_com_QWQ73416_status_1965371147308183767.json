@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1965339809519677717",
+    "created_at": "2025-09-09T11:06:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T12:06:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965371147308183767"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1766858890636120064",
+          "start": 0,
+          "username": "Nuominiang75884"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965371147308183767",
+    "in_reply_to_user_id": "1766858890636120064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965339809519677717",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nuominiang75884 大部分顺直都是傻逼，没办法，只能下次藏好点。。。顺直拿凝胶干啥？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1965339809519677717",
+        "created_at": "2025-09-09T11:06:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T12:06:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965371147308183767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1766858890636120064",
+              "start": 0,
+              "username": "Nuominiang75884"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965371147308183767",
+        "in_reply_to_user_id": "1766858890636120064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965339809519677717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nuominiang75884 大部分顺直都是傻逼，没办法，只能下次藏好点。。。顺直拿凝胶干啥？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766858890636120064",
+        "conversation_id": "1965339809519677717",
+        "created_at": "2025-09-09T09:01:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T10:01:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965339809519677717"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1965339809519677717",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 166,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我对顺直最后一点好印象已经没了，昨天晚上在我去学生会开会回到教室后发现我的柜子内的私人物品被人动了，包括我的少量财物与凝胶，然后有一个人我我的凝胶是干嘛的，他们一共五个人用了16泵凝胶，最多的一个人用了7泵，我现在对顺直的印象是纯傻逼的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 218,
+          "like_count": 2325,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 635
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-10T16:09:34.000Z",
+        "description": "我喜欢摄影，为了留住短暂的美好 /INFP-T /道教徒 摄影/姐姐@Kietter387803/ 老公@ggdxfulan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 34,
+                "username": "Kietter387803"
+              },
+              {
+                "end": 62,
+                "start": 52,
+                "username": "ggdxfulan"
+              }
+            ]
+          }
+        },
+        "id": "1766858890636120064",
+        "location": "美国 洛杉矶 Echo Park Ave大街2236号",
+        "name": "糯米娘🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1950668729882423658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906216622500573184/kaHJHOEs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3742,
+          "following_count": 1386,
+          "like_count": 17383,
+          "listed_count": 4,
+          "media_count": 281,
+          "tweet_count": 2594
+        },
+        "username": "Nuominiang75884",
+        "verified": false
+      }
+    ]
+  }
+}

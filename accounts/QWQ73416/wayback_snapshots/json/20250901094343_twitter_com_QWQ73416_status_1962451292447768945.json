@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1889100356099203268",
+    "created_at": "2025-09-01T09:43:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T10:43:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962451292447768945"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1701484460250890240",
+          "start": 0,
+          "username": "RinneMTF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962451292447768945",
+    "in_reply_to_user_id": "1701484460250890240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889100356099203268",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RinneMTF 不是，别吧。万一金个来抓你了怎么办？而且每个个人资料都这么相近。不会被请喝茶吧？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1762,
+        "media_key": "3_1889100295776641024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjdutcraIAAG90P.jpg",
+        "width": 1284
+      },
+      {
+        "height": 1438,
+        "media_key": "3_1889100295822864384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gjdutc2bcAARMBA.jpg",
+        "width": 1284
+      },
+      {
+        "height": 1397,
+        "media_key": "3_1889100295717924864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjdutcdaMAAG8Vf.jpg",
+        "width": 1284
+      },
+      {
+        "height": 1488,
+        "media_key": "3_1889100295738990592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GjdutciboAAjIkB.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1889100356099203268",
+        "created_at": "2025-09-01T09:43:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T10:43:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962451292447768945"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1701484460250890240",
+              "start": 0,
+              "username": "RinneMTF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962451292447768945",
+        "in_reply_to_user_id": "1701484460250890240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889100356099203268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RinneMTF 不是，别吧。万一金个来抓你了怎么办？而且每个个人资料都这么相近。不会被请喝茶吧？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889100295776641024",
+            "3_1889100295822864384",
+            "3_1889100295717924864",
+            "3_1889100295738990592"
+          ]
+        },
+        "author_id": "1701484460250890240",
+        "conversation_id": "1889100356099203268",
+        "created_at": "2025-02-10T23:53:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T00:53:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889100356099203268"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 31,
+              "tag": "mtf"
+            },
+            {
+              "end": 39,
+              "start": 36,
+              "tag": "药娘"
+            },
+            {
+              "end": 43,
+              "start": 40,
+              "tag": "男娘"
+            },
+            {
+              "end": 50,
+              "start": 44,
+              "tag": "trans"
+            },
+            {
+              "end": 55,
+              "start": 51,
+              "tag": "跨性别"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/X5G3Xcu1fp",
+              "end": 79,
+              "expanded_url": "https://x.com/9485274a/status/1889100356099203268/photo/1",
+              "media_key": "3_1889100295776641024",
+              "start": 56,
+              "url": "https://t.co/X5G3Xcu1fp"
+            },
+            {
+              "display_url": "pic.x.com/X5G3Xcu1fp",
+              "end": 79,
+              "expanded_url": "https://x.com/9485274a/status/1889100356099203268/photo/1",
+              "media_key": "3_1889100295822864384",
+              "start": 56,
+              "url": "https://t.co/X5G3Xcu1fp"
+            },
+            {
+              "display_url": "pic.x.com/X5G3Xcu1fp",
+              "end": 79,
+              "expanded_url": "https://x.com/9485274a/status/1889100356099203268/photo/1",
+              "media_key": "3_1889100295717924864",
+              "start": 56,
+              "url": "https://t.co/X5G3Xcu1fp"
+            },
+            {
+              "display_url": "pic.x.com/X5G3Xcu1fp",
+              "end": 79,
+              "expanded_url": "https://x.com/9485274a/status/1889100356099203268/photo/1",
+              "media_key": "3_1889100295738990592",
+              "start": 56,
+              "url": "https://t.co/X5G3Xcu1fp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889100356099203268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 68114,
+          "like_count": 82,
+          "quote_count": 2,
+          "reply_count": 15,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "咱也来推上玩玩叭（图上都是本人微博，b站，小红书，抖音的号呢）#mtf #药娘 #男娘 #trans #跨性别 https://t.co/X5G3Xcu1fp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|小推@QWQ1885|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "QWQ1885"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 185,
+          "like_count": 1639,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 416
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T06:34:58.000Z",
+        "description": "药娘mtf/无证含糖/中文，English /hrt: 2025.1.15/rle: 2025.2.10/ADHD，ASD，BPD/究极天残党/同类互关/王者，崩铁，碧蓝航线",
+        "id": "1701484460250890240",
+        "name": "是Rinne酱呀",
+        "pinned_tweet_id": "1889100356099203268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888922914763988992/-ixcDogC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2584,
+          "following_count": 1995,
+          "like_count": 753,
+          "listed_count": 3,
+          "media_count": 128,
+          "tweet_count": 915
+        },
+        "username": "RinneMTF",
+        "verified": true
+      }
+    ]
+  }
+}

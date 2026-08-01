@@ -1,0 +1,418 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967479025712136192"
+      ],
+      "media_source_tweet_id": [
+        "1967479137419063766"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1967732711491244378",
+    "created_at": "2025-09-15T23:30:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T00:30:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967732711491244378"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "707150650866425861",
+          "start": 3,
+          "username": "So_Mu3"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wf6AfLsf7Q",
+          "end": 62,
+          "expanded_url": "https://x.com/So_Mu3/status/1967479137419063766/photo/1",
+          "media_key": "3_1967479025712136192",
+          "start": 39,
+          "url": "https://t.co/wf6AfLsf7Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967732711491244378",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 330
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967479137419063766",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @So_Mu3: 気がついたら褐色エジプト猫耳ロリになってたちと姉さん https://t.co/wf6AfLsf7Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "3_1967479025712136192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G03jv-6agAA2Ryx.jpg",
+        "width": 1084
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967479025712136192"
+          ],
+          "media_source_tweet_id": [
+            "1967479137419063766"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1967732711491244378",
+        "created_at": "2025-09-15T23:30:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T00:30:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967732711491244378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "707150650866425861",
+              "start": 3,
+              "username": "So_Mu3"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wf6AfLsf7Q",
+              "end": 62,
+              "expanded_url": "https://x.com/So_Mu3/status/1967479137419063766/photo/1",
+              "media_key": "3_1967479025712136192",
+              "start": 39,
+              "url": "https://t.co/wf6AfLsf7Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967732711491244378",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 330
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967479137419063766",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @So_Mu3: 気がついたら褐色エジプト猫耳ロリになってたちと姉さん https://t.co/wf6AfLsf7Q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967479025712136192"
+          ]
+        },
+        "author_id": "707150650866425861",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          }
+        ],
+        "conversation_id": "1967479137419063766",
+        "created_at": "2025-09-15T06:42:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T07:42:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967479137419063766"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wf6AfLsf7Q",
+              "end": 50,
+              "expanded_url": "https://x.com/So_Mu3/status/1967479137419063766/photo/1",
+              "media_key": "3_1967479025712136192",
+              "start": 27,
+              "url": "https://t.co/wf6AfLsf7Q"
+            },
+            {
+              "display_url": "x.com/cactasis/statu…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/cactasis/status/1962197990241955979",
+              "start": 51,
+              "url": "https://t.co/iEUh1See3r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967479137419063766",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 463,
+          "impression_count": 48825,
+          "like_count": 3250,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 330
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962197990241955979",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "気がついたら褐色エジプト猫耳ロリになってたちと姉さん https://t.co/wf6AfLsf7Q https://t.co/iEUh1See3r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 225,
+          "like_count": 2715,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 711
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-08T10:27:08.000Z",
+        "description": "動画投降とかお絵かきとかしてる総務\nニコニコ:https://t.co/N0xVyBwcfs\nつべ:https://t.co/9X5FlqlKKj\nSkeb:https://t.co/ox7Qy746RI\n干芋:https://t.co/GSpvpe2jCQ…",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "nicovideo.jp/user/726009",
+                "end": 46,
+                "expanded_url": "http://nicovideo.jp/user/726009",
+                "start": 23,
+                "url": "https://t.co/N0xVyBwcfs"
+              },
+              {
+                "display_url": "youtube.com/channel/UC2",
+                "end": 73,
+                "expanded_url": "https://www.youtube.com/channel/UC2",
+                "start": 50,
+                "url": "https://t.co/9X5FlqlKKj"
+              },
+              {
+                "display_url": "skeb.jp/@So_Mu3",
+                "end": 102,
+                "expanded_url": "http://skeb.jp/@So_Mu3",
+                "start": 79,
+                "url": "https://t.co/ox7Qy746RI"
+              },
+              {
+                "display_url": "amazon.co.jp/hz/wishlist/ls",
+                "end": 129,
+                "expanded_url": "http://amazon.co.jp/hz/wishlist/ls",
+                "start": 106,
+                "url": "https://t.co/GSpvpe2jCQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nicovideo.jp/user/726009",
+                "end": 23,
+                "expanded_url": "https://www.nicovideo.jp/user/726009",
+                "start": 0,
+                "url": "https://t.co/3vpnoy6Q6x"
+              }
+            ]
+          }
+        },
+        "id": "707150650866425861",
+        "location": "マリノフカ",
+        "name": "総務",
+        "pinned_tweet_id": "1888377273939558855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/899448264671416321/COqHRhYY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9111,
+          "following_count": 497,
+          "like_count": 17791,
+          "listed_count": 124,
+          "media_count": 2874,
+          "tweet_count": 60081
+        },
+        "url": "https://t.co/3vpnoy6Q6x",
+        "username": "So_Mu3",
+        "verified": false
+      }
+    ]
+  }
+}

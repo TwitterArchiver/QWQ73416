@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1978143616045322573",
+    "created_at": "2025-10-14T16:59:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T17:59:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978143616045322573"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1758506265557581824",
+          "start": 3,
+          "username": "DragonCat345718"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978143616045322573",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977706764670746813",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DragonCat345718: 谁懂抑郁发作又被激素控制着发情的无力感"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1978143616045322573",
+        "created_at": "2025-10-14T16:59:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T17:59:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978143616045322573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1758506265557581824",
+              "start": 3,
+              "username": "DragonCat345718"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978143616045322573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977706764670746813",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DragonCat345718: 谁懂抑郁发作又被激素控制着发情的无力感"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758506265557581824",
+        "conversation_id": "1977706764670746813",
+        "created_at": "2025-10-13T12:03:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T13:03:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977706764670746813"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1977706764670746813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 9071,
+          "like_count": 146,
+          "quote_count": 2,
+          "reply_count": 18,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "谁懂抑郁发作又被激素控制着发情的无力感"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|GAHT/HRT:2025.10.7|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "MTF.wiki",
+                "end": 23,
+                "expanded_url": "http://MTF.wiki",
+                "start": 0,
+                "url": "https://t.co/7tmPTkeoFF"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "∠( ᐛ 」∠)_",
+        "name": "🍥(￣ヘ￣🍥)",
+        "pinned_tweet_id": "1971859627869708434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 266,
+          "like_count": 4090,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1092
+        },
+        "url": "https://t.co/7tmPTkeoFF",
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T14:59:08.000Z",
+        "description": "含糖日期2025/09/14@ QQ：926182040（性骚扰禁止） 重度抑郁症 重度焦虑症。摄政自觉走开 清水推 不要私信问我要r18 看见直接拉黑 TG不常用 聊天请加QQ（无门槛但请说明来意） 本人速热型 可以当成小棉袄 但请不要一上来就假装很熟 我会很反感… 姐姐@LuLuCapcake",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 137,
+                "username": "LuLuCapcake"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/KawaiiDragonCat",
+                "end": 23,
+                "expanded_url": "https://t.me/KawaiiDragonCat",
+                "start": 0,
+                "url": "https://t.co/BSC3dYGOyC"
+              }
+            ]
+          }
+        },
+        "id": "1758506265557581824",
+        "name": "🏳️‍⚧️DragonCat🍥",
+        "pinned_tweet_id": "1977673917746794671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974788570138447872/oYYR3kKU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 92,
+          "like_count": 46,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 116
+        },
+        "url": "https://t.co/BSC3dYGOyC",
+        "username": "DragonCat345718",
+        "verified": false
+      }
+    ]
+  }
+}

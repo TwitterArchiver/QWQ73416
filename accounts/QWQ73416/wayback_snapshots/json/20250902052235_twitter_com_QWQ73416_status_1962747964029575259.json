@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962699107258253312"
+      ],
+      "media_source_tweet_id": [
+        "1962699259557605774"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1962747964029575259",
+    "created_at": "2025-09-02T05:22:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T06:22:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962747964029575259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1070619638336229376",
+          "start": 3,
+          "username": "1ChaWu1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/C8SphQHLfZ",
+          "end": 73,
+          "expanded_url": "https://x.com/1ChaWu1/status/1962699259557605774/photo/1",
+          "media_key": "3_1962699107258253312",
+          "start": 50,
+          "url": "https://t.co/C8SphQHLfZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962747964029575259",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962699259557605774",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @1ChaWu1: 同世界观的梅洛和新角色痛苦设计中。。最近好忙不知道拖到什么时候(≖_≖) https://t.co/C8SphQHLfZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3881,
+        "media_key": "3_1962699107258253312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzzocHEawAAAZJK.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962699107258253312"
+          ],
+          "media_source_tweet_id": [
+            "1962699259557605774"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1962747964029575259",
+        "created_at": "2025-09-02T05:22:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T06:22:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962747964029575259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1070619638336229376",
+              "start": 3,
+              "username": "1ChaWu1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C8SphQHLfZ",
+              "end": 73,
+              "expanded_url": "https://x.com/1ChaWu1/status/1962699259557605774/photo/1",
+              "media_key": "3_1962699107258253312",
+              "start": 50,
+              "url": "https://t.co/C8SphQHLfZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962747964029575259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962699259557605774",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @1ChaWu1: 同世界观的梅洛和新角色痛苦设计中。。最近好忙不知道拖到什么时候(≖_≖) https://t.co/C8SphQHLfZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962699107258253312"
+          ]
+        },
+        "author_id": "1070619638336229376",
+        "conversation_id": "1962699259557605774",
+        "created_at": "2025-09-02T02:09:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T03:09:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962699259557605774"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C8SphQHLfZ",
+              "end": 60,
+              "expanded_url": "https://x.com/1ChaWu1/status/1962699259557605774/photo/1",
+              "media_key": "3_1962699107258253312",
+              "start": 37,
+              "url": "https://t.co/C8SphQHLfZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962699259557605774",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 2241,
+          "like_count": 234,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "同世界观的梅洛和新角色痛苦设计中。。最近好忙不知道拖到什么时候(≖_≖) https://t.co/C8SphQHLfZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|小推@QWQ1885|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "QWQ1885"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 195,
+          "like_count": 1707,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 452
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-06T10:03:07.000Z",
+        "description": "人/ai訓練禁止🚫",
+        "id": "1070619638336229376",
+        "name": "茶屋氏",
+        "pinned_tweet_id": "1864529726779609574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923965636830490624/uR-K5TxS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7885,
+          "following_count": 401,
+          "like_count": 617,
+          "listed_count": 34,
+          "media_count": 74,
+          "tweet_count": 99
+        },
+        "username": "1ChaWu1",
+        "verified": false
+      }
+    ]
+  }
+}

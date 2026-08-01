@@ -1,0 +1,602 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1961751375135887360"
+      ],
+      "media_source_tweet_id": [
+        "1961751423458410603"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897789013393420",
+          "name": "Strategy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "1962044623737827429",
+    "created_at": "2025-08-31T06:47:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T07:47:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962044623737827429"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 20,
+          "tag": "明日方舟"
+        },
+        {
+          "end": 36,
+          "start": 26,
+          "tag": "Arknights"
+        },
+        {
+          "end": 44,
+          "start": 37,
+          "tag": "アークナイツ"
+        },
+        {
+          "end": 50,
+          "start": 45,
+          "tag": "명일방주"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1656623744390172674",
+          "start": 3,
+          "username": "Minamijkol"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/APwRgVZFeU",
+          "end": 74,
+          "expanded_url": "https://x.com/Minamijkol/status/1961751423458410603/photo/1",
+          "media_key": "3_1961751375135887360",
+          "start": 51,
+          "url": "https://t.co/APwRgVZFeU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962044623737827429",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 389
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961751423458410603",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Minamijkol: 🥰☀️🙏#明日方舟 #Arknights #アークナイツ #명일방주 https://t.co/APwRgVZFeU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1961751375135887360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzmKe1yb0AAo9DC.jpg",
+        "width": 1326
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961751375135887360"
+          ],
+          "media_source_tweet_id": [
+            "1961751423458410603"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1962044623737827429",
+        "created_at": "2025-08-31T06:47:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T07:47:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962044623737827429"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 20,
+              "tag": "明日方舟"
+            },
+            {
+              "end": 36,
+              "start": 26,
+              "tag": "Arknights"
+            },
+            {
+              "end": 44,
+              "start": 37,
+              "tag": "アークナイツ"
+            },
+            {
+              "end": 50,
+              "start": 45,
+              "tag": "명일방주"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1656623744390172674",
+              "start": 3,
+              "username": "Minamijkol"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/APwRgVZFeU",
+              "end": 74,
+              "expanded_url": "https://x.com/Minamijkol/status/1961751423458410603/photo/1",
+              "media_key": "3_1961751375135887360",
+              "start": 51,
+              "url": "https://t.co/APwRgVZFeU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962044623737827429",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 389
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961751423458410603",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Minamijkol: 🥰☀️🙏#明日方舟 #Arknights #アークナイツ #명일방주 https://t.co/APwRgVZFeU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961751375135887360"
+          ]
+        },
+        "author_id": "1656623744390172674",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1961751423458410603",
+        "created_at": "2025-08-30T11:22:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T12:22:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961751423458410603"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 9,
+              "start": 4,
+              "tag": "明日方舟"
+            },
+            {
+              "end": 20,
+              "start": 10,
+              "tag": "Arknights"
+            },
+            {
+              "end": 28,
+              "start": 21,
+              "tag": "アークナイツ"
+            },
+            {
+              "end": 34,
+              "start": 29,
+              "tag": "명일방주"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/APwRgVZFeU",
+              "end": 58,
+              "expanded_url": "https://x.com/Minamijkol/status/1961751423458410603/photo/1",
+              "media_key": "3_1961751375135887360",
+              "start": 35,
+              "url": "https://t.co/APwRgVZFeU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961751423458410603",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 385,
+          "impression_count": 40362,
+          "like_count": 3475,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 389
+        },
+        "reply_settings": "everyone",
+        "text": "🥰☀️🙏#明日方舟 #Arknights #アークナイツ #명일방주 https://t.co/APwRgVZFeU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|小推@QWQ1885|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "QWQ1885"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 173,
+          "like_count": 1539,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 365
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-11T11:34:58.000Z",
+        "description": "try to be better💥",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/94960002",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/94960002",
+                "start": 0,
+                "url": "https://t.co/I27o7Tf2J7"
+              }
+            ]
+          }
+        },
+        "id": "1656623744390172674",
+        "location": "上海",
+        "name": "忻南MinamI",
+        "pinned_tweet_id": "1961751423458410603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941731880942043138/JRpT1vYE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1395,
+          "following_count": 461,
+          "like_count": 1673,
+          "listed_count": 10,
+          "media_count": 51,
+          "tweet_count": 358
+        },
+        "url": "https://t.co/I27o7Tf2J7",
+        "username": "Minamijkol",
+        "verified": false
+      }
+    ]
+  }
+}

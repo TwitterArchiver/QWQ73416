@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967077321493671940"
+      ],
+      "media_source_tweet_id": [
+        "1967077328653348999"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1967158704211693988",
+    "created_at": "2025-09-14T09:29:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T10:29:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967158704211693988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1674281529852174341",
+          "start": 3,
+          "username": "Frost_SZH"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9b3VrzQCkH",
+          "end": 57,
+          "expanded_url": "https://x.com/Frost_SZH/status/1967077328653348999/photo/1",
+          "media_key": "3_1967077321493671940",
+          "start": 34,
+          "url": "https://t.co/9b3VrzQCkH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967158704211693988",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967077328653348999",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Frost_SZH: 有时候我们讨厌闹钟还真不是我们的问题 https://t.co/9b3VrzQCkH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 858,
+        "media_key": "3_1967077321493671940",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0x2ZuFbcAQ9pCz.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967077321493671940"
+          ],
+          "media_source_tweet_id": [
+            "1967077328653348999"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1967158704211693988",
+        "created_at": "2025-09-14T09:29:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T10:29:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967158704211693988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1674281529852174341",
+              "start": 3,
+              "username": "Frost_SZH"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9b3VrzQCkH",
+              "end": 57,
+              "expanded_url": "https://x.com/Frost_SZH/status/1967077328653348999/photo/1",
+              "media_key": "3_1967077321493671940",
+              "start": 34,
+              "url": "https://t.co/9b3VrzQCkH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967158704211693988",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967077328653348999",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Frost_SZH: 有时候我们讨厌闹钟还真不是我们的问题 https://t.co/9b3VrzQCkH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967077321493671940"
+          ]
+        },
+        "author_id": "1674281529852174341",
+        "conversation_id": "1967077328653348999",
+        "created_at": "2025-09-14T04:05:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T05:05:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967077328653348999"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9b3VrzQCkH",
+              "end": 42,
+              "expanded_url": "https://x.com/Frost_SZH/status/1967077328653348999/photo/1",
+              "media_key": "3_1967077321493671940",
+              "start": 19,
+              "url": "https://t.co/9b3VrzQCkH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967077328653348999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1445,
+          "like_count": 41,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "有时候我们讨厌闹钟还真不是我们的问题 https://t.co/9b3VrzQCkH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 221,
+          "like_count": 2481,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 664
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-29T05:00:12.000Z",
+        "description": "苦批的半个大学生",
+        "id": "1674281529852174341",
+        "location": "Malaysia",
+        "name": "霜在華",
+        "pinned_tweet_id": "1830457791879971281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953915525354205189/3yeNoPX3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 827,
+          "following_count": 955,
+          "like_count": 27950,
+          "listed_count": 4,
+          "media_count": 762,
+          "tweet_count": 6684
+        },
+        "username": "Frost_SZH",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1965925357816877333",
+    "created_at": "2025-09-10T23:48:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-11T00:48:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965925357816877333"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1842209900866473984",
+          "start": 3,
+          "username": "Zmxhoptbagirl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965925357816877333",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965789631980695665",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Zmxhoptbagirl: 致所有xyn🍥天使们，我好不忍心看到你们伤害自己，无论是od自残或者…自杀，我知道很多人的家庭……或者自身有一定的心理问题。说实话我也有抑郁症 有段时间手抖的没法用筷子不知道是不是双相前兆，医生给我开了很多很多药，我甚至没有勇气吃下去，那段…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1965925357816877333",
+        "created_at": "2025-09-10T23:48:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T00:48:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965925357816877333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1842209900866473984",
+              "start": 3,
+              "username": "Zmxhoptbagirl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965925357816877333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965789631980695665",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Zmxhoptbagirl: 致所有xyn🍥天使们，我好不忍心看到你们伤害自己，无论是od自残或者…自杀，我知道很多人的家庭……或者自身有一定的心理问题。说实话我也有抑郁症 有段时间手抖的没法用筷子不知道是不是双相前兆，医生给我开了很多很多药，我甚至没有勇气吃下去，那段…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842209900866473984",
+        "conversation_id": "1965789631980695665",
+        "created_at": "2025-09-10T14:49:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T15:49:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965789631980695665"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1965789631980695665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 123,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "致所有xyn🍥天使们，我好不忍心看到你们伤害自己，无论是od自残或者…自杀，我知道很多人的家庭……或者自身有一定的心理问题。说实话我也有抑郁症 有段时间手抖的没法用筷子不知道是不是双相前兆，医生给我开了很多很多药，我甚至没有勇气吃下去，那段时间我是怎么过得呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 219,
+          "like_count": 2437,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 655
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-04T14:27:30.000Z",
+        "description": "172 130，HRT25.8.4，SRS26.12-27.2(预计)，会在夜里经常崩溃早上醒来又无事发生，很孤独，全年无休毫无社交那种，欢迎互fo，看到会回……",
+        "id": "1842209900866473984",
+        "name": "一只梦汐汐汐汐🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960338996384673793/jadH2kS3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 116,
+          "like_count": 53,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 181
+        },
+        "username": "Zmxhoptbagirl",
+        "verified": false
+      }
+    ]
+  }
+}

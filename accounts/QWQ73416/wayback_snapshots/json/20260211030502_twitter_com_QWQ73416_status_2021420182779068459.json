@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "2020544579465031691",
+    "created_at": "2026-02-11T03:05:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T04:05:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021420182779068459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1780369819310981120",
+          "start": 0,
+          "username": "520illusion"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021420182779068459",
+    "in_reply_to_user_id": "1780369819310981120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020544579465031691",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@520illusion 都怪雌二醇😭😭😭我后悔死了😭😭😭都怪你们这些小药娘啊😭😭😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "2020544579465031691",
+        "created_at": "2026-02-11T03:05:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T04:05:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021420182779068459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1780369819310981120",
+              "start": 0,
+              "username": "520illusion"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021420182779068459",
+        "in_reply_to_user_id": "1780369819310981120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020544579465031691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@520illusion 都怪雌二醇😭😭😭我后悔死了😭😭😭都怪你们这些小药娘啊😭😭😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1780369819310981120",
+        "conversation_id": "2020544579465031691",
+        "created_at": "2026-02-08T17:05:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T18:05:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020544579465031691"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 98,
+              "start": 94,
+              "tag": "mtf"
+            },
+            {
+              "end": 103,
+              "start": 99,
+              "tag": "cry"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Downkite521/st…",
+              "end": 127,
+              "expanded_url": "https://twitter.com/Downkite521/status/2020540537657344055",
+              "start": 104,
+              "url": "https://t.co/L7OSOJ9z2m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020544579465031691",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 4521,
+          "like_count": 25,
+          "quote_count": 3,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020540537657344055",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "别别别千万别翻车千万别吃雌二醇\n这玩意儿会影响身心发育的\n等后悔就已经来不及了 \n \n还有 顺男就好好当顺男  千万不要接触跨圈 不管是友跨还是反跨 最终的结局都是翻车 我就这么炸的😭\n\n#mtf #cry https://t.co/L7OSOJ9z2m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|GAHT/HRT:2025.10.7|欢迎交朋友|一！个！都！不！准！死！|补佳乐已被母亲发现|好闺蜜@YeJiangXYN |\n→I an not a vitual account.(T~T)←|\n🚪10 要加的私聊，绿，纯好友位|（虽然我知道压根没人加🙃）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "YeJiangXYN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "MTF.wiki",
+                "end": 23,
+                "expanded_url": "http://MTF.wiki",
+                "start": 0,
+                "url": "https://t.co/7tmPTkeoFF"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "∠( 🥵」∠)_",
+        "name": "🍥泠小米🍥",
+        "pinned_tweet_id": "2017118020968337439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979202568543784960/OeW4bpMU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 304,
+          "like_count": 5480,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 1297
+        },
+        "url": "https://t.co/7tmPTkeoFF",
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-16T22:57:15.000Z",
+        "description": "我终将站在辉煌的殿堂之上\n挥刀斩死年少的自己",
+        "id": "1780369819310981120",
+        "location": "浙江省宁波市鄞州中学高三9班",
+        "name": "ill🏳️‍⚧️",
+        "pinned_tweet_id": "2019804864298336434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004245780102615040/pktU--jz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2975,
+          "following_count": 227,
+          "like_count": 6786,
+          "listed_count": 5,
+          "media_count": 526,
+          "tweet_count": 4361
+        },
+        "username": "520illusion",
+        "verified": true
+      }
+    ]
+  }
+}

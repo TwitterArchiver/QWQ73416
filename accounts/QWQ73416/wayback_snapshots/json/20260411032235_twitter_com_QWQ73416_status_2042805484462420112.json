@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "2042805484462420112",
+    "created_at": "2026-04-11T03:22:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T04:22:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042805484462420112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2007064047255207937",
+          "start": 3,
+          "username": "Ayin886030"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042805484462420112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042318380116688990",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ayin886030: 广州禁毒既然都看推了 一堆吃盐自杀的当眼瞎看不见不管 吃点小药片割个小手就挂上去😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "2042805484462420112",
+        "created_at": "2026-04-11T03:22:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T04:22:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042805484462420112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2007064047255207937",
+              "start": 3,
+              "username": "Ayin886030"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042805484462420112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042318380116688990",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ayin886030: 广州禁毒既然都看推了 一堆吃盐自杀的当眼瞎看不见不管 吃点小药片割个小手就挂上去😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007064047255207937",
+        "conversation_id": "2042318380116688990",
+        "created_at": "2026-04-09T19:07:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T20:07:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042318380116688990"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042318380116688990",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5506,
+          "like_count": 159,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "广州禁毒既然都看推了 一堆吃盐自杀的当眼瞎看不见不管 吃点小药片割个小手就挂上去😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10🌟|GAHT/HRT:2025.10.7|\n割手的痕迹被我妈看到了，被骂了一顿|\n好闺蜜 @N2OXYN |\n→I an not a vitual account.(T~T)←|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 47,
+                "username": "N2OXYN"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "name": "🧊泠小米❄️",
+        "pinned_tweet_id": "2037669545633325393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023719096047771648/WvkPh1aM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 320,
+          "like_count": 6434,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 1655
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-02T12:19:18.000Z",
+        "description": "08非健全高中生/oder/紫餐/adhd/重抑重焦惊恐睡眠障碍等\n一破苦逼画画人。 在这里发些日常啥的碎碎念。当然也可能没话说。一般来说我会表现健全的一面。\n称呼白华就好。她是前台。\n性少数友好 欢迎互fo交友\n¯\\_(ツ)_/¯",
+        "id": "2007064047255207937",
+        "name": "empty",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041961843724607488/bJ_2qODI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 82,
+          "like_count": 734,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 154
+        },
+        "username": "Ayin886030",
+        "verified": false
+      }
+    ]
+  }
+}

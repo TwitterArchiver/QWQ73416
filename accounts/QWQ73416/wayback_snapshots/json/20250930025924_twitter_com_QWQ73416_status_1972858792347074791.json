@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1972608010976739328"
+      ],
+      "media_source_tweet_id": [
+        "1972608211871215790"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1972858792347074791",
+    "created_at": "2025-09-30T02:59:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-30T03:59:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972858792347074791"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 21,
+          "tag": "東北きりたん"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1951451459993870338",
+          "start": 3,
+          "username": "higasiyamananik"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Mlw0yp947M",
+          "end": 74,
+          "expanded_url": "https://x.com/higasiyamananik/status/1972608211871215790/photo/1",
+          "media_key": "3_1972608010976739328",
+          "start": 51,
+          "url": "https://t.co/Mlw0yp947M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972858792347074791",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 236
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972608211871215790",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @higasiyamananik: #東北きりたん \n配信で描いた褐色エジプト猫耳ロリきりたん https://t.co/Mlw0yp947M"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2029,
+        "media_key": "3_1972608010976739328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2AciN9bwAA2_IJ.jpg",
+        "width": 1185
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972608010976739328"
+          ],
+          "media_source_tweet_id": [
+            "1972608211871215790"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1972858792347074791",
+        "created_at": "2025-09-30T02:59:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T03:59:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972858792347074791"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 21,
+              "tag": "東北きりたん"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1951451459993870338",
+              "start": 3,
+              "username": "higasiyamananik"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mlw0yp947M",
+              "end": 74,
+              "expanded_url": "https://x.com/higasiyamananik/status/1972608211871215790/photo/1",
+              "media_key": "3_1972608010976739328",
+              "start": 51,
+              "url": "https://t.co/Mlw0yp947M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972858792347074791",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 236
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972608211871215790",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @higasiyamananik: #東北きりたん \n配信で描いた褐色エジプト猫耳ロリきりたん https://t.co/Mlw0yp947M"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972608010976739328"
+          ]
+        },
+        "author_id": "1951451459993870338",
+        "conversation_id": "1972608211871215790",
+        "created_at": "2025-09-29T10:23:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T11:23:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972608211871215790"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "東北きりたん"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mlw0yp947M",
+              "end": 53,
+              "expanded_url": "https://x.com/higasiyamananik/status/1972608211871215790/photo/1",
+              "media_key": "3_1972608010976739328",
+              "start": 30,
+              "url": "https://t.co/Mlw0yp947M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972608211871215790",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 258,
+          "impression_count": 19675,
+          "like_count": 2055,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 236
+        },
+        "reply_settings": "everyone",
+        "text": "#東北きりたん \n配信で描いた褐色エジプト猫耳ロリきりたん https://t.co/Mlw0yp947M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "pinned_tweet_id": "1971859627869708434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 253,
+          "like_count": 3535,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1007
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-02T01:14:31.000Z",
+        "description": "配信はじめました。\nゲームしたり絵描いたりします。\nMMVC(東北きりたん)を使ってます。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCIbD2…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCIbD2-Y2BJ5J-wMWUUkgVNw",
+                "start": 0,
+                "url": "https://t.co/Ha4DQkOqFo"
+              }
+            ]
+          }
+        },
+        "id": "1951451459993870338",
+        "name": "東山ナニカ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951451512686911493/BfrO9sJi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 12,
+          "like_count": 42,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 52
+        },
+        "url": "https://t.co/Ha4DQkOqFo",
+        "username": "higasiyamananik",
+        "verified": false
+      }
+    ]
+  }
+}

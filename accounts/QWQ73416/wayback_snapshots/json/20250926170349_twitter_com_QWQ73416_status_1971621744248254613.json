@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1971615024356758010",
+    "created_at": "2025-09-26T17:03:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-26T18:03:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971621744248254613"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1621259482704625671",
+          "start": 0,
+          "username": "Qinnoii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971621744248254613",
+    "in_reply_to_user_id": "1621259482704625671",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971615024356758010",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Qinnoii 这俩玩意儿。。。用文明6的方式来说的话，这两个得研究几百回合以上呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1971615024356758010",
+        "created_at": "2025-09-26T17:03:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T18:03:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971621744248254613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1621259482704625671",
+              "start": 0,
+              "username": "Qinnoii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971621744248254613",
+        "in_reply_to_user_id": "1621259482704625671",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971615024356758010",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Qinnoii 这俩玩意儿。。。用文明6的方式来说的话，这两个得研究几百回合以上呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1971615022423109632"
+          ]
+        },
+        "author_id": "1621259482704625671",
+        "conversation_id": "1971615024356758010",
+        "created_at": "2025-09-26T16:37:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T17:37:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971615024356758010"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1971615024356758010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你认为中国实行民主化和允许同性婚姻哪个可能先发生"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "pinned_tweet_id": "1971096075286216763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 252,
+          "like_count": 3424,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 967
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-02T21:29:55.000Z",
+        "description": "🏳️‍⚧️MtF|正體🇹🇼/简体🇨🇳\n💙@ObjectShadow💚\nフォローをくれてありがとうございます!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 20,
+                "username": "ObjectShadow"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ayaneqin.blogspot.com",
+                "end": 23,
+                "expanded_url": "http://ayaneqin.blogspot.com",
+                "start": 0,
+                "url": "https://t.co/eL7t3GftYz"
+              }
+            ]
+          }
+        },
+        "id": "1621259482704625671",
+        "name": "綾音Ayane",
+        "pinned_tweet_id": "1959513688395960345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929662964526993411/I6Qra0xt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 1088,
+          "like_count": 12922,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 316
+        },
+        "url": "https://t.co/eL7t3GftYz",
+        "username": "Qinnoii",
+        "verified": false
+      }
+    ]
+  }
+}

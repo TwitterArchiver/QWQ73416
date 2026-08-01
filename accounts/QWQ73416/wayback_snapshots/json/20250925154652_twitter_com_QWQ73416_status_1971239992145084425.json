@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1971163724309471232"
+      ],
+      "media_source_tweet_id": [
+        "1971163733595652232"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1971239992145084425",
+    "created_at": "2025-09-25T15:46:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T16:46:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971239992145084425"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1471835325417033729",
+          "start": 3,
+          "username": "abaraheiki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DvjUBLitb6",
+          "end": 39,
+          "expanded_url": "https://x.com/abaraheiki/status/1971163733595652232/photo/1",
+          "media_key": "3_1971163724309471232",
+          "start": 16,
+          "url": "https://t.co/DvjUBLitb6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971239992145084425",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 133
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971163733595652232",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @abaraheiki: https://t.co/DvjUBLitb6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1525,
+        "media_key": "3_1971163724309471232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1r69q2aIAAVIok.jpg",
+        "width": 1490
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971163724309471232"
+          ],
+          "media_source_tweet_id": [
+            "1971163733595652232"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1971239992145084425",
+        "created_at": "2025-09-25T15:46:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T16:46:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971239992145084425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1471835325417033729",
+              "start": 3,
+              "username": "abaraheiki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DvjUBLitb6",
+              "end": 39,
+              "expanded_url": "https://x.com/abaraheiki/status/1971163733595652232/photo/1",
+              "media_key": "3_1971163724309471232",
+              "start": 16,
+              "url": "https://t.co/DvjUBLitb6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971239992145084425",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 133
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971163733595652232",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @abaraheiki: https://t.co/DvjUBLitb6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971163724309471232"
+          ]
+        },
+        "author_id": "1471835325417033729",
+        "conversation_id": "1971163733595652232",
+        "created_at": "2025-09-25T10:43:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T11:43:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971163733595652232"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DvjUBLitb6",
+              "end": 23,
+              "expanded_url": "https://x.com/abaraheiki/status/1971163733595652232/photo/1",
+              "media_key": "3_1971163724309471232",
+              "start": 0,
+              "url": "https://t.co/DvjUBLitb6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971163733595652232",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 197,
+          "impression_count": 29560,
+          "like_count": 2748,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 133
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/DvjUBLitb6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "pinned_tweet_id": "1971096075286216763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 252,
+          "like_count": 3387,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 947
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-17T13:31:14.000Z",
+        "description": "＠abara の創作用",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 6,
+                "start": 0,
+                "username": "abara"
+              }
+            ]
+          }
+        },
+        "id": "1471835325417033729",
+        "name": "あばら屋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1471839836210606084/4XnJ7rNf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54813,
+          "following_count": 319,
+          "like_count": 2,
+          "listed_count": 314,
+          "media_count": 65,
+          "tweet_count": 140
+        },
+        "username": "abaraheiki",
+        "verified": false
+      }
+    ]
+  }
+}

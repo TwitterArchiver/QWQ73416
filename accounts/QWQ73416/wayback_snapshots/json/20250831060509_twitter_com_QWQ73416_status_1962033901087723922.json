@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1961546259799707648"
+      ],
+      "media_source_tweet_id": [
+        "1961546267433320744"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1962033901087723922",
+    "created_at": "2025-08-31T06:05:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T07:05:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962033901087723922"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 14,
+          "tag": "朝のワンドロむろさん"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1100056742187028485",
+          "start": 3,
+          "username": "sya_muro"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/27tIfpOCze",
+          "end": 54,
+          "expanded_url": "https://x.com/sya_muro/status/1961546267433320744/photo/1",
+          "media_key": "3_1961546259799707648",
+          "start": 31,
+          "url": "https://t.co/27tIfpOCze"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962033901087723922",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 34
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961546267433320744",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sya_muro: #朝のワンドロむろさん \nすけぶ https://t.co/27tIfpOCze"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2732,
+        "media_key": "3_1961546259799707648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzjP7jnbkAADpR0.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961546259799707648"
+          ],
+          "media_source_tweet_id": [
+            "1961546267433320744"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1962033901087723922",
+        "created_at": "2025-08-31T06:05:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T07:05:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962033901087723922"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 14,
+              "tag": "朝のワンドロむろさん"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1100056742187028485",
+              "start": 3,
+              "username": "sya_muro"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/27tIfpOCze",
+              "end": 54,
+              "expanded_url": "https://x.com/sya_muro/status/1961546267433320744/photo/1",
+              "media_key": "3_1961546259799707648",
+              "start": 31,
+              "url": "https://t.co/27tIfpOCze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962033901087723922",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 34
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961546267433320744",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sya_muro: #朝のワンドロむろさん \nすけぶ https://t.co/27tIfpOCze"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961546259799707648"
+          ]
+        },
+        "author_id": "1100056742187028485",
+        "conversation_id": "1961546267433320744",
+        "created_at": "2025-08-29T21:47:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T22:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961546267433320744"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 11,
+              "start": 0,
+              "tag": "朝のワンドロむろさん"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/27tIfpOCze",
+              "end": 40,
+              "expanded_url": "https://x.com/sya_muro/status/1961546267433320744/photo/1",
+              "media_key": "3_1961546259799707648",
+              "start": 17,
+              "url": "https://t.co/27tIfpOCze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961546267433320744",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 2739,
+          "like_count": 282,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "#朝のワンドロむろさん \nすけぶ https://t.co/27tIfpOCze"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|小推@QWQ1885|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "QWQ1885"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 171,
+          "like_count": 1522,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 343
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-25T15:35:40.000Z",
+        "description": "一次創作が大好き！skeb：https://t.co/EiHtIIuMzj ﾜﾝﾄﾞﾛskeb：https://t.co/86eqI4UItj ﾌｧﾝﾎﾞｯｸｽ：https://t.co/G74UG5Dv5E ゴミ置き場( @muro_sya)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 112,
+                "username": "muro_sya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@sya_muro",
+                "end": 37,
+                "expanded_url": "https://skeb.jp/@sya_muro",
+                "start": 14,
+                "url": "https://t.co/EiHtIIuMzj"
+              },
+              {
+                "display_url": "skeb.jp/@muro_sya",
+                "end": 71,
+                "expanded_url": "https://skeb.jp/@muro_sya",
+                "start": 48,
+                "url": "https://t.co/86eqI4UItj"
+              },
+              {
+                "display_url": "syamuro.fanbox.cc",
+                "end": 104,
+                "expanded_url": "https://syamuro.fanbox.cc",
+                "start": 81,
+                "url": "https://t.co/G74UG5Dv5E"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/syamuro",
+                "end": 23,
+                "expanded_url": "https://lit.link/syamuro",
+                "start": 0,
+                "url": "https://t.co/N6HfhkQ7DR"
+              }
+            ]
+          }
+        },
+        "id": "1100056742187028485",
+        "location": "緑目幼女がいる世界",
+        "name": "しゃむろ@8/24 名古屋コミティア D-29 / COMITIA153 Q53a",
+        "pinned_tweet_id": "1957382657463214093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916287563918413825/qP2HJvNq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2792,
+          "following_count": 105,
+          "like_count": 1610,
+          "listed_count": 35,
+          "media_count": 895,
+          "tweet_count": 32172
+        },
+        "url": "https://t.co/N6HfhkQ7DR",
+        "username": "sya_muro",
+        "verified": false
+      }
+    ]
+  }
+}

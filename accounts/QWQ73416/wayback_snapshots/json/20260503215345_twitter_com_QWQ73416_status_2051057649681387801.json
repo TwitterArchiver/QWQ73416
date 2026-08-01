@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "2051057649681387801",
+    "created_at": "2026-05-03T21:53:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T22:53:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051057649681387801"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2051057649681387801",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在搞什么啊。。。到底在干什么啊。。。自从上推之后，脑子就乱掉了，谁是好人谁是坏人？大家到底都是什么人？我的价值观和底线还会再次被压低吗？我在看什么，我在做什么？我到底应该怎么做？什么是对的，什么是错的？好像每个人都在烂掉，我什么都看不到了，我已经建立不了对任何事物，任何人的看法了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "2051057649681387801",
+        "created_at": "2026-05-03T21:53:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T22:53:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051057649681387801"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051057649681387801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在搞什么啊。。。到底在干什么啊。。。自从上推之后，脑子就乱掉了，谁是好人谁是坏人？大家到底都是什么人？我的价值观和底线还会再次被压低吗？我在看什么，我在做什么？我到底应该怎么做？什么是对的，什么是错的？好像每个人都在烂掉，我什么都看不到了，我已经建立不了对任何事物，任何人的看法了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10🌟|GAHT/HRT:2025.10.7|\n割手的痕迹被我妈看到了，被骂了一顿|\n好闺蜜 @QY404XYN |\n→I an not a vitual account.(T~T)←|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 47,
+                "username": "QY404XYN"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "name": "🧊泠小米BAYER❄️",
+        "pinned_tweet_id": "2037669545633325393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023719096047771648/WvkPh1aM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 703,
+          "following_count": 328,
+          "like_count": 6541,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 1713
+        },
+        "username": "QWQ73416",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967222698075123712"
+      ],
+      "media_source_tweet_id": [
+        "1967222808087605506"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1967585062922448989",
+    "created_at": "2025-09-15T13:43:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-15T14:43:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967585062922448989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "734746171",
+          "start": 3,
+          "username": "maaasenyooo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iH0RFlVXxp",
+          "end": 59,
+          "expanded_url": "https://x.com/maaasenyooo/status/1967222808087605506/photo/1",
+          "media_key": "3_1967222698075123712",
+          "start": 36,
+          "url": "https://t.co/iH0RFlVXxp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967585062922448989",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 519
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967222808087605506",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @maaasenyooo: 褐色エジプト猫耳ロリを描いてみよう🐱 https://t.co/iH0RFlVXxp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 793,
+        "media_key": "3_1967222698075123712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0z6nwDacAAKTtC.jpg",
+        "width": 650
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967222698075123712"
+          ],
+          "media_source_tweet_id": [
+            "1967222808087605506"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1967585062922448989",
+        "created_at": "2025-09-15T13:43:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T14:43:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967585062922448989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "734746171",
+              "start": 3,
+              "username": "maaasenyooo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iH0RFlVXxp",
+              "end": 59,
+              "expanded_url": "https://x.com/maaasenyooo/status/1967222808087605506/photo/1",
+              "media_key": "3_1967222698075123712",
+              "start": 36,
+              "url": "https://t.co/iH0RFlVXxp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967585062922448989",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 519
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967222808087605506",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @maaasenyooo: 褐色エジプト猫耳ロリを描いてみよう🐱 https://t.co/iH0RFlVXxp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967222698075123712"
+          ]
+        },
+        "author_id": "734746171",
+        "conversation_id": "1967222808087605506",
+        "created_at": "2025-09-14T13:44:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T14:44:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967222808087605506"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iH0RFlVXxp",
+              "end": 42,
+              "expanded_url": "https://x.com/maaasenyooo/status/1967222808087605506/photo/1",
+              "media_key": "3_1967222698075123712",
+              "start": 19,
+              "url": "https://t.co/iH0RFlVXxp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967222808087605506",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 155,
+          "impression_count": 56994,
+          "like_count": 3010,
+          "quote_count": 3,
+          "reply_count": 15,
+          "retweet_count": 519
+        },
+        "reply_settings": "everyone",
+        "text": "褐色エジプト猫耳ロリを描いてみよう🐱 https://t.co/iH0RFlVXxp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 225,
+          "like_count": 2689,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 704
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2012-08-03T11:50:44.000Z",
+        "description": "洋ゲーと創作が好きなまむちうです。 4コマなど描くインターネットおえかきまむ。サキュバスのメロメロとかを描いています。TFに強めの幻覚を見ているので注意。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "onlymaaa.jimdofree.com",
+                "end": 23,
+                "expanded_url": "https://onlymaaa.jimdofree.com/",
+                "start": 0,
+                "url": "https://t.co/1nuawrYv5x"
+              }
+            ]
+          }
+        },
+        "id": "734746171",
+        "location": "アポクリファの隅",
+        "name": "マー＠MANIMANI",
+        "pinned_tweet_id": "1960996481676275915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1282146657950240768/qTpGDdA6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25559,
+          "following_count": 186,
+          "like_count": 12865,
+          "listed_count": 215,
+          "media_count": 3521,
+          "tweet_count": 15091
+        },
+        "url": "https://t.co/1nuawrYv5x",
+        "username": "maaasenyooo",
+        "verified": false
+      }
+    ]
+  }
+}

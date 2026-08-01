@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1964053070092128259"
+      ],
+      "media_source_tweet_id": [
+        "1964053727419281915"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1964365407663645155",
+    "created_at": "2025-09-06T16:29:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T17:29:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964365407663645155"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1962156064734138368",
+          "start": 3,
+          "username": "HydrogenNeko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aDMYfOF29u",
+          "end": 136,
+          "expanded_url": "https://x.com/HydrogenNeko/status/1964053727419281915/photo/1",
+          "media_key": "3_1964053070092128259",
+          "start": 113,
+          "url": "https://t.co/aDMYfOF29u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964365407663645155",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964053727419281915",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HydrogenNeko: 无灌水，真实备份...\n其实主播我得了不治之症，余命可能不到一年，这是你们所不知道的！感谢奥斯康定帮助我克服这档子疼痛，可惜医生供应不足每天就80mg。医生看着我的止痛剂用量都直摇头…哈哈 https://t.co/aDMYfOF29u"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 870,
+        "media_key": "3_1964053070092128259",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0G33HrbUAMlPmm.png",
+        "width": 815
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964053070092128259"
+          ],
+          "media_source_tweet_id": [
+            "1964053727419281915"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1964365407663645155",
+        "created_at": "2025-09-06T16:29:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T17:29:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964365407663645155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1962156064734138368",
+              "start": 3,
+              "username": "HydrogenNeko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aDMYfOF29u",
+              "end": 136,
+              "expanded_url": "https://x.com/HydrogenNeko/status/1964053727419281915/photo/1",
+              "media_key": "3_1964053070092128259",
+              "start": 113,
+              "url": "https://t.co/aDMYfOF29u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964365407663645155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964053727419281915",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HydrogenNeko: 无灌水，真实备份...\n其实主播我得了不治之症，余命可能不到一年，这是你们所不知道的！感谢奥斯康定帮助我克服这档子疼痛，可惜医生供应不足每天就80mg。医生看着我的止痛剂用量都直摇头…哈哈 https://t.co/aDMYfOF29u"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1964053070092128259"
+          ]
+        },
+        "author_id": "1962156064734138368",
+        "conversation_id": "1964053727419281915",
+        "created_at": "2025-09-05T19:51:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T20:51:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964053727419281915"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aDMYfOF29u",
+              "end": 118,
+              "expanded_url": "https://x.com/HydrogenNeko/status/1964053727419281915/photo/1",
+              "media_key": "3_1964053070092128259",
+              "start": 95,
+              "url": "https://t.co/aDMYfOF29u"
+            },
+            {
+              "display_url": "x.com/HydrogenNeko/s…",
+              "end": 142,
+              "expanded_url": "https://twitter.com/HydrogenNeko/status/1964052347627458841",
+              "start": 119,
+              "url": "https://t.co/NlDmNp6VSB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964053727419281915",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 453,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964052347627458841",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "无灌水，真实备份...\n其实主播我得了不治之症，余命可能不到一年，这是你们所不知道的！感谢奥斯康定帮助我克服这档子疼痛，可惜医生供应不足每天就80mg。医生看着我的止痛剂用量都直摇头…哈哈 https://t.co/aDMYfOF29u https://t.co/NlDmNp6VSB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 216,
+          "like_count": 2242,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 611
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-31T14:10:44.000Z",
+        "description": "实际上叫葉加瀬 水素・MTF🍥・「すべてを癒す万能薬になりたい」・業餘調查記者、偵探・座右銘「給我一個機会，譲我再一次登上塔尖！」#數位遊民的自我修養",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 75,
+                "start": 65,
+                "tag": "數位遊民的自我修養"
+              }
+            ]
+          }
+        },
+        "id": "1962156064734138368",
+        "name": "✦水素渐远✦",
+        "pinned_tweet_id": "1962163704134549962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962156244841709568/SgYFPIvk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 176,
+          "like_count": 668,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 325
+        },
+        "username": "HydrogenNeko",
+        "verified": false
+      }
+    ]
+  }
+}

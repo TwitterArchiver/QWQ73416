@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970057791026139136"
+      ],
+      "media_source_tweet_id": [
+        "1970057986157744612"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1970080932045746220",
+    "created_at": "2025-09-22T11:01:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T12:01:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970080932045746220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1482888205",
+          "start": 3,
+          "username": "pieleaf_x2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/T7uF0oZ8S9",
+          "end": 39,
+          "expanded_url": "https://x.com/pieleaf_x2/status/1970057986157744612/photo/1",
+          "media_key": "3_1970057791026139136",
+          "start": 16,
+          "url": "https://t.co/T7uF0oZ8S9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970080932045746220",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 711
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970057986157744612",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pieleaf_x2: https://t.co/T7uF0oZ8S9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1404,
+        "media_key": "3_1970057791026139136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1cNH4UakAATyWh.jpg",
+        "width": 913
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970057791026139136"
+          ],
+          "media_source_tweet_id": [
+            "1970057986157744612"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1970080932045746220",
+        "created_at": "2025-09-22T11:01:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T12:01:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970080932045746220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1482888205",
+              "start": 3,
+              "username": "pieleaf_x2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/T7uF0oZ8S9",
+              "end": 39,
+              "expanded_url": "https://x.com/pieleaf_x2/status/1970057986157744612/photo/1",
+              "media_key": "3_1970057791026139136",
+              "start": 16,
+              "url": "https://t.co/T7uF0oZ8S9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970080932045746220",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 711
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970057986157744612",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pieleaf_x2: https://t.co/T7uF0oZ8S9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970057791026139136"
+          ]
+        },
+        "author_id": "1482888205",
+        "conversation_id": "1970057986157744612",
+        "created_at": "2025-09-22T09:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T10:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970057986157744612"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T7uF0oZ8S9",
+              "end": 23,
+              "expanded_url": "https://x.com/pieleaf_x2/status/1970057986157744612/photo/1",
+              "media_key": "3_1970057791026139136",
+              "start": 0,
+              "url": "https://t.co/T7uF0oZ8S9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970057986157744612",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 771,
+          "impression_count": 51940,
+          "like_count": 4131,
+          "quote_count": 3,
+          "reply_count": 9,
+          "retweet_count": 711
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/T7uF0oZ8S9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 238,
+          "like_count": 3256,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 889
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2013-06-04T17:55:17.000Z",
+        "description": "Kawaii illustrator. \nskeb：https://t.co/l055x6wxlp\nFANBOX ：https://t.co/5hsnMg6xwA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@pieleaf_x2",
+                "end": 49,
+                "expanded_url": "http://skeb.jp/@pieleaf_x2",
+                "start": 26,
+                "url": "https://t.co/l055x6wxlp"
+              },
+              {
+                "display_url": "pieleaf.fanbox.cc",
+                "end": 81,
+                "expanded_url": "http://pieleaf.fanbox.cc",
+                "start": 58,
+                "url": "https://t.co/5hsnMg6xwA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "leafpiezaurus.tumblr.com/contact",
+                "end": 23,
+                "expanded_url": "https://leafpiezaurus.tumblr.com/contact",
+                "start": 0,
+                "url": "https://t.co/sgxXsFjBDv"
+              }
+            ]
+          }
+        },
+        "id": "1482888205",
+        "location": "ご連絡はHPのメールアドレスまで",
+        "name": "りーふぱいザウルス",
+        "pinned_tweet_id": "1966463992190189738",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1386172803284553731/RGfbBh49_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102736,
+          "following_count": 433,
+          "like_count": 12308,
+          "listed_count": 965,
+          "media_count": 637,
+          "tweet_count": 20839
+        },
+        "url": "https://t.co/sgxXsFjBDv",
+        "username": "pieleaf_x2",
+        "verified": false
+      }
+    ]
+  }
+}

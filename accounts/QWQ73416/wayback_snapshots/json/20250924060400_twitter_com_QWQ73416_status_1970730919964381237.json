@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970723935097589760"
+      ],
+      "media_source_tweet_id": [
+        "1970723940801941610"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1970730919964381237",
+    "created_at": "2025-09-24T06:04:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T07:04:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970730919964381237"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "23573165",
+          "start": 3,
+          "username": "kasa_7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xT4qRPyGW5",
+          "end": 35,
+          "expanded_url": "https://x.com/kasa_7/status/1970723940801941610/photo/1",
+          "media_key": "3_1970723935097589760",
+          "start": 12,
+          "url": "https://t.co/xT4qRPyGW5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970730919964381237",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970723940801941610",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kasa_7: https://t.co/xT4qRPyGW5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1333,
+        "media_key": "3_1970723935097589760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1lq-kXaEAARPa5.jpg",
+        "width": 757
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970723935097589760"
+          ],
+          "media_source_tweet_id": [
+            "1970723940801941610"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1970730919964381237",
+        "created_at": "2025-09-24T06:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T07:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970730919964381237"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "23573165",
+              "start": 3,
+              "username": "kasa_7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xT4qRPyGW5",
+              "end": 35,
+              "expanded_url": "https://x.com/kasa_7/status/1970723940801941610/photo/1",
+              "media_key": "3_1970723935097589760",
+              "start": 12,
+              "url": "https://t.co/xT4qRPyGW5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970730919964381237",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970723940801941610",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kasa_7: https://t.co/xT4qRPyGW5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970723935097589760"
+          ]
+        },
+        "author_id": "23573165",
+        "conversation_id": "1970723940801941610",
+        "created_at": "2025-09-24T05:36:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T06:36:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970723940801941610"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xT4qRPyGW5",
+              "end": 23,
+              "expanded_url": "https://x.com/kasa_7/status/1970723940801941610/photo/1",
+              "media_key": "3_1970723935097589760",
+              "start": 0,
+              "url": "https://t.co/xT4qRPyGW5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970723940801941610",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 3818,
+          "like_count": 215,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/xT4qRPyGW5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 240,
+          "like_count": 3291,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 912
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2009-03-10T09:16:44.000Z",
+        "description": "絵うまくなりたい\ncoloso講座:https://t.co/E8z1BwGUMP\nBluesky: https://t.co/2t2Seaw4P7\nskeb: https://t.co/oVJExxrImA\nFANBOX: https://t.co/FkH2kNwIFV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bit.ly/41VzkFE",
+                "end": 41,
+                "expanded_url": "https://bit.ly/41VzkFE",
+                "start": 18,
+                "url": "https://t.co/E8z1BwGUMP"
+              },
+              {
+                "display_url": "bsky.app/profile/kasa-7…",
+                "end": 74,
+                "expanded_url": "https://bsky.app/profile/kasa-7.bsky.social",
+                "start": 51,
+                "url": "https://t.co/2t2Seaw4P7"
+              },
+              {
+                "display_url": "skeb.jp/@kasa_7",
+                "end": 104,
+                "expanded_url": "http://skeb.jp/@kasa_7",
+                "start": 81,
+                "url": "https://t.co/oVJExxrImA"
+              },
+              {
+                "display_url": "kasa.fanbox.cc",
+                "end": 136,
+                "expanded_url": "http://kasa.fanbox.cc",
+                "start": 113,
+                "url": "https://t.co/FkH2kNwIFV"
+              }
+            ]
+          }
+        },
+        "id": "23573165",
+        "name": "笠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801519005364326401/loOxFnrW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139869,
+          "following_count": 998,
+          "like_count": 25402,
+          "listed_count": 1319,
+          "media_count": 1042,
+          "tweet_count": 19768
+        },
+        "username": "kasa_7",
+        "verified": false
+      }
+    ]
+  }
+}

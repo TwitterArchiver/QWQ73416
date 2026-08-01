@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1977639463800152438",
+    "created_at": "2025-10-14T17:31:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T18:31:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978151575731241126"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "111942564",
+          "start": 0,
+          "username": "boiledwater"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978151575731241126",
+    "in_reply_to_user_id": "111942564",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977639463800152438",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@boiledwater 可是我感觉这样很恐怖唉。。。。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1977639463800152438",
+        "created_at": "2025-10-14T17:31:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T18:31:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978151575731241126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "111942564",
+              "start": 0,
+              "username": "boiledwater"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978151575731241126",
+        "in_reply_to_user_id": "111942564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977639463800152438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boiledwater 可是我感觉这样很恐怖唉。。。。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "111942564",
+        "conversation_id": "1977639463800152438",
+        "created_at": "2025-10-13T07:36:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T08:36:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977639463800152438"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1977639463800152438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2928,
+          "like_count": 31,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "看报纸，发现本市有几个地铁站启用了蓝灯，站台上散发着蓝色的光芒。\n\n文章说这些蓝灯是卡罗琳斯卡学院的研究人员与交通局和区政府合作安装的。\n\n他们的目的是研究蓝光是否能减少地铁和铁路上的自杀事件。\n\n这种做法在英国、荷兰和比利时等观察到积极效果，因此计划明年会在更多站点推广蓝光。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|GAHT/HRT:2025.10.7|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "MTF.wiki",
+                "end": 23,
+                "expanded_url": "http://MTF.wiki",
+                "start": 0,
+                "url": "https://t.co/7tmPTkeoFF"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "∠( ᐛ 」∠)_",
+        "name": "🍥(￣ヘ￣🍥)",
+        "pinned_tweet_id": "1971859627869708434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 266,
+          "like_count": 4121,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1106
+        },
+        "url": "https://t.co/7tmPTkeoFF",
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2010-02-06T17:49:59.000Z",
+        "description": "打破原生家庭之环的人，只能是你自己。",
+        "id": "111942564",
+        "location": "Stockholm, Sverige",
+        "name": "Jess",
+        "pinned_tweet_id": "1732176179971436769",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973082103421001728/VfZVoz4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42502,
+          "following_count": 1739,
+          "like_count": 30987,
+          "listed_count": 161,
+          "media_count": 4946,
+          "tweet_count": 37744
+        },
+        "username": "boiledwater",
+        "verified": true
+      }
+    ]
+  }
+}

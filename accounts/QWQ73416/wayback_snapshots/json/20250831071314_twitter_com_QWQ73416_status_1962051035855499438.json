@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962044490514051073"
+      ],
+      "media_source_tweet_id": [
+        "1962044496985919694"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1962051035855499438",
+    "created_at": "2025-08-31T07:13:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T08:13:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962051035855499438"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1518352695362744320",
+          "start": 3,
+          "username": "CITYWILD499"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kQ0kxmwVaX",
+          "end": 40,
+          "expanded_url": "https://x.com/CITYWILD499/status/1962044496985919694/photo/1",
+          "media_key": "3_1962044490514051073",
+          "start": 17,
+          "url": "https://t.co/kQ0kxmwVaX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962051035855499438",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 158
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962044496985919694",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CITYWILD499: https://t.co/kQ0kxmwVaX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1772,
+        "media_key": "3_1962044490514051073",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzqVEZqaMAEbVdc.jpg",
+        "width": 969
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962044490514051073"
+          ],
+          "media_source_tweet_id": [
+            "1962044496985919694"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1962051035855499438",
+        "created_at": "2025-08-31T07:13:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T08:13:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962051035855499438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1518352695362744320",
+              "start": 3,
+              "username": "CITYWILD499"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kQ0kxmwVaX",
+              "end": 40,
+              "expanded_url": "https://x.com/CITYWILD499/status/1962044496985919694/photo/1",
+              "media_key": "3_1962044490514051073",
+              "start": 17,
+              "url": "https://t.co/kQ0kxmwVaX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962051035855499438",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 158
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962044496985919694",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CITYWILD499: https://t.co/kQ0kxmwVaX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962044490514051073"
+          ]
+        },
+        "author_id": "1518352695362744320",
+        "conversation_id": "1962044496985919694",
+        "created_at": "2025-08-31T06:47:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T07:47:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962044496985919694"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kQ0kxmwVaX",
+              "end": 23,
+              "expanded_url": "https://x.com/CITYWILD499/status/1962044496985919694/photo/1",
+              "media_key": "3_1962044490514051073",
+              "start": 0,
+              "url": "https://t.co/kQ0kxmwVaX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962044496985919694",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 3612,
+          "like_count": 541,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 158
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/kQ0kxmwVaX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|小推@QWQ1885|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "QWQ1885"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 174,
+          "like_count": 1546,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 379
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-24T22:14:39.000Z",
+        "description": "✉️yon40999@gmail.com\ndon't edit / print my artworks\nAI🚫\nhttps://t.co/yljQeyjbY5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "xityshop.booth.pm",
+                "end": 79,
+                "expanded_url": "https://xityshop.booth.pm/",
+                "start": 56,
+                "url": "https://t.co/yljQeyjbY5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/80969934",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/80969934",
+                "start": 0,
+                "url": "https://t.co/5JCT0NpEj3"
+              }
+            ]
+          }
+        },
+        "id": "1518352695362744320",
+        "name": "Xity",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1719660526651985920/whiZ_OfW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36853,
+          "following_count": 296,
+          "like_count": 13901,
+          "listed_count": 145,
+          "media_count": 442,
+          "tweet_count": 3920
+        },
+        "url": "https://t.co/5JCT0NpEj3",
+        "username": "CITYWILD499",
+        "verified": false
+      }
+    ]
+  }
+}

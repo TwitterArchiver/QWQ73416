@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      }
+    ],
+    "conversation_id": "1966045877757432083",
+    "created_at": "2025-09-11T07:47:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-11T08:47:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966045877757432083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1843201902550634496",
+          "start": 3,
+          "username": "LwrDHYyuxR22499"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966045877757432083",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966010793067167857",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LwrDHYyuxR22499: 😫完蛋辣已经被送进去了而且进去的地方是一家有正规教育资质上文化课得河南登封武校\n虽然有正规资质但是也会虐待人殴打\n他人\n可是搞起来就有很麻烦不能对方无资质非法办学等问题囚禁未成年人进行打击怎么不是给我找有保护伞的\n就是这种资质齐全的学校…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1966010782669541376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0isY_WbEAAQk5K.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1966010783508344834",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0isZCeaMAIsIkq.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1966010789934047232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0isZaaaoAAVb3T.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "1966045877757432083",
+        "created_at": "2025-09-11T07:47:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T08:47:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966045877757432083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1843201902550634496",
+              "start": 3,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966045877757432083",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966010793067167857",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LwrDHYyuxR22499: 😫完蛋辣已经被送进去了而且进去的地方是一家有正规教育资质上文化课得河南登封武校\n虽然有正规资质但是也会虐待人殴打\n他人\n可是搞起来就有很麻烦不能对方无资质非法办学等问题囚禁未成年人进行打击怎么不是给我找有保护伞的\n就是这种资质齐全的学校…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1966010782669541376",
+            "3_1966010783508344834",
+            "3_1966010789934047232"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          }
+        ],
+        "conversation_id": "1966010793067167857",
+        "created_at": "2025-09-11T05:27:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-11T06:27:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966010793067167857"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pdp3HESILk",
+              "end": 149,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1966010793067167857/photo/1",
+              "media_key": "3_1966010782669541376",
+              "start": 126,
+              "url": "https://t.co/pdp3HESILk"
+            },
+            {
+              "display_url": "pic.x.com/pdp3HESILk",
+              "end": 149,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1966010793067167857/photo/1",
+              "media_key": "3_1966010783508344834",
+              "start": 126,
+              "url": "https://t.co/pdp3HESILk"
+            },
+            {
+              "display_url": "pic.x.com/pdp3HESILk",
+              "end": 149,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1966010793067167857/photo/1",
+              "media_key": "3_1966010789934047232",
+              "start": 126,
+              "url": "https://t.co/pdp3HESILk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966010793067167857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 516,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "😫完蛋辣已经被送进去了而且进去的地方是一家有正规教育资质上文化课得河南登封武校\n虽然有正规资质但是也会虐待人殴打\n他人\n可是搞起来就有很麻烦不能对方无资质非法办学等问题囚禁未成年人进行打击怎么不是给我找有保护伞的\n就是这种资质齐全的学校\n我真受不了了 https://t.co/pdp3HESILk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 220,
+          "like_count": 2446,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 657
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 705,
+          "following_count": 649,
+          "like_count": 612,
+          "listed_count": 4,
+          "media_count": 201,
+          "tweet_count": 871
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

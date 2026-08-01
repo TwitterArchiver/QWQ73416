@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962485416554307584"
+      ],
+      "media_source_tweet_id": [
+        "1962485436355662066"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1962769322843189337",
+    "created_at": "2025-09-02T06:47:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T07:47:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962769322843189337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1639816523190763521",
+          "start": 3,
+          "username": "ggdxfulan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tIyQs2L87s",
+          "end": 43,
+          "expanded_url": "https://x.com/ggdxfulan/status/1962485436355662066/photo/1",
+          "media_key": "3_1962485416554307584",
+          "start": 20,
+          "url": "https://t.co/tIyQs2L87s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962769322843189337",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962485436355662066",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ggdxfulan: 吃饭饭！ https://t.co/tIyQs2L87s"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1962485416554307584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzwmFrKaoAA3svR.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962485416554307584"
+          ],
+          "media_source_tweet_id": [
+            "1962485436355662066"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1962769322843189337",
+        "created_at": "2025-09-02T06:47:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T07:47:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962769322843189337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1639816523190763521",
+              "start": 3,
+              "username": "ggdxfulan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tIyQs2L87s",
+              "end": 43,
+              "expanded_url": "https://x.com/ggdxfulan/status/1962485436355662066/photo/1",
+              "media_key": "3_1962485416554307584",
+              "start": 20,
+              "url": "https://t.co/tIyQs2L87s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962769322843189337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962485436355662066",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ggdxfulan: 吃饭饭！ https://t.co/tIyQs2L87s"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962485416554307584"
+          ]
+        },
+        "author_id": "1639816523190763521",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1962485436355662066",
+        "created_at": "2025-09-01T11:59:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T12:59:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962485436355662066"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tIyQs2L87s",
+              "end": 28,
+              "expanded_url": "https://x.com/ggdxfulan/status/1962485436355662066/photo/1",
+              "media_key": "3_1962485416554307584",
+              "start": 5,
+              "url": "https://t.co/tIyQs2L87s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962485436355662066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2021,
+          "like_count": 45,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃饭饭！ https://t.co/tIyQs2L87s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|小推@QWQ1885|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "QWQ1885"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 197,
+          "like_count": 1734,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 468
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-26T02:28:25.000Z",
+        "description": "MtX药娘只1不0永不翻车、持MtF证(莫名其妙开出来的)、抖s、ENFP，男同攻、姐T的组合体，喜欢草人",
+        "id": "1639816523190763521",
+        "location": "距离你2km",
+        "name": "乖乖哒二小姐🍥—药圈潘宏",
+        "pinned_tweet_id": "1956173228302589992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929849322272968704/hQan_chB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10633,
+          "following_count": 447,
+          "like_count": 26125,
+          "listed_count": 20,
+          "media_count": 2887,
+          "tweet_count": 9840
+        },
+        "username": "ggdxfulan",
+        "verified": false
+      }
+    ]
+  }
+}

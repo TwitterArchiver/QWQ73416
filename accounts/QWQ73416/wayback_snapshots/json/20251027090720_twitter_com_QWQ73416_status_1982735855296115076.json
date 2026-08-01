@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1982629947341672783",
+    "created_at": "2025-10-27T09:07:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-27T10:07:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982735855296115076"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1731865096345780224",
+          "start": 0,
+          "username": "Ustinian_XiXi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982735855296115076",
+    "in_reply_to_user_id": "1731865096345780224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1982629947341672783",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ustinian_XiXi 条件非常诱人的，大家可以考虑一下🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1982629947341672783",
+        "created_at": "2025-10-27T09:07:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T10:07:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982735855296115076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1731865096345780224",
+              "start": 0,
+              "username": "Ustinian_XiXi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982735855296115076",
+        "in_reply_to_user_id": "1731865096345780224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1982629947341672783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ustinian_XiXi 条件非常诱人的，大家可以考虑一下🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1731865096345780224",
+        "conversation_id": "1982629947341672783",
+        "created_at": "2025-10-27T02:06:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-27T03:06:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982629947341672783"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1982629947341672783",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 662,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "找对象！(｢･ω･)｢\n本人是xyn，不抽烟不喝酒不割手精神比较稳定，pass会伪音脾气好粘人不占便宜，infp，很孤单没朋友每天很无聊，王者第五二游都可以玩（射击游戏不会噢，看不见人）\n是无性恋不在乎性别，偏柏拉图，消息秒回（前提是我抓着爪机），不处对象的话交个朋友也可以哇\n人在石家庄家住厦门"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|GAHT/HRT:2025.10.7|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "MTF.wiki",
+                "end": 23,
+                "expanded_url": "http://MTF.wiki",
+                "start": 0,
+                "url": "https://t.co/7tmPTkdQQ7"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "∠( ᐛ 」∠)_",
+        "name": "🍥泠小米🍥",
+        "pinned_tweet_id": "1971859627869708434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979202568543784960/OeW4bpMU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 274,
+          "like_count": 4258,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 1130
+        },
+        "url": "https://t.co/7tmPTkdQQ7",
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-05T02:36:44.000Z",
+        "description": "是超级圆圆的嘟嘟鱼！(｢･ω･)｢\n持证含糖，hrt  2023.12.7",
+        "id": "1731865096345780224",
+        "name": "✎ℳ₯㎕希曦🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1734585005718839296/RvMQy4gy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 322,
+          "like_count": 81,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 125
+        },
+        "username": "Ustinian_XiXi",
+        "verified": false
+      }
+    ]
+  }
+}

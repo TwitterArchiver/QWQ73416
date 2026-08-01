@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1961719808350892032"
+      ],
+      "media_source_tweet_id": [
+        "1961723761499250941"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1962035886553788444",
+    "created_at": "2025-08-31T06:13:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T07:13:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962035886553788444"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "廣井きくり",
+          "probability": 0.5637,
+          "start": 19,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1551440320906539008",
+          "start": 3,
+          "username": "aomoringo_com"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/v7H8RUChmw",
+          "end": 57,
+          "expanded_url": "https://x.com/aomoringo_com/status/1961723761499250941/photo/1",
+          "media_key": "3_1961719808350892032",
+          "start": 34,
+          "url": "https://t.co/v7H8RUChmw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962035886553788444",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 900
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961723761499250941",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aomoringo_com: 廣井きくり × 髪型 × 酒 https://t.co/v7H8RUChmw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4093,
+        "media_key": "3_1961719808350892032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzltxaWaMAADVvX.jpg",
+        "width": 2894
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961719808350892032"
+          ],
+          "media_source_tweet_id": [
+            "1961723761499250941"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1962035886553788444",
+        "created_at": "2025-08-31T06:13:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T07:13:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962035886553788444"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "廣井きくり",
+              "probability": 0.5637,
+              "start": 19,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1551440320906539008",
+              "start": 3,
+              "username": "aomoringo_com"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/v7H8RUChmw",
+              "end": 57,
+              "expanded_url": "https://x.com/aomoringo_com/status/1961723761499250941/photo/1",
+              "media_key": "3_1961719808350892032",
+              "start": 34,
+              "url": "https://t.co/v7H8RUChmw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962035886553788444",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 900
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961723761499250941",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aomoringo_com: 廣井きくり × 髪型 × 酒 https://t.co/v7H8RUChmw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961719808350892032"
+          ]
+        },
+        "author_id": "1551440320906539008",
+        "conversation_id": "1961723761499250941",
+        "created_at": "2025-08-30T09:32:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T10:32:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961723761499250941"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "廣井きくり",
+              "probability": 0.6328,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/v7H8RUChmw",
+              "end": 38,
+              "expanded_url": "https://x.com/aomoringo_com/status/1961723761499250941/photo/1",
+              "media_key": "3_1961719808350892032",
+              "start": 15,
+              "url": "https://t.co/v7H8RUChmw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961723761499250941",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 924,
+          "impression_count": 95772,
+          "like_count": 7597,
+          "quote_count": 9,
+          "reply_count": 9,
+          "retweet_count": 900
+        },
+        "reply_settings": "everyone",
+        "text": "廣井きくり × 髪型 × 酒 https://t.co/v7H8RUChmw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|小推@QWQ1885|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "QWQ1885"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 171,
+          "like_count": 1530,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 350
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-25T05:33:05.000Z",
+        "description": "かっこ可愛く女の子を描くのが好き🎨  / 2022年4月から絵に挑戦中のIT業界社会人 / ご依頼はDMにて✉️ /",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@aomoringo",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@aomoringo",
+                "start": 0,
+                "url": "https://t.co/SwHTgOTUrE"
+              }
+            ]
+          }
+        },
+        "id": "1551440320906539008",
+        "location": "青森県出身",
+        "name": "青森んご🍎",
+        "pinned_tweet_id": "1949769109295825241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961718603834949633/xfh79E2A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14432,
+          "following_count": 130,
+          "like_count": 1728,
+          "listed_count": 105,
+          "media_count": 228,
+          "tweet_count": 613
+        },
+        "url": "https://t.co/SwHTgOTUrE",
+        "username": "aomoringo_com",
+        "verified": false
+      }
+    ]
+  }
+}

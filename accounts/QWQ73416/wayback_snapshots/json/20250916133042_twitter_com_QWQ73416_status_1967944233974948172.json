@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967875172683468802"
+      ],
+      "media_source_tweet_id": [
+        "1967875268577726587"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1967944233974948172",
+    "created_at": "2025-09-16T13:30:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T14:30:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967944233974948172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1682489507944468480",
+          "start": 3,
+          "username": "akayudofu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2nHn1tkjsL",
+          "end": 51,
+          "expanded_url": "https://x.com/akayudofu/status/1967875268577726587/photo/1",
+          "media_key": "3_1967875172683468802",
+          "start": 28,
+          "url": "https://t.co/2nHn1tkjsL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967944233974948172",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 951
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967875268577726587",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @akayudofu: 褐色エジプト猫耳きりたん https://t.co/2nHn1tkjsL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1967875172683468802",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G09MCxYb0AIxusM.jpg",
+        "width": 1982
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967875172683468802"
+          ],
+          "media_source_tweet_id": [
+            "1967875268577726587"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1967944233974948172",
+        "created_at": "2025-09-16T13:30:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T14:30:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967944233974948172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1682489507944468480",
+              "start": 3,
+              "username": "akayudofu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2nHn1tkjsL",
+              "end": 51,
+              "expanded_url": "https://x.com/akayudofu/status/1967875268577726587/photo/1",
+              "media_key": "3_1967875172683468802",
+              "start": 28,
+              "url": "https://t.co/2nHn1tkjsL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967944233974948172",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 951
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967875268577726587",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @akayudofu: 褐色エジプト猫耳きりたん https://t.co/2nHn1tkjsL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967875172683468802"
+          ]
+        },
+        "author_id": "1682489507944468480",
+        "conversation_id": "1967875268577726587",
+        "created_at": "2025-09-16T08:56:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T09:56:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967875268577726587"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2nHn1tkjsL",
+              "end": 36,
+              "expanded_url": "https://x.com/akayudofu/status/1967875268577726587/photo/1",
+              "media_key": "3_1967875172683468802",
+              "start": 13,
+              "url": "https://t.co/2nHn1tkjsL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967875268577726587",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1444,
+          "impression_count": 95069,
+          "like_count": 8534,
+          "quote_count": 8,
+          "reply_count": 9,
+          "retweet_count": 951
+        },
+        "reply_settings": "everyone",
+        "text": "褐色エジプト猫耳きりたん https://t.co/2nHn1tkjsL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 226,
+          "like_count": 2835,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 760
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-21T20:35:39.000Z",
+        "description": "ガンマユウの絵垢です。 マシュマロhttps://t.co/dAhFEbACsE\n 連絡先:gammayuu1@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/b10rvuml5bst9l…",
+                "end": 40,
+                "expanded_url": "https://marshmallow-qa.com/b10rvuml5bst9lb?t",
+                "start": 17,
+                "url": "https://t.co/dAhFEbACsE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/111520875",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/111520875",
+                "start": 0,
+                "url": "https://t.co/hmqmKXa8eM"
+              }
+            ]
+          }
+        },
+        "id": "1682489507944468480",
+        "name": "ガンマユドウフ",
+        "pinned_tweet_id": "1909556215732224306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909568569043746817/Mnf-DECs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1845,
+          "following_count": 237,
+          "like_count": 46838,
+          "listed_count": 22,
+          "media_count": 47,
+          "tweet_count": 3336
+        },
+        "url": "https://t.co/hmqmKXa8eM",
+        "username": "akayudofu",
+        "verified": false
+      }
+    ]
+  }
+}

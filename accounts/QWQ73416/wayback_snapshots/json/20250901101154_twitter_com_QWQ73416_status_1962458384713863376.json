@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1961786376086794420",
+    "created_at": "2025-09-01T10:11:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T11:11:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962458384713863376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1655093096710021120",
+          "start": 0,
+          "username": "yuzuchanqwq"
+        },
+        {
+          "end": 27,
+          "id": "1766644305660420096",
+          "start": 13,
+          "username": "Gotousugi_mtf"
+        },
+        {
+          "end": 40,
+          "id": "1491429513779359745",
+          "start": 28,
+          "username": "mizuchanqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962458384713863376",
+    "in_reply_to_user_id": "1655093096710021120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961792811801755824",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuzuchanqwq @Gotousugi_mtf @mizuchanqwq 前置条件是吃糖吗？"
+  },
+  "errors": [
+    {
+      "detail": "Could not find user with entities.mentions.username: [mizuchanqwq].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "mizuchanqwq",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "mizuchanqwq"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1961786376086794420",
+        "created_at": "2025-09-01T10:11:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T11:11:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962458384713863376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1655093096710021120",
+              "start": 0,
+              "username": "yuzuchanqwq"
+            },
+            {
+              "end": 27,
+              "id": "1766644305660420096",
+              "start": 13,
+              "username": "Gotousugi_mtf"
+            },
+            {
+              "end": 40,
+              "id": "1491429513779359745",
+              "start": 28,
+              "username": "mizuchanqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962458384713863376",
+        "in_reply_to_user_id": "1655093096710021120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961792811801755824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuzuchanqwq @Gotousugi_mtf @mizuchanqwq 前置条件是吃糖吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1655093096710021120",
+        "conversation_id": "1961786376086794420",
+        "created_at": "2025-08-30T14:07:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T15:07:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961792811801755824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1766644305660420096",
+              "start": 0,
+              "username": "Gotousugi_mtf"
+            },
+            {
+              "end": 27,
+              "id": "1491429513779359745",
+              "start": 15,
+              "username": "mizuchanqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961792811801755824",
+        "in_reply_to_user_id": "1766644305660420096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 247,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961791147300503800",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gotousugi_mtf @mizuchanqwq 我也曾經因為這事情\n導致很長一段時間精神狀態非常不穩定…..\n但是過了很久之後\n我遇上了可愛的若水小貓\n情緒才舒緩了一些\n不過沒有若水陪的時候還是會很不開心…\n想一直陪著貼貼……\n\n相信妳終有一天會遇到喜歡的貓！\n抱緊緊妳qwq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|小推@QWQ1885|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "QWQ1885"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 189,
+          "like_count": 1649,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 421
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-07T06:12:10.000Z",
+        "description": "🇲🇴🏳️‍⚧️08 MtF / HRT 2024.09.14 / RLE中 / 是一隻小貓 (≧▽≦) / 最愛最愛最愛的小貓❤️🐱 @mizuchanqwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 67,
+                "username": "mizuchanqwq"
+              }
+            ]
+          }
+        },
+        "id": "1655093096710021120",
+        "location": "貓屬東京",
+        "name": "柚子醬🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1961135501445853331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952970861469941762/al7iGP1J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1467,
+          "following_count": 1169,
+          "like_count": 31671,
+          "listed_count": 6,
+          "media_count": 965,
+          "tweet_count": 10326
+        },
+        "username": "yuzuchanqwq",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-10T01:56:57.000Z",
+        "description": "09年/高一/友跨🏳️‍⚧️/MtF傾向🍥（hrt開始2025.7.15，斷糖中，在找靠譜糖商）/GD嚴重/苦逼住宿生/期待成年後srs/（半）家長黨（？ 算存疑）/🚪₩0/堅決不自殘不od不抽菸不喝酒不鬧事/皮下醜國男/坐標上海/原帳號@gotousugi被盜，推友巡迴中",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 119,
+                "username": "gotousugi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mtf.wiki",
+                "end": 23,
+                "expanded_url": "http://mtf.wiki",
+                "start": 0,
+                "url": "https://t.co/BtTLcpgDR5"
+              }
+            ]
+          }
+        },
+        "id": "1766644305660420096",
+        "location": "光州広域市，大韓民国🇰🇷（距离你2^31-1km)",
+        "name": "後藤すぎ🏳️‍⚧️🍥🧊🍔🍜（大號被盜）",
+        "pinned_tweet_id": "1961349996306907630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961347482136485888/8Q65e8rH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 513,
+          "following_count": 673,
+          "like_count": 1072,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 604
+        },
+        "url": "https://t.co/BtTLcpgDR5",
+        "username": "Gotousugi_mtf",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "2022327887958085652",
+    "created_at": "2026-02-13T15:16:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T16:16:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022329098589393390"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2022329098589393390",
+    "in_reply_to_user_id": "1955503492145283072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022327887958085652",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这种青涩的感觉到底是什么呢？可能就是那一个瞬间吧，就是夏天在房间里开了空调，坐在床上用电脑刷推的那种感觉，那个时候还没有这么多朋友逝去，大家都很可爱，谁受委屈了安慰一下，遇到什么事情了，大家帮忙出谋划策，可能就是这种感觉吧。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "2022327887958085652",
+        "created_at": "2026-02-13T15:16:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T16:16:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022329098589393390"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022329098589393390",
+        "in_reply_to_user_id": "1955503492145283072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022327887958085652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这种青涩的感觉到底是什么呢？可能就是那一个瞬间吧，就是夏天在房间里开了空调，坐在床上用电脑刷推的那种感觉，那个时候还没有这么多朋友逝去，大家都很可爱，谁受委屈了安慰一下，遇到什么事情了，大家帮忙出谋划策，可能就是这种感觉吧。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "2022327887958085652",
+        "created_at": "2026-02-13T15:11:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T16:11:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022327887958085652"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022327887958085652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉现在跟我最初看推的时候不一样了。。。记忆一如既往的带着青涩的感觉，那个时候觉得大家都很可爱，但是当我踏进来的以后，感觉一切都不一样了，总是有朋友在死去，出现各种各样的矛盾，好想回到刚上推的时候。。。可能是我的年纪也慢慢大了，所以羡慕年龄党吧，如果能早点吃就好了。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|GAHT/HRT:2025.10.7|欢迎交朋友|一！个！都！不！准！死！|补佳乐已被母亲发现|好闺蜜@z8897031948836 |\n→I an not a vitual account.(T~T)←|\n🚪10 要加的私聊，绿，纯好友位|（虽然我知道压根没人加🙃）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 54,
+                "username": "z8897031948836"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "MTF.wiki",
+                "end": 23,
+                "expanded_url": "http://MTF.wiki",
+                "start": 0,
+                "url": "https://t.co/7tmPTkeoFF"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "∠( 🥵」∠)_",
+        "name": "🧊泠小米🍥",
+        "pinned_tweet_id": "2022184415632433414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021513301444968448/YKJD_L07_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 414,
+          "following_count": 308,
+          "like_count": 5899,
+          "listed_count": 1,
+          "media_count": 35,
+          "tweet_count": 1404
+        },
+        "url": "https://t.co/7tmPTkeoFF",
+        "username": "QWQ73416",
+        "verified": false
+      }
+    ]
+  }
+}

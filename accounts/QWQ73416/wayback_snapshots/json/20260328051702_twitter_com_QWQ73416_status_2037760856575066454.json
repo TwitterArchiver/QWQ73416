@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "2037760856575066454",
+    "created_at": "2026-03-28T05:17:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T06:17:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037760856575066454"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/asinukimss/sta…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/asinukimss/status/2037173888048906595",
+          "start": 13,
+          "url": "https://t.co/BqlwNQVpIR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037760856575066454",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037173888048906595",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "What the *** https://t.co/BqlwNQVpIR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 645,
+        "media_key": "3_2037173691629625344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEV-rdta4AAHdoO.jpg",
+        "width": 967
+      },
+      {
+        "height": 645,
+        "media_key": "3_2037173793089871872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEV-xXrbYAA6veT.png",
+        "width": 484
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "2037760856575066454",
+        "created_at": "2026-03-28T05:17:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T06:17:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037760856575066454"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/asinukimss/sta…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/asinukimss/status/2037173888048906595",
+              "start": 13,
+              "url": "https://t.co/BqlwNQVpIR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037760856575066454",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037173888048906595",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "What the *** https://t.co/BqlwNQVpIR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037173691629625344",
+            "3_2037173793089871872"
+          ]
+        },
+        "author_id": "1311628031534886913",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2037168309951750367",
+        "created_at": "2026-03-26T14:24:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T15:24:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037173888048906595"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9Gl3CsoSg9",
+              "end": 23,
+              "expanded_url": "https://x.com/asinukimss/status/2037173888048906595/photo/1",
+              "media_key": "3_2037173691629625344",
+              "start": 0,
+              "url": "https://t.co/9Gl3CsoSg9"
+            },
+            {
+              "display_url": "pic.x.com/9Gl3CsoSg9",
+              "end": 23,
+              "expanded_url": "https://x.com/asinukimss/status/2037173888048906595/photo/1",
+              "media_key": "3_2037173793089871872",
+              "start": 0,
+              "url": "https://t.co/9Gl3CsoSg9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037173888048906595",
+        "in_reply_to_user_id": "1311628031534886913",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 256,
+          "impression_count": 2914383,
+          "like_count": 637,
+          "quote_count": 42,
+          "reply_count": 40,
+          "retweet_count": 61
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037172750641750436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/9Gl3CsoSg9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10🌟|GAHT/HRT:2025.10.7|\n割手的痕迹被我妈看到了，被骂了一顿|\n好闺蜜 @N2OXYN |\n→I an not a vitual account.(T~T)←|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 47,
+                "username": "N2OXYN"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "name": "🧊泠小米❄️",
+        "pinned_tweet_id": "2037669545633325393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023719096047771648/WvkPh1aM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 310,
+          "like_count": 6214,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 1550
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-01T11:27:10.000Z",
+        "description": "貧困&生活苦により引退を予定 \n◾︎50代男＞無職職歴ナシ&童貞交際経験ナシ 💔\n◾︎軽い吃音持ち👅\n◾︎友達＞生涯ゼロ0⃣\n◾︎境界知能＞68～78🧠\n\n▼横山緑から受けた不当な被害\n・「障害者」と4回の放送上で貶される\n・DMでも「障害者」と人格否定される\n・嘘の事実を捏造され貶される",
+        "id": "1311628031534886913",
+        "location": "でもお前シャントねぇじゃん！",
+        "name": "🐢",
+        "pinned_tweet_id": "2022313669191966953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980087433346637824/Koa9EU4D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9041,
+          "following_count": 1111,
+          "like_count": 24915,
+          "listed_count": 74,
+          "media_count": 13064,
+          "tweet_count": 35811
+        },
+        "username": "asinukimss",
+        "verified": true
+      }
+    ]
+  }
+}

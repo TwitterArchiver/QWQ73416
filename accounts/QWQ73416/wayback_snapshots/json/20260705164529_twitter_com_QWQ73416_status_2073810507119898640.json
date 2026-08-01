@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "2073431431167271287",
+    "created_at": "2026-07-05T16:45:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T17:45:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073810507119898640"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1672761170040692739",
+          "start": 0,
+          "username": "FrankkkkkkLau"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073810507119898640",
+    "in_reply_to_user_id": "1672761170040692739",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073431431167271287",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FrankkkkkkLau 流量，易如反掌✋🏻✋🏻"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1155,
+        "media_key": "3_2073431362179383296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMZO1qDbQAAu2NR.jpg",
+        "width": 882
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "2073431431167271287",
+        "created_at": "2026-07-05T16:45:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T17:45:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073810507119898640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1672761170040692739",
+              "start": 0,
+              "username": "FrankkkkkkLau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073810507119898640",
+        "in_reply_to_user_id": "1672761170040692739",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073431431167271287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankkkkkkLau 流量，易如反掌✋🏻✋🏻"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073431362179383296"
+          ]
+        },
+        "author_id": "1672761170040692739",
+        "conversation_id": "2073431431167271287",
+        "created_at": "2026-07-04T15:39:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T16:39:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073431431167271287"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KruAKV8oG2",
+              "end": 34,
+              "expanded_url": "https://x.com/FrankkkkkkLau/status/2073431431167271287/photo/1",
+              "media_key": "3_2073431362179383296",
+              "start": 11,
+              "url": "https://t.co/KruAKV8oG2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073431431167271287",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 92000,
+          "like_count": 598,
+          "quote_count": 2,
+          "reply_count": 151,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "原来炒作这么简单的吗 https://t.co/KruAKV8oG2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "|GAHT/HRT:2025.10.7|\n这里烂透了，以后任何事情都别跟我扯上关系，不参与任何所谓的“跨圈”的任何事情\n新推 @QWQ1885",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 63,
+                "username": "QWQ1885"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "name": "🧊泠小米BAYER❄️",
+        "pinned_tweet_id": "2059195074991550825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023719096047771648/WvkPh1aM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 692,
+          "following_count": 321,
+          "like_count": 6336,
+          "listed_count": 2,
+          "media_count": 59,
+          "tweet_count": 1730
+        },
+        "url": "",
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-25T00:18:56.000Z",
+        "description": "某只卷毛狗的温良形态 | Prefer Simplified Chinese | Mandarin/English/Cantonese🆗\nLikes/RTs≠endorsements",
+        "id": "1672761170040692739",
+        "location": "Chinese Mainland",
+        "name": "⏚FrankLau⏚",
+        "pinned_tweet_id": "2068244369963118854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059904056915804160/UHsopShb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 528,
+          "following_count": 606,
+          "like_count": 6574,
+          "listed_count": 1,
+          "media_count": 302,
+          "tweet_count": 1356
+        },
+        "url": "",
+        "username": "FrankkkkkkLau",
+        "verified": true
+      }
+    ]
+  }
+}

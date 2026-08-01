@@ -1,0 +1,317 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1972826103611044177",
+    "created_at": "2025-10-01T03:47:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-01T04:47:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973233270189072616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1312002569988841472",
+          "start": 0,
+          "username": "zhishi_cook"
+        },
+        {
+          "end": 24,
+          "id": "1875115728166342656",
+          "start": 13,
+          "username": "3253212MCZ"
+        },
+        {
+          "end": 41,
+          "id": "1950815709061361664",
+          "start": 25,
+          "username": "sakuraiyumeyuri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973233270189072616",
+    "in_reply_to_user_id": "1312002569988841472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972826103611044177",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhishi_cook @3253212MCZ @sakuraiyumeyuri 我是彩色的🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 206,
+        "media_key": "3_1972825912950562816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2DityEaoAAGDFU.png",
+        "width": 377
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1972826103611044177",
+        "created_at": "2025-10-01T03:47:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T04:47:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973233270189072616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1312002569988841472",
+              "start": 0,
+              "username": "zhishi_cook"
+            },
+            {
+              "end": 24,
+              "id": "1875115728166342656",
+              "start": 13,
+              "username": "3253212MCZ"
+            },
+            {
+              "end": 41,
+              "id": "1950815709061361664",
+              "start": 25,
+              "username": "sakuraiyumeyuri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973233270189072616",
+        "in_reply_to_user_id": "1312002569988841472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972826103611044177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhishi_cook @3253212MCZ @sakuraiyumeyuri 我是彩色的🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972825912950562816"
+          ]
+        },
+        "author_id": "1312002569988841472",
+        "conversation_id": "1972826103611044177",
+        "created_at": "2025-09-30T00:49:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-30T01:49:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972826103611044177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 22,
+              "id": "1875115728166342656",
+              "start": 11,
+              "username": "3253212MCZ"
+            },
+            {
+              "end": 39,
+              "id": "1950815709061361664",
+              "start": 23,
+              "username": "sakuraiyumeyuri"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wj50TrTwFz",
+              "end": 63,
+              "expanded_url": "https://x.com/zhishi_cook/status/1972826103611044177/photo/1",
+              "media_key": "3_1972825912950562816",
+              "start": 40,
+              "url": "https://t.co/Wj50TrTwFz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972826103611044177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4829,
+          "like_count": 49,
+          "quote_count": 2,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "为什么你们头像都好像\n@3253212MCZ\n@sakuraiyumeyuri https://t.co/Wj50TrTwFz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "pinned_tweet_id": "1971859627869708434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 254,
+          "like_count": 3566,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1016
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-02T12:12:55.000Z",
+        "description": "全宇宙最好的小孩/申必mtf🏳️‍⚧️🤔🤔/已出柜/有小证/家长不管(/ENFP-T/提问:https://t.co/bDeKeMQNaN / 会写php py的小孩/生产日期:2009-03-07/小号:@TypezhiQwQ/同类互fo喵🤓/笨蛋老婆:@Yuwen_Tang1019",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 114,
+                "start": 103,
+                "username": "TypezhiQwQ"
+              },
+              {
+                "end": 143,
+                "start": 128,
+                "username": "Yuwen_Tang1019"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/zhishi_cook1",
+                "end": 69,
+                "expanded_url": "https://ngl.link/zhishi_cook1",
+                "start": 46,
+                "url": "https://t.co/bDeKeMQNaN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zinet.top",
+                "end": 23,
+                "expanded_url": "http://zinet.top",
+                "start": 0,
+                "url": "https://t.co/842XMZv0Pp"
+              }
+            ]
+          }
+        },
+        "id": "1312002569988841472",
+        "location": "坐在唐毓文的大鸡巴上",
+        "name": "知式🍥",
+        "pinned_tweet_id": "1920328261478793373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920010651700973568/DmyTtkvn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4459,
+          "following_count": 1465,
+          "like_count": 1263,
+          "listed_count": 5,
+          "media_count": 350,
+          "tweet_count": 3441
+        },
+        "url": "https://t.co/842XMZv0Pp",
+        "username": "zhishi_cook",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-03T09:43:34.000Z",
+        "description": "infj | 喜欢雨天发呆 | 讨厌香菜 | 178cm？ | 抑郁症自愈者 | 想去看世界！|MTF：2025.7.6 |MIKU重度依赖者 | 小西红柿重度依赖| 包菜重度依赖 | 分享欲旺盛 | 互fo |话说真的有人会看简介吗？",
+        "id": "1875115728166342656",
+        "location": "北京",
+        "name": "零落孤潮🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971931529904545792/RvUA_XhC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 298,
+          "like_count": 649,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 441
+        },
+        "username": "3253212MCZ",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-31T07:08:18.000Z",
+        "description": "06年｜180cm（好高） 50kg｜🏳️‍⚧️无证含糖｜2024.11.25🍥｜稍有点双相和抑郁｜infp-t/性取向xyn或者温柔的男生｜喜欢涩涩/钢琴｜ 同类贴贴",
+        "id": "1950815709061361664",
+        "name": "yuri🍥",
+        "pinned_tweet_id": "1958765775822410037",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960233503683194881/tWMc1_Nh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 67,
+          "like_count": 209,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 125
+        },
+        "username": "sakuraiyumeyuri",
+        "verified": false
+      }
+    ]
+  }
+}

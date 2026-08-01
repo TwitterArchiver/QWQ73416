@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968242134223613952"
+      ],
+      "media_source_tweet_id": [
+        "1968242140787757262"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1968258673811267855",
+    "created_at": "2025-09-17T10:20:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T11:20:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968258673811267855"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1372133355945299981",
+          "start": 3,
+          "username": "narukami_numari"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8xqBpCBJv2",
+          "end": 63,
+          "expanded_url": "https://x.com/narukami_numari/status/1968242140787757262/photo/1",
+          "media_key": "3_1968242134223613952",
+          "start": 40,
+          "url": "https://t.co/8xqBpCBJv2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968258673811267855",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 98
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968242140787757262",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @narukami_numari: 褐色エジプト猫耳きりたん没差分です。 https://t.co/8xqBpCBJv2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3970,
+        "media_key": "3_1968242134223613952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1CZyvpa8AAPMpd.jpg",
+        "width": 2158
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968242134223613952"
+          ],
+          "media_source_tweet_id": [
+            "1968242140787757262"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1968258673811267855",
+        "created_at": "2025-09-17T10:20:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T11:20:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968258673811267855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1372133355945299981",
+              "start": 3,
+              "username": "narukami_numari"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8xqBpCBJv2",
+              "end": 63,
+              "expanded_url": "https://x.com/narukami_numari/status/1968242140787757262/photo/1",
+              "media_key": "3_1968242134223613952",
+              "start": 40,
+              "url": "https://t.co/8xqBpCBJv2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968258673811267855",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 98
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968242140787757262",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @narukami_numari: 褐色エジプト猫耳きりたん没差分です。 https://t.co/8xqBpCBJv2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968242134223613952"
+          ]
+        },
+        "author_id": "1372133355945299981",
+        "conversation_id": "1968242140787757262",
+        "created_at": "2025-09-17T09:14:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T10:14:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968242140787757262"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8xqBpCBJv2",
+              "end": 42,
+              "expanded_url": "https://x.com/narukami_numari/status/1968242140787757262/photo/1",
+              "media_key": "3_1968242134223613952",
+              "start": 19,
+              "url": "https://t.co/8xqBpCBJv2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968242140787757262",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 200,
+          "impression_count": 7990,
+          "like_count": 896,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 98
+        },
+        "reply_settings": "everyone",
+        "text": "褐色エジプト猫耳きりたん没差分です。 https://t.co/8xqBpCBJv2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 228,
+          "like_count": 2957,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 782
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-17T10:31:14.000Z",
+        "description": "ボイロ絵師、ﾎﾞｶﾛDJ 、音MADリスナーです。DnB𝑳‌𝑶‌𝑽‌𝑬。ファンボックス→ https://t.co/r4bYWPDKAr",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "yukayuka.fanbox.cc",
+                "end": 68,
+                "expanded_url": "https://yukayuka.fanbox.cc/",
+                "start": 45,
+                "url": "https://t.co/r4bYWPDKAr"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "potofu.me/narukaminumari",
+                "end": 23,
+                "expanded_url": "https://potofu.me/narukaminumari",
+                "start": 0,
+                "url": "https://t.co/7vhyGw8Ljd"
+              }
+            ]
+          }
+        },
+        "id": "1372133355945299981",
+        "location": "観測者花、ヰ、春組、V.I.Pすきすき",
+        "name": "鳴上ぬまり@ふらふら-ふ 01-02",
+        "pinned_tweet_id": "1967167200806240400",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964227742066757633/reEsqlVR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5954,
+          "following_count": 924,
+          "like_count": 51225,
+          "listed_count": 61,
+          "media_count": 826,
+          "tweet_count": 15639
+        },
+        "url": "https://t.co/7vhyGw8Ljd",
+        "username": "narukami_numari",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "2017635371899822310",
+    "created_at": "2026-02-01T15:04:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T16:04:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017977278106685660"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1944419689326858240",
+          "start": 0,
+          "username": "NanamiXuebi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017977278106685660",
+    "in_reply_to_user_id": "1944419689326858240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017976716623528131",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NanamiXuebi 我操，死老畜生😡😡😡\n赶紧去死吧！\n叫别人割深一点，这是人能说出来的话？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "2017635371899822310",
+        "created_at": "2026-02-01T15:04:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T16:04:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017977278106685660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1944419689326858240",
+              "start": 0,
+              "username": "NanamiXuebi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017977278106685660",
+        "in_reply_to_user_id": "1944419689326858240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017976716623528131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NanamiXuebi 我操，死老畜生😡😡😡\n赶紧去死吧！\n叫别人割深一点，这是人能说出来的话？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944419689326858240",
+        "conversation_id": "2017635371899822310",
+        "created_at": "2026-02-01T15:01:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T16:01:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017976716623528131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1955503492145283072",
+              "start": 0,
+              "username": "QWQ73416"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017976716623528131",
+        "in_reply_to_user_id": "1955503492145283072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017968384806408559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QWQ73416 被我妈逼得，我妈看完说我应该割深一点割到血管"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|GAHT/HRT:2025.10.7|欢迎交朋友|一！个！都！不！准！死！|补佳乐已被母亲发现|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "MTF.wiki",
+                "end": 23,
+                "expanded_url": "http://MTF.wiki",
+                "start": 0,
+                "url": "https://t.co/7tmPTkeoFF"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "∠( ᐛ 」∠)_",
+        "name": "🍥泠小米🍥",
+        "pinned_tweet_id": "2017118020968337439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979202568543784960/OeW4bpMU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 274,
+          "like_count": 4993,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 1214
+        },
+        "url": "https://t.co/7tmPTkeoFF",
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-13T15:32:50.000Z",
+        "description": "生日2008.10.14 ip上海 男的 丑逼 偶尔能女装 hrt2025.12.18\n自残只是因为压力大，心理没什么问题，不要讨厌我，我也不od不鉴证\n欢迎来找我玩",
+        "id": "1944419689326858240",
+        "location": "距离你-11cm",
+        "name": "99新🍥",
+        "pinned_tweet_id": "2010908804645601308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944419862958456832/lLSvkg_4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 148,
+          "like_count": 58,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 273
+        },
+        "username": "NanamiXuebi",
+        "verified": false
+      }
+    ]
+  }
+}

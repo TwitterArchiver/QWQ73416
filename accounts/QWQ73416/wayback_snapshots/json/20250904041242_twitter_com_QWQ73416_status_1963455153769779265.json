@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1963455153769779265",
+    "created_at": "2025-09-04T04:12:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T05:12:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1963455153769779265"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pocky38968202/…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/pocky38968202/status/1963284883859738742",
+          "start": 8,
+          "url": "https://t.co/k30orxldnm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963455153769779265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963284883859738742",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我超级讨厌出汗 https://t.co/k30orxldnm"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1963455153769779265",
+        "created_at": "2025-09-04T04:12:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T05:12:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963455153769779265"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pocky38968202/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/pocky38968202/status/1963284883859738742",
+              "start": 8,
+              "url": "https://t.co/k30orxldnm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963455153769779265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963284883859738742",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我超级讨厌出汗 https://t.co/k30orxldnm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1365339095082307584",
+        "conversation_id": "1963284883859738742",
+        "created_at": "2025-09-03T16:56:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T17:56:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963284883859738742"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yanshiyo/statu…",
+              "end": 30,
+              "expanded_url": "https://x.com/yanshiyo/status/1963176641259323766?t=ID0QIpxL39AhoJQFQn9MRw&s=09",
+              "start": 7,
+              "url": "https://t.co/dlmRaBJRIZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963284883859738742",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963176641259323766",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我超级讨厌出汗https://t.co/dlmRaBJRIZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|小推@QWQ1885|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "QWQ1885"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 211,
+          "like_count": 2013,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 554
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-26T16:33:12.000Z",
+        "description": "应用能源苦手",
+        "id": "1365339095082307584",
+        "name": "非华🏳‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960334408503951360/vsa_es6__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 222,
+          "like_count": 1392,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 150
+        },
+        "username": "pocky38968202",
+        "verified": false
+      }
+    ]
+  }
+}

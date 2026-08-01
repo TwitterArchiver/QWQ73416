@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024910861232750592"
+      ],
+      "media_source_tweet_id": [
+        "2024910868774023614"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2025094386120585385",
+    "created_at": "2026-02-21T06:25:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T07:25:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025094386120585385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1929416262989557760",
+          "start": 3,
+          "username": "maoxian1527"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vw4y0e6onk",
+          "end": 60,
+          "expanded_url": "https://x.com/maoxian1527/status/2024910868774023614/photo/1",
+          "media_key": "3_2024910861232750592",
+          "start": 37,
+          "url": "https://t.co/vw4y0e6onk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025094386120585385",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024910868774023614",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @maoxian1527: 唐毓文你就这样带坏14岁小孩吧我的天🤦 https://t.co/vw4y0e6onk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 245,
+        "media_key": "3_2024910861232750592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBntsymbwAAK7uE.jpg",
+        "width": 816
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024910861232750592"
+          ],
+          "media_source_tweet_id": [
+            "2024910868774023614"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2025094386120585385",
+        "created_at": "2026-02-21T06:25:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T07:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025094386120585385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1929416262989557760",
+              "start": 3,
+              "username": "maoxian1527"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vw4y0e6onk",
+              "end": 60,
+              "expanded_url": "https://x.com/maoxian1527/status/2024910868774023614/photo/1",
+              "media_key": "3_2024910861232750592",
+              "start": 37,
+              "url": "https://t.co/vw4y0e6onk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025094386120585385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024910868774023614",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @maoxian1527: 唐毓文你就这样带坏14岁小孩吧我的天🤦 https://t.co/vw4y0e6onk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024910861232750592"
+          ]
+        },
+        "author_id": "1929416262989557760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2024910868774023614",
+        "created_at": "2026-02-20T18:15:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T19:15:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024910868774023614"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vw4y0e6onk",
+              "end": 43,
+              "expanded_url": "https://x.com/maoxian1527/status/2024910868774023614/photo/1",
+              "media_key": "3_2024910861232750592",
+              "start": 20,
+              "url": "https://t.co/vw4y0e6onk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024910868774023614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 10207,
+          "like_count": 70,
+          "quote_count": 2,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唐毓文你就这样带坏14岁小孩吧我的天🤦 https://t.co/vw4y0e6onk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10🌟|🍥GAHT/HRT:2025.10.7🏳️‍⚧️|\n割手的痕迹被我妈看到了，被骂了一顿|\n好闺蜜 @z8897031948836 |\n→I an not a vitual account.(T~T)←|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 53,
+                "username": "z8897031948836"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "MTF.wiki",
+                "end": 23,
+                "expanded_url": "http://MTF.wiki",
+                "start": 0,
+                "url": "https://t.co/UK9faF3NwN"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "🫥",
+        "name": "🧊泠小米🍥❄️",
+        "pinned_tweet_id": "2022184415632433414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023719096047771648/WvkPh1aM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 451,
+          "following_count": 309,
+          "like_count": 6089,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 1459
+        },
+        "url": "https://t.co/UK9faF3NwN",
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-02T05:54:41.000Z",
+        "description": "🤍2010.11.17🤍｜并不可爱小宅女（猫娘…？｜碎碎念ing… | 顺女｜简体｜ 脾气不好 极讨厌私信 | 看成分互fo｜负能｜ @mao_xian1527 ｜含🍥友跨顺女",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "mao_xian1527"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianact.top",
+                "end": 23,
+                "expanded_url": "http://maoxianact.top/",
+                "start": 0,
+                "url": "https://t.co/BsriOOm0E4"
+              }
+            ]
+          }
+        },
+        "id": "1929416262989557760",
+        "location": "中華民國",
+        "name": "猫弦nekogen🍥",
+        "pinned_tweet_id": "2006745052245274725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021082119691534336/-FUI5SF__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1079,
+          "following_count": 265,
+          "like_count": 2494,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 1073
+        },
+        "url": "https://t.co/BsriOOm0E4",
+        "username": "maoxian1527",
+        "verified": false
+      }
+    ]
+  }
+}

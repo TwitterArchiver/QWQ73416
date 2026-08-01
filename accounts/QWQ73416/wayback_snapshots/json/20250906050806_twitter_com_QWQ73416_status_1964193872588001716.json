@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1964193872588001716",
+    "created_at": "2025-09-06T05:08:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T06:08:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964193872588001716"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1844025283676094464",
+          "start": 3,
+          "username": "Konekoutena"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964193872588001716",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963831552824991948",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Konekoutena: 药娘被剪了寸头，伤心欲绝。顺男见到说不就是剪个头发么，至于要死要活？后来顺男被检查出睾丸癌，医生说要全部切除。顺男瞬间生无可恋。药娘说不就是剪个寄吧么，至于要死要活？\n说风凉话之前，请先学会换位思考"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1964193872588001716",
+        "created_at": "2025-09-06T05:08:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T06:08:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964193872588001716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1844025283676094464",
+              "start": 3,
+              "username": "Konekoutena"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964193872588001716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963831552824991948",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Konekoutena: 药娘被剪了寸头，伤心欲绝。顺男见到说不就是剪个头发么，至于要死要活？后来顺男被检查出睾丸癌，医生说要全部切除。顺男瞬间生无可恋。药娘说不就是剪个寄吧么，至于要死要活？\n说风凉话之前，请先学会换位思考"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844025283676094464",
+        "conversation_id": "1963831552824991948",
+        "created_at": "2025-09-05T05:08:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T06:08:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963831552824991948"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1963831552824991948",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3394,
+          "like_count": 79,
+          "quote_count": 3,
+          "reply_count": 9,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "药娘被剪了寸头，伤心欲绝。顺男见到说不就是剪个头发么，至于要死要活？后来顺男被检查出睾丸癌，医生说要全部切除。顺男瞬间生无可恋。药娘说不就是剪个寄吧么，至于要死要活？\n说风凉话之前，请先学会换位思考"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|小推@QWQ1885|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "QWQ1885"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 215,
+          "like_count": 2184,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 597
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-09T14:41:12.000Z",
+        "description": "小说家，喜欢AI绘图",
+        "id": "1844025283676094464",
+        "location": "Aoba-ku, Miyagi",
+        "name": "枫糖小猫",
+        "pinned_tweet_id": "1961478683480485901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960575620469100544/sHlTW3fo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7674,
+          "following_count": 2338,
+          "like_count": 6551,
+          "listed_count": 32,
+          "media_count": 4662,
+          "tweet_count": 14595
+        },
+        "username": "Konekoutena",
+        "verified": true
+      }
+    ]
+  }
+}

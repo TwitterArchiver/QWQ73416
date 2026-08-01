@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1962171104099016745",
+    "created_at": "2025-09-01T06:54:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T07:54:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962408640335503661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1803314964284985344",
+          "start": 0,
+          "username": "jinluomiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962408640335503661",
+    "in_reply_to_user_id": "1803314964284985344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962171110067524088",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jinluomiao 已经看呆了。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1962171104099016745",
+        "created_at": "2025-09-01T06:54:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T07:54:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962408640335503661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1803314964284985344",
+              "start": 0,
+              "username": "jinluomiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962408640335503661",
+        "in_reply_to_user_id": "1803314964284985344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962171110067524088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jinluomiao 已经看呆了。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1803314964284985344",
+        "conversation_id": "1962171104099016745",
+        "created_at": "2025-08-31T15:10:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T16:10:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962171110067524088"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1962171110067524088",
+        "in_reply_to_user_id": "1803314964284985344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 471,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962171106149933362",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我当时吓得都不知道该说什么。可能姐姐的室友们也听到了。毕竟我当时浪叫的确实有点。。大声。。呜呜呜。。好丢脸，好丢脸。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|小推@QWQ1885|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "QWQ1885"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 184,
+          "like_count": 1604,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 401
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-19T06:32:58.000Z",
+        "description": "阿瑾。。。笨蛋阿瑾\n05年-05日-05月\nINFP\n有主人啦。\n24年8月28号无证含糖\n休学中\n情绪状况良好\n调养身体中\n170cm-72kg\n互fo请私信我哦\n小号：@jinluomiao5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 86,
+                "username": "jinluomiao5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jinluomiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jinluomiao",
+                "start": 0,
+                "url": "https://t.co/kL6TQThccf"
+              }
+            ]
+          }
+        },
+        "id": "1803314964284985344",
+        "location": "主人需要阿瑾的每一个地方",
+        "name": "小阿瑾🍥（大笨蛋）",
+        "pinned_tweet_id": "1867250521729306631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863679245043544064/UEWeNeh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3101,
+          "following_count": 844,
+          "like_count": 23877,
+          "listed_count": 2,
+          "media_count": 216,
+          "tweet_count": 4579
+        },
+        "url": "https://t.co/kL6TQThccf",
+        "username": "jinluomiao",
+        "verified": false
+      }
+    ]
+  }
+}

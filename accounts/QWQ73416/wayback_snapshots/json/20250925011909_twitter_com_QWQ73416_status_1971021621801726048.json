@@ -1,0 +1,409 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970854161505030144"
+      ],
+      "media_source_tweet_id": [
+        "1970854282837803404"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1971021621801726048",
+    "created_at": "2025-09-25T01:19:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-25T02:19:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971021621801726048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "907139943696236545",
+          "start": 3,
+          "username": "Jamama_666"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uPh5NcxCS1",
+          "end": 57,
+          "expanded_url": "https://x.com/Jamama_666/status/1970854282837803404/photo/1",
+          "media_key": "3_1970854161505030144",
+          "start": 34,
+          "url": "https://t.co/uPh5NcxCS1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971021621801726048",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 156
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970854282837803404",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Jamama_666: 褐色エジプト猫耳ロリ \n好主意☺️ https://t.co/uPh5NcxCS1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1180,
+        "media_key": "3_1970854161505030144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1nhavibkAA7-hz.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970854161505030144"
+          ],
+          "media_source_tweet_id": [
+            "1970854282837803404"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1971021621801726048",
+        "created_at": "2025-09-25T01:19:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T02:19:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971021621801726048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "907139943696236545",
+              "start": 3,
+              "username": "Jamama_666"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uPh5NcxCS1",
+              "end": 57,
+              "expanded_url": "https://x.com/Jamama_666/status/1970854282837803404/photo/1",
+              "media_key": "3_1970854161505030144",
+              "start": 34,
+              "url": "https://t.co/uPh5NcxCS1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971021621801726048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 156
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970854282837803404",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Jamama_666: 褐色エジプト猫耳ロリ \n好主意☺️ https://t.co/uPh5NcxCS1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970854161505030144"
+          ]
+        },
+        "author_id": "907139943696236545",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1970854282837803404",
+        "created_at": "2025-09-24T14:14:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T15:14:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970854282837803404"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uPh5NcxCS1",
+              "end": 41,
+              "expanded_url": "https://x.com/Jamama_666/status/1970854282837803404/photo/1",
+              "media_key": "3_1970854161505030144",
+              "start": 18,
+              "url": "https://t.co/uPh5NcxCS1"
+            },
+            {
+              "display_url": "x.com/cactasis/statu…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/cactasis/status/1962197990241955979",
+              "start": 42,
+              "url": "https://t.co/ysDsDoAEhQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970854282837803404",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 192,
+          "impression_count": 18693,
+          "like_count": 1309,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 156
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962197990241955979",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "褐色エジプト猫耳ロリ \n好主意☺️ https://t.co/uPh5NcxCS1 https://t.co/ysDsDoAEhQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143,
+          "following_count": 246,
+          "like_count": 3340,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 930
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-11T07:13:11.000Z",
+        "description": "✧ ੯‧̀ᥬ⑅ྀི\\ ✧\n插畫 / 角色設計 / 教學\nVtuber design\n∞\nb947023cc@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linkby.tw/jamama_666",
+                "end": 23,
+                "expanded_url": "https://linkby.tw/jamama_666",
+                "start": 0,
+                "url": "https://t.co/1jKHsIFGPZ"
+              }
+            ]
+          }
+        },
+        "id": "907139943696236545",
+        "location": "Taiwan",
+        "name": "赤醬",
+        "pinned_tweet_id": "1924496920640458879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1699337181226278912/c-F_Bne4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22006,
+          "following_count": 552,
+          "like_count": 1923,
+          "listed_count": 163,
+          "media_count": 111,
+          "tweet_count": 248
+        },
+        "url": "https://t.co/1jKHsIFGPZ",
+        "username": "Jamama_666",
+        "verified": false
+      }
+    ]
+  }
+}

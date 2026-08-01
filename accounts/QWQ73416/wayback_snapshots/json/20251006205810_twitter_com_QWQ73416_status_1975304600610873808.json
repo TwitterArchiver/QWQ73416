@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1975214436848935398",
+    "created_at": "2025-10-06T20:58:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T21:58:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975304600610873808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1928288716340273152",
+          "start": 0,
+          "username": "shaoyunbsy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975304600610873808",
+    "in_reply_to_user_id": "1928288716340273152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975214436848935398",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shaoyunbsy 嗯。。。不得不说。。。你说的挺对的。。。。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1975214436848935398",
+        "created_at": "2025-10-06T20:58:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T21:58:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975304600610873808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1928288716340273152",
+              "start": 0,
+              "username": "shaoyunbsy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975304600610873808",
+        "in_reply_to_user_id": "1928288716340273152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975214436848935398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shaoyunbsy 嗯。。。不得不说。。。你说的挺对的。。。。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928288716340273152",
+        "conversation_id": "1975214436848935398",
+        "created_at": "2025-10-06T14:59:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T15:59:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975214436848935398"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1975214436848935398",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 350,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "少羽牛逼 唐毓文死妈\n少羽牛逼 唐毓文死妈\n少羽牛逼 唐毓文死妈\n少羽牛逼 唐毓文死妈\n少羽牛逼 唐毓文死妈\n少羽牛逼 唐毓文死妈\n少羽牛逼 唐毓文死妈\n少羽牛逼 唐毓文死妈\n少羽牛逼 唐毓文死妈\n少羽牛逼 唐毓文死妈\n少羽牛逼 唐毓文死妈\n少羽牛逼 唐毓文死妈\n少羽牛逼 唐毓文死妈\n少羽牛逼 唐毓文死妈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "pinned_tweet_id": "1971859627869708434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 263,
+          "like_count": 3827,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1059
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-30T03:14:14.000Z",
+        "description": "少羽巅峰时期：2018年少羽杀穿整个自闭城，2019年身法创始人，2020年双排9000淘汰分封顶，2021年uzi跳枪，一人杀穿职业赛，2022年追猎千K，2023年六秒灭一休车队，2024年联手刺头有了logo并担任追猎天花板、超体天花板、对掏天花板、歼灭天花板、筷子代言人羽家，随便拿出一个事迹都够一个主播封神了。",
+        "id": "1928288716340273152",
+        "name": "少羽牛逼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929332404898222080/R_oM_K7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 3,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 4
+        },
+        "username": "shaoyunbsy",
+        "verified": false
+      }
+    ]
+  }
+}

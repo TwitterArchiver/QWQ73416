@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967530703316545536"
+      ],
+      "media_source_tweet_id": [
+        "1967530762607243344"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1967740634254672315",
+    "created_at": "2025-09-16T00:01:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T01:01:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967740634254672315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "950352876051689472",
+          "start": 3,
+          "username": "kurumi_lm"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Yb14wuX7z6",
+          "end": 44,
+          "expanded_url": "https://x.com/kurumi_lm/status/1967530762607243344/photo/1",
+          "media_key": "3_1967530703316545536",
+          "start": 21,
+          "url": "https://t.co/Yb14wuX7z6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967740634254672315",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1099
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967530762607243344",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kurumi_lm: 水着セイア https://t.co/Yb14wuX7z6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2047,
+        "media_key": "3_1967530703316545536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G04SwA_bcAA9pwy.jpg",
+        "width": 1447
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967530703316545536"
+          ],
+          "media_source_tweet_id": [
+            "1967530762607243344"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1967740634254672315",
+        "created_at": "2025-09-16T00:01:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T01:01:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967740634254672315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "950352876051689472",
+              "start": 3,
+              "username": "kurumi_lm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yb14wuX7z6",
+              "end": 44,
+              "expanded_url": "https://x.com/kurumi_lm/status/1967530762607243344/photo/1",
+              "media_key": "3_1967530703316545536",
+              "start": 21,
+              "url": "https://t.co/Yb14wuX7z6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967740634254672315",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1099
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967530762607243344",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kurumi_lm: 水着セイア https://t.co/Yb14wuX7z6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967530703316545536"
+          ]
+        },
+        "author_id": "950352876051689472",
+        "conversation_id": "1967530762607243344",
+        "created_at": "2025-09-15T10:07:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T11:07:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967530762607243344"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yb14wuX7z6",
+              "end": 29,
+              "expanded_url": "https://x.com/kurumi_lm/status/1967530762607243344/photo/1",
+              "media_key": "3_1967530703316545536",
+              "start": 6,
+              "url": "https://t.co/Yb14wuX7z6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967530762607243344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1297,
+          "impression_count": 95732,
+          "like_count": 10703,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 1099
+        },
+        "reply_settings": "everyone",
+        "text": "水着セイア https://t.co/Yb14wuX7z6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 225,
+          "like_count": 2752,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 731
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-08T13:05:57.000Z",
+        "description": "イラストレーターです。\nお仕事のご依頼受け付けております。\nskeb→https://t.co/pi2xVeYcoY\nFANBOX→https://t.co/JeDgFK79Y0\nMail→kurumifutaba2434@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@kurumi_lm",
+                "end": 58,
+                "expanded_url": "https://skeb.jp/@kurumi_lm",
+                "start": 35,
+                "url": "https://t.co/pi2xVeYcoY"
+              },
+              {
+                "display_url": "futabakurumi.fanbox.cc",
+                "end": 89,
+                "expanded_url": "http://futabakurumi.fanbox.cc",
+                "start": 66,
+                "url": "https://t.co/JeDgFK79Y0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/futabakurumi",
+                "end": 23,
+                "expanded_url": "http://lit.link/futabakurumi",
+                "start": 0,
+                "url": "https://t.co/MdNID1goOH"
+              }
+            ]
+          }
+        },
+        "id": "950352876051689472",
+        "location": "リプ全部見てます！いつもありがとうございます🙏",
+        "name": "双葉くるみ@ブルマ「D17,18」せんアカ「ア57,58」コミ1「L16ab」",
+        "pinned_tweet_id": "1948686664895008894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937921964821385217/mftO25na_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66952,
+          "following_count": 660,
+          "like_count": 8108,
+          "listed_count": 559,
+          "media_count": 993,
+          "tweet_count": 6661
+        },
+        "url": "https://t.co/MdNID1goOH",
+        "username": "kurumi_lm",
+        "verified": false
+      }
+    ]
+  }
+}

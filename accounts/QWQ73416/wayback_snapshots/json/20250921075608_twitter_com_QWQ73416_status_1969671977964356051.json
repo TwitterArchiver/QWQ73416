@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969382855416639488"
+      ],
+      "media_source_tweet_id": [
+        "1969382927709643069"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1969671977964356051",
+    "created_at": "2025-09-21T07:56:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T08:56:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969671977964356051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "117401555",
+          "start": 3,
+          "username": "retumaru"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kIfrhL8MA0",
+          "end": 39,
+          "expanded_url": "https://x.com/retumaru/status/1969382927709643069/photo/1",
+          "media_key": "3_1969382855416639488",
+          "start": 16,
+          "url": "https://t.co/kIfrhL8MA0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969671977964356051",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 167
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969382927709643069",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @retumaru: 線 https://t.co/kIfrhL8MA0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1331,
+        "media_key": "3_1969382855416639488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1SnRdPacAA237x.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969382855416639488"
+          ],
+          "media_source_tweet_id": [
+            "1969382927709643069"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1969671977964356051",
+        "created_at": "2025-09-21T07:56:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T08:56:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969671977964356051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "117401555",
+              "start": 3,
+              "username": "retumaru"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kIfrhL8MA0",
+              "end": 39,
+              "expanded_url": "https://x.com/retumaru/status/1969382927709643069/photo/1",
+              "media_key": "3_1969382855416639488",
+              "start": 16,
+              "url": "https://t.co/kIfrhL8MA0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969671977964356051",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 167
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969382927709643069",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @retumaru: 線 https://t.co/kIfrhL8MA0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969382855416639488"
+          ]
+        },
+        "author_id": "117401555",
+        "conversation_id": "1969382927709643069",
+        "created_at": "2025-09-20T12:47:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T13:47:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969382927709643069"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kIfrhL8MA0",
+              "end": 25,
+              "expanded_url": "https://x.com/retumaru/status/1969382927709643069/photo/1",
+              "media_key": "3_1969382855416639488",
+              "start": 2,
+              "url": "https://t.co/kIfrhL8MA0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969382927709643069",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 278,
+          "impression_count": 21454,
+          "like_count": 1883,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 167
+        },
+        "reply_settings": "everyone",
+        "text": "線 https://t.co/kIfrhL8MA0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 237,
+          "like_count": 3101,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 834
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2010-02-25T13:04:26.000Z",
+        "description": "@7YVw6wZewq5isfT　←絵垢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 0,
+                "username": "7YVw6wZewq5isfT"
+              }
+            ]
+          }
+        },
+        "id": "117401555",
+        "location": "九産大漫研出身",
+        "name": "れつまるくんモブ絵描き",
+        "pinned_tweet_id": "1904456179893616780",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862453994221875201/TzxtVSrS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41730,
+          "following_count": 833,
+          "like_count": 24870,
+          "listed_count": 654,
+          "media_count": 7544,
+          "tweet_count": 121798
+        },
+        "username": "retumaru",
+        "verified": true
+      }
+    ]
+  }
+}

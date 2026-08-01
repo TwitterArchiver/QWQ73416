@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1980881364804334027",
+    "created_at": "2025-10-22T06:18:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-22T07:18:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980881364804334027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "828947309874417664",
+          "start": 3,
+          "username": "Luminouslucis"
+        },
+        {
+          "end": 28,
+          "id": "1589809419822329857",
+          "start": 19,
+          "username": "jianlvup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980881364804334027",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980572143482970623",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Luminouslucis: @jianlvup 在我看来，确实很少看到男性抑郁群体在网上求助。但那并不意味着男性抑郁更少，而是他们被社会规训成不被允许脆弱的群体。\n在“要坚强”“别哭”的性别教育下，男孩们学会了压抑痛苦，把悲伤重新包装成愤怒、讽刺、酗酒、攻击、厌女——…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1980881364804334027",
+        "created_at": "2025-10-22T06:18:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T07:18:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980881364804334027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "828947309874417664",
+              "start": 3,
+              "username": "Luminouslucis"
+            },
+            {
+              "end": 28,
+              "id": "1589809419822329857",
+              "start": 19,
+              "username": "jianlvup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980881364804334027",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980572143482970623",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Luminouslucis: @jianlvup 在我看来，确实很少看到男性抑郁群体在网上求助。但那并不意味着男性抑郁更少，而是他们被社会规训成不被允许脆弱的群体。\n在“要坚强”“别哭”的性别教育下，男孩们学会了压抑痛苦，把悲伤重新包装成愤怒、讽刺、酗酒、攻击、厌女——…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "828947309874417664",
+        "conversation_id": "1980413404792910271",
+        "created_at": "2025-10-21T09:49:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T10:49:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980572143482970623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1589809419822329857",
+              "start": 0,
+              "username": "jianlvup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980572143482970623",
+        "in_reply_to_user_id": "1589809419822329857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "在我看来，确实很少看到男性抑郁群体在网上求助。但那并不意味着男性抑郁更少，而是他们被社会规训成不被允许脆弱的群体。\n在“要坚强”“别哭”的性别教育下，男孩们学会了压抑痛苦，把悲伤重新包装成愤怒、讽刺、酗酒、攻击、厌女——这些都是被扭曲的求助信号。\n他们并非不想说出“我难受”，只是每当想开口，脑子里就有一个声音在嘶吼：“你不能软弱，否则你就是弱者。”\n男性抑郁不是不存在，它只是被社会规训成了看不见的形状。真正的坚强，也许是允许自己去感受、去表达。第一步，就是勇敢说出“我很难受”"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 22671,
+          "like_count": 513,
+          "quote_count": 2,
+          "reply_count": 15,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980413404792910271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianlvup 在我看来，确实很少看到男性抑郁群体在网上求助。但那并不意味着男性抑郁更少，而是他们被社会规训成不被允许脆弱的群体。\n在“要坚强”“别哭”的性别教育下，男孩们学会了压抑痛苦，把悲伤重新包装成愤怒、讽刺、酗酒、攻击、厌女——这些都是被扭曲的求助信号。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|GAHT/HRT:2025.10.7|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "MTF.wiki",
+                "end": 23,
+                "expanded_url": "http://MTF.wiki",
+                "start": 0,
+                "url": "https://t.co/7tmPTkeoFF"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "∠( ᐛ 」∠)_",
+        "name": "🍥(￣ヘ￣🍥)",
+        "pinned_tweet_id": "1971859627869708434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979202568543784960/OeW4bpMU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 272,
+          "like_count": 4121,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1112
+        },
+        "url": "https://t.co/7tmPTkeoFF",
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2017-02-07T12:43:34.000Z",
+        "description": "我与你感同身受",
+        "id": "828947309874417664",
+        "location": "Hamberge, Deutschland",
+        "name": "NuclearCake",
+        "pinned_tweet_id": "1971556519100760545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945441303694647296/HjOatkbK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 463,
+          "like_count": 1094,
+          "listed_count": 2,
+          "media_count": 113,
+          "tweet_count": 1485
+        },
+        "username": "Luminouslucis",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-08T02:38:07.000Z",
+        "description": "一个奇怪的人 私信互关 INTJ 热爱与大家讨论交流 爱评论点赞 华北人 人物志评分创始人 起名字对联压力大师\n逃生舱：@jianlvya\n搭档:@KawawaDiana8964\n前身：@Jianlv117（复活赛中）1.5w",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 60,
+                "username": "jianlvya"
+              },
+              {
+                "end": 89,
+                "start": 73,
+                "username": "KawawaDiana8964"
+              },
+              {
+                "end": 103,
+                "start": 93,
+                "username": "Jianlv117"
+              }
+            ]
+          }
+        },
+        "id": "1589809419822329857",
+        "location": "新西兰（奇怪回复和转推多为广告哈❛˓◞˂̵✧)",
+        "name": "简律（私信互关）",
+        "pinned_tweet_id": "1980544654048464929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913249977419366400/uP3H_UOv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10681,
+          "following_count": 1016,
+          "like_count": 51636,
+          "listed_count": 37,
+          "media_count": 1817,
+          "tweet_count": 4250
+        },
+        "username": "jianlvup",
+        "verified": true
+      }
+    ]
+  }
+}

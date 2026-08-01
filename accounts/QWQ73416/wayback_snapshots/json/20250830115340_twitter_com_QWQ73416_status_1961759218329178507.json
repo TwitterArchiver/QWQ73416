@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1961654709284213127",
+    "created_at": "2025-08-30T11:53:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-30T12:53:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961759218329178507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1804154448215969795",
+          "start": 0,
+          "username": "bushi_8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961759218329178507",
+    "in_reply_to_user_id": "1804154448215969795",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961654709284213127",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bushi_8964 什么时候没闹过？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1961654709284213127",
+        "created_at": "2025-08-30T11:53:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T12:53:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961759218329178507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1804154448215969795",
+              "start": 0,
+              "username": "bushi_8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961759218329178507",
+        "in_reply_to_user_id": "1804154448215969795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961654709284213127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bushi_8964 什么时候没闹过？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804154448215969795",
+        "conversation_id": "1961654709284213127",
+        "created_at": "2025-08-30T04:58:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T05:58:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961654709284213127"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1961654709284213127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "只能说最近中推闹麻了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|小推@QWQ1885|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "QWQ1885"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 158,
+          "like_count": 1413,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 283
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-21T14:08:50.000Z",
+        "description": "是一只猫猫｜喜欢推油们😘｜淡推ing｜坐标天津｜成分复杂｜🏳️‍⚧️mtf/x｜最爱的@Tim_Pan_5｜好朋友@mizuki_bot ｜姐姐 @Moningmeng｜早晚会似.小号: @bushi_233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 44,
+                "username": "Tim_Pan_5"
+              },
+              {
+                "end": 69,
+                "start": 58,
+                "username": "mizuki_bot"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "Moningmeng"
+              },
+              {
+                "end": 105,
+                "start": 95,
+                "username": "bushi_233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/bushi-…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/bushi-233.bsky.social",
+                "start": 0,
+                "url": "https://t.co/eHYOCP1WJf"
+              }
+            ]
+          }
+        },
+        "id": "1804154448215969795",
+        "location": "IP属地：璃月港",
+        "name": "枫糖万叶喵",
+        "pinned_tweet_id": "1941798200882680157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959127037077331970/ub2Xab4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 808,
+          "following_count": 1162,
+          "like_count": 8449,
+          "listed_count": 2,
+          "media_count": 391,
+          "tweet_count": 3170
+        },
+        "url": "https://t.co/eHYOCP1WJf",
+        "username": "bushi_8964",
+        "verified": true
+      }
+    ]
+  }
+}

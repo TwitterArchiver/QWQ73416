@@ -1,0 +1,413 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970477775778918400"
+      ],
+      "media_source_tweet_id": [
+        "1970477781583831387"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1970730898413981963",
+    "created_at": "2025-09-24T06:03:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T07:03:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970730898413981963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1797621150924890112",
+          "start": 3,
+          "username": "osakanakun_mk2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vhmisHVi2x",
+          "end": 71,
+          "expanded_url": "https://x.com/osakanakun_mk2/status/1970477781583831387/photo/1",
+          "media_key": "3_1970477775778918400",
+          "start": 48,
+          "url": "https://t.co/vhmisHVi2x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970730898413981963",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 211
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970477781583831387",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @osakanakun_mk2: 神絵師検定受けに来ました！よろしくお願いします！！！✋ https://t.co/vhmisHVi2x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1556,
+        "media_key": "3_1970477775778918400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1iLGNcasAAzLnV.jpg",
+        "width": 1541
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970477775778918400"
+          ],
+          "media_source_tweet_id": [
+            "1970477781583831387"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1970730898413981963",
+        "created_at": "2025-09-24T06:03:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T07:03:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970730898413981963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1797621150924890112",
+              "start": 3,
+              "username": "osakanakun_mk2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vhmisHVi2x",
+              "end": 71,
+              "expanded_url": "https://x.com/osakanakun_mk2/status/1970477781583831387/photo/1",
+              "media_key": "3_1970477775778918400",
+              "start": 48,
+              "url": "https://t.co/vhmisHVi2x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970730898413981963",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 211
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970477781583831387",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @osakanakun_mk2: 神絵師検定受けに来ました！よろしくお願いします！！！✋ https://t.co/vhmisHVi2x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970477775778918400"
+          ]
+        },
+        "author_id": "1797621150924890112",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1970477781583831387",
+        "created_at": "2025-09-23T13:18:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T14:18:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970477781583831387"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vhmisHVi2x",
+              "end": 51,
+              "expanded_url": "https://x.com/osakanakun_mk2/status/1970477781583831387/photo/1",
+              "media_key": "3_1970477775778918400",
+              "start": 28,
+              "url": "https://t.co/vhmisHVi2x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970477781583831387",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 351,
+          "impression_count": 23007,
+          "like_count": 2028,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 211
+        },
+        "reply_settings": "everyone",
+        "text": "神絵師検定受けに来ました！よろしくお願いします！！！✋ https://t.co/vhmisHVi2x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 240,
+          "like_count": 3291,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 911
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-03T13:27:56.000Z",
+        "description": "努力 ❄(https://t.co/R94aJJSlP1) blsk→osakanamk2 🥽→@n3k793",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 48,
+                "username": "n3k793"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@osakanakun_mk2",
+                "end": 28,
+                "expanded_url": "https://skeb.jp/@osakanakun_mk2",
+                "start": 5,
+                "url": "https://t.co/R94aJJSlP1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "osakanadream.tumblr.com",
+                "end": 23,
+                "expanded_url": "http://osakanadream.tumblr.com",
+                "start": 0,
+                "url": "https://t.co/iJI3IwxeMW"
+              }
+            ]
+          }
+        },
+        "id": "1797621150924890112",
+        "location": "今年はコミュニケーションを努力",
+        "name": "ん🐟93",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829731662189772800/nQ1EncRa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8406,
+          "following_count": 42,
+          "like_count": 1692,
+          "listed_count": 67,
+          "media_count": 237,
+          "tweet_count": 2272
+        },
+        "url": "https://t.co/iJI3IwxeMW",
+        "username": "osakanakun_mk2",
+        "verified": false
+      }
+    ]
+  }
+}

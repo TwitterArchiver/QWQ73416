@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "2037769064316387442",
+    "created_at": "2026-03-28T05:49:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T06:49:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037769064316387442"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Jaciezyt/statu…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/Jaciezyt/status/2037467407921590311",
+          "start": 24,
+          "url": "https://t.co/qXa2RsWwSO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037769064316387442",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037467407921590311",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "学校领导一般都是阴曹地府的阴气所化。。。👻👻👻 https://t.co/qXa2RsWwSO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "2037769064316387442",
+        "created_at": "2026-03-28T05:49:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T06:49:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037769064316387442"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Jaciezyt/statu…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/Jaciezyt/status/2037467407921590311",
+              "start": 24,
+              "url": "https://t.co/qXa2RsWwSO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037769064316387442",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037467407921590311",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "学校领导一般都是阴曹地府的阴气所化。。。👻👻👻 https://t.co/qXa2RsWwSO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1271652280438308864",
+        "conversation_id": "2037467407921590311",
+        "created_at": "2026-03-27T09:50:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T10:50:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037467407921590311"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037467407921590311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 10856,
+          "like_count": 171,
+          "quote_count": 3,
+          "reply_count": 27,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "傻逼学校清明节三天只放一天\n这么看来领导不用扫墓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10🌟|GAHT/HRT:2025.10.7|\n割手的痕迹被我妈看到了，被骂了一顿|\n好闺蜜 @N2OXYN |\n→I an not a vitual account.(T~T)←|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 47,
+                "username": "N2OXYN"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "name": "🧊泠小米❄️",
+        "pinned_tweet_id": "2037669545633325393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023719096047771648/WvkPh1aM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 314,
+          "like_count": 6238,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 1568
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-13T03:55:13.000Z",
+        "description": "🏳️ 18岁 现役JK | 低浓度宅 | 👩🏻‍💻 也许算全栈 Dev | 🖥️ 退役蒟蒻 OIer | 📷 摄影 | 📡 Ham BH6SLW | 交通迷 ✈🚅 | 愿望是大家都能天天开心❤ | 分身 @__Jacie",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 110,
+                "start": 102,
+                "username": "__Jacie"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zzzz.yt/about",
+                "end": 23,
+                "expanded_url": "https://zzzz.yt/about",
+                "start": 0,
+                "url": "https://t.co/v1k3icFQPu"
+              }
+            ]
+          }
+        },
+        "id": "1271652280438308864",
+        "location": "OM70",
+        "name": "𝓙𝓪𝓬𝓲𝓮 𝓩𝔂𝓽 🌸🏳️",
+        "pinned_tweet_id": "2015380403427913999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006407975343378432/UxWdjCBl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3888,
+          "following_count": 903,
+          "like_count": 60786,
+          "listed_count": 11,
+          "media_count": 1263,
+          "tweet_count": 14821
+        },
+        "url": "https://t.co/v1k3icFQPu",
+        "username": "Jaciezyt",
+        "verified": false
+      }
+    ]
+  }
+}

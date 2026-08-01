@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962047926345367552"
+      ],
+      "media_source_tweet_id": [
+        "1962047939402252452"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1962049206799188346",
+    "created_at": "2025-08-31T07:05:58.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T08:05:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962049206799188346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1620367275273633792",
+          "start": 3,
+          "username": "Alina_Medverova"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Zfocjek3h6",
+          "end": 44,
+          "expanded_url": "https://x.com/Alina_Medverova/status/1962047939402252452/photo/1",
+          "media_key": "3_1962047926345367552",
+          "start": 21,
+          "url": "https://t.co/Zfocjek3h6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962049206799188346",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962047939402252452",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Alina_Medverova: https://t.co/Zfocjek3h6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 842,
+        "media_key": "3_1962047926345367552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzqYMZIbgAA7I4y.jpg",
+        "width": 1644
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962047926345367552"
+          ],
+          "media_source_tweet_id": [
+            "1962047939402252452"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1962049206799188346",
+        "created_at": "2025-08-31T07:05:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T08:05:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962049206799188346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1620367275273633792",
+              "start": 3,
+              "username": "Alina_Medverova"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zfocjek3h6",
+              "end": 44,
+              "expanded_url": "https://x.com/Alina_Medverova/status/1962047939402252452/photo/1",
+              "media_key": "3_1962047926345367552",
+              "start": 21,
+              "url": "https://t.co/Zfocjek3h6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962049206799188346",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962047939402252452",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Alina_Medverova: https://t.co/Zfocjek3h6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962047926345367552"
+          ]
+        },
+        "author_id": "1620367275273633792",
+        "conversation_id": "1962047939402252452",
+        "created_at": "2025-08-31T07:00:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T08:00:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962047939402252452"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Zfocjek3h6",
+              "end": 23,
+              "expanded_url": "https://x.com/Alina_Medverova/status/1962047939402252452/photo/1",
+              "media_key": "3_1962047926345367552",
+              "start": 0,
+              "url": "https://t.co/Zfocjek3h6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962047939402252452",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Zfocjek3h6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|小推@QWQ1885|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "QWQ1885"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 174,
+          "like_count": 1544,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 377
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T10:24:13.000Z",
+        "description": "8K71PS和8A91\n我不太喜欢在简介里挂成分",
+        "id": "1620367275273633792",
+        "location": "21世纪",
+        "name": "Алина-Медвежова🇫🇮",
+        "pinned_tweet_id": "1946063729399079021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937045943628496896/Zpe_tGkc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1543,
+          "following_count": 1355,
+          "like_count": 59597,
+          "listed_count": 4,
+          "media_count": 737,
+          "tweet_count": 13336
+        },
+        "username": "Alina_Medverova",
+        "verified": false
+      }
+    ]
+  }
+}

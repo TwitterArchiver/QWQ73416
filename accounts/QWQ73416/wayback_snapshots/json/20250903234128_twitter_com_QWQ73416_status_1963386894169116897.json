@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1963386894169116897",
+    "created_at": "2025-09-03T23:41:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T00:41:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963386894169116897"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 92,
+          "start": 85,
+          "tag": "反对种族主义"
+        },
+        {
+          "end": 99,
+          "start": 94,
+          "tag": "种族歧视"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "303806284",
+          "start": 3,
+          "username": "UNESCO_chinese"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963386894169116897",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 403
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907285864075473395",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @UNESCO_chinese: ┳┻|\n┳┻|\n┻┳|\n┳┻|\n┻┳|\n┳┻| _\n┻┳| •.•)\n┳┻|⊂ﾉ   我跟你讲哦，多样性是优势，而不是威胁呢。\n\n#反对种族主义 ​#种族歧视"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1963386894169116897",
+        "created_at": "2025-09-03T23:41:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T00:41:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963386894169116897"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 92,
+              "start": 85,
+              "tag": "反对种族主义"
+            },
+            {
+              "end": 99,
+              "start": 94,
+              "tag": "种族歧视"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "303806284",
+              "start": 3,
+              "username": "UNESCO_chinese"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963386894169116897",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 403
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907285864075473395",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @UNESCO_chinese: ┳┻|\n┳┻|\n┻┳|\n┳┻|\n┻┳|\n┳┻| _\n┻┳| •.•)\n┳┻|⊂ﾉ   我跟你讲哦，多样性是优势，而不是威胁呢。\n\n#反对种族主义 ​#种族歧视"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "303806284",
+        "conversation_id": "1907285864075473395",
+        "created_at": "2025-04-02T04:16:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-02T05:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907285864075473395"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 72,
+              "start": 65,
+              "tag": "反对种族主义"
+            },
+            {
+              "end": 79,
+              "start": 74,
+              "tag": "种族歧视"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907285864075473395",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 223,
+          "impression_count": 178390,
+          "like_count": 2533,
+          "quote_count": 82,
+          "reply_count": 236,
+          "retweet_count": 403
+        },
+        "reply_settings": "everyone",
+        "text": "┳┻|\n┳┻|\n┻┳|\n┳┻|\n┻┳|\n┳┻| _\n┻┳| •.•)\n┳┻|⊂ﾉ   我跟你讲哦，多样性是优势，而不是威胁呢。\n\n#反对种族主义 ​#种族歧视"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|小推@QWQ1885|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "QWQ1885"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 209,
+          "like_count": 1949,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 540
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-23T13:10:38.000Z",
+        "description": "战争起源于人之思想，故务需于人之思想中筑起保卫和平之屏障。\n#教育 #科学 #文化 #传播 #信息",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 30,
+                "tag": "教育"
+              },
+              {
+                "end": 37,
+                "start": 34,
+                "tag": "科学"
+              },
+              {
+                "end": 41,
+                "start": 38,
+                "tag": "文化"
+              },
+              {
+                "end": 45,
+                "start": 42,
+                "tag": "传播"
+              },
+              {
+                "end": 49,
+                "start": 46,
+                "tag": "信息"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "unesco.org/zh",
+                "end": 23,
+                "expanded_url": "https://www.unesco.org/zh",
+                "start": 0,
+                "url": "https://t.co/udyfiQ0jJu"
+              }
+            ]
+          }
+        },
+        "id": "303806284",
+        "location": "联合国教科文组织总部 法国•巴黎",
+        "name": "联合国教科文组织",
+        "pinned_tweet_id": "1947667293791785044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1193847119481835527/6sD9IUQJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37058,
+          "following_count": 41,
+          "like_count": 480,
+          "listed_count": 125,
+          "media_count": 10087,
+          "tweet_count": 10623
+        },
+        "url": "https://t.co/udyfiQ0jJu",
+        "username": "UNESCO_chinese",
+        "verified": true
+      }
+    ]
+  }
+}

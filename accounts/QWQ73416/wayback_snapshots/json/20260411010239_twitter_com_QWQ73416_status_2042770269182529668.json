@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "2042770269182529668",
+    "created_at": "2026-04-11T01:02:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T02:02:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042770269182529668"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "193648759",
+          "start": 3,
+          "username": "ripo0079"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042770269182529668",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042504393753575606",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ripo0079: 想是女人、就必须在是女人之前话下去\n\n跨性别、别死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "2042770269182529668",
+        "created_at": "2026-04-11T01:02:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T02:02:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042770269182529668"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "193648759",
+              "start": 3,
+              "username": "ripo0079"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042770269182529668",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042504393753575606",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ripo0079: 想是女人、就必须在是女人之前话下去\n\n跨性别、别死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "193648759",
+        "conversation_id": "2042504393753575606",
+        "created_at": "2026-04-10T07:26:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T08:26:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042504393753575606"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042504393753575606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 7796,
+          "like_count": 288,
+          "quote_count": 3,
+          "reply_count": 19,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "想是女人、就必须在是女人之前话下去\n\n跨性别、别死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10🌟|GAHT/HRT:2025.10.7|\n割手的痕迹被我妈看到了，被骂了一顿|\n好闺蜜 @N2OXYN |\n→I an not a vitual account.(T~T)←|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 47,
+                "username": "N2OXYN"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "name": "🧊泠小米❄️",
+        "pinned_tweet_id": "2037669545633325393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023719096047771648/WvkPh1aM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 682,
+          "following_count": 320,
+          "like_count": 6434,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 1653
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2010-09-22T10:51:40.000Z",
+        "description": "🏳️‍⚧️Ripo(中文:莉珀)🏳️‍⚧️ Jpn/Eng/在学中文 インターネット🏳️‍⚧️界隈 国際ニートなご令嬢。青組。🍥跨性别。人間はやっていく生き物です。ソ連、オタク、歴史、旅行、ジェンダーを雑多にやっていくアカウントです。オタクをきちんとやっていきます。🏳️‍⚧️pride.",
+        "id": "193648759",
+        "location": "東側",
+        "name": "りぽたん",
+        "pinned_tweet_id": "2042211394763034677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1489537206905872384/Wlz54C4Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8397,
+          "following_count": 1391,
+          "like_count": 70597,
+          "listed_count": 123,
+          "media_count": 4286,
+          "tweet_count": 53741
+        },
+        "username": "ripo0079",
+        "verified": true
+      }
+    ]
+  }
+}

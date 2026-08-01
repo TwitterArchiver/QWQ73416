@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "2078684762827608294",
+    "created_at": "2026-07-19T03:34:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T04:34:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078684762827608294"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/QimoHK300311/s…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/QimoHK300311/status/2078259899457253737",
+          "start": 14,
+          "url": "https://t.co/XbsJeKPzwK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078684762827608294",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078259899457253737",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "在拯救他人之前，先拯救自己 https://t.co/XbsJeKPzwK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_2078259866271965184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNd2VlgXYAAoIxg.jpg",
+        "width": 828
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2078259866263535616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNd2VleWwAA3n0r.jpg",
+        "width": 873
+      },
+      {
+        "height": 1792,
+        "media_key": "3_2078259866263531521",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNd2VleWsAEmAMF.jpg",
+        "width": 828
+      },
+      {
+        "height": 1013,
+        "media_key": "3_2078259866276106240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNd2VlhWkAA6ohg.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "2078684762827608294",
+        "created_at": "2026-07-19T03:34:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T04:34:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078684762827608294"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/QimoHK300311/s…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/QimoHK300311/status/2078259899457253737",
+              "start": 14,
+              "url": "https://t.co/XbsJeKPzwK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078684762827608294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078259899457253737",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "在拯救他人之前，先拯救自己 https://t.co/XbsJeKPzwK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078259866271965184",
+            "3_2078259866263535616",
+            "3_2078259866263531521",
+            "3_2078259866276106240"
+          ]
+        },
+        "author_id": "2801561021",
+        "conversation_id": "2078259899457253737",
+        "created_at": "2026-07-17T23:25:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T00:25:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078259899457253737"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JqmQbZOdRw",
+              "end": 184,
+              "expanded_url": "https://x.com/QimoHK300311/status/2078259899457253737/photo/1",
+              "media_key": "3_2078259866271965184",
+              "start": 161,
+              "url": "https://t.co/JqmQbZOdRw"
+            },
+            {
+              "display_url": "pic.x.com/JqmQbZOdRw",
+              "end": 184,
+              "expanded_url": "https://x.com/QimoHK300311/status/2078259899457253737/photo/1",
+              "media_key": "3_2078259866263535616",
+              "start": 161,
+              "url": "https://t.co/JqmQbZOdRw"
+            },
+            {
+              "display_url": "pic.x.com/JqmQbZOdRw",
+              "end": 184,
+              "expanded_url": "https://x.com/QimoHK300311/status/2078259899457253737/photo/1",
+              "media_key": "3_2078259866263531521",
+              "start": 161,
+              "url": "https://t.co/JqmQbZOdRw"
+            },
+            {
+              "display_url": "pic.x.com/JqmQbZOdRw",
+              "end": 184,
+              "expanded_url": "https://x.com/QimoHK300311/status/2078259899457253737/photo/1",
+              "media_key": "3_2078259866276106240",
+              "start": 161,
+              "url": "https://t.co/JqmQbZOdRw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078259899457253737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 22382,
+          "like_count": 305,
+          "quote_count": 7,
+          "reply_count": 87,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "讣告...\n神楽坂雪风，我的姐姐，我的恋人\n于2026.7.17凌晨2-3点在安徽蚌埠服用亚硝酸钠，蚌埠警方已确认于当天下午3点左右离世...\n雪风是寒涟漪危机干预小组的一名志愿者...她救了很多处在生命线左右人...也由于她的善举...使自己原本就并非良好的状态变得愈发低下...最后选择了离世...\n我等深表悲痛.. https://t.co/JqmQbZOdRw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "|GAHT/HRT:2025.10.7|\n这里烂透了，以后任何事情都别跟我扯上关系，不参与任何所谓的“跨圈”的任何事情\n新推 @QWQ1885",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 63,
+                "username": "QWQ1885"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "name": "🧊泠小米BAYER❄️",
+        "pinned_tweet_id": "2059195074991550825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023719096047771648/WvkPh1aM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 697,
+          "following_count": 320,
+          "like_count": 6326,
+          "listed_count": 2,
+          "media_count": 59,
+          "tweet_count": 1746
+        },
+        "url": "",
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-03T07:53:19.000Z",
+        "description": "一生中永远最爱的(是亲姐姐?也是对象! 恋人喵🥰)\n是@Kagura_Yukikaze 呢\n生产年月2011.05/可以叫我齐墨/常驻广东佛山/持续深柜(无证含🍥)/hrt:2025.05.09/初中毕业(准高一)/业余无线电爱好者(BG7MUW)/情绪焦虑、抑郁(中度心理问题)\n生来夏花，死时秋叶 --《飞鸟集》",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 27,
+                "username": "Kagura_Yukikaze"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "BG7MUW-Not-Website.com",
+                "end": 23,
+                "expanded_url": "http://BG7MUW-Not-Website.com",
+                "start": 0,
+                "url": "https://t.co/LBSe4QLS4u"
+              }
+            ]
+          }
+        },
+        "id": "2801561021",
+        "location": "Guangdong,P.R.China (OL62)",
+        "name": "HK_本人qimo丶🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020885466019397632/URyAX7Nd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 103,
+          "like_count": 560,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 124
+        },
+        "url": "https://t.co/LBSe4QLS4u",
+        "username": "QimoHK300311",
+        "verified": false
+      }
+    ]
+  }
+}

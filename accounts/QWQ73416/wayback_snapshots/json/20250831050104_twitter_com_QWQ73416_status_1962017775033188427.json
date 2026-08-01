@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1956978717374427220",
+    "created_at": "2025-08-31T05:01:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T06:01:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962017775033188427"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1913631704914219008",
+          "start": 0,
+          "username": "ninarin_tokyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962017775033188427",
+    "in_reply_to_user_id": "1913631704914219008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1956978717374427220",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ninarin_tokyo 总会出现一个犹大会毁了这一切的。。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 681,
+        "media_key": "3_1956978713423482880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyiVxXabkAAGEJ9.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1956978717374427220",
+        "created_at": "2025-08-31T05:01:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T06:01:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962017775033188427"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1913631704914219008",
+              "start": 0,
+              "username": "ninarin_tokyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962017775033188427",
+        "in_reply_to_user_id": "1913631704914219008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1956978717374427220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ninarin_tokyo 总会出现一个犹大会毁了这一切的。。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1956978713423482880"
+          ]
+        },
+        "author_id": "1913631704914219008",
+        "conversation_id": "1956978717374427220",
+        "created_at": "2025-08-17T07:17:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T08:17:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1956978717374427220"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dGseXfaTqp",
+              "end": 84,
+              "expanded_url": "https://x.com/anon_tokiyo/status/1956978717374427220/photo/1",
+              "media_key": "3_1956978713423482880",
+              "start": 61,
+              "url": "https://t.co/dGseXfaTqp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956978717374427220",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5451,
+          "like_count": 100,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "我期盼，我们能成为朋友，不是因为我们拥有相同的政治观点，也不是因为我们是一个民族或者国家，而是因为我们站在同一片天空之下 https://t.co/dGseXfaTqp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|小推@QWQ1885|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "QWQ1885"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 166,
+          "like_count": 1498,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 328
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-19T16:32:38.000Z",
+        "description": "令生如夏花般絢爛，死如秋葉般靜美",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/973907",
+                "end": 23,
+                "expanded_url": "https://ngl.link/973907",
+                "start": 0,
+                "url": "https://t.co/irpyGN9EUs"
+              }
+            ]
+          }
+        },
+        "id": "1913631704914219008",
+        "location": "台北",
+        "name": "ninarin_27",
+        "pinned_tweet_id": "1956978717374427220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958829342018215937/GljBtKPn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 604,
+          "following_count": 1007,
+          "like_count": 12260,
+          "listed_count": 4,
+          "media_count": 536,
+          "tweet_count": 4800
+        },
+        "url": "https://t.co/irpyGN9EUs",
+        "username": "ninarin_tokyo",
+        "verified": false
+      }
+    ]
+  }
+}

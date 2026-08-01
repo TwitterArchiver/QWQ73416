@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969704841766465536"
+      ],
+      "media_source_tweet_id": [
+        "1969733849849397749"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247288073542463488",
+          "name": "Virtual YouTubers"
+        }
+      }
+    ],
+    "conversation_id": "1970152793915961359",
+    "created_at": "2025-09-22T15:46:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T16:46:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970152793915961359"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1883688516934410240",
+          "start": 3,
+          "username": "megamega_aiart"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ak7v96yUhk",
+          "end": 71,
+          "expanded_url": "https://x.com/megamega_aiart/status/1969733849849397749/photo/1",
+          "media_key": "3_1969704841766465536",
+          "start": 48,
+          "url": "https://t.co/Ak7v96yUhk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970152793915961359",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 611
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969733849849397749",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @megamega_aiart: 再チャレンジ！\n\n百鬼あやめ😈 NakiriAyame https://t.co/Ak7v96yUhk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1969704841766465536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1XMHh3bcAAYKGY.jpg",
+        "width": 896
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969704841766465536"
+          ],
+          "media_source_tweet_id": [
+            "1969733849849397749"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "1970152793915961359",
+        "created_at": "2025-09-22T15:46:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T16:46:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970152793915961359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1883688516934410240",
+              "start": 3,
+              "username": "megamega_aiart"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ak7v96yUhk",
+              "end": 71,
+              "expanded_url": "https://x.com/megamega_aiart/status/1969733849849397749/photo/1",
+              "media_key": "3_1969704841766465536",
+              "start": 48,
+              "url": "https://t.co/Ak7v96yUhk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970152793915961359",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 611
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969733849849397749",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @megamega_aiart: 再チャレンジ！\n\n百鬼あやめ😈 NakiriAyame https://t.co/Ak7v96yUhk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969704841766465536"
+          ]
+        },
+        "author_id": "1883688516934410240",
+        "conversation_id": "1969733849849397749",
+        "created_at": "2025-09-21T12:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T13:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969733849849397749"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ak7v96yUhk",
+              "end": 51,
+              "expanded_url": "https://x.com/megamega_aiart/status/1969733849849397749/photo/1",
+              "media_key": "3_1969704841766465536",
+              "start": 28,
+              "url": "https://t.co/Ak7v96yUhk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969733849849397749",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2798,
+          "impression_count": 193035,
+          "like_count": 13720,
+          "quote_count": 3,
+          "reply_count": 21,
+          "retweet_count": 611
+        },
+        "reply_settings": "everyone",
+        "text": "再チャレンジ！\n\n百鬼あやめ😈 NakiriAyame https://t.co/Ak7v96yUhk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 240,
+          "like_count": 3293,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 904
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-27T01:28:49.000Z",
+        "description": "ホロ箱推しがホロのAIイラストを熱い想いを込めて投稿してます✨\nxではほぼ修正無しで投稿するので破綻があるかもしれません。よかったらフォローしてね♪\n❤️🔃💬本当に嬉しい！ありがと〜！\n投稿時間は、7時、12時、19時予定✨\n投稿の関係で朝のミオしゃにはお🍞をはいてもらってます😆",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/117345952",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/117345952",
+                "start": 0,
+                "url": "https://t.co/20XLhPnTNA"
+              }
+            ]
+          }
+        },
+        "id": "1883688516934410240",
+        "name": "ホロ・めがね@Aiart",
+        "pinned_tweet_id": "1969235314821443744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912800806627393536/utyOJjyQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36278,
+          "following_count": 30,
+          "like_count": 4117,
+          "listed_count": 161,
+          "media_count": 729,
+          "tweet_count": 3109
+        },
+        "url": "https://t.co/20XLhPnTNA",
+        "username": "megamega_aiart",
+        "verified": true
+      }
+    ]
+  }
+}

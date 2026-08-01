@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968263002228203520"
+      ],
+      "media_source_tweet_id": [
+        "1968263014932705682"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1968312745713140127",
+    "created_at": "2025-09-17T13:55:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T14:55:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968312745713140127"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 18,
+          "normalized_text": "しのぶ",
+          "probability": 0.6788,
+          "start": 16,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1199284332763860993",
+          "start": 3,
+          "username": "TEOSKyrios"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/byQ1oyi9fG",
+          "end": 43,
+          "expanded_url": "https://x.com/TEOSKyrios/status/1968263014932705682/photo/1",
+          "media_key": "3_1968263002228203520",
+          "start": 20,
+          "url": "https://t.co/byQ1oyi9fG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968312745713140127",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 40
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968263014932705682",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TEOSKyrios: しのぶ https://t.co/byQ1oyi9fG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1968263002228203520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1CsxbBbIAA7-Ol.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968263002228203520"
+          ],
+          "media_source_tweet_id": [
+            "1968263014932705682"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1968312745713140127",
+        "created_at": "2025-09-17T13:55:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T14:55:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968312745713140127"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "しのぶ",
+              "probability": 0.6788,
+              "start": 16,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1199284332763860993",
+              "start": 3,
+              "username": "TEOSKyrios"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/byQ1oyi9fG",
+              "end": 43,
+              "expanded_url": "https://x.com/TEOSKyrios/status/1968263014932705682/photo/1",
+              "media_key": "3_1968263002228203520",
+              "start": 20,
+              "url": "https://t.co/byQ1oyi9fG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968312745713140127",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968263014932705682",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TEOSKyrios: しのぶ https://t.co/byQ1oyi9fG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968263002228203520"
+          ]
+        },
+        "author_id": "1199284332763860993",
+        "conversation_id": "1968263014932705682",
+        "created_at": "2025-09-17T10:37:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T11:37:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968263014932705682"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "しのぶ",
+              "probability": 0.6939,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/byQ1oyi9fG",
+              "end": 27,
+              "expanded_url": "https://x.com/TEOSKyrios/status/1968263014932705682/photo/1",
+              "media_key": "3_1968263002228203520",
+              "start": 4,
+              "url": "https://t.co/byQ1oyi9fG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968263014932705682",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 36,
+          "impression_count": 2866,
+          "like_count": 344,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "しのぶ https://t.co/byQ1oyi9fG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 228,
+          "like_count": 2960,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 786
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-26T11:10:51.000Z",
+        "description": "連絡：mafuuyuu@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/89535531",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/89535531",
+                "start": 0,
+                "url": "https://t.co/tZctmd7WOz"
+              }
+            ]
+          }
+        },
+        "id": "1199284332763860993",
+        "name": "ゆめさま💛",
+        "pinned_tweet_id": "1927285282895802614",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1919309976142807040/Y9yw1mVo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21293,
+          "following_count": 142,
+          "like_count": 7152,
+          "listed_count": 149,
+          "media_count": 108,
+          "tweet_count": 1370
+        },
+        "url": "https://t.co/tZctmd7WOz",
+        "username": "TEOSKyrios",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969363493095931904"
+      ],
+      "media_source_tweet_id": [
+        "1969364081611325489"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1969452140478546007",
+    "created_at": "2025-09-20T17:22:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T18:22:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969452140478546007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1650865076868648965",
+          "start": 3,
+          "username": "yzkmoq_00"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3Bo8pSbZoY",
+          "end": 56,
+          "expanded_url": "https://x.com/yzkmoq_00/status/1969364081611325489/photo/1",
+          "media_key": "3_1969363493095931904",
+          "start": 33,
+          "url": "https://t.co/3Bo8pSbZoY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969452140478546007",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 367
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969364081611325489",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yzkmoq_00: たん．．．おてて見せてほしい．．． https://t.co/3Bo8pSbZoY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1969363493095931904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1SVqa-bAAAD624.jpg",
+        "width": 2453
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969363493095931904"
+          ],
+          "media_source_tweet_id": [
+            "1969364081611325489"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1969452140478546007",
+        "created_at": "2025-09-20T17:22:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T18:22:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969452140478546007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1650865076868648965",
+              "start": 3,
+              "username": "yzkmoq_00"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3Bo8pSbZoY",
+              "end": 56,
+              "expanded_url": "https://x.com/yzkmoq_00/status/1969364081611325489/photo/1",
+              "media_key": "3_1969363493095931904",
+              "start": 33,
+              "url": "https://t.co/3Bo8pSbZoY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969452140478546007",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 367
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969364081611325489",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yzkmoq_00: たん．．．おてて見せてほしい．．． https://t.co/3Bo8pSbZoY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969363493095931904"
+          ]
+        },
+        "author_id": "1650865076868648965",
+        "conversation_id": "1969364081611325489",
+        "created_at": "2025-09-20T11:32:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T12:32:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969364081611325489"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3Bo8pSbZoY",
+              "end": 41,
+              "expanded_url": "https://x.com/yzkmoq_00/status/1969364081611325489/photo/1",
+              "media_key": "3_1969363493095931904",
+              "start": 18,
+              "url": "https://t.co/3Bo8pSbZoY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969364081611325489",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 529,
+          "impression_count": 36073,
+          "like_count": 3145,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 367
+        },
+        "reply_settings": "everyone",
+        "text": "たん．．．おてて見せてほしい．．． https://t.co/3Bo8pSbZoY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 233,
+          "like_count": 3068,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 821
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-25T14:11:49.000Z",
+        "description": "趣味で絵を描く煖房。ゆかりさん、合成音声好き",
+        "id": "1650865076868648965",
+        "location": "人間らしい生活 AI❌",
+        "name": "ゆか煖房",
+        "pinned_tweet_id": "1892215158967062808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929383312629604352/LeRvGVIF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5272,
+          "following_count": 551,
+          "like_count": 26556,
+          "listed_count": 49,
+          "media_count": 490,
+          "tweet_count": 13914
+        },
+        "username": "yzkmoq_00",
+        "verified": false
+      }
+    ]
+  }
+}

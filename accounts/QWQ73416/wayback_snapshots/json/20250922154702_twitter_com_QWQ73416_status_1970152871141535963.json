@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970122987799224320"
+      ],
+      "media_source_tweet_id": [
+        "1970125891520086482"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1970152871141535963",
+    "created_at": "2025-09-22T15:47:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T16:47:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970152871141535963"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "326749618",
+          "start": 3,
+          "username": "ti_owo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/YtkYVJji7K",
+          "end": 38,
+          "expanded_url": "https://x.com/ti_owo/status/1970125891520086482/photo/1",
+          "media_key": "3_1970122987799224320",
+          "start": 15,
+          "url": "https://t.co/YtkYVJji7K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970152871141535963",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 81
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970125891520086482",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ti_owo: ☔🐸 https://t.co/YtkYVJji7K"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2754,
+        "media_key": "3_1970122987799224320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1dIa1OaoAAipKF.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970122987799224320"
+          ],
+          "media_source_tweet_id": [
+            "1970125891520086482"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1970152871141535963",
+        "created_at": "2025-09-22T15:47:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T16:47:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970152871141535963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "326749618",
+              "start": 3,
+              "username": "ti_owo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YtkYVJji7K",
+              "end": 38,
+              "expanded_url": "https://x.com/ti_owo/status/1970125891520086482/photo/1",
+              "media_key": "3_1970122987799224320",
+              "start": 15,
+              "url": "https://t.co/YtkYVJji7K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970152871141535963",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 81
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970125891520086482",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ti_owo: ☔🐸 https://t.co/YtkYVJji7K"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970122987799224320"
+          ]
+        },
+        "author_id": "326749618",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1970125891520086482",
+        "created_at": "2025-09-22T13:59:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T14:59:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970125891520086482"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YtkYVJji7K",
+              "end": 26,
+              "expanded_url": "https://x.com/ti_owo/status/1970125891520086482/photo/1",
+              "media_key": "3_1970122987799224320",
+              "start": 3,
+              "url": "https://t.co/YtkYVJji7K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970125891520086482",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 6771,
+          "like_count": 488,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 81
+        },
+        "reply_settings": "everyone",
+        "text": "☔🐸 https://t.co/YtkYVJji7K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 240,
+          "like_count": 3294,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 905
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2011-06-30T12:37:43.000Z",
+        "description": "極稀に出現します。目が半分以上開かない絵を描いてます。 サークル【ふたつまみ】売り子。 mi: https://t.co/iMSPL5yN5i 本: https://t.co/zL4iAJ96L9 skeb: https://t.co/6XlUpyAjah",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "misskey.io/@ti_owo",
+                "end": 71,
+                "expanded_url": "https://misskey.io/@ti_owo",
+                "start": 48,
+                "url": "https://t.co/iMSPL5yN5i"
+              },
+              {
+                "display_url": "ti-owo.booth.pm/items/5176458",
+                "end": 98,
+                "expanded_url": "https://ti-owo.booth.pm/items/5176458",
+                "start": 75,
+                "url": "https://t.co/zL4iAJ96L9"
+              },
+              {
+                "display_url": "skeb.jp/@ti_owo",
+                "end": 128,
+                "expanded_url": "http://skeb.jp/@ti_owo",
+                "start": 105,
+                "url": "https://t.co/6XlUpyAjah"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ti-owo.tumblr.com",
+                "end": 23,
+                "expanded_url": "https://ti-owo.tumblr.com/",
+                "start": 0,
+                "url": "https://t.co/v3avtQbSdZ"
+              }
+            ]
+          }
+        },
+        "id": "326749618",
+        "location": "中心のちょっとしたらへん",
+        "name": "ちー(*ﾟーﾟ)",
+        "pinned_tweet_id": "1926977245739888924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797247024708153344/9YgnXibE_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31584,
+          "following_count": 339,
+          "like_count": 3006,
+          "listed_count": 217,
+          "media_count": 1139,
+          "tweet_count": 10536
+        },
+        "url": "https://t.co/v3avtQbSdZ",
+        "username": "ti_owo",
+        "verified": false
+      }
+    ]
+  }
+}

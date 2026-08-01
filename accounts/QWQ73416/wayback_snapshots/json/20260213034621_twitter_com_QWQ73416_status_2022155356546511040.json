@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "2021937656746455176",
+    "created_at": "2026-02-13T03:46:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T04:46:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022155356546511040"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2015969377703895040",
+          "start": 0,
+          "username": "mozi828"
+        },
+        {
+          "end": 19,
+          "id": "1844926832967286785",
+          "start": 9,
+          "username": "orisam123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022155356546511040",
+    "in_reply_to_user_id": "2015969377703895040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022140037304107339",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mozi828 @orisam123 姐姐你帮我劝劝她吧，我没办法了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "2021937656746455176",
+        "created_at": "2026-02-13T03:46:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T04:46:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022155356546511040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2015969377703895040",
+              "start": 0,
+              "username": "mozi828"
+            },
+            {
+              "end": 19,
+              "id": "1844926832967286785",
+              "start": 9,
+              "username": "orisam123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022155356546511040",
+        "in_reply_to_user_id": "2015969377703895040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022140037304107339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mozi828 @orisam123 姐姐你帮我劝劝她吧，我没办法了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2015969377703895040",
+        "conversation_id": "2021937656746455176",
+        "created_at": "2026-02-13T02:45:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T03:45:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022140037304107339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1955503492145283072",
+              "start": 0,
+              "username": "QWQ73416"
+            },
+            {
+              "end": 20,
+              "id": "1844926832967286785",
+              "start": 10,
+              "username": "orisam123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022140037304107339",
+        "in_reply_to_user_id": "1955503492145283072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022133450694910156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QWQ73416 @orisam123 所以不要自切"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|GAHT/HRT:2025.10.7|欢迎交朋友|一！个！都！不！准！死！|补佳乐已被母亲发现|好闺蜜@YeJiangXYN |\n→I an not a vitual account.(T~T)←|\n🚪10 要加的私聊，绿，纯好友位|（虽然我知道压根没人加🙃）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "YeJiangXYN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "MTF.wiki",
+                "end": 23,
+                "expanded_url": "http://MTF.wiki",
+                "start": 0,
+                "url": "https://t.co/7tmPTkeoFF"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "∠( 🥵」∠)_",
+        "name": "🧊泠小米🍥",
+        "pinned_tweet_id": "2021499307300618493",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021513301444968448/YKJD_L07_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 306,
+          "like_count": 5836,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 1391
+        },
+        "url": "https://t.co/7tmPTkeoFF",
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-27T02:05:40.000Z",
+        "description": "04年丨四年hrt术后丨4i攻或受丨对于小南梁是s （就是喜欢欺负同类）‖ 在哈尔滨上大学假期刷新河北 丨提供南梁医美指导，srs咨询 | 老号被封了@mozidoum",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 75,
+                "username": "mozidoum"
+              }
+            ]
+          }
+        },
+        "id": "2015969377703895040",
+        "location": "投喂口令68+🉑加好友",
+        "name": "啤酒沫子🍥（srs术后）",
+        "pinned_tweet_id": "2021001426747654326",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021592546103963648/8n_iABWF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1123,
+          "following_count": 17,
+          "like_count": 27,
+          "listed_count": 3,
+          "media_count": 30,
+          "tweet_count": 128
+        },
+        "username": "mozi828",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T02:23:45.000Z",
+        "description": "疯婆 取向异性微双 有点怕疼的sub |  \n从2024年七月初开始的饭桶（减肥中)\n   |     \n闺蜜&姐姐&引路人:  \n@zihou1968025650\n\ntg群组:\nhttps://t.co/ZsnfeGPdkA\n频道:\nhttps://t.co/S9Nk0R1gFs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 66,
+                "username": "zihou1968025650"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/orisam123group",
+                "end": 113,
+                "expanded_url": "https://t.me/orisam123group",
+                "start": 90,
+                "url": "https://t.co/ZsnfeGPdkA"
+              },
+              {
+                "display_url": "t.me/orisam123catsl…",
+                "end": 141,
+                "expanded_url": "http://t.me/orisam123catsleeping",
+                "start": 118,
+                "url": "https://t.co/S9Nk0R1gFs"
+              }
+            ]
+          }
+        },
+        "id": "1844926832967286785",
+        "location": "-0.15m",
+        "name": "折筱orisam🏳️‍⚧️（少女秃头中）",
+        "pinned_tweet_id": "1889966215923466584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972221628097708032/LU2zOJtP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3529,
+          "following_count": 1376,
+          "like_count": 66279,
+          "listed_count": 4,
+          "media_count": 916,
+          "tweet_count": 18377
+        },
+        "username": "orisam123",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "2073598083854946618",
+    "created_at": "2026-07-05T16:59:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T17:59:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073814088963211769"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2067998397429317632",
+          "start": 0,
+          "username": "nhcueee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073814088963211769",
+    "in_reply_to_user_id": "2067998397429317632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073598083854946618",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nhcueee 梦到。。。那就说明还不是呗\n(´- へ -、)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "2073598083854946618",
+        "created_at": "2026-07-05T16:59:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T17:59:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073814088963211769"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2067998397429317632",
+              "start": 0,
+              "username": "nhcueee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073814088963211769",
+        "in_reply_to_user_id": "2067998397429317632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073598083854946618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nhcueee 梦到。。。那就说明还不是呗\n(´- へ -、)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2067998397429317632",
+        "conversation_id": "2073598083854946618",
+        "created_at": "2026-07-05T02:41:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T03:41:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073598083854946618"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 36,
+              "tag": "药娘"
+            },
+            {
+              "end": 44,
+              "start": 40,
+              "tag": "mtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073598083854946618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 968,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨晚做梦梦到我成家长党了!好久没做这么开心的梦了诶 (-^〇^-) \n #药娘 #mtf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "|GAHT/HRT:2025.10.7|\n这里烂透了，以后任何事情都别跟我扯上关系，不参与任何所谓的“跨圈”的任何事情\n新推 @QWQ1885",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 63,
+                "username": "QWQ1885"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "name": "🧊泠小米BAYER❄️",
+        "pinned_tweet_id": "2059195074991550825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023719096047771648/WvkPh1aM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 693,
+          "following_count": 321,
+          "like_count": 6344,
+          "listed_count": 2,
+          "media_count": 59,
+          "tweet_count": 1741
+        },
+        "url": "",
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-19T15:51:17.000Z",
+        "description": "双性恋，已有对象，请勿过度打扰\n171cm55kg，祈祷变矮变瘦ing……\n2026.6.21🍥，无证含糖，同类回关w（没回大概是忘了的说）\n重度拖延，得过且过，低能量，自卑，内耗\n不善言辞，只会玩游戏的阴角，对陌生人相当内向，平时可能会有点呆呆的，交流时还请注意分寸……",
+        "id": "2067998397429317632",
+        "name": "nhcue🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068000421747228672/SNMoCeh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 81,
+          "like_count": 21,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 63
+        },
+        "url": "",
+        "username": "nhcueee",
+        "verified": false
+      }
+    ]
+  }
+}

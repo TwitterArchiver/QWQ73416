@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "2073813111786844358",
+    "created_at": "2026-07-05T16:55:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T17:55:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073813111786844358"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2073813111786844358",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我突然发现我开始允许离去了。。。只是能别选跳楼和跳河不。。。至少在家里死的安稳点吧。我知道你很痛苦，但是我不希望我一想起你，就是想到你摔得稀碎或者肿的跟什么一样。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "2073813111786844358",
+        "created_at": "2026-07-05T16:55:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T17:55:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073813111786844358"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073813111786844358",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我突然发现我开始允许离去了。。。只是能别选跳楼和跳河不。。。至少在家里死的安稳点吧。我知道你很痛苦，但是我不希望我一想起你，就是想到你摔得稀碎或者肿的跟什么一样。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "|GAHT/HRT:2025.10.7|\n这里烂透了，以后任何事情都别跟我扯上关系，不参与任何所谓的“跨圈”的任何事情\n新推 @QWQ1885",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 63,
+                "username": "QWQ1885"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "name": "🧊泠小米BAYER❄️",
+        "pinned_tweet_id": "2059195074991550825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023719096047771648/WvkPh1aM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 693,
+          "following_count": 321,
+          "like_count": 6341,
+          "listed_count": 2,
+          "media_count": 59,
+          "tweet_count": 1737
+        },
+        "url": "",
+        "username": "QWQ73416",
+        "verified": false
+      }
+    ]
+  }
+}

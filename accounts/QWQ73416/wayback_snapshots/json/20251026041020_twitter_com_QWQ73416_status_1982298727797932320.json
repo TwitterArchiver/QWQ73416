@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1981737450880778240"
+      ],
+      "media_source_tweet_id": [
+        "1981737464378311144"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1982298727797932320",
+    "created_at": "2025-10-26T04:10:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T05:10:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982298727797932320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1967682960624324614",
+          "start": 3,
+          "username": "roujiayiya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JW48EinDWc",
+          "end": 56,
+          "expanded_url": "https://x.com/roujiayiya/status/1981737464378311144/photo/1",
+          "media_key": "3_1981737450880778240",
+          "start": 33,
+          "url": "https://t.co/JW48EinDWc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982298727797932320",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981737464378311144",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @roujiayiya: 今天打了第一针哦也算是正式入糖啦 https://t.co/JW48EinDWc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1981737450880778240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4CLtj3WQAAgo-u.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981737450880778240"
+          ],
+          "media_source_tweet_id": [
+            "1981737464378311144"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1982298727797932320",
+        "created_at": "2025-10-26T04:10:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T05:10:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982298727797932320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1967682960624324614",
+              "start": 3,
+              "username": "roujiayiya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JW48EinDWc",
+              "end": 56,
+              "expanded_url": "https://x.com/roujiayiya/status/1981737464378311144/photo/1",
+              "media_key": "3_1981737450880778240",
+              "start": 33,
+              "url": "https://t.co/JW48EinDWc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982298727797932320",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981737464378311144",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @roujiayiya: 今天打了第一针哦也算是正式入糖啦 https://t.co/JW48EinDWc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981737450880778240"
+          ]
+        },
+        "author_id": "1967682960624324614",
+        "conversation_id": "1981737464378311144",
+        "created_at": "2025-10-24T15:00:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T16:00:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981737464378311144"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JW48EinDWc",
+              "end": 40,
+              "expanded_url": "https://x.com/roujiayiya/status/1981737464378311144/photo/1",
+              "media_key": "3_1981737450880778240",
+              "start": 17,
+              "url": "https://t.co/JW48EinDWc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981737464378311144",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 12675,
+          "like_count": 180,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "今天打了第一针哦也算是正式入糖啦 https://t.co/JW48EinDWc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|GAHT/HRT:2025.10.7|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "MTF.wiki",
+                "end": 23,
+                "expanded_url": "http://MTF.wiki",
+                "start": 0,
+                "url": "https://t.co/7tmPTkeoFF"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "∠( ᐛ 」∠)_",
+        "name": "🍥(￣ヘ￣🍥)",
+        "pinned_tweet_id": "1971859627869708434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979202568543784960/OeW4bpMU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 274,
+          "like_count": 4167,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1125
+        },
+        "url": "https://t.co/7tmPTkeoFF",
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-15T20:12:44.000Z",
+        "description": "2006.05.16生 性别焦虑狂 没钱买糖 165/90 努力赚钱养老婆一起吃糖 每个消息都会回哦",
+        "id": "1967682960624324614",
+        "location": "深圳 南山",
+        "name": "🍥醋坛子🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980766611427528704/-mDNaiHR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 68,
+          "like_count": 8,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 29
+        },
+        "username": "roujiayiya",
+        "verified": false
+      }
+    ]
+  }
+}

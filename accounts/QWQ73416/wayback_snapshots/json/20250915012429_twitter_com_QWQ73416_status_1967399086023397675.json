@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967365709996171264"
+      ],
+      "media_source_tweet_id": [
+        "1967365735841399250"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1967399086023397675",
+    "created_at": "2025-09-15T01:24:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-15T02:24:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967399086023397675"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1692963782501556224",
+          "start": 3,
+          "username": "1mop1cs"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/llU58PeZyM",
+          "end": 39,
+          "expanded_url": "https://x.com/1mop1cs/status/1967365735841399250/photo/1",
+          "media_key": "3_1967365709996171264",
+          "start": 16,
+          "url": "https://t.co/llU58PeZyM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967399086023397675",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 81
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967365735841399250",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @1mop1cs: rk https://t.co/llU58PeZyM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 852,
+        "media_key": "3_1967365709996171264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G018sI-bIAAvG4Y.png",
+        "width": 740
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967365709996171264"
+          ],
+          "media_source_tweet_id": [
+            "1967365735841399250"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1967399086023397675",
+        "created_at": "2025-09-15T01:24:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T02:24:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967399086023397675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1692963782501556224",
+              "start": 3,
+              "username": "1mop1cs"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/llU58PeZyM",
+              "end": 39,
+              "expanded_url": "https://x.com/1mop1cs/status/1967365735841399250/photo/1",
+              "media_key": "3_1967365709996171264",
+              "start": 16,
+              "url": "https://t.co/llU58PeZyM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967399086023397675",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 81
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967365735841399250",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @1mop1cs: rk https://t.co/llU58PeZyM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967365709996171264"
+          ]
+        },
+        "author_id": "1692963782501556224",
+        "conversation_id": "1967365735841399250",
+        "created_at": "2025-09-14T23:11:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T00:11:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967365735841399250"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/llU58PeZyM",
+              "end": 26,
+              "expanded_url": "https://x.com/1mop1cs/status/1967365735841399250/photo/1",
+              "media_key": "3_1967365709996171264",
+              "start": 3,
+              "url": "https://t.co/llU58PeZyM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967365735841399250",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 83,
+          "impression_count": 6122,
+          "like_count": 853,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 81
+        },
+        "reply_settings": "everyone",
+        "text": "rk https://t.co/llU58PeZyM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 223,
+          "like_count": 2627,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 685
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-19T18:16:46.000Z",
+        "description": "絵、うごメモなど",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/1mop1cs",
+                "end": 23,
+                "expanded_url": "https://lit.link/1mop1cs",
+                "start": 0,
+                "url": "https://t.co/lAgZY3uANk"
+              }
+            ]
+          }
+        },
+        "id": "1692963782501556224",
+        "location": "棒バト",
+        "name": "ｲﾓ.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951843137175048192/oEXa_j2__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21466,
+          "following_count": 786,
+          "like_count": 48617,
+          "listed_count": 124,
+          "media_count": 251,
+          "tweet_count": 1043
+        },
+        "url": "https://t.co/lAgZY3uANk",
+        "username": "1mop1cs",
+        "verified": false
+      }
+    ]
+  }
+}

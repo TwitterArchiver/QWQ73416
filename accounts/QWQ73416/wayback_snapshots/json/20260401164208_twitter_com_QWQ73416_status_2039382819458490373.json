@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "2039382819458490373",
+    "created_at": "2026-04-01T16:42:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T17:42:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039382819458490373"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ZX65535plus1/s…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/ZX65535plus1/status/2039257750585356566",
+          "start": 9,
+          "url": "https://t.co/JG9ZnYmG4d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039382819458490373",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039257750585356566",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "要变天了。。。😔 https://t.co/JG9ZnYmG4d"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "2039382819458490373",
+        "created_at": "2026-04-01T16:42:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T17:42:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039382819458490373"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ZX65535plus1/s…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/ZX65535plus1/status/2039257750585356566",
+              "start": 9,
+              "url": "https://t.co/JG9ZnYmG4d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039382819458490373",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039257750585356566",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "要变天了。。。😔 https://t.co/JG9ZnYmG4d"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1844926832967286785",
+        "conversation_id": "2039257750585356566",
+        "created_at": "2026-04-01T08:25:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T09:25:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039257750585356566"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039257750585356566",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4783,
+          "like_count": 78,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "喂，你们没注意到么，熟悉的阳刚之气论调又来了，结合一下最近大范围封群封号和控舆\n我真的很担心2022年的12月会变本加厉的再来一次"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10🌟|GAHT/HRT:2025.10.7|\n割手的痕迹被我妈看到了，被骂了一顿|\n好闺蜜 @N2OXYN |\n→I an not a vitual account.(T~T)←|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 47,
+                "username": "N2OXYN"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "name": "🧊泠小米❄️",
+        "pinned_tweet_id": "2037669545633325393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023719096047771648/WvkPh1aM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 315,
+          "like_count": 6328,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 1609
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T02:23:45.000Z",
+        "description": "过于调皮有时被当做S的欠拴brat  |  \n只要不去就诊我就是健全B  |  \n大体上是直的，除非女人你在玩火",
+        "id": "1844926832967286785",
+        "location": "万达广场楼下",
+        "name": "小竹子一掰就断🏳️‍⚧️",
+        "pinned_tweet_id": "2039257750585356566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036702817168265216/LUEbpUzW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3984,
+          "following_count": 1422,
+          "like_count": 71227,
+          "listed_count": 4,
+          "media_count": 1012,
+          "tweet_count": 19997
+        },
+        "username": "ZX65535plus1",
+        "verified": false
+      }
+    ]
+  }
+}

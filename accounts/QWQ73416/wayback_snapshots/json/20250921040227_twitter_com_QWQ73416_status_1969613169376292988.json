@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969575061754691584"
+      ],
+      "media_source_tweet_id": [
+        "1969575445827109199"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1969613169376292988",
+    "created_at": "2025-09-21T04:02:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T05:02:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969613169376292988"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 41,
+          "start": 34,
+          "tag": "東北きりたん"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1959095234320900096",
+          "start": 3,
+          "username": "kuyou_VRC"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/X2U77y1bCx",
+          "end": 65,
+          "expanded_url": "https://x.com/kuyou_VRC/status/1969575445827109199/photo/1",
+          "media_key": "3_1969575061754691584",
+          "start": 42,
+          "url": "https://t.co/X2U77y1bCx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969613169376292988",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 202
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969575445827109199",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kuyou_VRC: 褐色エジプト猫耳ジト目きりたん🐈‍⬛\n#東北きりたん https://t.co/X2U77y1bCx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1546,
+        "media_key": "3_1969575061754691584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1VWFVpbQAA4wlh.jpg",
+        "width": 1100
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969575061754691584"
+          ],
+          "media_source_tweet_id": [
+            "1969575445827109199"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1969613169376292988",
+        "created_at": "2025-09-21T04:02:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T05:02:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969613169376292988"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 34,
+              "tag": "東北きりたん"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1959095234320900096",
+              "start": 3,
+              "username": "kuyou_VRC"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/X2U77y1bCx",
+              "end": 65,
+              "expanded_url": "https://x.com/kuyou_VRC/status/1969575445827109199/photo/1",
+              "media_key": "3_1969575061754691584",
+              "start": 42,
+              "url": "https://t.co/X2U77y1bCx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969613169376292988",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 202
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969575445827109199",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kuyou_VRC: 褐色エジプト猫耳ジト目きりたん🐈‍⬛\n#東北きりたん https://t.co/X2U77y1bCx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969575061754691584"
+          ]
+        },
+        "author_id": "1959095234320900096",
+        "conversation_id": "1969575445827109199",
+        "created_at": "2025-09-21T01:32:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T02:32:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969575445827109199"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 19,
+              "tag": "東北きりたん"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/X2U77y1bCx",
+              "end": 50,
+              "expanded_url": "https://x.com/kuyou_VRC/status/1969575445827109199/photo/1",
+              "media_key": "3_1969575061754691584",
+              "start": 27,
+              "url": "https://t.co/X2U77y1bCx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969575445827109199",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 128,
+          "impression_count": 11634,
+          "like_count": 1138,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 202
+        },
+        "reply_settings": "everyone",
+        "text": "褐色エジプト猫耳ジト目きりたん🐈‍⬛\n#東北きりたん https://t.co/X2U77y1bCx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 237,
+          "like_count": 3087,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 829
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-23T03:28:29.000Z",
+        "description": "VRCキャラのイラストやメインアカで投稿できない叡智なイラストを投稿していきます！VRCではメスガキキプフェルやってます!\n九曜のサブアカ　避難所だよ！\nメイン　@__k_u_y_o_u__",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 81,
+                "username": "__k_u_y_o_u__"
+              }
+            ]
+          }
+        },
+        "id": "1959095234320900096",
+        "name": "くよう@VRC",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959097085489553411/mR3TZ8g8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 56,
+          "like_count": 46,
+          "listed_count": 6,
+          "media_count": 4,
+          "tweet_count": 56
+        },
+        "username": "kuyou_VRC",
+        "verified": false
+      }
+    ]
+  }
+}

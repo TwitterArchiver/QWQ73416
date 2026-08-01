@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1962772688482738386",
+    "created_at": "2025-09-02T07:00:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T08:00:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962772688482738386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1547097745797685249",
+          "start": 3,
+          "username": "sth_like_human"
+        },
+        {
+          "end": 29,
+          "id": "1123385386363969536",
+          "start": 20,
+          "username": "yozuha15"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962772688482738386",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962470924646772887",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sth_like_human: @yozuha15 买间充质干细胞外泌体滴眼液，效果很好，注意辨明产品质量"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1962772688482738386",
+        "created_at": "2025-09-02T07:00:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T08:00:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962772688482738386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1547097745797685249",
+              "start": 3,
+              "username": "sth_like_human"
+            },
+            {
+              "end": 29,
+              "id": "1123385386363969536",
+              "start": 20,
+              "username": "yozuha15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962772688482738386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962470924646772887",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sth_like_human: @yozuha15 买间充质干细胞外泌体滴眼液，效果很好，注意辨明产品质量"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547097745797685249",
+        "conversation_id": "1962450717958131972",
+        "created_at": "2025-09-01T11:01:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T12:01:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962470924646772887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1123385386363969536",
+              "start": 0,
+              "username": "yozuha15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962470924646772887",
+        "in_reply_to_user_id": "1123385386363969536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 73,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962450717958131972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yozuha15 买间充质干细胞外泌体滴眼液，效果很好，注意辨明产品质量"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|小推@QWQ1885|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "QWQ1885"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 198,
+          "like_count": 1747,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 473
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-13T05:57:38.000Z",
+        "description": "我也要bot",
+        "id": "1547097745797685249",
+        "name": "Flash flame",
+        "pinned_tweet_id": "1590122678585032705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1547097904061419520/qYUwbyMT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1636,
+          "following_count": 4185,
+          "like_count": 182388,
+          "listed_count": 10,
+          "media_count": 1994,
+          "tweet_count": 38650
+        },
+        "username": "sth_like_human",
+        "verified": true
+      },
+      {
+        "created_at": "2019-05-01T00:35:22.000Z",
+        "description": "=鱼子酱   水豚转发bot，本体是水豚‖虎鲸性恋月性恋三文鱼性恋‖真的不会写代码‖不懂二次元的美妙的人永别了",
+        "id": "1123385386363969536",
+        "location": "外太空✨",
+        "name": "讴歌终结之物",
+        "pinned_tweet_id": "1906329573811532207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1593854187460493312/xWWarLTy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2759,
+          "following_count": 1280,
+          "like_count": 5870,
+          "listed_count": 10,
+          "media_count": 1195,
+          "tweet_count": 11450
+        },
+        "username": "yozuha15",
+        "verified": false
+      }
+    ]
+  }
+}

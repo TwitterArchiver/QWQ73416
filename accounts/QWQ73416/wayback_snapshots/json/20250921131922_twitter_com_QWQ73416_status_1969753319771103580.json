@@ -1,0 +1,576 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969714578323095552"
+      ],
+      "media_source_tweet_id": [
+        "1969714583893086476"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "1969753319771103580",
+    "created_at": "2025-09-21T13:19:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T14:19:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969753319771103580"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 25,
+          "tag": "ブルアカ"
+        },
+        {
+          "end": 43,
+          "start": 31,
+          "tag": "BlueArchive"
+        },
+        {
+          "end": 63,
+          "start": 45,
+          "tag": "お気に入りの絵は何度再掲しても良い"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1883793781415358464",
+          "start": 3,
+          "username": "momoneXmomo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JZHo15lQp1",
+          "end": 87,
+          "expanded_url": "https://x.com/momoneXmomo/status/1969714583893086476/photo/1",
+          "media_key": "3_1969714578323095552",
+          "start": 64,
+          "url": "https://t.co/JZHo15lQp1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969753319771103580",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 167
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969714583893086476",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @momoneXmomo: セイア💛過去絵\n#ブルアカ　#BlueArchive \n#お気に入りの絵は何度再掲しても良い https://t.co/JZHo15lQp1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1302,
+        "media_key": "3_1969714578323095552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1XU-RXbQAAVlXA.jpg",
+        "width": 883
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969714578323095552"
+          ],
+          "media_source_tweet_id": [
+            "1969714583893086476"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1969753319771103580",
+        "created_at": "2025-09-21T13:19:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T14:19:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969753319771103580"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 25,
+              "tag": "ブルアカ"
+            },
+            {
+              "end": 43,
+              "start": 31,
+              "tag": "BlueArchive"
+            },
+            {
+              "end": 63,
+              "start": 45,
+              "tag": "お気に入りの絵は何度再掲しても良い"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1883793781415358464",
+              "start": 3,
+              "username": "momoneXmomo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JZHo15lQp1",
+              "end": 87,
+              "expanded_url": "https://x.com/momoneXmomo/status/1969714583893086476/photo/1",
+              "media_key": "3_1969714578323095552",
+              "start": 64,
+              "url": "https://t.co/JZHo15lQp1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969753319771103580",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 167
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969714583893086476",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @momoneXmomo: セイア💛過去絵\n#ブルアカ　#BlueArchive \n#お気に入りの絵は何度再掲しても良い https://t.co/JZHo15lQp1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969714578323095552"
+          ]
+        },
+        "author_id": "1883793781415358464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1969714583893086476",
+        "created_at": "2025-09-21T10:45:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T11:45:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969714583893086476"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 8,
+              "tag": "ブルアカ"
+            },
+            {
+              "end": 26,
+              "start": 14,
+              "tag": "BlueArchive"
+            },
+            {
+              "end": 46,
+              "start": 28,
+              "tag": "お気に入りの絵は何度再掲しても良い"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JZHo15lQp1",
+              "end": 70,
+              "expanded_url": "https://x.com/momoneXmomo/status/1969714583893086476/photo/1",
+              "media_key": "3_1969714578323095552",
+              "start": 47,
+              "url": "https://t.co/JZHo15lQp1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969714583893086476",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 163,
+          "impression_count": 12251,
+          "like_count": 1404,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 167
+        },
+        "reply_settings": "everyone",
+        "text": "セイア💛過去絵\n#ブルアカ　#BlueArchive \n#お気に入りの絵は何度再掲しても良い https://t.co/JZHo15lQp1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 237,
+          "like_count": 3127,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 849
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-27T08:27:15.000Z",
+        "description": "2025/3/31〜Post Start🎀 한국어.日本語OK 絵を描きます✍️ BlueArchive 🩵⚠️無断転載,使用禁止 ⚠️No unauthorized reproduction⚠️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/115134479",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/115134479",
+                "start": 0,
+                "url": "https://t.co/DoouvFYIgI"
+              }
+            ]
+          }
+        },
+        "id": "1883793781415358464",
+        "location": "pastel pink🫶🏻",
+        "name": "桃寝もも🎀",
+        "pinned_tweet_id": "1967176170535080409",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1922060589129474048/dNeBWwob_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8780,
+          "following_count": 25,
+          "like_count": 177,
+          "listed_count": 60,
+          "media_count": 24,
+          "tweet_count": 106
+        },
+        "url": "https://t.co/DoouvFYIgI",
+        "username": "momoneXmomo",
+        "verified": false
+      }
+    ]
+  }
+}

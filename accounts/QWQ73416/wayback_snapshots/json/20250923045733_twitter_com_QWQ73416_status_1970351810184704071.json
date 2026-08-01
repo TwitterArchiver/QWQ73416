@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970127381953495040"
+      ],
+      "media_source_tweet_id": [
+        "1970127398273523936"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1970351810184704071",
+    "created_at": "2025-09-23T04:57:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-23T05:57:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970351810184704071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1648627184829886465",
+          "start": 3,
+          "username": "ayan05910091117"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/msrquDBqYD",
+          "end": 52,
+          "expanded_url": "https://x.com/ayan05910091117/status/1970127398273523936/photo/1",
+          "media_key": "3_1970127381953495040",
+          "start": 29,
+          "url": "https://t.co/msrquDBqYD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970351810184704071",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 319
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970127398273523936",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ayan05910091117: o(╥﹏╥)o https://t.co/msrquDBqYD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1970127381953495040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1dMamubwAAeJsT.jpg",
+        "width": 1478
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970127381953495040"
+          ],
+          "media_source_tweet_id": [
+            "1970127398273523936"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1970351810184704071",
+        "created_at": "2025-09-23T04:57:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T05:57:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970351810184704071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1648627184829886465",
+              "start": 3,
+              "username": "ayan05910091117"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/msrquDBqYD",
+              "end": 52,
+              "expanded_url": "https://x.com/ayan05910091117/status/1970127398273523936/photo/1",
+              "media_key": "3_1970127381953495040",
+              "start": 29,
+              "url": "https://t.co/msrquDBqYD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970351810184704071",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 319
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970127398273523936",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ayan05910091117: o(╥﹏╥)o https://t.co/msrquDBqYD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970127381953495040"
+          ]
+        },
+        "author_id": "1648627184829886465",
+        "conversation_id": "1970127398273523936",
+        "created_at": "2025-09-22T14:05:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T15:05:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970127398273523936"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/msrquDBqYD",
+              "end": 31,
+              "expanded_url": "https://x.com/ayan05910091117/status/1970127398273523936/photo/1",
+              "media_key": "3_1970127381953495040",
+              "start": 8,
+              "url": "https://t.co/msrquDBqYD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970127398273523936",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 303,
+          "impression_count": 32990,
+          "like_count": 2985,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 319
+        },
+        "reply_settings": "everyone",
+        "text": "o(╥﹏╥)o https://t.co/msrquDBqYD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 240,
+          "like_count": 3280,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 903
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-19T09:59:02.000Z",
+        "description": "画画",
+        "id": "1648627184829886465",
+        "name": "阿魇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957852163990003713/JPJCfmxm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1115,
+          "following_count": 381,
+          "like_count": 6456,
+          "listed_count": 3,
+          "media_count": 101,
+          "tweet_count": 106
+        },
+        "username": "ayan05910091117",
+        "verified": false
+      }
+    ]
+  }
+}

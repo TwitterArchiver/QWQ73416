@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1971530804074533122",
+    "created_at": "2025-09-26T16:59:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-26T17:59:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971620551824429486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1365955107473383426",
+          "start": 0,
+          "username": "Takina_Jimato"
+        },
+        {
+          "end": 30,
+          "id": "1879338554511495168",
+          "start": 15,
+          "username": "BAshirasu_1226"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971620551824429486",
+    "in_reply_to_user_id": "1365955107473383426",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971530804074533122",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Takina_Jimato @BAshirasu_1226 前世，我曾是舞萌高手，被人陷害意外陨落，这一世我要拿回属于我的一切!"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1971530783765745664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1xIzV4a0AAM5OW.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1971530804074533122",
+        "created_at": "2025-09-26T16:59:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T17:59:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971620551824429486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1365955107473383426",
+              "start": 0,
+              "username": "Takina_Jimato"
+            },
+            {
+              "end": 30,
+              "id": "1879338554511495168",
+              "start": 15,
+              "username": "BAshirasu_1226"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971620551824429486",
+        "in_reply_to_user_id": "1365955107473383426",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971530804074533122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Takina_Jimato @BAshirasu_1226 前世，我曾是舞萌高手，被人陷害意外陨落，这一世我要拿回属于我的一切!"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971530783765745664"
+          ]
+        },
+        "author_id": "1365955107473383426",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1971530804074533122",
+        "created_at": "2025-09-26T11:02:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T12:02:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971530804074533122"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 29,
+              "tag": "药娘"
+            },
+            {
+              "end": 37,
+              "start": 33,
+              "tag": "MTF"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 54,
+              "id": "1879338554511495168",
+              "start": 39,
+              "username": "BAshirasu_1226"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/D7RlsRmqxB",
+              "end": 78,
+              "expanded_url": "https://x.com/Takina_Jimato/status/1971530804074533122/photo/1",
+              "media_key": "3_1971530783765745664",
+              "start": 55,
+              "url": "https://t.co/D7RlsRmqxB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971530804074533122",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 276,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜报，入坑不到两个月，我w0了！我现在是一个舞萌萌新了！\n#药娘 #MTF \n@BAshirasu_1226 https://t.co/D7RlsRmqxB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "pinned_tweet_id": "1971096075286216763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 252,
+          "like_count": 3420,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 966
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-28T09:21:03.000Z",
+        "description": "Takina(主)+Jimato(副)=Takijima｜CN&EN｜07｜无证含糖大只MTF｜导播｜设计｜心理学｜INTJ｜精神状态: 衰弱｜高功能解离｜183/55｜HRT: 24.9.4-11.30 重启: 25.3.27｜爱人: @BAshirasu_1226｜里推: @Takina_7ove｜🚪68",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 134,
+                "start": 119,
+                "username": "BAshirasu_1226"
+              },
+              {
+                "end": 151,
+                "start": 139,
+                "username": "Takina_7ove"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mtf.wiki",
+                "end": 23,
+                "expanded_url": "http://mtf.wiki",
+                "start": 0,
+                "url": "https://t.co/GtC1RQY1fK"
+              }
+            ]
+          }
+        },
+        "id": "1365955107473383426",
+        "location": "Hayaseの心中",
+        "name": "Takijima🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1954437389725630545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875006553067061248/HImokgVn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2359,
+          "following_count": 410,
+          "like_count": 437,
+          "listed_count": 4,
+          "media_count": 140,
+          "tweet_count": 989
+        },
+        "url": "https://t.co/GtC1RQY1fK",
+        "username": "Takina_Jimato",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-15T01:23:30.000Z",
+        "description": "06年 Mtf or MtX |翻车顺男|家长党|175cm/70kg|双相|精分|ENFP-T|抽象纯神人|音游入（底力恢复ing）|HRT2024.4.22|自切时间2025.6.10|BA厨小梓，舟厨特蕾西娅|闲散人员一只|永远爱@Takina_Jimato|里推:@mai_HAYASE_chu|🚪:77",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 118,
+                "username": "Takina_Jimato"
+              },
+              {
+                "end": 151,
+                "start": 136,
+                "username": "mai_HAYASE_chu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mtf.wiki",
+                "end": 23,
+                "expanded_url": "http://mtf.wiki",
+                "start": 0,
+                "url": "https://t.co/wlKM5cp85J"
+              }
+            ]
+          }
+        },
+        "id": "1879338554511495168",
+        "location": "SBGA",
+        "name": "Hayase.TPZ🍥🏳️‍⚧️🇹🇼🇯🇵 1989.6.4",
+        "pinned_tweet_id": "1954218012543680795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930520629725614080/-on79J_b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12194,
+          "following_count": 340,
+          "like_count": 1168,
+          "listed_count": 13,
+          "media_count": 192,
+          "tweet_count": 1333
+        },
+        "url": "https://t.co/wlKM5cp85J",
+        "username": "BAshirasu_1226",
+        "verified": false
+      }
+    ]
+  }
+}

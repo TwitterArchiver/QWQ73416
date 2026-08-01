@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "2059195892004278466",
+    "created_at": "2026-05-26T08:52:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T09:52:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059195892004278466"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/QWQ73416/statu…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/QWQ73416/status/2059195074991550825",
+          "start": 14,
+          "url": "https://t.co/gNFomsf6y1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059195892004278466",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059195074991550825",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "以后看到神人默认唐毓文了😊 https://t.co/gNFomsf6y1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4120,
+        "media_key": "3_2059195059942387712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJO6_zca8AARSwA.jpg",
+        "width": 1220
+      },
+      {
+        "height": 3332,
+        "media_key": "3_2059195060626092032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJO6_1_bcAAEUr4.jpg",
+        "width": 1220
+      },
+      {
+        "height": 4396,
+        "media_key": "3_2059195059942326272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJO6_zcaAAAOkzG.jpg",
+        "width": 1220
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2059195063822082048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJO7AB5aYAA1uyJ.jpg",
+        "width": 804
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "2059195892004278466",
+        "created_at": "2026-05-26T08:52:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T09:52:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059195892004278466"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/QWQ73416/statu…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/QWQ73416/status/2059195074991550825",
+              "start": 14,
+              "url": "https://t.co/gNFomsf6y1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059195892004278466",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059195074991550825",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "以后看到神人默认唐毓文了😊 https://t.co/gNFomsf6y1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059195059942387712",
+            "3_2059195060626092032",
+            "3_2059195059942326272",
+            "3_2059195063822082048"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "2059195074991550825",
+        "created_at": "2026-05-26T08:48:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T09:48:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059195074991550825"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N1eY9bHJez",
+              "end": 41,
+              "expanded_url": "https://x.com/QWQ73416/status/2059195074991550825/photo/1",
+              "media_key": "3_2059195059942387712",
+              "start": 18,
+              "url": "https://t.co/N1eY9bHJez"
+            },
+            {
+              "display_url": "pic.x.com/N1eY9bHJez",
+              "end": 41,
+              "expanded_url": "https://x.com/QWQ73416/status/2059195074991550825/photo/1",
+              "media_key": "3_2059195060626092032",
+              "start": 18,
+              "url": "https://t.co/N1eY9bHJez"
+            },
+            {
+              "display_url": "pic.x.com/N1eY9bHJez",
+              "end": 41,
+              "expanded_url": "https://x.com/QWQ73416/status/2059195074991550825/photo/1",
+              "media_key": "3_2059195059942326272",
+              "start": 18,
+              "url": "https://t.co/N1eY9bHJez"
+            },
+            {
+              "display_url": "pic.x.com/N1eY9bHJez",
+              "end": 41,
+              "expanded_url": "https://x.com/QWQ73416/status/2059195074991550825/photo/1",
+              "media_key": "3_2059195063822082048",
+              "start": 18,
+              "url": "https://t.co/N1eY9bHJez"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059195074991550825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "哪有什么神人双子星，只有唐毓文啊！ https://t.co/N1eY9bHJez"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "|GAHT/HRT:2025.10.7|\n我已经不想说任何了\n这里烂透了\n新推 @QWQ1885",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 40,
+                "username": "QWQ1885"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "name": "🧊泠小米BAYER❄️",
+        "pinned_tweet_id": "2059195074991550825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023719096047771648/WvkPh1aM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 688,
+          "following_count": 325,
+          "like_count": 6491,
+          "listed_count": 2,
+          "media_count": 59,
+          "tweet_count": 1721
+        },
+        "username": "QWQ73416",
+        "verified": false
+      }
+    ]
+  }
+}

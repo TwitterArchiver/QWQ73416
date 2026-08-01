@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1968351158084452767",
+    "created_at": "2025-09-18T04:33:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T05:33:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968533817842614527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1963118330707050496",
+          "start": 0,
+          "username": "mtnyan123"
+        },
+        {
+          "end": 22,
+          "id": "1946598569747894273",
+          "start": 11,
+          "username": "xmin240286"
+        },
+        {
+          "end": 34,
+          "id": "1893280336534216706",
+          "start": 23,
+          "username": "mtnyan8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968533817842614527",
+    "in_reply_to_user_id": "1963118330707050496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968452513558110620",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mtnyan123 @xmin240286 @mtnyan8964 面特有的多灾多难😢😢😢"
+  },
+  "errors": [
+    {
+      "detail": "Could not find user with entities.mentions.username: [mtnyan8964].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "mtnyan8964",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "mtnyan8964"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1968351158084452767",
+        "created_at": "2025-09-18T04:33:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T05:33:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968533817842614527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1963118330707050496",
+              "start": 0,
+              "username": "mtnyan123"
+            },
+            {
+              "end": 22,
+              "id": "1946598569747894273",
+              "start": 11,
+              "username": "xmin240286"
+            },
+            {
+              "end": 34,
+              "id": "1893280336534216706",
+              "start": 23,
+              "username": "mtnyan8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968533817842614527",
+        "in_reply_to_user_id": "1963118330707050496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968452513558110620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mtnyan123 @xmin240286 @mtnyan8964 面特有的多灾多难😢😢😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1963118330707050496",
+        "conversation_id": "1968351158084452767",
+        "created_at": "2025-09-17T23:10:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T00:10:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968452513558110620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1946598569747894273",
+              "start": 0,
+              "username": "xmin240286"
+            },
+            {
+              "end": 23,
+              "id": "1893280336534216706",
+              "start": 12,
+              "username": "mtnyan8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968452513558110620",
+        "in_reply_to_user_id": "1946598569747894273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968351158084452767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xmin240286 @mtnyan8964 可能是被盗号了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 229,
+          "like_count": 2966,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 790
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-03T05:54:31.000Z",
+        "description": "MtX🍥 / HRT：25.2.11 / 无证含糖｜泛性恋 / 极度社恐  / 缺爱b / 社会化程度极低的阿斯 / 一只努力学习做好人类的猫",
+        "id": "1963118330707050496",
+        "location": "亚硝酸钠共和国",
+        "name": "乌冬面🍥😿（大号疑似被盗",
+        "pinned_tweet_id": "1968452745377063222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968449968529920000/tt2tmkg-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 68,
+          "like_count": 113,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 27
+        },
+        "username": "mtnyan123",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-19T15:50:48.000Z",
+        "description": "含糖MtF｜INFP-T｜社会化程度极低的AS｜重度BPD｜重度抑郁｜C-PTSD｜多意识体｜病娇｜缺爱｜天残党｜家暴党｜无性恋｜性冷淡｜躺平摆烂无业｜精神药理学｜五年C#开发经验｜Telegram https://t.co/fUGMj5wLbc 我一直在",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/xmin0",
+                "end": 123,
+                "expanded_url": "http://t.me/xmin0",
+                "start": 100,
+                "url": "https://t.co/fUGMj5wLbc"
+              }
+            ]
+          }
+        },
+        "id": "1946598569747894273",
+        "name": "汐眠시오민🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1963077291875172543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962693560345731072/TE63EXWu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 614,
+          "following_count": 177,
+          "like_count": 2199,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 1480
+        },
+        "username": "xmin240286",
+        "verified": true
+      }
+    ]
+  }
+}

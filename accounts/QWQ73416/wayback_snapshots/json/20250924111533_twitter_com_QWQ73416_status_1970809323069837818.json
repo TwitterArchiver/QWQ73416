@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970543692932096003"
+      ],
+      "media_source_tweet_id": [
+        "1970544594057339240"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1970809323069837818",
+    "created_at": "2025-09-24T11:15:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T12:15:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970809323069837818"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "エジプト琴葉葵",
+          "probability": 0.1531,
+          "start": 18,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1907250110347837440",
+          "start": 3,
+          "username": "subwai2025"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uvICkQt7jY",
+          "end": 55,
+          "expanded_url": "https://x.com/subwai2025/status/1970544594057339240/photo/1",
+          "media_key": "3_1970543692932096003",
+          "start": 32,
+          "url": "https://t.co/uvICkQt7jY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970809323069837818",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 241
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970544594057339240",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @subwai2025: 褐色エジプト琴葉葵(蕾)です。 https://t.co/uvICkQt7jY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3432,
+        "media_key": "3_1970543692932096003",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1jHDF-aoAMAhH_.jpg",
+        "width": 1300
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970543692932096003"
+          ],
+          "media_source_tweet_id": [
+            "1970544594057339240"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1970809323069837818",
+        "created_at": "2025-09-24T11:15:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T12:15:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970809323069837818"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "エジプト琴葉葵",
+              "probability": 0.1531,
+              "start": 18,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1907250110347837440",
+              "start": 3,
+              "username": "subwai2025"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uvICkQt7jY",
+              "end": 55,
+              "expanded_url": "https://x.com/subwai2025/status/1970544594057339240/photo/1",
+              "media_key": "3_1970543692932096003",
+              "start": 32,
+              "url": "https://t.co/uvICkQt7jY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970809323069837818",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 241
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970544594057339240",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @subwai2025: 褐色エジプト琴葉葵(蕾)です。 https://t.co/uvICkQt7jY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970543692932096003"
+          ]
+        },
+        "author_id": "1907250110347837440",
+        "conversation_id": "1970544594057339240",
+        "created_at": "2025-09-23T17:43:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T18:43:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970544594057339240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uvICkQt7jY",
+              "end": 39,
+              "expanded_url": "https://x.com/subwai2025/status/1970544594057339240/photo/1",
+              "media_key": "3_1970543692932096003",
+              "start": 16,
+              "url": "https://t.co/uvICkQt7jY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970544594057339240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 220,
+          "impression_count": 25879,
+          "like_count": 1579,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 241
+        },
+        "reply_settings": "everyone",
+        "text": "褐色エジプト琴葉葵(蕾)です。 https://t.co/uvICkQt7jY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 244,
+          "like_count": 3313,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 920
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-02T01:54:09.000Z",
+        "description": "@tobewai_wk の合成音声概念公開メモです。たまにイラストの習作も投下。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "tobewai_wk"
+              }
+            ]
+          }
+        },
+        "id": "1907250110347837440",
+        "name": "さぶわい",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907256757849886720/A36p4yY8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 51,
+          "like_count": 825,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 428
+        },
+        "username": "subwai2025",
+        "verified": false
+      }
+    ]
+  }
+}

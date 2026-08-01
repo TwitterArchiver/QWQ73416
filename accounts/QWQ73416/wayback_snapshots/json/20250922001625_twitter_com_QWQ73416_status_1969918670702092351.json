@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969843397373693952"
+      ],
+      "media_source_tweet_id": [
+        "1969843408186597794"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1969918670702092351",
+    "created_at": "2025-09-22T00:16:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T01:16:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969918670702092351"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1328191787651923969",
+          "start": 3,
+          "username": "Milk_Tea_1993"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9F5cD6YC0y",
+          "end": 44,
+          "expanded_url": "https://x.com/Milk_Tea_1993/status/1969843408186597794/photo/1",
+          "media_key": "3_1969843397373693952",
+          "start": 21,
+          "url": "https://t.co/9F5cD6YC0y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969918670702092351",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 317
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969843408186597794",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Milk_Tea_1993: 🩷 https://t.co/9F5cD6YC0y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3062,
+        "media_key": "3_1969843397373693952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1ZKIhubkAAU8Ru.jpg",
+        "width": 1496
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969843397373693952"
+          ],
+          "media_source_tweet_id": [
+            "1969843408186597794"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1969918670702092351",
+        "created_at": "2025-09-22T00:16:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T01:16:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969918670702092351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1328191787651923969",
+              "start": 3,
+              "username": "Milk_Tea_1993"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9F5cD6YC0y",
+              "end": 44,
+              "expanded_url": "https://x.com/Milk_Tea_1993/status/1969843408186597794/photo/1",
+              "media_key": "3_1969843397373693952",
+              "start": 21,
+              "url": "https://t.co/9F5cD6YC0y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969918670702092351",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 317
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969843408186597794",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Milk_Tea_1993: 🩷 https://t.co/9F5cD6YC0y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969843397373693952"
+          ]
+        },
+        "author_id": "1328191787651923969",
+        "conversation_id": "1969843408186597794",
+        "created_at": "2025-09-21T19:17:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T20:17:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969843408186597794"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9F5cD6YC0y",
+              "end": 25,
+              "expanded_url": "https://x.com/Milk_Tea_1993/status/1969843408186597794/photo/1",
+              "media_key": "3_1969843397373693952",
+              "start": 2,
+              "url": "https://t.co/9F5cD6YC0y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969843408186597794",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 953,
+          "impression_count": 32953,
+          "like_count": 4776,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 317
+        },
+        "reply_settings": "everyone",
+        "text": "🩷 https://t.co/9F5cD6YC0y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 238,
+          "like_count": 3178,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 867
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-16T04:23:03.000Z",
+        "description": "【自介】社交雜魚奶茶\n【FANBOX】 https://t.co/8SVxh48ZLB\n【委託】 目前暫不接委託",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "milktea1993.fanbox.cc",
+                "end": 43,
+                "expanded_url": "http://milktea1993.fanbox.cc",
+                "start": 20,
+                "url": "https://t.co/8SVxh48ZLB"
+              }
+            ]
+          }
+        },
+        "id": "1328191787651923969",
+        "location": "Taiwan",
+        "name": "🧋Milk_Tea",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741528443941244928/YW1jTf-A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11106,
+          "following_count": 295,
+          "like_count": 38925,
+          "listed_count": 48,
+          "media_count": 108,
+          "tweet_count": 10230
+        },
+        "username": "Milk_Tea_1993",
+        "verified": false
+      }
+    ]
+  }
+}

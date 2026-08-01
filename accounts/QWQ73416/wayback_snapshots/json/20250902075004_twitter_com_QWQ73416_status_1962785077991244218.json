@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1962503609368908178",
+    "created_at": "2025-09-02T07:50:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T08:50:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962785077991244218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1688397365336850432",
+          "start": 0,
+          "username": "hongpigu980"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962785077991244218",
+    "in_reply_to_user_id": "1688397365336850432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962503609368908178",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hongpigu980 被捡到废品回收站就好了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 339,
+        "media_key": "3_1962503600753770496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzw2oIlagAArUqc.jpg",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1962503609368908178",
+        "created_at": "2025-09-02T07:50:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T08:50:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962785077991244218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1688397365336850432",
+              "start": 0,
+              "username": "hongpigu980"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962785077991244218",
+        "in_reply_to_user_id": "1688397365336850432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962503609368908178",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hongpigu980 被捡到废品回收站就好了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962503600753770496"
+          ]
+        },
+        "author_id": "1688397365336850432",
+        "conversation_id": "1962503609368908178",
+        "created_at": "2025-09-01T13:11:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T14:11:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962503609368908178"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PkaioGhWLE",
+              "end": 29,
+              "expanded_url": "https://x.com/hongpigu980/status/1962503609368908178/photo/1",
+              "media_key": "3_1962503600753770496",
+              "start": 6,
+              "url": "https://t.co/PkaioGhWLE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962503609368908178",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 58779,
+          "like_count": 742,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "我不行了吧 https://t.co/PkaioGhWLE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|小推@QWQ1885|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "QWQ1885"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 199,
+          "like_count": 1750,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 475
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-07T03:51:28.000Z",
+        "description": "“用性对抗平庸的生活”推广自辨/关评为广",
+        "id": "1688397365336850432",
+        "name": "你看起来不像处",
+        "pinned_tweet_id": "1962425475122548992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915355119677562884/LcbFYTd6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74941,
+          "following_count": 59,
+          "like_count": 74,
+          "listed_count": 72,
+          "media_count": 1106,
+          "tweet_count": 1427
+        },
+        "username": "hongpigu980",
+        "verified": true
+      }
+    ]
+  }
+}

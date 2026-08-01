@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1962016459166806276",
+    "created_at": "2025-08-31T05:15:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T06:15:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962021342485901789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1810321429180948480",
+          "start": 0,
+          "username": "A_small_chen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962021342485901789",
+    "in_reply_to_user_id": "1810321429180948480",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962020426839937246",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A_small_chen 还喜欢外放快手dj，游戏失败了就红温，正常说话是不会说的，筷子水泥之类的是全都会的(눈‸눈)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1962016459166806276",
+        "created_at": "2025-08-31T05:15:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T06:15:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962021342485901789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1810321429180948480",
+              "start": 0,
+              "username": "A_small_chen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962021342485901789",
+        "in_reply_to_user_id": "1810321429180948480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962020426839937246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A_small_chen 还喜欢外放快手dj，游戏失败了就红温，正常说话是不会说的，筷子水泥之类的是全都会的(눈‸눈)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1810321429180948480",
+        "conversation_id": "1962016459166806276",
+        "created_at": "2025-08-31T05:11:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T06:11:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962020426839937246"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1955503492145283072",
+              "start": 0,
+              "username": "QWQ73416"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962020426839937246",
+        "in_reply_to_user_id": "1955503492145283072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962016459166806276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QWQ73416 我的宿舍也是整天吸烟 早上吸晚上吸 全是二手烟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|小推@QWQ1885|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "QWQ1885"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 167,
+          "like_count": 1503,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 334
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-08T14:34:10.000Z",
+        "description": "2008.12.08 初来乍到 ♂ 高二 好好学习ing 学习mtf 并成为mtf  无糖 社恐 isfp 碎碎念  爱玩mc 互fo",
+        "id": "1810321429180948480",
+        "location": "洛阳",
+        "name": "愣了",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961295966558154752/BnBw946x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 68,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 44
+        },
+        "username": "A_small_chen",
+        "verified": false
+      }
+    ]
+  }
+}

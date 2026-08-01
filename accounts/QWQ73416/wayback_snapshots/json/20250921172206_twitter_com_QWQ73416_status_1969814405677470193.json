@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969771048536289280"
+      ],
+      "media_source_tweet_id": [
+        "1969771415869264147"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1969814405677470193",
+    "created_at": "2025-09-21T17:22:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T18:22:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969814405677470193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "222544679",
+          "start": 3,
+          "username": "fuwafuwa299"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lmQQwDUmJf",
+          "end": 42,
+          "expanded_url": "https://x.com/fuwafuwa299/status/1969771415869264147/photo/1",
+          "media_key": "3_1969771048536289280",
+          "start": 19,
+          "url": "https://t.co/lmQQwDUmJf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969814405677470193",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 135
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969771415869264147",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fuwafuwa299: 🐺 https://t.co/lmQQwDUmJf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_1969771048536289280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1YIVRTasAAjjfW.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969771048536289280"
+          ],
+          "media_source_tweet_id": [
+            "1969771415869264147"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1969814405677470193",
+        "created_at": "2025-09-21T17:22:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T18:22:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969814405677470193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "222544679",
+              "start": 3,
+              "username": "fuwafuwa299"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lmQQwDUmJf",
+              "end": 42,
+              "expanded_url": "https://x.com/fuwafuwa299/status/1969771415869264147/photo/1",
+              "media_key": "3_1969771048536289280",
+              "start": 19,
+              "url": "https://t.co/lmQQwDUmJf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969814405677470193",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 135
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969771415869264147",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fuwafuwa299: 🐺 https://t.co/lmQQwDUmJf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969771048536289280"
+          ]
+        },
+        "author_id": "222544679",
+        "conversation_id": "1969771415869264147",
+        "created_at": "2025-09-21T14:31:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T15:31:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969771415869264147"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lmQQwDUmJf",
+              "end": 25,
+              "expanded_url": "https://x.com/fuwafuwa299/status/1969771415869264147/photo/1",
+              "media_key": "3_1969771048536289280",
+              "start": 2,
+              "url": "https://t.co/lmQQwDUmJf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969771415869264147",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 184,
+          "impression_count": 13029,
+          "like_count": 1053,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 135
+        },
+        "reply_settings": "everyone",
+        "text": "🐺 https://t.co/lmQQwDUmJf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 238,
+          "like_count": 3139,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 857
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2010-12-03T18:44:15.000Z",
+        "description": "",
+        "id": "222544679",
+        "name": "なつげ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774454568023388160/ttbZZSbb_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13641,
+          "following_count": 484,
+          "like_count": 31125,
+          "listed_count": 208,
+          "media_count": 1762,
+          "tweet_count": 207756
+        },
+        "username": "fuwafuwa299",
+        "verified": false
+      }
+    ]
+  }
+}

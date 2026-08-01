@@ -1,0 +1,441 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1976971653914513408",
+        "3_1976971654577135616",
+        "3_1976971655629910016",
+        "3_1976971655424405504"
+      ],
+      "media_source_tweet_id": [
+        "1976971689830592673",
+        "1976971689830592673",
+        "1976971689830592673",
+        "1976971689830592673"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1977037863746519351",
+    "created_at": "2025-10-11T15:45:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T16:45:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977037863746519351"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 50,
+          "start": 46,
+          "tag": "xyn"
+        },
+        {
+          "end": 55,
+          "start": 51,
+          "tag": "mtf"
+        },
+        {
+          "end": 59,
+          "start": 56,
+          "tag": "药娘"
+        },
+        {
+          "end": 64,
+          "start": 60,
+          "tag": "跨性别"
+        },
+        {
+          "end": 70,
+          "start": 65,
+          "tag": "扭转机构"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1787748911878156288",
+          "start": 3,
+          "username": "Redemption_1207"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/p5mqSfTedb",
+          "end": 94,
+          "expanded_url": "https://x.com/Redemption_1207/status/1976971689830592673/photo/1",
+          "media_key": "3_1976971653914513408",
+          "start": 71,
+          "url": "https://t.co/p5mqSfTedb"
+        },
+        {
+          "display_url": "pic.x.com/p5mqSfTedb",
+          "end": 94,
+          "expanded_url": "https://x.com/Redemption_1207/status/1976971689830592673/photo/1",
+          "media_key": "3_1976971654577135616",
+          "start": 71,
+          "url": "https://t.co/p5mqSfTedb"
+        },
+        {
+          "display_url": "pic.x.com/p5mqSfTedb",
+          "end": 94,
+          "expanded_url": "https://x.com/Redemption_1207/status/1976971689830592673/photo/1",
+          "media_key": "3_1976971655629910016",
+          "start": 71,
+          "url": "https://t.co/p5mqSfTedb"
+        },
+        {
+          "display_url": "pic.x.com/p5mqSfTedb",
+          "end": 94,
+          "expanded_url": "https://x.com/Redemption_1207/status/1976971689830592673/photo/1",
+          "media_key": "3_1976971655424405504",
+          "start": 71,
+          "url": "https://t.co/p5mqSfTedb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977037863746519351",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976971689830592673",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Redemption_1207: 一些扭转机构（戒网瘾机构）常见的给家长洗脑的方式 #xyn #mtf #药娘 #跨性别 #扭转机构 https://t.co/p5mqSfTedb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1976971653914513408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2-dPqqXUAA1ZNL.jpg",
+        "width": 920
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1976971654577135616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2-dPtIWIAAtwM3.jpg",
+        "width": 920
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1976971655629910016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2-dPxDWMAAqGHC.jpg",
+        "width": 920
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1976971655424405504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2-dPwSWcAAbOwV.jpg",
+        "width": 920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976971653914513408",
+            "3_1976971654577135616",
+            "3_1976971655629910016",
+            "3_1976971655424405504"
+          ],
+          "media_source_tweet_id": [
+            "1976971689830592673",
+            "1976971689830592673",
+            "1976971689830592673",
+            "1976971689830592673"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1977037863746519351",
+        "created_at": "2025-10-11T15:45:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T16:45:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977037863746519351"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 50,
+              "start": 46,
+              "tag": "xyn"
+            },
+            {
+              "end": 55,
+              "start": 51,
+              "tag": "mtf"
+            },
+            {
+              "end": 59,
+              "start": 56,
+              "tag": "药娘"
+            },
+            {
+              "end": 64,
+              "start": 60,
+              "tag": "跨性别"
+            },
+            {
+              "end": 70,
+              "start": 65,
+              "tag": "扭转机构"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1787748911878156288",
+              "start": 3,
+              "username": "Redemption_1207"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p5mqSfTedb",
+              "end": 94,
+              "expanded_url": "https://x.com/Redemption_1207/status/1976971689830592673/photo/1",
+              "media_key": "3_1976971653914513408",
+              "start": 71,
+              "url": "https://t.co/p5mqSfTedb"
+            },
+            {
+              "display_url": "pic.x.com/p5mqSfTedb",
+              "end": 94,
+              "expanded_url": "https://x.com/Redemption_1207/status/1976971689830592673/photo/1",
+              "media_key": "3_1976971654577135616",
+              "start": 71,
+              "url": "https://t.co/p5mqSfTedb"
+            },
+            {
+              "display_url": "pic.x.com/p5mqSfTedb",
+              "end": 94,
+              "expanded_url": "https://x.com/Redemption_1207/status/1976971689830592673/photo/1",
+              "media_key": "3_1976971655629910016",
+              "start": 71,
+              "url": "https://t.co/p5mqSfTedb"
+            },
+            {
+              "display_url": "pic.x.com/p5mqSfTedb",
+              "end": 94,
+              "expanded_url": "https://x.com/Redemption_1207/status/1976971689830592673/photo/1",
+              "media_key": "3_1976971655424405504",
+              "start": 71,
+              "url": "https://t.co/p5mqSfTedb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977037863746519351",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976971689830592673",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Redemption_1207: 一些扭转机构（戒网瘾机构）常见的给家长洗脑的方式 #xyn #mtf #药娘 #跨性别 #扭转机构 https://t.co/p5mqSfTedb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976971653914513408",
+            "3_1976971654577135616",
+            "3_1976971655629910016",
+            "3_1976971655424405504"
+          ]
+        },
+        "author_id": "1787748911878156288",
+        "conversation_id": "1976971689830592673",
+        "created_at": "2025-10-11T11:22:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T12:22:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976971689830592673"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 25,
+              "tag": "xyn"
+            },
+            {
+              "end": 34,
+              "start": 30,
+              "tag": "mtf"
+            },
+            {
+              "end": 38,
+              "start": 35,
+              "tag": "药娘"
+            },
+            {
+              "end": 43,
+              "start": 39,
+              "tag": "跨性别"
+            },
+            {
+              "end": 49,
+              "start": 44,
+              "tag": "扭转机构"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/p5mqSfTedb",
+              "end": 73,
+              "expanded_url": "https://x.com/Redemption_1207/status/1976971689830592673/photo/1",
+              "media_key": "3_1976971653914513408",
+              "start": 50,
+              "url": "https://t.co/p5mqSfTedb"
+            },
+            {
+              "display_url": "pic.x.com/p5mqSfTedb",
+              "end": 73,
+              "expanded_url": "https://x.com/Redemption_1207/status/1976971689830592673/photo/1",
+              "media_key": "3_1976971654577135616",
+              "start": 50,
+              "url": "https://t.co/p5mqSfTedb"
+            },
+            {
+              "display_url": "pic.x.com/p5mqSfTedb",
+              "end": 73,
+              "expanded_url": "https://x.com/Redemption_1207/status/1976971689830592673/photo/1",
+              "media_key": "3_1976971655629910016",
+              "start": 50,
+              "url": "https://t.co/p5mqSfTedb"
+            },
+            {
+              "display_url": "pic.x.com/p5mqSfTedb",
+              "end": 73,
+              "expanded_url": "https://x.com/Redemption_1207/status/1976971689830592673/photo/1",
+              "media_key": "3_1976971655424405504",
+              "start": 50,
+              "url": "https://t.co/p5mqSfTedb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976971689830592673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1337,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "一些扭转机构（戒网瘾机构）常见的给家长洗脑的方式 #xyn #mtf #药娘 #跨性别 #扭转机构 https://t.co/p5mqSfTedb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|GAHT/HRT:2025.10.7|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "MTF.wiki",
+                "end": 23,
+                "expanded_url": "http://MTF.wiki",
+                "start": 0,
+                "url": "https://t.co/7tmPTkeoFF"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "∠( ᐛ 」∠)_",
+        "name": "🍥(￣ヘ￣🍥)",
+        "pinned_tweet_id": "1971859627869708434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 266,
+          "like_count": 4066,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1088
+        },
+        "url": "https://t.co/7tmPTkeoFF",
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-07T07:39:01.000Z",
+        "description": "MtF | hrt 2014.10.8 | INFJ | AuDHD",
+        "id": "1787748911878156288",
+        "name": "玥音止梦🏳‍⚧️",
+        "pinned_tweet_id": "1975744800734273961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918896469349928960/_xcW6Sl__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 839,
+          "following_count": 1434,
+          "like_count": 2288,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 441
+        },
+        "username": "Redemption_1207",
+        "verified": false
+      }
+    ]
+  }
+}

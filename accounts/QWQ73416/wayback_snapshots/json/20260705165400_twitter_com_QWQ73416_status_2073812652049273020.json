@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "2073631983167541378",
+    "created_at": "2026-07-05T16:54:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T17:54:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073812652049273020"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2033766875478282240",
+          "start": 0,
+          "username": "nek0114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073812652049273020",
+    "in_reply_to_user_id": "2033766875478282240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073631983167541378",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nek0114514 希望你别选择跳楼和跳河，好吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "2073631983167541378",
+        "created_at": "2026-07-05T16:54:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T17:54:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073812652049273020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033766875478282240",
+              "start": 0,
+              "username": "nek0114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073812652049273020",
+        "in_reply_to_user_id": "2033766875478282240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073631983167541378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nek0114514 希望你别选择跳楼和跳河，好吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033766875478282240",
+        "conversation_id": "2073631983167541378",
+        "created_at": "2026-07-05T04:56:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T05:56:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073631983167541378"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073631983167541378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1522,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "过几个小时自杀 这毕竟不是我大号 只是告知防止别人担心 放心你们找不到我的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "|GAHT/HRT:2025.10.7|\n这里烂透了，以后任何事情都别跟我扯上关系，不参与任何所谓的“跨圈”的任何事情\n新推 @QWQ1885",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 63,
+                "username": "QWQ1885"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "name": "🧊泠小米BAYER❄️",
+        "pinned_tweet_id": "2059195074991550825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023719096047771648/WvkPh1aM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 693,
+          "following_count": 321,
+          "like_count": 6341,
+          "listed_count": 2,
+          "media_count": 59,
+          "tweet_count": 1736
+        },
+        "url": "",
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-17T04:49:40.000Z",
+        "description": "神秘小跨 可能是mtx 10后小登 称呼随意 163cm46kg 性取向男 不约\n目前不打算吃雌二醇 半pass 男的认为我是男的 网上部分女的认为我是女的\n疑似bpd和精神分裂症但我不管不查不治 爱改花刀不od 人很怪",
+        "id": "2033766875478282240",
+        "name": "貓 貓 入🏳️‍⚧️",
+        "pinned_tweet_id": "2067536273498136637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067437189386960896/WgcMkM4__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 102,
+          "like_count": 1178,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 75
+        },
+        "url": "",
+        "username": "nek0114514",
+        "verified": false
+      }
+    ]
+  }
+}

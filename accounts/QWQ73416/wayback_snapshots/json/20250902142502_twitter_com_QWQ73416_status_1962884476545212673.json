@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962569336880799744"
+      ],
+      "media_source_tweet_id": [
+        "1962569353356025860"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1962884476545212673",
+    "created_at": "2025-09-02T14:25:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T15:25:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962884476545212673"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1264929033097080832",
+          "start": 3,
+          "username": "xiaofang23333"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Nv4q9yf0xh",
+          "end": 64,
+          "expanded_url": "https://x.com/xiaofang23333/status/1962569353356025860/photo/1",
+          "media_key": "3_1962569336880799744",
+          "start": 41,
+          "url": "https://t.co/Nv4q9yf0xh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962884476545212673",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962569353356025860",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaofang23333: 再补一张 白里透粉 80d还是有点透... https://t.co/Nv4q9yf0xh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1962569336880799744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzxyaevaoAAZqnG.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962569336880799744"
+          ],
+          "media_source_tweet_id": [
+            "1962569353356025860"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1962884476545212673",
+        "created_at": "2025-09-02T14:25:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T15:25:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962884476545212673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1264929033097080832",
+              "start": 3,
+              "username": "xiaofang23333"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nv4q9yf0xh",
+              "end": 64,
+              "expanded_url": "https://x.com/xiaofang23333/status/1962569353356025860/photo/1",
+              "media_key": "3_1962569336880799744",
+              "start": 41,
+              "url": "https://t.co/Nv4q9yf0xh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962884476545212673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962569353356025860",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaofang23333: 再补一张 白里透粉 80d还是有点透... https://t.co/Nv4q9yf0xh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962569336880799744"
+          ]
+        },
+        "author_id": "1264929033097080832",
+        "conversation_id": "1962569353356025860",
+        "created_at": "2025-09-01T17:32:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T18:32:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962569353356025860"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Nv4q9yf0xh",
+              "end": 45,
+              "expanded_url": "https://x.com/xiaofang23333/status/1962569353356025860/photo/1",
+              "media_key": "3_1962569336880799744",
+              "start": 22,
+              "url": "https://t.co/Nv4q9yf0xh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962569353356025860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2684,
+          "like_count": 93,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "再补一张 白里透粉 80d还是有点透... https://t.co/Nv4q9yf0xh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|小推@QWQ1885|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "QWQ1885"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 200,
+          "like_count": 1773,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 490
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-25T14:39:32.000Z",
+        "description": "无论多久，无论走了多远，都不是自己所期待的地方",
+        "id": "1264929033097080832",
+        "name": "我是互联网猫猫糕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889934542565257216/D-4tN5-l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1113,
+          "following_count": 263,
+          "like_count": 1381,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 750
+        },
+        "username": "xiaofang23333",
+        "verified": false
+      }
+    ]
+  }
+}

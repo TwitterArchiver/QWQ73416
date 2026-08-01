@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969988049896439808"
+      ],
+      "media_source_tweet_id": [
+        "1969988055579930934"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1970277155570634903",
+    "created_at": "2025-09-23T00:00:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-23T01:00:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970277155570634903"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 36,
+          "normalized_text": "loli hags",
+          "probability": 0.5403,
+          "start": 28,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1761425005177438209",
+          "start": 3,
+          "username": "elfinpsyop"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VrGOD1le88",
+          "end": 72,
+          "expanded_url": "https://x.com/elfinpsyop/status/1969988055579930934/photo/1",
+          "media_key": "3_1969988049896439808",
+          "start": 49,
+          "url": "https://t.co/VrGOD1le88"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970277155570634903",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 127
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969988055579930934",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @elfinpsyop: do you like loli hags? be honest https://t.co/VrGOD1le88"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1226,
+        "media_key": "3_1969988049896439808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1bNsaXXgAAqaqo.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969988049896439808"
+          ],
+          "media_source_tweet_id": [
+            "1969988055579930934"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1970277155570634903",
+        "created_at": "2025-09-23T00:00:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T01:00:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970277155570634903"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 36,
+              "normalized_text": "loli hags",
+              "probability": 0.5403,
+              "start": 28,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1761425005177438209",
+              "start": 3,
+              "username": "elfinpsyop"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VrGOD1le88",
+              "end": 72,
+              "expanded_url": "https://x.com/elfinpsyop/status/1969988055579930934/photo/1",
+              "media_key": "3_1969988049896439808",
+              "start": 49,
+              "url": "https://t.co/VrGOD1le88"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970277155570634903",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 127
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969988055579930934",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @elfinpsyop: do you like loli hags? be honest https://t.co/VrGOD1le88"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969988049896439808"
+          ]
+        },
+        "author_id": "1761425005177438209",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1969988055579930934",
+        "created_at": "2025-09-22T04:52:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T05:52:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969988055579930934"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "loli hags",
+              "probability": 0.6597,
+              "start": 12,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VrGOD1le88",
+              "end": 56,
+              "expanded_url": "https://x.com/elfinpsyop/status/1969988055579930934/photo/1",
+              "media_key": "3_1969988049896439808",
+              "start": 33,
+              "url": "https://t.co/VrGOD1le88"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969988055579930934",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 379,
+          "impression_count": 23377,
+          "like_count": 3277,
+          "quote_count": 2,
+          "reply_count": 75,
+          "retweet_count": 127
+        },
+        "reply_settings": "everyone",
+        "text": "do you like loli hags? be honest https://t.co/VrGOD1le88"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 240,
+          "like_count": 3269,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 899
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-24T16:17:13.000Z",
+        "description": "femcels arent real. federal agent doomcoded vtuber 🪖🍺 i am the epitome of grotesqueness ✉: elfinpsyop@gmail.com #elfpsyart https://t.co/kPrswkY2VB",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 122,
+                "start": 112,
+                "tag": "elfpsyart"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "elfinpsyop.carrd.co",
+                "end": 146,
+                "expanded_url": "https://elfinpsyop.carrd.co",
+                "start": 123,
+                "url": "https://t.co/kPrswkY2VB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@elfinpsyop",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@elfinpsyop",
+                "start": 0,
+                "url": "https://t.co/TdKijppm5I"
+              }
+            ]
+          }
+        },
+        "id": "1761425005177438209",
+        "name": "elfinpsyop",
+        "pinned_tweet_id": "1943822884696203641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967668328022835200/lkUvt7_N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94049,
+          "following_count": 818,
+          "like_count": 33771,
+          "listed_count": 128,
+          "media_count": 3053,
+          "tweet_count": 10855
+        },
+        "url": "https://t.co/TdKijppm5I",
+        "username": "elfinpsyop",
+        "verified": true
+      }
+    ]
+  }
+}

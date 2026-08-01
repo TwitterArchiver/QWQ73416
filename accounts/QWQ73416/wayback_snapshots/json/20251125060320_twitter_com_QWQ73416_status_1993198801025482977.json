@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1993198792246738944",
+        "3_1993198792490029056",
+        "3_1993198792464908290"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1993198801025482977",
+    "created_at": "2025-11-25T06:03:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-25T07:03:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1993198801025482977"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9SGTs6jM1s",
+          "end": 63,
+          "expanded_url": "https://x.com/QWQ73416/status/1993198801025482977/photo/1",
+          "media_key": "3_1993198792246738944",
+          "start": 40,
+          "url": "https://t.co/9SGTs6jM1s"
+        },
+        {
+          "display_url": "pic.x.com/9SGTs6jM1s",
+          "end": 63,
+          "expanded_url": "https://x.com/QWQ73416/status/1993198801025482977/photo/1",
+          "media_key": "3_1993198792490029056",
+          "start": 40,
+          "url": "https://t.co/9SGTs6jM1s"
+        },
+        {
+          "display_url": "pic.x.com/9SGTs6jM1s",
+          "end": 63,
+          "expanded_url": "https://x.com/QWQ73416/status/1993198801025482977/photo/1",
+          "media_key": "3_1993198792464908290",
+          "start": 40,
+          "url": "https://t.co/9SGTs6jM1s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993198801025482977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "帮面条喵挂的（🚪52）\n14岁药娘圆角\np1是她的照片\np2价格表\np3收款码 https://t.co/9SGTs6jM1s"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1993198792246738944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6lDvbqawAAc2N_.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_1993198792490029056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6lDvckbEAAa1We.jpg",
+        "width": 864
+      },
+      {
+        "height": 1210,
+        "media_key": "3_1993198792464908290",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6lDvcebwAI_n0V.jpg",
+        "width": 1210
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993198792246738944",
+            "3_1993198792490029056",
+            "3_1993198792464908290"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1993198801025482977",
+        "created_at": "2025-11-25T06:03:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-25T07:03:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993198801025482977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9SGTs6jM1s",
+              "end": 63,
+              "expanded_url": "https://x.com/QWQ73416/status/1993198801025482977/photo/1",
+              "media_key": "3_1993198792246738944",
+              "start": 40,
+              "url": "https://t.co/9SGTs6jM1s"
+            },
+            {
+              "display_url": "pic.x.com/9SGTs6jM1s",
+              "end": 63,
+              "expanded_url": "https://x.com/QWQ73416/status/1993198801025482977/photo/1",
+              "media_key": "3_1993198792490029056",
+              "start": 40,
+              "url": "https://t.co/9SGTs6jM1s"
+            },
+            {
+              "display_url": "pic.x.com/9SGTs6jM1s",
+              "end": 63,
+              "expanded_url": "https://x.com/QWQ73416/status/1993198801025482977/photo/1",
+              "media_key": "3_1993198792464908290",
+              "start": 40,
+              "url": "https://t.co/9SGTs6jM1s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993198801025482977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "帮面条喵挂的（🚪52）\n14岁药娘圆角\np1是她的照片\np2价格表\np3收款码 https://t.co/9SGTs6jM1s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|GAHT/HRT:2025.10.7|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "MTF.wiki",
+                "end": 23,
+                "expanded_url": "http://MTF.wiki",
+                "start": 0,
+                "url": "https://t.co/7tmPTkdQQ7"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "∠( ᐛ 」∠)_",
+        "name": "🍥泠小米🍥",
+        "pinned_tweet_id": "1992944524965130750",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979202568543784960/OeW4bpMU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 278,
+          "like_count": 4243,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 1132
+        },
+        "url": "https://t.co/7tmPTkdQQ7",
+        "username": "QWQ73416",
+        "verified": false
+      }
+    ]
+  }
+}

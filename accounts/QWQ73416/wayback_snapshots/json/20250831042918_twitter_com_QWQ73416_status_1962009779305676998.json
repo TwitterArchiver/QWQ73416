@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1961738164693065728"
+      ],
+      "media_source_tweet_id": [
+        "1961738171106148637"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1962009779305676998",
+    "created_at": "2025-08-31T04:29:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T05:29:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962009779305676998"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1881985526187913216",
+          "start": 3,
+          "username": "mellt_1c"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zbKqocPbe3",
+          "end": 40,
+          "expanded_url": "https://x.com/mellt_1c/status/1961738171106148637/photo/1",
+          "media_key": "3_1961738164693065728",
+          "start": 17,
+          "url": "https://t.co/zbKqocPbe3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962009779305676998",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 402
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961738171106148637",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @mellt_1c: 5h https://t.co/zbKqocPbe3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1445,
+        "media_key": "3_1961738164693065728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzl-d5DbYAANin3.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961738164693065728"
+          ],
+          "media_source_tweet_id": [
+            "1961738171106148637"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1962009779305676998",
+        "created_at": "2025-08-31T04:29:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T05:29:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962009779305676998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1881985526187913216",
+              "start": 3,
+              "username": "mellt_1c"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zbKqocPbe3",
+              "end": 40,
+              "expanded_url": "https://x.com/mellt_1c/status/1961738171106148637/photo/1",
+              "media_key": "3_1961738164693065728",
+              "start": 17,
+              "url": "https://t.co/zbKqocPbe3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962009779305676998",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 402
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961738171106148637",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @mellt_1c: 5h https://t.co/zbKqocPbe3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961738164693065728"
+          ]
+        },
+        "author_id": "1881985526187913216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1961738171106148637",
+        "created_at": "2025-08-30T10:30:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T11:30:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961738171106148637"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zbKqocPbe3",
+              "end": 26,
+              "expanded_url": "https://x.com/mellt_1c/status/1961738171106148637/photo/1",
+              "media_key": "3_1961738164693065728",
+              "start": 3,
+              "url": "https://t.co/zbKqocPbe3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961738171106148637",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 464,
+          "impression_count": 48044,
+          "like_count": 3976,
+          "quote_count": 8,
+          "reply_count": 0,
+          "retweet_count": 402
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "5h https://t.co/zbKqocPbe3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|小推@QWQ1885|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "QWQ1885"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 165,
+          "like_count": 1487,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 320
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-22T08:41:37.000Z",
+        "description": "あると大好きbot ︎©︎mellt https://t.co/DR7z3SCl3c",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "moe-empire.neocities.org",
+                "end": 42,
+                "expanded_url": "https://moe-empire.neocities.org/",
+                "start": 19,
+                "url": "https://t.co/DR7z3SCl3c"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@mellt_1c",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@mellt_1c",
+                "start": 0,
+                "url": "https://t.co/yoIWWMqaS8"
+              }
+            ]
+          }
+        },
+        "id": "1881985526187913216",
+        "location": "もえもえ帝国　@xxx_mellt_xxx",
+        "name": "🧷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930403340074287104/IbT7Bost_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5463,
+          "following_count": 80,
+          "like_count": 474,
+          "listed_count": 13,
+          "media_count": 7,
+          "tweet_count": 59
+        },
+        "url": "https://t.co/yoIWWMqaS8",
+        "username": "mellt_1c",
+        "verified": false
+      }
+    ]
+  }
+}

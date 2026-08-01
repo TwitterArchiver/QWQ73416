@@ -1,0 +1,395 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969618870727294978"
+      ],
+      "media_source_tweet_id": [
+        "1969619236701290894"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1969727290734219336",
+    "created_at": "2025-09-21T11:35:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T12:35:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969727290734219336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1658457470438903808",
+          "start": 3,
+          "username": "SHISHI_444444"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SATlBuZ4UW",
+          "end": 55,
+          "expanded_url": "https://x.com/SHISHI_444444/status/1969619236701290894/photo/1",
+          "media_key": "3_1969618870727294978",
+          "start": 32,
+          "url": "https://t.co/SATlBuZ4UW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969727290734219336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 68
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969619236701290894",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SHISHI_444444: 褐色エジプト猫耳街できた https://t.co/SATlBuZ4UW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 688,
+        "media_key": "3_1969618870727294978",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1V97WybQAI6Oa5.png",
+        "width": 527
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969618870727294978"
+          ],
+          "media_source_tweet_id": [
+            "1969619236701290894"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1969727290734219336",
+        "created_at": "2025-09-21T11:35:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T12:35:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969727290734219336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1658457470438903808",
+              "start": 3,
+              "username": "SHISHI_444444"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SATlBuZ4UW",
+              "end": 55,
+              "expanded_url": "https://x.com/SHISHI_444444/status/1969619236701290894/photo/1",
+              "media_key": "3_1969618870727294978",
+              "start": 32,
+              "url": "https://t.co/SATlBuZ4UW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969727290734219336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 68
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969619236701290894",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SHISHI_444444: 褐色エジプト猫耳街できた https://t.co/SATlBuZ4UW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969618870727294978"
+          ]
+        },
+        "author_id": "1658457470438903808",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1969619236701290894",
+        "created_at": "2025-09-21T04:26:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T05:26:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969619236701290894"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SATlBuZ4UW",
+              "end": 36,
+              "expanded_url": "https://x.com/SHISHI_444444/status/1969619236701290894/photo/1",
+              "media_key": "3_1969618870727294978",
+              "start": 13,
+              "url": "https://t.co/SATlBuZ4UW"
+            },
+            {
+              "display_url": "x.com/cactasis/statu…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/cactasis/status/1962197990241955979",
+              "start": 37,
+              "url": "https://t.co/w41Lfo7g6P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969619236701290894",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 7252,
+          "like_count": 311,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 68
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962197990241955979",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "褐色エジプト猫耳街できた https://t.co/SATlBuZ4UW https://t.co/w41Lfo7g6P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 237,
+          "like_count": 3121,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 844
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-16T13:01:16.000Z",
+        "description": "イラストやMVなど、お手伝いできるお仕事があればDMにください！ skebも募集中です⬛︎ https://t.co/tpfMsjrOLc ⬛︎ 主にボカロ関係の二次創作をしてます🦌 【音街健全癖殴り合い部合同誌 vol.2】参加予定",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@SHISHI_444444",
+                "end": 69,
+                "expanded_url": "https://skeb.jp/@SHISHI_444444",
+                "start": 46,
+                "url": "https://t.co/tpfMsjrOLc"
+              }
+            ]
+          }
+        },
+        "id": "1658457470438903808",
+        "name": "しし",
+        "pinned_tweet_id": "1965719922086117657",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942891934978375680/5nu-MBqI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 123,
+          "like_count": 2000,
+          "listed_count": 2,
+          "media_count": 172,
+          "tweet_count": 715
+        },
+        "username": "SHISHI_444444",
+        "verified": false
+      }
+    ]
+  }
+}

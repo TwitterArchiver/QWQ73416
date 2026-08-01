@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969704678238928896"
+      ],
+      "media_source_tweet_id": [
+        "1969704687780979048"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1969727203794665713",
+    "created_at": "2025-09-21T11:35:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T12:35:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969727203794665713"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "166960540",
+          "start": 3,
+          "username": "hisui_st"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/h2PSbhIW8c",
+          "end": 41,
+          "expanded_url": "https://x.com/hisui_st/status/1969704687780979048/photo/1",
+          "media_key": "3_1969704678238928896",
+          "start": 18,
+          "url": "https://t.co/h2PSbhIW8c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969727203794665713",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969704687780979048",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hisui_st: 魔導士 https://t.co/h2PSbhIW8c"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1969704678238928896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1XL-ArbQAAYOLx.jpg",
+        "width": 885
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969704678238928896"
+          ],
+          "media_source_tweet_id": [
+            "1969704687780979048"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1969727203794665713",
+        "created_at": "2025-09-21T11:35:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T12:35:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969727203794665713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "166960540",
+              "start": 3,
+              "username": "hisui_st"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/h2PSbhIW8c",
+              "end": 41,
+              "expanded_url": "https://x.com/hisui_st/status/1969704687780979048/photo/1",
+              "media_key": "3_1969704678238928896",
+              "start": 18,
+              "url": "https://t.co/h2PSbhIW8c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969727203794665713",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969704687780979048",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hisui_st: 魔導士 https://t.co/h2PSbhIW8c"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969704678238928896"
+          ]
+        },
+        "author_id": "166960540",
+        "conversation_id": "1969704687780979048",
+        "created_at": "2025-09-21T10:06:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T11:06:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969704687780979048"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h2PSbhIW8c",
+              "end": 27,
+              "expanded_url": "https://x.com/hisui_st/status/1969704687780979048/photo/1",
+              "media_key": "3_1969704678238928896",
+              "start": 4,
+              "url": "https://t.co/h2PSbhIW8c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969704687780979048",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 2859,
+          "like_count": 227,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "魔導士 https://t.co/h2PSbhIW8c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 237,
+          "like_count": 3120,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 843
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2010-07-15T12:15:20.000Z",
+        "description": "絵を時々描く人　Ｒ１８漫画・CG集(主に異種と百合)はこちらから※リンク先R18 https://t.co/7GGCYxnMIn\nイラストの無断使用等禁止🚫　みすき(io)や青空にも同じハンドルネームで居ます",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/artworks/12344…",
+                "end": 64,
+                "expanded_url": "https://www.pixiv.net/artworks/123448323",
+                "start": 41,
+                "url": "https://t.co/7GGCYxnMIn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/197778",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/197778",
+                "start": 0,
+                "url": "https://t.co/TBjYBpLP8X"
+              }
+            ]
+          }
+        },
+        "id": "166960540",
+        "name": "hisui",
+        "pinned_tweet_id": "1916124108452204926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1684884185725751296/pR_a1hpE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27508,
+          "following_count": 7207,
+          "like_count": 121293,
+          "listed_count": 361,
+          "media_count": 2798,
+          "tweet_count": 75928
+        },
+        "url": "https://t.co/TBjYBpLP8X",
+        "username": "hisui_st",
+        "verified": false
+      }
+    ]
+  }
+}

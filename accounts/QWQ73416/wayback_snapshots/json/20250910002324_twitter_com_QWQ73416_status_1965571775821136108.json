@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1965505055731450323",
+    "created_at": "2025-09-10T00:23:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T01:23:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965571775821136108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1487563847602900992",
+          "start": 0,
+          "username": "duxiangwan4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965571775821136108",
+    "in_reply_to_user_id": "1487563847602900992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965505055731450323",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@duxiangwan4 ！！！不知所措！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1965505055731450323",
+        "created_at": "2025-09-10T00:23:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T01:23:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965571775821136108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1487563847602900992",
+              "start": 0,
+              "username": "duxiangwan4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965571775821136108",
+        "in_reply_to_user_id": "1487563847602900992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965505055731450323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@duxiangwan4 ！！！不知所措！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1487563847602900992",
+        "conversation_id": "1965505055731450323",
+        "created_at": "2025-09-09T19:58:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T20:58:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965505055731450323"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1965505055731450323",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "谁懂突然惊醒然后发现奶奶摸着你柰子然后问你怎么长这个了的惊悚感，啊啊啊啊啊啊啊啊啊啊啊啊炸柜倒计时了啊啊啊啊啊啊啊啊啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 218,
+          "like_count": 2336,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 638
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-29T23:10:42.000Z",
+        "description": "🍥无证含糖/🎂05.2.14/🏳️‍⚧️hrt25.2.5/👻168cm53kg/🇨🇳广州/🏫小学毕业小文盲/😥常态短发男装/😭天残党丑逼/🎮明日方舟玩家p社玩家/👿晚班社畜一枚/💰v我50",
+        "id": "1487563847602900992",
+        "name": "🍥陌然🇨🇳🏳️‍⚧️",
+        "pinned_tweet_id": "1960433514614284521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961823133083840512/xfujkpNt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 482,
+          "following_count": 86,
+          "like_count": 26,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 334
+        },
+        "username": "duxiangwan4",
+        "verified": false
+      }
+    ]
+  }
+}

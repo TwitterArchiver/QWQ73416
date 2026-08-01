@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962356180623441921"
+      ],
+      "media_source_tweet_id": [
+        "1962356360072565212"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1962398516472644021",
+    "created_at": "2025-09-01T06:14:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T07:14:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962398516472644021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2290711806",
+          "start": 3,
+          "username": "sksktktk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VMaHZtY7VE",
+          "end": 46,
+          "expanded_url": "https://x.com/sksktktk/status/1962356360072565212/photo/1",
+          "media_key": "3_1962356180623441921",
+          "start": 23,
+          "url": "https://t.co/VMaHZtY7VE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962398516472644021",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 409
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962356360072565212",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sksktktk: 🐏黒鼻羊ちゃん🐏 https://t.co/VMaHZtY7VE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2286,
+        "media_key": "3_1962356180623441921",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzuwjJzaQAEdvJS.jpg",
+        "width": 2340
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962356180623441921"
+          ],
+          "media_source_tweet_id": [
+            "1962356360072565212"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1962398516472644021",
+        "created_at": "2025-09-01T06:14:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T07:14:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962398516472644021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2290711806",
+              "start": 3,
+              "username": "sksktktk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VMaHZtY7VE",
+              "end": 46,
+              "expanded_url": "https://x.com/sksktktk/status/1962356360072565212/photo/1",
+              "media_key": "3_1962356180623441921",
+              "start": 23,
+              "url": "https://t.co/VMaHZtY7VE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962398516472644021",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 409
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962356360072565212",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sksktktk: 🐏黒鼻羊ちゃん🐏 https://t.co/VMaHZtY7VE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962356180623441921"
+          ]
+        },
+        "author_id": "2290711806",
+        "conversation_id": "1962356360072565212",
+        "created_at": "2025-09-01T03:26:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T04:26:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962356360072565212"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VMaHZtY7VE",
+              "end": 32,
+              "expanded_url": "https://x.com/sksktktk/status/1962356360072565212/photo/1",
+              "media_key": "3_1962356180623441921",
+              "start": 9,
+              "url": "https://t.co/VMaHZtY7VE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962356360072565212",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 345,
+          "impression_count": 29018,
+          "like_count": 3235,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 409
+        },
+        "reply_settings": "everyone",
+        "text": "🐏黒鼻羊ちゃん🐏 https://t.co/VMaHZtY7VE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|小推@QWQ1885|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "QWQ1885"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 182,
+          "like_count": 1601,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 399
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2014-01-14T05:52:23.000Z",
+        "description": "イラストレーター/漫画家 咲竹ちひろ 作画担当\n\nご依頼について：https://t.co/TadGSSXLdo\nsakutake96@gmail.com\n\nｻﾌﾞ:@sbsbtktk　blsk🦋sksktktk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 83,
+                "username": "sbsbtktk"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "sksktktk.tumblr.com/contact",
+                "end": 56,
+                "expanded_url": "https://sksktktk.tumblr.com/contact",
+                "start": 33,
+                "url": "https://t.co/TadGSSXLdo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sksktktk.tumblr.com",
+                "end": 23,
+                "expanded_url": "https://sksktktk.tumblr.com/",
+                "start": 0,
+                "url": "https://t.co/7FpZX7uytQ"
+              }
+            ]
+          }
+        },
+        "id": "2290711806",
+        "location": "ご依頼ご相談は\"メールへ\"ご連絡ください",
+        "name": "さくたけ🐇7/4ジャンプSQ.読切",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834092602796470272/D863q_R2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99709,
+          "following_count": 1030,
+          "like_count": 17547,
+          "listed_count": 929,
+          "media_count": 1630,
+          "tweet_count": 29486
+        },
+        "url": "https://t.co/7FpZX7uytQ",
+        "username": "sksktktk",
+        "verified": false
+      }
+    ]
+  }
+}

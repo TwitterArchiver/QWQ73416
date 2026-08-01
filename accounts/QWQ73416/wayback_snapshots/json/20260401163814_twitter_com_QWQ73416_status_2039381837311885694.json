@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "2039381837311885694",
+    "created_at": "2026-04-01T16:38:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T17:38:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039381837311885694"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/meowania_Fan/s…",
+          "end": 140,
+          "expanded_url": "https://twitter.com/meowania_Fan/status/2039013997509558690",
+          "start": 117,
+          "url": "https://t.co/dySy2GeqHy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039381837311885694",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039013997509558690",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这就是现状，讲了真实想法，瞬间失去所有权利。不让你去上学，是想剥夺受教育权吗？更加确定了人是财产这一事实，还有经典的去雄计划，不知道是哪只猪先传出来的阴谋论，我是跨性别，我可没收到美国的补给，他只是害怕绝后😅培养了这么久的财产要断了 https://t.co/dySy2GeqHy"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "2039381837311885694",
+        "created_at": "2026-04-01T16:38:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T17:38:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039381837311885694"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/meowania_Fan/s…",
+              "end": 140,
+              "expanded_url": "https://twitter.com/meowania_Fan/status/2039013997509558690",
+              "start": 117,
+              "url": "https://t.co/dySy2GeqHy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039381837311885694",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039013997509558690",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这就是现状，讲了真实想法，瞬间失去所有权利。不让你去上学，是想剥夺受教育权吗？更加确定了人是财产这一事实，还有经典的去雄计划，不知道是哪只猪先传出来的阴谋论，我是跨性别，我可没收到美国的补给，他只是害怕绝后😅培养了这么久的财产要断了 https://t.co/dySy2GeqHy"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952690690892468224",
+        "conversation_id": "2039013997509558690",
+        "created_at": "2026-03-31T16:16:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T17:16:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039013997509558690"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qwq73416/statu…",
+              "end": 145,
+              "expanded_url": "https://twitter.com/qwq73416/status/2037977692235288786",
+              "start": 122,
+              "url": "https://t.co/4tfA6yMrie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039013997509558690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 88,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037977692235288786",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那天晚上从十点半骂道十二点（主要是我妈\n一部分时间骂我的真实想法\n一部分时间他们在强调被别人知道了被他们的同事知道了他们要受议论他们以后怎么活\n一段时间要跟我决裂要不让我上学\n\n我爹一直在说什么去雄计划，手机害的，不结婚怎么样，跨性别不受待见 https://t.co/4tfA6yMrie"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10🌟|GAHT/HRT:2025.10.7|\n割手的痕迹被我妈看到了，被骂了一顿|\n好闺蜜 @N2OXYN |\n→I an not a vitual account.(T~T)←|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 47,
+                "username": "N2OXYN"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "name": "🧊泠小米❄️",
+        "pinned_tweet_id": "2037669545633325393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023719096047771648/WvkPh1aM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 315,
+          "like_count": 6324,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 1608
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-05T11:18:44.000Z",
+        "description": "一只09年高一猫｜🏳️‍⚧️无糖｜家暴党｜183cm｜74kg｜OIer｜精神状态不明｜喜欢贴贴｜现实超级大社恐｜Minecraft｜欢迎来互fo聊天喵～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/meowania_fan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/meowania_fan",
+                "start": 0,
+                "url": "https://t.co/CO8uHJ0a87"
+              }
+            ]
+          }
+        },
+        "id": "1952690690892468224",
+        "name": "Meowania",
+        "pinned_tweet_id": "2036105253691768903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021791717650010112/9BvDRLle_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 118,
+          "like_count": 211,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 94
+        },
+        "url": "https://t.co/CO8uHJ0a87",
+        "username": "meowania_Fan",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968431747357700096"
+      ],
+      "media_source_tweet_id": [
+        "1968431751488770116"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1968534156377473149",
+    "created_at": "2025-09-18T04:34:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T05:34:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968534156377473149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1892197607109476352",
+          "start": 3,
+          "username": "lianshufa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/meWTl1iwlc",
+          "end": 46,
+          "expanded_url": "https://x.com/lianshufa/status/1968431751488770116/photo/1",
+          "media_key": "3_1968431747357700096",
+          "start": 23,
+          "url": "https://t.co/meWTl1iwlc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968534156377473149",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968431751488770116",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lianshufa: 本人也是上镜了 https://t.co/meWTl1iwlc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1968431747357700096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1FGPrnbcAAp2h3.jpg",
+        "width": 755
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968431747357700096"
+          ],
+          "media_source_tweet_id": [
+            "1968431751488770116"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1968534156377473149",
+        "created_at": "2025-09-18T04:34:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T05:34:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968534156377473149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1892197607109476352",
+              "start": 3,
+              "username": "lianshufa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/meWTl1iwlc",
+              "end": 46,
+              "expanded_url": "https://x.com/lianshufa/status/1968431751488770116/photo/1",
+              "media_key": "3_1968431747357700096",
+              "start": 23,
+              "url": "https://t.co/meWTl1iwlc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968534156377473149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968431751488770116",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lianshufa: 本人也是上镜了 https://t.co/meWTl1iwlc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968431747357700096"
+          ]
+        },
+        "author_id": "1892197607109476352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1968431751488770116",
+        "created_at": "2025-09-17T21:47:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T22:47:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968431751488770116"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/meWTl1iwlc",
+              "end": 31,
+              "expanded_url": "https://x.com/lianshufa/status/1968431751488770116/photo/1",
+              "media_key": "3_1968431747357700096",
+              "start": 8,
+              "url": "https://t.co/meWTl1iwlc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968431751488770116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3434,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "本人也是上镜了 https://t.co/meWTl1iwlc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 229,
+          "like_count": 2975,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 796
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-19T13:01:39.000Z",
+        "description": "09年的北京MtF🏳️‍⚧️｜小证含糖🍥｜HRT since 2025.06.19｜玩电吉他🎸｜家长党｜推特:@lianshufa｜QQ:2486603997｜聊天无门槛｜问问题的🚪20",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 55,
+                "username": "lianshufa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lsfself.top",
+                "end": 23,
+                "expanded_url": "http://lsfself.top",
+                "start": 0,
+                "url": "https://t.co/zZum0DqESa"
+              }
+            ]
+          }
+        },
+        "id": "1892197607109476352",
+        "location": "北京回龙观医院",
+        "name": "lsf🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1966076607984275853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955825900051947522/QKOlNb9-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1898,
+          "following_count": 1760,
+          "like_count": 1057,
+          "listed_count": 2,
+          "media_count": 58,
+          "tweet_count": 393
+        },
+        "url": "https://t.co/zZum0DqESa",
+        "username": "lianshufa",
+        "verified": false
+      }
+    ]
+  }
+}

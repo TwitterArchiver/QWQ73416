@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1964189272879030731",
+    "created_at": "2025-09-06T04:49:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T05:49:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964189272879030731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1843201902550634496",
+          "start": 3,
+          "username": "LwrDHYyuxR22499"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co",
+          "end": 139,
+          "start": 126,
+          "url": "https://t.co/"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964189272879030731",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963619904244126133",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LwrDHYyuxR22499: 好的牛逼的\n当事人手机已经被教官控制了\n迫于威胁开始反向辟谣了\n一般来说试图逃跑求救这种情况已经在学校里开始被吊起来打受虐了速度不快点可不行\n😁我还没想好到底接不接这单子呢\n这下看来不得不几拳把贱畜机构干死了 https://t.co/…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1963619900704051200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0At5V9aUAAarK3.jpg",
+        "width": 864
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1964189272879030731",
+        "created_at": "2025-09-06T04:49:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T05:49:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964189272879030731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1843201902550634496",
+              "start": 3,
+              "username": "LwrDHYyuxR22499"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co",
+              "end": 139,
+              "start": 126,
+              "url": "https://t.co/"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964189272879030731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963619904244126133",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LwrDHYyuxR22499: 好的牛逼的\n当事人手机已经被教官控制了\n迫于威胁开始反向辟谣了\n一般来说试图逃跑求救这种情况已经在学校里开始被吊起来打受虐了速度不快点可不行\n😁我还没想好到底接不接这单子呢\n这下看来不得不几拳把贱畜机构干死了 https://t.co/…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963619900704051200"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "1963619904244126133",
+        "created_at": "2025-09-04T15:07:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T16:07:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963619904244126133"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6RaeeDFgYI",
+              "end": 128,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/1963619904244126133/photo/1",
+              "media_key": "3_1963619900704051200",
+              "start": 105,
+              "url": "https://t.co/6RaeeDFgYI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963619904244126133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 11847,
+          "like_count": 119,
+          "quote_count": 4,
+          "reply_count": 6,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "好的牛逼的\n当事人手机已经被教官控制了\n迫于威胁开始反向辟谣了\n一般来说试图逃跑求救这种情况已经在学校里开始被吊起来打受虐了速度不快点可不行\n😁我还没想好到底接不接这单子呢\n这下看来不得不几拳把贱畜机构干死了 https://t.co/6RaeeDFgYI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|小推@QWQ1885|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "QWQ1885"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 214,
+          "like_count": 2164,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 592
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "😃发表每日暴论还有更新生活日常所用墙内实名制上网\nChief Bastard- fucking officer\ncbo老祖cbo创始人欢迎入股",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1924621705286496482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945307289637785600/abykQYUN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 663,
+          "following_count": 574,
+          "like_count": 548,
+          "listed_count": 4,
+          "media_count": 183,
+          "tweet_count": 787
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      }
+    ]
+  }
+}

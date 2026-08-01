@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967146262924587014"
+      ],
+      "media_source_tweet_id": [
+        "1967146270872764918"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "1967398666769231876",
+    "created_at": "2025-09-15T01:22:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-15T02:22:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967398666769231876"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1939991753924517889",
+          "start": 3,
+          "username": "yurigraft"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jFwjfdEG5h",
+          "end": 84,
+          "expanded_url": "https://x.com/yurigraft/status/1967146270872764918/photo/1",
+          "media_key": "3_1967146262924587014",
+          "start": 61,
+          "url": "https://t.co/jFwjfdEG5h"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967398666769231876",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 715
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967146270872764918",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yurigraft: erm i post dat again ummmm .delete twitter💔💔💔 https://t.co/jFwjfdEG5h"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2041,
+        "media_key": "3_1967146262924587014",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0y1Go7bcAYryM0.jpg",
+        "width": 1353
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967146262924587014"
+          ],
+          "media_source_tweet_id": [
+            "1967146270872764918"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1967398666769231876",
+        "created_at": "2025-09-15T01:22:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T02:22:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967398666769231876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1939991753924517889",
+              "start": 3,
+              "username": "yurigraft"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jFwjfdEG5h",
+              "end": 84,
+              "expanded_url": "https://x.com/yurigraft/status/1967146270872764918/photo/1",
+              "media_key": "3_1967146262924587014",
+              "start": 61,
+              "url": "https://t.co/jFwjfdEG5h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967398666769231876",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 715
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967146270872764918",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yurigraft: erm i post dat again ummmm .delete twitter💔💔💔 https://t.co/jFwjfdEG5h"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967146262924587014"
+          ]
+        },
+        "author_id": "1939991753924517889",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1967146270872764918",
+        "created_at": "2025-09-14T08:39:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T09:39:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967146270872764918"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jFwjfdEG5h",
+              "end": 69,
+              "expanded_url": "https://x.com/yurigraft/status/1967146270872764918/photo/1",
+              "media_key": "3_1967146262924587014",
+              "start": 46,
+              "url": "https://t.co/jFwjfdEG5h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967146270872764918",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 656,
+          "impression_count": 34041,
+          "like_count": 4899,
+          "quote_count": 11,
+          "reply_count": 24,
+          "retweet_count": 715
+        },
+        "reply_settings": "everyone",
+        "text": "erm i post dat again ummmm .delete twitter💔💔💔 https://t.co/jFwjfdEG5h"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 223,
+          "like_count": 2623,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 683
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-01T10:17:41.000Z",
+        "description": "中文/eng ok 16 no dni i dont post often plz follow my oomf the best ever @lactosefraise❤❤ @IDK_3669 乐子",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 71,
+                "username": "lactosefraise"
+              },
+              {
+                "end": 97,
+                "start": 88,
+                "username": "IDK_3669"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yurigraft.straw.page",
+                "end": 23,
+                "expanded_url": "http://yurigraft.straw.page",
+                "start": 0,
+                "url": "https://t.co/2u6hAJ6Hbg"
+              }
+            ]
+          }
+        },
+        "id": "1939991753924517889",
+        "location": "lock in",
+        "name": "biobaba",
+        "pinned_tweet_id": "1942149999334404140",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966873613916921856/mDIPukGv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2202,
+          "following_count": 305,
+          "like_count": 3394,
+          "listed_count": 5,
+          "media_count": 85,
+          "tweet_count": 2237
+        },
+        "url": "https://t.co/2u6hAJ6Hbg",
+        "username": "yurigraft",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "2028360654692983087",
+    "created_at": "2026-03-02T06:43:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T07:43:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028360654692983087"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/owO123qwe/stat…",
+          "end": 126,
+          "expanded_url": "https://twitter.com/owO123qwe/status/2028328453657993235",
+          "start": 103,
+          "url": "https://t.co/ggrm5ZlixH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028360654692983087",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028328453657993235",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "是的是的，本来其实一直就很混乱，整个中推跨圈已经坏的不能再坏了，说实话，已经没救了，以前的时候不好，但是我还是想回到以前，因为现在更烂🤮当我看到大家都在聚焦唐毓文这件事的时候，我就知道大家都已经没救了呢🙃 https://t.co/ggrm5ZlixH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "2028360654692983087",
+        "created_at": "2026-03-02T06:43:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T07:43:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028360654692983087"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/owO123qwe/stat…",
+              "end": 126,
+              "expanded_url": "https://twitter.com/owO123qwe/status/2028328453657993235",
+              "start": 103,
+              "url": "https://t.co/ggrm5ZlixH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028360654692983087",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028328453657993235",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "是的是的，本来其实一直就很混乱，整个中推跨圈已经坏的不能再坏了，说实话，已经没救了，以前的时候不好，但是我还是想回到以前，因为现在更烂🤮当我看到大家都在聚焦唐毓文这件事的时候，我就知道大家都已经没救了呢🙃 https://t.co/ggrm5ZlixH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867432957113204736",
+        "conversation_id": "2028328453657993235",
+        "created_at": "2026-03-02T04:36:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T05:36:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028328453657993235"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/PnKoZCN/status…",
+              "end": 97,
+              "expanded_url": "https://twitter.com/PnKoZCN/status/2028312704600162322",
+              "start": 74,
+              "url": "https://t.co/ewWR91SN5S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028328453657993235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 213,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028312704600162322",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "以严肃默哀🙏好了该我了，老不死的唐毓文可算是死了，老唐还得练才o了多少pr80这就不行了，老唐在上面还得练😆皇帝已死，中推跨圈大乱，各路军阀混战🤗 https://t.co/ewWR91SN5S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10🌟|🍥GAHT/HRT:2025.10.7🏳️‍⚧️|\n割手的痕迹被我妈看到了，被骂了一顿|\n好闺蜜 @z8897031948836 |\n→I an not a vitual account.(T~T)←|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 53,
+                "username": "z8897031948836"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "MTF.wiki",
+                "end": 23,
+                "expanded_url": "http://MTF.wiki",
+                "start": 0,
+                "url": "https://t.co/UK9faF3NwN"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "🫥",
+        "name": "🧊泠小米🍥❄️",
+        "pinned_tweet_id": "2022184415632433414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023719096047771648/WvkPh1aM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 538,
+          "following_count": 309,
+          "like_count": 6140,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 1484
+        },
+        "url": "https://t.co/UK9faF3NwN",
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-13T04:55:02.000Z",
+        "description": "想要救济世界の天使|会发日常和梗图|喜欢所有人|正在努力活着|希望世界毁灭|不见证|od抽烟喝酒自残|07|166|双相|HRT.24.10.3|MtF|无性别|双性恋|ODer|互fo.请私信|可爱的睦头: @AiYin16898  爱人:@banyaqwqa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 105,
+                "username": "AiYin16898"
+              },
+              {
+                "end": 131,
+                "start": 121,
+                "username": "banyaqwqa"
+              }
+            ]
+          }
+        },
+        "id": "1867432957113204736",
+        "name": "小然🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009579488129187840/g48sr7Cf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2413,
+          "following_count": 597,
+          "like_count": 5183,
+          "listed_count": 7,
+          "media_count": 337,
+          "tweet_count": 2170
+        },
+        "username": "owO123qwe",
+        "verified": false
+      }
+    ]
+  }
+}

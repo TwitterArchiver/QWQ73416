@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969671202848587776"
+      ],
+      "media_source_tweet_id": [
+        "1969671208653504906"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1969753862212030863",
+    "created_at": "2025-09-21T13:21:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T14:21:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969753862212030863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1704414388965478400",
+          "start": 3,
+          "username": "oratnir_aka_9"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bunj08zKX1",
+          "end": 42,
+          "expanded_url": "https://x.com/oratnir_aka_9/status/1969671208653504906/photo/1",
+          "media_key": "3_1969671202848587776",
+          "start": 19,
+          "url": "https://t.co/bunj08zKX1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969753862212030863",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 44
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969671208653504906",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oratnir_aka_9: https://t.co/bunj08zKX1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1969671202848587776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1WthfIbQAA4_3q.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969671202848587776"
+          ],
+          "media_source_tweet_id": [
+            "1969671208653504906"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1969753862212030863",
+        "created_at": "2025-09-21T13:21:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T14:21:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969753862212030863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1704414388965478400",
+              "start": 3,
+              "username": "oratnir_aka_9"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bunj08zKX1",
+              "end": 42,
+              "expanded_url": "https://x.com/oratnir_aka_9/status/1969671208653504906/photo/1",
+              "media_key": "3_1969671202848587776",
+              "start": 19,
+              "url": "https://t.co/bunj08zKX1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969753862212030863",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 44
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969671208653504906",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oratnir_aka_9: https://t.co/bunj08zKX1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969671202848587776"
+          ]
+        },
+        "author_id": "1704414388965478400",
+        "conversation_id": "1969671208653504906",
+        "created_at": "2025-09-21T07:53:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T08:53:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969671208653504906"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bunj08zKX1",
+              "end": 23,
+              "expanded_url": "https://x.com/oratnir_aka_9/status/1969671208653504906/photo/1",
+              "media_key": "3_1969671202848587776",
+              "start": 0,
+              "url": "https://t.co/bunj08zKX1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969671208653504906",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 5062,
+          "like_count": 458,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/bunj08zKX1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 237,
+          "like_count": 3130,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 851
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-20T08:37:19.000Z",
+        "description": "@oratnirのサブアカウント。何かあればDMに連絡ください。 最近はロードバイクばかり乗っています。 \n本、グッズ通販：https://t.co/VN6lMaFDKS\nアパレルブランド：https://t.co/pvzi34C47f",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 0,
+                "username": "oratnir"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "oratnir.booth.pm",
+                "end": 85,
+                "expanded_url": "https://oratnir.booth.pm/",
+                "start": 62,
+                "url": "https://t.co/VN6lMaFDKS"
+              },
+              {
+                "display_url": "oratnir.paintory.com",
+                "end": 118,
+                "expanded_url": "http://oratnir.paintory.com",
+                "start": 95,
+                "url": "https://t.co/pvzi34C47f"
+              }
+            ]
+          }
+        },
+        "id": "1704414388965478400",
+        "name": "TIGER LILLY",
+        "pinned_tweet_id": "1947666814592581952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894508352400728064/3wdAbWfi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7443,
+          "following_count": 226,
+          "like_count": 1655,
+          "listed_count": 40,
+          "media_count": 564,
+          "tweet_count": 891
+        },
+        "username": "oratnir_aka_9",
+        "verified": false
+      }
+    ]
+  }
+}

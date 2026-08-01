@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1971860344579756345",
+    "created_at": "2025-09-27T08:51:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-27T09:51:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971860344579756345"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 63,
+          "normalized_text": "Seia",
+          "probability": 0.731,
+          "start": 60,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1939976331317436416",
+          "start": 3,
+          "username": "BrandonRStreams"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971860344579756345",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 264
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971795339238953192",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BrandonRStreams: To this day this is still my favourite Seia art. The expression. The pose. The way she's being picked up. It's perfect…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "3_1971794787234992130",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1046Xcb0AIsgw1.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1971860344579756345",
+        "created_at": "2025-09-27T08:51:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T09:51:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971860344579756345"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 63,
+              "normalized_text": "Seia",
+              "probability": 0.731,
+              "start": 60,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1939976331317436416",
+              "start": 3,
+              "username": "BrandonRStreams"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971860344579756345",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 264
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971795339238953192",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BrandonRStreams: To this day this is still my favourite Seia art. The expression. The pose. The way she's being picked up. It's perfect…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971794787234992130"
+          ]
+        },
+        "author_id": "1939976331317436416",
+        "conversation_id": "1971795339238953192",
+        "created_at": "2025-09-27T04:33:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T05:33:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971795339238953192"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 42,
+              "normalized_text": "Seia",
+              "probability": 0.7283,
+              "start": 39,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/idBLlqjfiC",
+              "end": 146,
+              "expanded_url": "https://x.com/BrandonRStreams/status/1971795339238953192/photo/1",
+              "media_key": "3_1971794787234992130",
+              "start": 123,
+              "url": "https://t.co/idBLlqjfiC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971795339238953192",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1075,
+          "impression_count": 44749,
+          "like_count": 4990,
+          "quote_count": 3,
+          "reply_count": 23,
+          "retweet_count": 264
+        },
+        "reply_settings": "everyone",
+        "text": "To this day this is still my favourite Seia art. The expression. The pose. The way she's being picked up. It's perfection. https://t.co/idBLlqjfiC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "pinned_tweet_id": "1971096075286216763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 252,
+          "like_count": 3448,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 977
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-01T09:16:27.000Z",
+        "description": "I like anime \n100k+ Subscribers on YouTube\n\nMain: @brandonrtalks\nGAMERSUPPS: https://t.co/dPQtJOMkvS 🔥\n\nDiscord Server: https://t.co/krFRYI9tiR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 50,
+                "username": "brandonrtalks"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "gamersupps.gg/BRTALKS",
+                "end": 100,
+                "expanded_url": "https://gamersupps.gg/BRTALKS",
+                "start": 77,
+                "url": "https://t.co/dPQtJOMkvS"
+              },
+              {
+                "display_url": "discord.gg/uWbbS49fPZ",
+                "end": 143,
+                "expanded_url": "https://discord.gg/uWbbS49fPZ",
+                "start": 120,
+                "url": "https://t.co/krFRYI9tiR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@BrandonRTalks",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@BrandonRTalks",
+                "start": 0,
+                "url": "https://t.co/4scAZvqQEx"
+              }
+            ]
+          }
+        },
+        "id": "1939976331317436416",
+        "name": "Brandon Riley (new acc)",
+        "pinned_tweet_id": "1959077507283787924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959696691994710016/9sCOCiug_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9373,
+          "following_count": 484,
+          "like_count": 45637,
+          "listed_count": 5,
+          "media_count": 542,
+          "tweet_count": 3936
+        },
+        "url": "https://t.co/4scAZvqQEx",
+        "username": "BrandonRStreams",
+        "verified": true
+      }
+    ]
+  }
+}

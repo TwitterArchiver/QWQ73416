@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970516123688062977"
+      ],
+      "media_source_tweet_id": [
+        "1970516126238154942"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1970734658603397393",
+    "created_at": "2025-09-24T06:18:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T07:18:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970734658603397393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1673364955171782657",
+          "start": 3,
+          "username": "kxk1388574"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zGKXxbmwjf",
+          "end": 48,
+          "expanded_url": "https://x.com/kxk1388574/status/1970516126238154942/photo/1",
+          "media_key": "3_1970516123688062977",
+          "start": 25,
+          "url": "https://t.co/zGKXxbmwjf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970734658603397393",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970516126238154942",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kxk1388574: 啊啊，唧唧。。。 https://t.co/zGKXxbmwjf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1970516123688062977",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1it-WibUAE01DL.jpg",
+        "width": 860
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970516123688062977"
+          ],
+          "media_source_tweet_id": [
+            "1970516126238154942"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1970734658603397393",
+        "created_at": "2025-09-24T06:18:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T07:18:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970734658603397393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1673364955171782657",
+              "start": 3,
+              "username": "kxk1388574"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zGKXxbmwjf",
+              "end": 48,
+              "expanded_url": "https://x.com/kxk1388574/status/1970516126238154942/photo/1",
+              "media_key": "3_1970516123688062977",
+              "start": 25,
+              "url": "https://t.co/zGKXxbmwjf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970734658603397393",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970516126238154942",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kxk1388574: 啊啊，唧唧。。。 https://t.co/zGKXxbmwjf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970516123688062977"
+          ]
+        },
+        "author_id": "1673364955171782657",
+        "conversation_id": "1970516126238154942",
+        "created_at": "2025-09-23T15:50:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T16:50:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970516126238154942"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zGKXxbmwjf",
+              "end": 32,
+              "expanded_url": "https://x.com/kxk1388574/status/1970516126238154942/photo/1",
+              "media_key": "3_1970516123688062977",
+              "start": 9,
+              "url": "https://t.co/zGKXxbmwjf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970516126238154942",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 736,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "啊啊，唧唧。。。 https://t.co/zGKXxbmwjf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 244,
+          "like_count": 3303,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 917
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-26T16:18:03.000Z",
+        "description": "*是一只路过的🍋～\n*想聊天欢迎随时聊就好，说错话也没关系的\n*妹@lumuyuanMadoka2\n*肉便器🍊@tangeorange\n*最好的大哥哥@liychn30019070",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 33,
+                "username": "lumuyuanMadoka2"
+              },
+              {
+                "end": 67,
+                "start": 55,
+                "username": "tangeorange"
+              },
+              {
+                "end": 90,
+                "start": 75,
+                "username": "liychn30019070"
+              }
+            ]
+          }
+        },
+        "id": "1673364955171782657",
+        "location": "柠檬树上",
+        "name": "kxk🍋（要唧唧）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1785720438095745026/UTk37fi9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8581,
+          "following_count": 5333,
+          "like_count": 42424,
+          "listed_count": 15,
+          "media_count": 655,
+          "tweet_count": 5787
+        },
+        "username": "kxk1388574",
+        "verified": false
+      }
+    ]
+  }
+}

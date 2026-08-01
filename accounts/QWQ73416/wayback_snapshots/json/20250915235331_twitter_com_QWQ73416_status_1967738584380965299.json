@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967615409617883136"
+      ],
+      "media_source_tweet_id": [
+        "1967615417738019003"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1967738584380965299",
+    "created_at": "2025-09-15T23:53:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T00:53:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967738584380965299"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "Biboo",
+          "probability": 0.9579,
+          "start": 19,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "806465720280236032",
+          "start": 3,
+          "username": "shushushuchii"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/21SMtZ5ZMA",
+          "end": 48,
+          "expanded_url": "https://x.com/shushushuchii/status/1967615417738019003/photo/1",
+          "media_key": "3_1967615409617883136",
+          "start": 25,
+          "url": "https://t.co/21SMtZ5ZMA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967738584380965299",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 415
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967615417738019003",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shushushuchii: Biboo https://t.co/21SMtZ5ZMA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1967615409617883136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G05fykjb0AA5L4f.jpg",
+        "width": 1365
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967615409617883136"
+          ],
+          "media_source_tweet_id": [
+            "1967615417738019003"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1967738584380965299",
+        "created_at": "2025-09-15T23:53:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T00:53:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967738584380965299"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "Biboo",
+              "probability": 0.9579,
+              "start": 19,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "806465720280236032",
+              "start": 3,
+              "username": "shushushuchii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/21SMtZ5ZMA",
+              "end": 48,
+              "expanded_url": "https://x.com/shushushuchii/status/1967615417738019003/photo/1",
+              "media_key": "3_1967615409617883136",
+              "start": 25,
+              "url": "https://t.co/21SMtZ5ZMA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967738584380965299",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 415
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967615417738019003",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shushushuchii: Biboo https://t.co/21SMtZ5ZMA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967615409617883136"
+          ]
+        },
+        "author_id": "806465720280236032",
+        "conversation_id": "1967615417738019003",
+        "created_at": "2025-09-15T15:44:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T16:44:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967615417738019003"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "Biboo",
+              "probability": 0.967,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/21SMtZ5ZMA",
+              "end": 29,
+              "expanded_url": "https://x.com/shushushuchii/status/1967615417738019003/photo/1",
+              "media_key": "3_1967615409617883136",
+              "start": 6,
+              "url": "https://t.co/21SMtZ5ZMA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967615417738019003",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 651,
+          "impression_count": 29933,
+          "like_count": 4724,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 415
+        },
+        "reply_settings": "everyone",
+        "text": "Biboo https://t.co/21SMtZ5ZMA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 225,
+          "like_count": 2739,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 725
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2016-12-07T11:49:45.000Z",
+        "description": "Shu / OC / main acc:@shusuchii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 20,
+                "username": "shusuchii"
+              }
+            ]
+          }
+        },
+        "id": "806465720280236032",
+        "name": "S",
+        "pinned_tweet_id": "1933794630862352552",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967615504119697408/rtSj0NBb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2977,
+          "following_count": 1,
+          "like_count": 235,
+          "listed_count": 14,
+          "media_count": 80,
+          "tweet_count": 287
+        },
+        "username": "shushushuchii",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1961979525522395282",
+    "created_at": "2025-08-31T13:52:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T14:52:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962151622928474316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1615404813856178176",
+          "start": 0,
+          "username": "Lovemostmevius"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962151622928474316",
+    "in_reply_to_user_id": "1615404813856178176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961979525522395282",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lovemostmevius 这。。。这是可能的吗？同学？不应该是朋友吗？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1961979522947133440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzpZ-ynasAA-cTt.jpg",
+        "width": 496
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1961979525522395282",
+        "created_at": "2025-08-31T13:52:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T14:52:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962151622928474316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1615404813856178176",
+              "start": 0,
+              "username": "Lovemostmevius"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962151622928474316",
+        "in_reply_to_user_id": "1615404813856178176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961979525522395282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lovemostmevius 这。。。这是可能的吗？同学？不应该是朋友吗？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961979522947133440"
+          ]
+        },
+        "author_id": "1615404813856178176",
+        "conversation_id": "1961979525522395282",
+        "created_at": "2025-08-31T02:29:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T03:29:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961979525522395282"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qfZmM8P13m",
+              "end": 166,
+              "expanded_url": "https://x.com/Lovemostmevius/status/1961979525522395282/photo/1",
+              "media_key": "3_1961979522947133440",
+              "start": 143,
+              "url": "https://t.co/qfZmM8P13m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961979525522395282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 683,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "昨天第一次有同学会陪我过生日！居然还偷偷给我买了蛋糕想不被我发现！\n呜呜呜参加工作以后居然还有第一次同学给我买蛋糕（吐槽一下学长演技有点拙劣）\n三个人吃了超级多的菜\n昨天也是我家宝宝的生日（吐槽一下生日礼物25号买的今天还没到\n本来想着不过了以后和我家宝宝同居再说没想到被同学下手了（ https://t.co/qfZmM8P13m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|小推@QWQ1885|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "QWQ1885"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 181,
+          "like_count": 1582,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 394
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-17T17:45:10.000Z",
+        "description": "MTX |是温柔善良的狐娘～| 03老东西 | 兔兔的唯一+主人+对象+女朋友+比翼鸟+一直爱着守护陪伴的下去人+另一半+老婆+darling～+女王殿下+最爱的 @MeviuslX_Xl and 最爱+一直守护的宝宝@miya051223 |  如果需要帮助可以私信哦～可以向我倾诉烦恼，聊天或提问各种问题|提问箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 82,
+                "username": "MeviuslX_Xl"
+              },
+              {
+                "end": 120,
+                "start": 109,
+                "username": "miya051223"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mengxintu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mengxintu",
+                "start": 0,
+                "url": "https://t.co/RfllNMWGEd"
+              }
+            ]
+          }
+        },
+        "id": "1615404813856178176",
+        "location": "ℳℯ𝓋𝒾𝓊𝓈 的心",
+        "name": "MXT",
+        "pinned_tweet_id": "1952040935074009257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873761540312313856/ltyDX-7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3778,
+          "following_count": 1055,
+          "like_count": 19711,
+          "listed_count": 5,
+          "media_count": 65,
+          "tweet_count": 6333
+        },
+        "url": "https://t.co/RfllNMWGEd",
+        "username": "Lovemostmevius",
+        "verified": false
+      }
+    ]
+  }
+}

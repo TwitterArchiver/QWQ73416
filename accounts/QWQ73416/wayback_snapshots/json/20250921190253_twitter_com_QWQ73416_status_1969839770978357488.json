@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969815417012068352"
+      ],
+      "media_source_tweet_id": [
+        "1969815422594855372"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1969839770978357488",
+    "created_at": "2025-09-21T19:02:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T20:02:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969839770978357488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1383524685661360128",
+          "start": 3,
+          "username": "tingusbungus"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8qCXldAibu",
+          "end": 72,
+          "expanded_url": "https://x.com/tingusbungus/status/1969815422594855372/photo/1",
+          "media_key": "3_1969815417012068352",
+          "start": 49,
+          "url": "https://t.co/8qCXldAibu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969839770978357488",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 103
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969815422594855372",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tingusbungus: He’ll yea girl u fashionable ! https://t.co/8qCXldAibu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1619,
+        "media_key": "3_1969815417012068352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1Ywr2wXoAA4NQP.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969815417012068352"
+          ],
+          "media_source_tweet_id": [
+            "1969815422594855372"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1969839770978357488",
+        "created_at": "2025-09-21T19:02:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T20:02:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969839770978357488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1383524685661360128",
+              "start": 3,
+              "username": "tingusbungus"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8qCXldAibu",
+              "end": 72,
+              "expanded_url": "https://x.com/tingusbungus/status/1969815422594855372/photo/1",
+              "media_key": "3_1969815417012068352",
+              "start": 49,
+              "url": "https://t.co/8qCXldAibu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969839770978357488",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 103
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969815422594855372",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tingusbungus: He’ll yea girl u fashionable ! https://t.co/8qCXldAibu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969815417012068352"
+          ]
+        },
+        "author_id": "1383524685661360128",
+        "conversation_id": "1969815422594855372",
+        "created_at": "2025-09-21T17:26:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T18:26:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969815422594855372"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8qCXldAibu",
+              "end": 54,
+              "expanded_url": "https://x.com/tingusbungus/status/1969815422594855372/photo/1",
+              "media_key": "3_1969815417012068352",
+              "start": 31,
+              "url": "https://t.co/8qCXldAibu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969815422594855372",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 77,
+          "impression_count": 4331,
+          "like_count": 1058,
+          "quote_count": 5,
+          "reply_count": 3,
+          "retweet_count": 103
+        },
+        "reply_settings": "everyone",
+        "text": "He’ll yea girl u fashionable ! https://t.co/8qCXldAibu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 238,
+          "like_count": 3148,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 859
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-17T20:56:24.000Z",
+        "description": "i like drawing things ^_^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fwing.pet",
+                "end": 23,
+                "expanded_url": "https://fwing.pet/",
+                "start": 0,
+                "url": "https://t.co/DOyzrNX7sT"
+              }
+            ]
+          }
+        },
+        "id": "1383524685661360128",
+        "location": "Bog",
+        "name": "ting",
+        "pinned_tweet_id": "1870893171615658481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777808281144107009/uAQUBPAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12821,
+          "following_count": 143,
+          "like_count": 22647,
+          "listed_count": 24,
+          "media_count": 900,
+          "tweet_count": 1803
+        },
+        "url": "https://t.co/DOyzrNX7sT",
+        "username": "tingusbungus",
+        "verified": false
+      }
+    ]
+  }
+}

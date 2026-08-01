@@ -1,0 +1,428 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967919775402921984"
+      ],
+      "media_source_tweet_id": [
+        "1967919782386405813"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1968090950942724103",
+    "created_at": "2025-09-16T23:13:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T00:13:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968090950942724103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1176119322919329792",
+          "start": 3,
+          "username": "conominoe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3nvLRMJmg6",
+          "end": 91,
+          "expanded_url": "https://x.com/conominoe/status/1967919782386405813/photo/1",
+          "media_key": "3_1967919775402921984",
+          "start": 68,
+          "url": "https://t.co/3nvLRMJmg6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968090950942724103",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 175
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967919782386405813",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @conominoe: 今日のお絵描き🖍\n神絵師になりたいから褐色エジプト猫耳ロリ描いたよ(˶' ᵕ ' ˶)🐈‍⬛𓀚𓀛𓀜𓀝𓀞✨ https://t.co/3nvLRMJmg6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1967919775402921984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G090m_dbkAA-Uun.jpg",
+        "width": 1572
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967919775402921984"
+          ],
+          "media_source_tweet_id": [
+            "1967919782386405813"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1968090950942724103",
+        "created_at": "2025-09-16T23:13:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T00:13:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968090950942724103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1176119322919329792",
+              "start": 3,
+              "username": "conominoe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3nvLRMJmg6",
+              "end": 91,
+              "expanded_url": "https://x.com/conominoe/status/1967919782386405813/photo/1",
+              "media_key": "3_1967919775402921984",
+              "start": 68,
+              "url": "https://t.co/3nvLRMJmg6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968090950942724103",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 175
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967919782386405813",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @conominoe: 今日のお絵描き🖍\n神絵師になりたいから褐色エジプト猫耳ロリ描いたよ(˶' ᵕ ' ˶)🐈‍⬛𓀚𓀛𓀜𓀝𓀞✨ https://t.co/3nvLRMJmg6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967919775402921984"
+          ]
+        },
+        "author_id": "1176119322919329792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1967919782386405813",
+        "created_at": "2025-09-16T11:53:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T12:53:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967919782386405813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3nvLRMJmg6",
+              "end": 76,
+              "expanded_url": "https://x.com/conominoe/status/1967919782386405813/photo/1",
+              "media_key": "3_1967919775402921984",
+              "start": 53,
+              "url": "https://t.co/3nvLRMJmg6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967919782386405813",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 162,
+          "impression_count": 10776,
+          "like_count": 1206,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 175
+        },
+        "reply_settings": "everyone",
+        "text": "今日のお絵描き🖍\n神絵師になりたいから褐色エジプト猫耳ロリ描いたよ(˶' ᵕ ' ˶)🐈‍⬛𓀚𓀛𓀜𓀝𓀞✨ https://t.co/3nvLRMJmg6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 227,
+          "like_count": 2857,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 768
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-23T13:02:30.000Z",
+        "description": "お絵描き大好き☆\n\nスケブ   https://t.co/9UF7d72Rkt \n作品はメディアから☆\nサブ垢🍜(@conomiisab)\nｽﾀﾝﾌﾟ https://t.co/nPozEdEUAo\nｲﾝｽﾀ https://t.co/iox3KssGcR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 57,
+                "username": "conomiisab"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@conominoe",
+                "end": 39,
+                "expanded_url": "https://skeb.jp/@conominoe",
+                "start": 16,
+                "url": "https://t.co/9UF7d72Rkt"
+              },
+              {
+                "display_url": "line.me/S/sticker/1945…",
+                "end": 99,
+                "expanded_url": "https://line.me/S/sticker/19451501",
+                "start": 76,
+                "url": "https://t.co/nPozEdEUAo"
+              },
+              {
+                "display_url": "instagram.com/conominoe?utm_…",
+                "end": 128,
+                "expanded_url": "https://instagram.com/conominoe?utm_so",
+                "start": 105,
+                "url": "https://t.co/iox3KssGcR"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/46872826",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/46872826",
+                "start": 0,
+                "url": "https://t.co/N2VZIOLMyt"
+              }
+            ]
+          }
+        },
+        "id": "1176119322919329792",
+        "location": "杜の都",
+        "name": "このみのえ @絵描き☆",
+        "pinned_tweet_id": "1692903691656073457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1518931966917496833/KF0VT6sm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3061,
+          "following_count": 2339,
+          "like_count": 57151,
+          "listed_count": 54,
+          "media_count": 789,
+          "tweet_count": 17325
+        },
+        "url": "https://t.co/N2VZIOLMyt",
+        "username": "conominoe",
+        "verified": false
+      }
+    ]
+  }
+}

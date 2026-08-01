@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962162634155077632"
+      ],
+      "media_source_tweet_id": [
+        "1962162693173039519"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1962417553067888850",
+    "created_at": "2025-09-01T07:29:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T08:29:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962417553067888850"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "951226880",
+          "start": 3,
+          "username": "koyori_tw"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sznYsM4Jgx",
+          "end": 38,
+          "expanded_url": "https://x.com/koyori_tw/status/1962162693173039519/photo/1",
+          "media_key": "3_1962162634155077632",
+          "start": 15,
+          "url": "https://t.co/sznYsM4Jgx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962417553067888850",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 728
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962162693173039519",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @koyori_tw: https://t.co/sznYsM4Jgx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "3_1962162634155077632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzsAhRBbsAApDjp.png",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962162634155077632"
+          ],
+          "media_source_tweet_id": [
+            "1962162693173039519"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1962417553067888850",
+        "created_at": "2025-09-01T07:29:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T08:29:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962417553067888850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "951226880",
+              "start": 3,
+              "username": "koyori_tw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sznYsM4Jgx",
+              "end": 38,
+              "expanded_url": "https://x.com/koyori_tw/status/1962162693173039519/photo/1",
+              "media_key": "3_1962162634155077632",
+              "start": 15,
+              "url": "https://t.co/sznYsM4Jgx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962417553067888850",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 728
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962162693173039519",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @koyori_tw: https://t.co/sznYsM4Jgx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962162634155077632"
+          ]
+        },
+        "author_id": "951226880",
+        "conversation_id": "1962162693173039519",
+        "created_at": "2025-08-31T14:36:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T15:36:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962162693173039519"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sznYsM4Jgx",
+              "end": 23,
+              "expanded_url": "https://x.com/koyori_tw/status/1962162693173039519/photo/1",
+              "media_key": "3_1962162634155077632",
+              "start": 0,
+              "url": "https://t.co/sznYsM4Jgx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962162693173039519",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1761,
+          "impression_count": 156820,
+          "like_count": 11007,
+          "quote_count": 4,
+          "reply_count": 11,
+          "retweet_count": 728
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/sznYsM4Jgx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|小推@QWQ1885|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "QWQ1885"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 184,
+          "like_count": 1612,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 404
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2012-11-16T07:58:01.000Z",
+        "description": "たまに描く。絵。/Do not use my artworks.\nhttps://t.co/QYAXePMTCm \nhttps://t.co/tQoUamdSbh",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@koyori_tw",
+                "end": 56,
+                "expanded_url": "http://skeb.jp/@koyori_tw",
+                "start": 33,
+                "url": "https://t.co/QYAXePMTCm"
+              },
+              {
+                "display_url": "bsky.app/profile/koyori…",
+                "end": 81,
+                "expanded_url": "https://bsky.app/profile/koyorink.bsky.social",
+                "start": 58,
+                "url": "https://t.co/tQoUamdSbh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ci-en.dlsite.com/creator/25564",
+                "end": 23,
+                "expanded_url": "https://ci-en.dlsite.com/creator/25564",
+                "start": 0,
+                "url": "https://t.co/NYYFy77zXi"
+              }
+            ]
+          }
+        },
+        "id": "951226880",
+        "name": "紙捻△",
+        "pinned_tweet_id": "1782474525583761809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757098905207230464/88tvAV3u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9294,
+          "following_count": 883,
+          "like_count": 1945,
+          "listed_count": 77,
+          "media_count": 43,
+          "tweet_count": 2850
+        },
+        "url": "https://t.co/NYYFy77zXi",
+        "username": "koyori_tw",
+        "verified": false
+      }
+    ]
+  }
+}

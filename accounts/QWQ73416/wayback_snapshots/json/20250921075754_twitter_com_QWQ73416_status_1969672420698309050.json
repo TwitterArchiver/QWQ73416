@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1969420123418353682",
+    "created_at": "2025-09-21T07:57:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T08:57:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969672420698309050"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1565981667746914304",
+          "start": 0,
+          "username": "XynFemboy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969672420698309050",
+    "in_reply_to_user_id": "1565981667746914304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969420123418353682",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XynFemboy 不知道，但应该都会有抱枕"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1969420123418353682",
+        "created_at": "2025-09-21T07:57:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T08:57:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969672420698309050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1565981667746914304",
+              "start": 0,
+              "username": "XynFemboy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969672420698309050",
+        "in_reply_to_user_id": "1565981667746914304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969420123418353682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XynFemboy 不知道，但应该都会有抱枕"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "1969420123418353682",
+        "created_at": "2025-09-20T15:15:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T16:15:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969420123418353682"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1969420123418353682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 325,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每一个xyn的床上都会有鲨鲨嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 237,
+          "like_count": 3102,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 835
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "转世中的internet overdoseer 主页不定时更换",
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "🏳️‍⚧️哈寄米です🍥",
+        "pinned_tweet_id": "1967961123036320008",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962071498526498816/94KTqvfH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1122,
+          "following_count": 1131,
+          "like_count": 54526,
+          "listed_count": 3,
+          "media_count": 463,
+          "tweet_count": 6063
+        },
+        "username": "XynFemboy",
+        "verified": false
+      }
+    ]
+  }
+}

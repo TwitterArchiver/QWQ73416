@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "2011795096132600302",
+    "created_at": "2026-01-25T17:32:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T18:32:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015477851760570759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1772535125517246464",
+          "start": 0,
+          "username": "WanN916_"
+        },
+        {
+          "end": 25,
+          "id": "1798564576029810688",
+          "start": 10,
+          "username": "lirong11451419"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015477851760570759",
+    "in_reply_to_user_id": "1772535125517246464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014677853036855392",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WanN916_ @lirong11451419 他就是这样。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "2011795096132600302",
+        "created_at": "2026-01-25T17:32:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T18:32:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015477851760570759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1772535125517246464",
+              "start": 0,
+              "username": "WanN916_"
+            },
+            {
+              "end": 25,
+              "id": "1798564576029810688",
+              "start": 10,
+              "username": "lirong11451419"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015477851760570759",
+        "in_reply_to_user_id": "1772535125517246464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014677853036855392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WanN916_ @lirong11451419 他就是这样。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1772535125517246464",
+        "conversation_id": "2011795096132600302",
+        "created_at": "2026-01-23T12:33:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T13:33:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2014677853036855392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1955503492145283072",
+              "start": 0,
+              "username": "QWQ73416"
+            },
+            {
+              "end": 25,
+              "id": "1798564576029810688",
+              "start": 10,
+              "username": "lirong11451419"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014677853036855392",
+        "in_reply_to_user_id": "1955503492145283072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014232074635641215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QWQ73416 @lirong11451419 只是正常的劝一下吧.."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|GAHT/HRT:2025.10.7|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "MTF.wiki",
+                "end": 23,
+                "expanded_url": "http://MTF.wiki",
+                "start": 0,
+                "url": "https://t.co/7tmPTkdQQ7"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "∠( ᐛ 」∠)_",
+        "name": "🍥泠小米🍥",
+        "pinned_tweet_id": "2011795096132600302",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979202568543784960/OeW4bpMU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 268,
+          "like_count": 4728,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 1171
+        },
+        "url": "https://t.co/7tmPTkdQQ7",
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-26T08:04:52.000Z",
+        "description": "我不想上学",
+        "id": "1772535125517246464",
+        "location": "床上",
+        "name": "月月🍥",
+        "pinned_tweet_id": "2015035450747228504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009897628935565314/VgTDkdba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 737,
+          "following_count": 451,
+          "like_count": 373,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 760
+        },
+        "username": "WanN916_",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-06T03:56:43.000Z",
+        "description": "🍥HRT:2025.4.6，无性恋，一个永远长不大用🍥糖果来疗愈自己，性格软软爱吃🍥糖的小孩૮₍◜ෆ◝.₎ა，\n蓄发，护肤，学化妆ing。衡阳某大砖核科学在读，可以修理维护您的反应堆",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/erererrtrt",
+                "end": 23,
+                "expanded_url": "https://t.me/erererrtrt",
+                "start": 0,
+                "url": "https://t.co/IprWNDkIXc"
+              }
+            ]
+          }
+        },
+        "id": "1798564576029810688",
+        "location": "湖南",
+        "name": "哒哒喵🍥",
+        "pinned_tweet_id": "1965991505367281767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975522381151281155/Q5-veaeF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1435,
+          "following_count": 1160,
+          "like_count": 2826,
+          "listed_count": 2,
+          "media_count": 157,
+          "tweet_count": 1212
+        },
+        "url": "https://t.co/IprWNDkIXc",
+        "username": "lirong11451419",
+        "verified": false
+      }
+    ]
+  }
+}

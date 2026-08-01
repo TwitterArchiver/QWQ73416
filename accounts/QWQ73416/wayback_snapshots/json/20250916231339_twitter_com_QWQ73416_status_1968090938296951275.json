@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968006027980226560"
+      ],
+      "media_source_tweet_id": [
+        "1968006031918895580"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1968090938296951275",
+    "created_at": "2025-09-16T23:13:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T00:13:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968090938296951275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1383524685661360128",
+          "start": 3,
+          "username": "tingusbungus"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Gj41XqxQYQ",
+          "end": 48,
+          "expanded_url": "https://x.com/tingusbungus/status/1968006031918895580/photo/1",
+          "media_key": "3_1968006027980226560",
+          "start": 25,
+          "url": "https://t.co/Gj41XqxQYQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968090938296951275",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 273
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968006031918895580",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tingusbungus: SOFT ! https://t.co/Gj41XqxQYQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1553,
+        "media_key": "3_1968006027980226560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0_DDjWWwAAaNg_.jpg",
+        "width": 1106
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968006027980226560"
+          ],
+          "media_source_tweet_id": [
+            "1968006031918895580"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1968090938296951275",
+        "created_at": "2025-09-16T23:13:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T00:13:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968090938296951275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1383524685661360128",
+              "start": 3,
+              "username": "tingusbungus"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gj41XqxQYQ",
+              "end": 48,
+              "expanded_url": "https://x.com/tingusbungus/status/1968006031918895580/photo/1",
+              "media_key": "3_1968006027980226560",
+              "start": 25,
+              "url": "https://t.co/Gj41XqxQYQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968090938296951275",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 273
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968006031918895580",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tingusbungus: SOFT ! https://t.co/Gj41XqxQYQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968006027980226560"
+          ]
+        },
+        "author_id": "1383524685661360128",
+        "conversation_id": "1968006031918895580",
+        "created_at": "2025-09-16T17:36:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T18:36:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968006031918895580"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gj41XqxQYQ",
+              "end": 30,
+              "expanded_url": "https://x.com/tingusbungus/status/1968006031918895580/photo/1",
+              "media_key": "3_1968006027980226560",
+              "start": 7,
+              "url": "https://t.co/Gj41XqxQYQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968006031918895580",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 247,
+          "impression_count": 12650,
+          "like_count": 2924,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 273
+        },
+        "reply_settings": "everyone",
+        "text": "SOFT ! https://t.co/Gj41XqxQYQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 227,
+          "like_count": 2857,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 768
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-17T20:56:24.000Z",
+        "description": "i like drawing things ^_^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fwing.pet",
+                "end": 23,
+                "expanded_url": "https://fwing.pet/",
+                "start": 0,
+                "url": "https://t.co/DOyzrNX7sT"
+              }
+            ]
+          }
+        },
+        "id": "1383524685661360128",
+        "location": "Bog",
+        "name": "ting",
+        "pinned_tweet_id": "1870893171615658481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777808281144107009/uAQUBPAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12514,
+          "following_count": 143,
+          "like_count": 22576,
+          "listed_count": 24,
+          "media_count": 892,
+          "tweet_count": 1791
+        },
+        "url": "https://t.co/DOyzrNX7sT",
+        "username": "tingusbungus",
+        "verified": false
+      }
+    ]
+  }
+}

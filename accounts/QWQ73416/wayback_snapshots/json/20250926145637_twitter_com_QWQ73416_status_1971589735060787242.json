@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1971513832179974146"
+      ],
+      "media_source_tweet_id": [
+        "1971545292907622745"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1971589735060787242",
+    "created_at": "2025-09-26T14:56:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-26T15:56:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971589735060787242"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1884497669609209856",
+          "start": 3,
+          "username": "kahi9317"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Xなどでお見かけしてとても素敵なイラストだと感じたため、私のキャラクターをまーぼーさんの絵柄でアレンジデザインして頂きたく依頼をお送りします。 もし下記の条件で可能でしたらぜひお願いします。 最近流行りの褐色エジプト風にアレンジをお願いします。 服装などもおまかせします。露出が多くなっても大丈夫です。 一応きつねなので服の中に髪と同じ色のきつねのしっぽがありますのでそちらの表記もおまかせします。 【使用用途】 ・配信画面、動画のサムネイル ・ヘッダー、アイコン ・配信告知用のスケジュール表 ・グッズ制作 など もし可能でしたら背景が透過されているデータもあると幸いです。 https://x.com/epsilonvt_en/status/1910581760246898908?s=46",
+          "display_url": "skeb.jp/@kahi9317/work…",
+          "end": 68,
+          "expanded_url": "https://skeb.jp/@kahi9317/works/145",
+          "start": 45,
+          "status": 200,
+          "title": "Xなどでお見かけしてと... by まーぼー | Skeb",
+          "unwound_url": "https://skeb.jp/@kahi9317/works/145",
+          "url": "https://t.co/m0noddGAXJ"
+        },
+        {
+          "display_url": "pic.x.com/4cQRhsnbTl",
+          "end": 92,
+          "expanded_url": "https://x.com/kahi9317/status/1971545292907622745/photo/1",
+          "media_key": "3_1971513832179974146",
+          "start": 69,
+          "url": "https://t.co/4cQRhsnbTl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971589735060787242",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 83
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971545292907622745",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kahi9317: 褐色エジプト狐耳ロリ   \n Skeb commission　https://t.co/m0noddGAXJ https://t.co/4cQRhsnbTl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3508,
+        "media_key": "3_1971513832179974146",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1w5YoTbQAIey2m.jpg",
+        "width": 2480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971513832179974146"
+          ],
+          "media_source_tweet_id": [
+            "1971545292907622745"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1971589735060787242",
+        "created_at": "2025-09-26T14:56:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T15:56:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971589735060787242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1884497669609209856",
+              "start": 3,
+              "username": "kahi9317"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Xなどでお見かけしてとても素敵なイラストだと感じたため、私のキャラクターをまーぼーさんの絵柄でアレンジデザインして頂きたく依頼をお送りします。 もし下記の条件で可能でしたらぜひお願いします。 最近流行りの褐色エジプト風にアレンジをお願いします。 服装などもおまかせします。露出が多くなっても大丈夫です。 一応きつねなので服の中に髪と同じ色のきつねのしっぽがありますのでそちらの表記もおまかせします。 【使用用途】 ・配信画面、動画のサムネイル ・ヘッダー、アイコン ・配信告知用のスケジュール表 ・グッズ制作 など もし可能でしたら背景が透過されているデータもあると幸いです。 https://x.com/epsilonvt_en/status/1910581760246898908?s=46",
+              "display_url": "skeb.jp/@kahi9317/work…",
+              "end": 68,
+              "expanded_url": "https://skeb.jp/@kahi9317/works/145",
+              "start": 45,
+              "status": 200,
+              "title": "Xなどでお見かけしてと... by まーぼー | Skeb",
+              "unwound_url": "https://skeb.jp/@kahi9317/works/145",
+              "url": "https://t.co/m0noddGAXJ"
+            },
+            {
+              "display_url": "pic.x.com/4cQRhsnbTl",
+              "end": 92,
+              "expanded_url": "https://x.com/kahi9317/status/1971545292907622745/photo/1",
+              "media_key": "3_1971513832179974146",
+              "start": 69,
+              "url": "https://t.co/4cQRhsnbTl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971589735060787242",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 83
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971545292907622745",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kahi9317: 褐色エジプト狐耳ロリ   \n Skeb commission　https://t.co/m0noddGAXJ https://t.co/4cQRhsnbTl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971513832179974146"
+          ]
+        },
+        "author_id": "1884497669609209856",
+        "conversation_id": "1971545292907622745",
+        "created_at": "2025-09-26T12:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T13:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971545292907622745"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Xなどでお見かけしてとても素敵なイラストだと感じたため、私のキャラクターをまーぼーさんの絵柄でアレンジデザインして頂きたく依頼をお送りします。 もし下記の条件で可能でしたらぜひお願いします。 最近流行りの褐色エジプト風にアレンジをお願いします。 服装などもおまかせします。露出が多くなっても大丈夫です。 一応きつねなので服の中に髪と同じ色のきつねのしっぽがありますのでそちらの表記もおまかせします。 【使用用途】 ・配信画面、動画のサムネイル ・ヘッダー、アイコン ・配信告知用のスケジュール表 ・グッズ制作 など もし可能でしたら背景が透過されているデータもあると幸いです。 https://x.com/epsilonvt_en/status/1910581760246898908?s=46",
+              "display_url": "skeb.jp/@kahi9317/work…",
+              "end": 54,
+              "expanded_url": "https://skeb.jp/@kahi9317/works/145",
+              "start": 31,
+              "status": 200,
+              "title": "Xなどでお見かけしてと... by まーぼー | Skeb",
+              "unwound_url": "https://skeb.jp/@kahi9317/works/145",
+              "url": "https://t.co/m0noddGAXJ"
+            },
+            {
+              "display_url": "pic.x.com/4cQRhsnbTl",
+              "end": 78,
+              "expanded_url": "https://x.com/kahi9317/status/1971545292907622745/photo/1",
+              "media_key": "3_1971513832179974146",
+              "start": 55,
+              "url": "https://t.co/4cQRhsnbTl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971545292907622745",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 98,
+          "impression_count": 6181,
+          "like_count": 753,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 83
+        },
+        "reply_settings": "everyone",
+        "text": "褐色エジプト狐耳ロリ   \n Skeb commission　https://t.co/m0noddGAXJ https://t.co/4cQRhsnbTl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "pinned_tweet_id": "1971096075286216763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 252,
+          "like_count": 3415,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 963
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-29T07:05:34.000Z",
+        "description": "女の子のイラストを描く人　\n\nSkebコミッション　https://t.co/0usJCVH5l8\npixivFANBOX　https://t.co/WlXEWNraMJ\n\n本アカ　＠mabo9317\n\nお仕事、ご相談等はこちら　mabo4464@gmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 91,
+                "username": "mabo9317"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@kahi9317",
+                "end": 49,
+                "expanded_url": "https://skeb.jp/@kahi9317",
+                "start": 26,
+                "url": "https://t.co/0usJCVH5l8"
+              },
+              {
+                "display_url": "tlmftfk.fanbox.cc",
+                "end": 85,
+                "expanded_url": "https://tlmftfk.fanbox.cc/",
+                "start": 62,
+                "url": "https://t.co/WlXEWNraMJ"
+              }
+            ]
+          }
+        },
+        "id": "1884497669609209856",
+        "name": "まーぼー",
+        "pinned_tweet_id": "1963033979650769281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901543152009482240/yI3lUhVS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1882,
+          "following_count": 10,
+          "like_count": 637,
+          "listed_count": 10,
+          "media_count": 298,
+          "tweet_count": 548
+        },
+        "username": "kahi9317",
+        "verified": false
+      }
+    ]
+  }
+}

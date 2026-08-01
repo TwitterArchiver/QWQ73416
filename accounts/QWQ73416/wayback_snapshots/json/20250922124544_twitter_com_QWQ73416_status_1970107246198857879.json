@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969895595205865472"
+      ],
+      "media_source_tweet_id": [
+        "1969895599467266302"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1970107246198857879",
+    "created_at": "2025-09-22T12:45:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T13:45:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970107246198857879"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1738183399314264064",
+          "start": 3,
+          "username": "ufliijn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zn9BgEIaFW",
+          "end": 42,
+          "expanded_url": "https://x.com/ufliijn/status/1969895599467266302/photo/1",
+          "media_key": "3_1969895595205865472",
+          "start": 19,
+          "url": "https://t.co/zn9BgEIaFW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970107246198857879",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 401
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969895599467266302",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @ufliijn: 田舎暮らし https://t.co/zn9BgEIaFW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1969895595205865472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1Z5m1zaMAAjMgn.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969895595205865472"
+          ],
+          "media_source_tweet_id": [
+            "1969895599467266302"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1970107246198857879",
+        "created_at": "2025-09-22T12:45:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T13:45:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970107246198857879"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1738183399314264064",
+              "start": 3,
+              "username": "ufliijn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zn9BgEIaFW",
+              "end": 42,
+              "expanded_url": "https://x.com/ufliijn/status/1969895599467266302/photo/1",
+              "media_key": "3_1969895595205865472",
+              "start": 19,
+              "url": "https://t.co/zn9BgEIaFW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970107246198857879",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 401
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969895599467266302",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @ufliijn: 田舎暮らし https://t.co/zn9BgEIaFW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969895595205865472"
+          ]
+        },
+        "author_id": "1738183399314264064",
+        "conversation_id": "1969895599467266302",
+        "created_at": "2025-09-21T22:44:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T23:44:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969895599467266302"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zn9BgEIaFW",
+              "end": 29,
+              "expanded_url": "https://x.com/ufliijn/status/1969895599467266302/photo/1",
+              "media_key": "3_1969895595205865472",
+              "start": 6,
+              "url": "https://t.co/zn9BgEIaFW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969895599467266302",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2161,
+          "impression_count": 642273,
+          "like_count": 22844,
+          "quote_count": 32,
+          "reply_count": 0,
+          "retweet_count": 401
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "田舎暮らし https://t.co/zn9BgEIaFW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 238,
+          "like_count": 3278,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 897
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-22T13:03:19.000Z",
+        "description": "昼職 工場勤務女子 🏭 機械エンジニア⚙️🧑🏻‍🏭@ivqnw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 25,
+                "username": "ivqnw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/ufflijn_",
+                "end": 23,
+                "expanded_url": "https://lit.link/ufflijn_",
+                "start": 0,
+                "url": "https://t.co/DAMlHNZgWL"
+              }
+            ]
+          }
+        },
+        "id": "1738183399314264064",
+        "location": "夜職× ┆その他SNS等→",
+        "name": "貧乳",
+        "pinned_tweet_id": "1845287834384728177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877941129087430656/TB4NUK-7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27208,
+          "following_count": 3,
+          "like_count": 3331,
+          "listed_count": 60,
+          "media_count": 24,
+          "tweet_count": 1400
+        },
+        "url": "https://t.co/DAMlHNZgWL",
+        "username": "ufliijn",
+        "verified": true
+      }
+    ]
+  }
+}

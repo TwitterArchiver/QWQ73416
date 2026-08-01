@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1962548687176884427",
+    "created_at": "2025-09-02T06:14:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T07:14:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962761065500180611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1911429446193602561",
+          "start": 0,
+          "username": "woaihuojimian11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962761065500180611",
+    "in_reply_to_user_id": "1911429446193602561",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962548687176884427",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@woaihuojimian11 第1天:你不开心吗？可以跟我聊一聊吗？\n第2天:给我看看*\n😡😡😡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 949,
+        "media_key": "3_1962548683515346944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzxfoS9XwAAyPls.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1962548687176884427",
+        "created_at": "2025-09-02T06:14:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T07:14:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962761065500180611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1911429446193602561",
+              "start": 0,
+              "username": "woaihuojimian11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962761065500180611",
+        "in_reply_to_user_id": "1911429446193602561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962548687176884427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woaihuojimian11 第1天:你不开心吗？可以跟我聊一聊吗？\n第2天:给我看看*\n😡😡😡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962548683515346944"
+          ]
+        },
+        "author_id": "1911429446193602561",
+        "conversation_id": "1962548687176884427",
+        "created_at": "2025-09-01T16:10:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T17:10:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962548687176884427"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BLnWIzMZWH",
+              "end": 37,
+              "expanded_url": "https://x.com/woaihuojimian11/status/1962548687176884427/photo/1",
+              "media_key": "3_1962548683515346944",
+              "start": 14,
+              "url": "https://t.co/BLnWIzMZWH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962548687176884427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 131,
+          "impression_count": 125728,
+          "like_count": 1536,
+          "quote_count": 14,
+          "reply_count": 105,
+          "retweet_count": 87
+        },
+        "reply_settings": "everyone",
+        "text": "一些男的给我的感觉就这样。 https://t.co/BLnWIzMZWH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|小推@QWQ1885|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "QWQ1885"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 195,
+          "like_count": 1720,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 460
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-13T14:41:19.000Z",
+        "description": "发我想发的｜08｜不约不线下不聊骚不接定制不卖原味不看屌不接电报推广｜除口令和入门以外不回私信｜喜欢🉑入🚪52/188/520",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "end": 23,
+                "start": 0,
+                "url": "https://t.co/ZdtZw2leSJ"
+              }
+            ]
+          }
+        },
+        "id": "1911429446193602561",
+        "location": "🌧️",
+        "name": "泣",
+        "pinned_tweet_id": "1962529267801088240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943364944675901440/7Mjf0do9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2628,
+          "following_count": 161,
+          "like_count": 21576,
+          "listed_count": 9,
+          "media_count": 280,
+          "tweet_count": 7491
+        },
+        "url": "https://t.co/ZdtZw2leSJ",
+        "username": "woaihuojimian11",
+        "verified": false
+      }
+    ]
+  }
+}

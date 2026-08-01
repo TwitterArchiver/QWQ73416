@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1971995985095127040"
+      ],
+      "media_source_tweet_id": [
+        "1971995989348331795"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1972179853316444318",
+    "created_at": "2025-09-28T06:01:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-28T07:01:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972179853316444318"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 22,
+          "normalized_text": "Emoth",
+          "probability": 0.6786,
+          "start": 18,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1383524685661360128",
+          "start": 3,
+          "username": "tingusbungus"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/j50HK2NgKK",
+          "end": 49,
+          "expanded_url": "https://x.com/tingusbungus/status/1971995989348331795/photo/1",
+          "media_key": "3_1971995985095127040",
+          "start": 26,
+          "url": "https://t.co/j50HK2NgKK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972179853316444318",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 542
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971995989348331795",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tingusbungus: Emoth 😋 https://t.co/j50HK2NgKK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1599,
+        "media_key": "3_1971995985095127040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G13v5n4XcAA_u5s.jpg",
+        "width": 1150
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971995985095127040"
+          ],
+          "media_source_tweet_id": [
+            "1971995989348331795"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1972179853316444318",
+        "created_at": "2025-09-28T06:01:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T07:01:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972179853316444318"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "Emoth",
+              "probability": 0.6786,
+              "start": 18,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1383524685661360128",
+              "start": 3,
+              "username": "tingusbungus"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j50HK2NgKK",
+              "end": 49,
+              "expanded_url": "https://x.com/tingusbungus/status/1971995989348331795/photo/1",
+              "media_key": "3_1971995985095127040",
+              "start": 26,
+              "url": "https://t.co/j50HK2NgKK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972179853316444318",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 542
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971995989348331795",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tingusbungus: Emoth 😋 https://t.co/j50HK2NgKK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971995985095127040"
+          ]
+        },
+        "author_id": "1383524685661360128",
+        "conversation_id": "1971995989348331795",
+        "created_at": "2025-09-27T17:50:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-27T18:50:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971995989348331795"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "Emoth",
+              "probability": 0.6801,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j50HK2NgKK",
+              "end": 31,
+              "expanded_url": "https://x.com/tingusbungus/status/1971995989348331795/photo/1",
+              "media_key": "3_1971995985095127040",
+              "start": 8,
+              "url": "https://t.co/j50HK2NgKK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971995989348331795",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 653,
+          "impression_count": 35134,
+          "like_count": 6104,
+          "quote_count": 7,
+          "reply_count": 16,
+          "retweet_count": 542
+        },
+        "reply_settings": "everyone",
+        "text": "Emoth 😋 https://t.co/j50HK2NgKK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "pinned_tweet_id": "1971096075286216763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 252,
+          "like_count": 3468,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 983
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-17T20:56:24.000Z",
+        "description": "i like drawing things ^_^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fwing.pet",
+                "end": 23,
+                "expanded_url": "https://fwing.pet/",
+                "start": 0,
+                "url": "https://t.co/DOyzrNX7sT"
+              }
+            ]
+          }
+        },
+        "id": "1383524685661360128",
+        "location": "Bog",
+        "name": "ting",
+        "pinned_tweet_id": "1870893171615658481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970252917148897280/lYqUPDc3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13490,
+          "following_count": 156,
+          "like_count": 22783,
+          "listed_count": 30,
+          "media_count": 910,
+          "tweet_count": 1826
+        },
+        "url": "https://t.co/DOyzrNX7sT",
+        "username": "tingusbungus",
+        "verified": false
+      }
+    ]
+  }
+}

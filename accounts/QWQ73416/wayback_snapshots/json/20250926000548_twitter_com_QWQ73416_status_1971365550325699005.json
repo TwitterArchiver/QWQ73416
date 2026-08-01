@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1971244465726664704"
+      ],
+      "media_source_tweet_id": [
+        "1971244468159569957"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1971365550325699005",
+    "created_at": "2025-09-26T00:05:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-26T01:05:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971365550325699005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1524409151505399808",
+          "start": 3,
+          "username": "Chocpocalypse"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0yZJTKLnSd",
+          "end": 50,
+          "expanded_url": "https://x.com/Chocpocalypse/status/1971244468159569957/photo/1",
+          "media_key": "3_1971244465726664704",
+          "start": 27,
+          "url": "https://t.co/0yZJTKLnSd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971365550325699005",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 177
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971244468159569957",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Chocpocalypse: OC 💙❤️🐰 https://t.co/0yZJTKLnSd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1971244465726664704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1tEZcEXsAAu17l.jpg",
+        "width": 1793
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971244465726664704"
+          ],
+          "media_source_tweet_id": [
+            "1971244468159569957"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1971365550325699005",
+        "created_at": "2025-09-26T00:05:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T01:05:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971365550325699005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1524409151505399808",
+              "start": 3,
+              "username": "Chocpocalypse"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0yZJTKLnSd",
+              "end": 50,
+              "expanded_url": "https://x.com/Chocpocalypse/status/1971244468159569957/photo/1",
+              "media_key": "3_1971244465726664704",
+              "start": 27,
+              "url": "https://t.co/0yZJTKLnSd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971365550325699005",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 177
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971244468159569957",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Chocpocalypse: OC 💙❤️🐰 https://t.co/0yZJTKLnSd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971244465726664704"
+          ]
+        },
+        "author_id": "1524409151505399808",
+        "conversation_id": "1971244468159569957",
+        "created_at": "2025-09-25T16:04:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-25T17:04:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971244468159569957"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0yZJTKLnSd",
+              "end": 31,
+              "expanded_url": "https://x.com/Chocpocalypse/status/1971244468159569957/photo/1",
+              "media_key": "3_1971244465726664704",
+              "start": 8,
+              "url": "https://t.co/0yZJTKLnSd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971244468159569957",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 369,
+          "impression_count": 26739,
+          "like_count": 2258,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 177
+        },
+        "reply_settings": "everyone",
+        "text": "OC 💙❤️🐰 https://t.co/0yZJTKLnSd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "pinned_tweet_id": "1971096075286216763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 252,
+          "like_count": 3405,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 955
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-11T15:20:50.000Z",
+        "description": "✝︎ イラストレーター\n✝︎ FANBOX: https://t.co/vrjPiOspEx \n✝︎ Vgen: https://t.co/sXQfcZ0ngh\n✝︎ Contact: naminikuu✩gmail,com\n Backup/sub: @choccoverdose",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 140,
+                "start": 126,
+                "username": "choccoverdose"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "chocpocalypse.fanbox.cc",
+                "end": 46,
+                "expanded_url": "http://chocpocalypse.fanbox.cc",
+                "start": 23,
+                "url": "https://t.co/vrjPiOspEx"
+              },
+              {
+                "display_url": "vgen.co/Chocpocalypse",
+                "end": 80,
+                "expanded_url": "https://vgen.co/Chocpocalypse",
+                "start": 57,
+                "url": "https://t.co/sXQfcZ0ngh"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "chocodayo.straw.page",
+                "end": 23,
+                "expanded_url": "https://chocodayo.straw.page/",
+                "start": 0,
+                "url": "https://t.co/U16PxqnCHz"
+              }
+            ]
+          }
+        },
+        "id": "1524409151505399808",
+        "location": "@choccoverdose",
+        "name": "✝︎ Choco ✝︎",
+        "pinned_tweet_id": "1914826916328091753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953497993794965504/O0wFgHFu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35488,
+          "following_count": 1180,
+          "like_count": 26534,
+          "listed_count": 202,
+          "media_count": 92,
+          "tweet_count": 3700
+        },
+        "url": "https://t.co/U16PxqnCHz",
+        "username": "Chocpocalypse",
+        "verified": false
+      }
+    ]
+  }
+}

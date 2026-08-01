@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1962770965085229393",
+    "created_at": "2025-09-02T06:53:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T07:53:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1962770965085229393"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/XynFemboy/stat…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/XynFemboy/status/1962510235697811774",
+          "start": 12,
+          "url": "https://t.co/XdoNFtD4ye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962770965085229393",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962510235697811774",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "鲨鲨疑似xyn成为圣物 https://t.co/XdoNFtD4ye"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1962770965085229393",
+        "created_at": "2025-09-02T06:53:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T07:53:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962770965085229393"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/XynFemboy/stat…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/XynFemboy/status/1962510235697811774",
+              "start": 12,
+              "url": "https://t.co/XdoNFtD4ye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962770965085229393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962510235697811774",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "鲨鲨疑似xyn成为圣物 https://t.co/XdoNFtD4ye"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565981667746914304",
+        "conversation_id": "1962510235697811774",
+        "created_at": "2025-09-01T13:37:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T14:37:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962510235697811774"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1962510235697811774",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 187,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "诶\n才想起来要买鲨鲨来着\n抱着超有安全感的🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|小推@QWQ1885|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "QWQ1885"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 198,
+          "like_count": 1741,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 471
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-03T08:35:06.000Z",
+        "description": "半转世中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/jilaoshi",
+                "end": 23,
+                "expanded_url": "https://t.me/jilaoshi",
+                "start": 0,
+                "url": "https://t.co/ENIsNAGnjp"
+              }
+            ]
+          }
+        },
+        "id": "1565981667746914304",
+        "location": "People's Republic of China",
+        "name": "🏳️‍⚧️哈寄米です🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962071498526498816/94KTqvfH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 981,
+          "following_count": 984,
+          "like_count": 49271,
+          "listed_count": 2,
+          "media_count": 434,
+          "tweet_count": 5348
+        },
+        "url": "https://t.co/ENIsNAGnjp",
+        "username": "XynFemboy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962445541578805248"
+      ],
+      "media_source_tweet_id": [
+        "1962445576244756592"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1962465679002775856",
+    "created_at": "2025-09-01T10:40:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T11:40:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962465679002775856"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 22,
+          "normalized_text": "蝙蝠仙人さん",
+          "probability": 0.2548,
+          "start": 17,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "294571969",
+          "start": 3,
+          "username": "zizi_niisan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BrPjW4JiaO",
+          "end": 54,
+          "expanded_url": "https://x.com/zizi_niisan/status/1962445576244756592/photo/1",
+          "media_key": "3_1962445541578805248",
+          "start": 31,
+          "url": "https://t.co/BrPjW4JiaO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962465679002775856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 108
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962445576244756592",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zizi_niisan: 蝙蝠仙人さん その2🦇📿⛓ https://t.co/BrPjW4JiaO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4093,
+        "media_key": "3_1962445541578805248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzwB0pTakAAP5mM.jpg",
+        "width": 2894
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962445541578805248"
+          ],
+          "media_source_tweet_id": [
+            "1962445576244756592"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1962465679002775856",
+        "created_at": "2025-09-01T10:40:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T11:40:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962465679002775856"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "蝙蝠仙人さん",
+              "probability": 0.2548,
+              "start": 17,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "294571969",
+              "start": 3,
+              "username": "zizi_niisan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BrPjW4JiaO",
+              "end": 54,
+              "expanded_url": "https://x.com/zizi_niisan/status/1962445576244756592/photo/1",
+              "media_key": "3_1962445541578805248",
+              "start": 31,
+              "url": "https://t.co/BrPjW4JiaO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962465679002775856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 108
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962445576244756592",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zizi_niisan: 蝙蝠仙人さん その2🦇📿⛓ https://t.co/BrPjW4JiaO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962445541578805248"
+          ]
+        },
+        "author_id": "294571969",
+        "conversation_id": "1962445576244756592",
+        "created_at": "2025-09-01T09:21:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T10:21:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962445576244756592"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "蝙蝠仙人さん",
+              "probability": 0.3004,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BrPjW4JiaO",
+              "end": 37,
+              "expanded_url": "https://x.com/zizi_niisan/status/1962445576244756592/photo/1",
+              "media_key": "3_1962445541578805248",
+              "start": 14,
+              "url": "https://t.co/BrPjW4JiaO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962445576244756592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 166,
+          "impression_count": 12019,
+          "like_count": 1041,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 108
+        },
+        "reply_settings": "everyone",
+        "text": "蝙蝠仙人さん その2🦇📿⛓ https://t.co/BrPjW4JiaO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|小推@QWQ1885|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "QWQ1885"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 191,
+          "like_count": 1658,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 427
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-07T11:42:00.000Z",
+        "description": "気ままにお絵描き。個人依頼受け付けてません。\n ✉【ziziimbn⭐︎https://t.co/s0STTNuY67】 雑垢(@zizi_oniisan) \n🦋https://t.co/KnM3FvE1B6\nskeb:https://t.co/tFJBZGX4UT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 64,
+                "username": "zizi_oniisan"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "gmail.com",
+                "end": 59,
+                "expanded_url": "http://gmail.com",
+                "start": 36,
+                "url": "https://t.co/s0STTNuY67"
+              },
+              {
+                "display_url": "bsky.app/profile/zizi-n…",
+                "end": 104,
+                "expanded_url": "https://bsky.app/profile/zizi-niisan.bsky.social",
+                "start": 81,
+                "url": "https://t.co/KnM3FvE1B6"
+              },
+              {
+                "display_url": "skeb.jp/@zizi_niisan",
+                "end": 133,
+                "expanded_url": "https://skeb.jp/@zizi_niisan",
+                "start": 110,
+                "url": "https://t.co/tFJBZGX4UT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/fanbox/creator…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/fanbox/creator/3732219",
+                "start": 0,
+                "url": "https://t.co/B8ctNsovMZ"
+              }
+            ]
+          }
+        },
+        "id": "294571969",
+        "location": "セーラー服とスク水と私",
+        "name": "ジジ",
+        "pinned_tweet_id": "1939627963533930502",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1380553579207921666/Mum0iSAa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90884,
+          "following_count": 1673,
+          "like_count": 27452,
+          "listed_count": 866,
+          "media_count": 1818,
+          "tweet_count": 80289
+        },
+        "url": "https://t.co/B8ctNsovMZ",
+        "username": "zizi_niisan",
+        "verified": false
+      }
+    ]
+  }
+}

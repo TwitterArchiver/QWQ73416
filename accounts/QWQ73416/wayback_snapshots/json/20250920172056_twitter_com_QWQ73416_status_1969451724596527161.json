@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969110898876039168"
+      ],
+      "media_source_tweet_id": [
+        "1969343276651278661"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1969451724596527161",
+    "created_at": "2025-09-20T17:20:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T18:20:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969451724596527161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1480456120515063811",
+          "start": 3,
+          "username": "tuyoipanti"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JpEqhSXqud",
+          "end": 57,
+          "expanded_url": "https://x.com/tuyoipanti/status/1969343276651278661/photo/1",
+          "media_key": "3_1969110898876039168",
+          "start": 34,
+          "url": "https://t.co/JpEqhSXqud"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969451724596527161",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 73
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969343276651278661",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tuyoipanti: 褐色(?)エジプト猫耳ロリきりたん https://t.co/JpEqhSXqud"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 790,
+        "media_key": "3_1969110898876039168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1Ov7gLbQAAJNB0.png",
+        "width": 642
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969110898876039168"
+          ],
+          "media_source_tweet_id": [
+            "1969343276651278661"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1969451724596527161",
+        "created_at": "2025-09-20T17:20:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T18:20:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969451724596527161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1480456120515063811",
+              "start": 3,
+              "username": "tuyoipanti"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JpEqhSXqud",
+              "end": 57,
+              "expanded_url": "https://x.com/tuyoipanti/status/1969343276651278661/photo/1",
+              "media_key": "3_1969110898876039168",
+              "start": 34,
+              "url": "https://t.co/JpEqhSXqud"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969451724596527161",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 73
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969343276651278661",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tuyoipanti: 褐色(?)エジプト猫耳ロリきりたん https://t.co/JpEqhSXqud"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969110898876039168"
+          ]
+        },
+        "author_id": "1480456120515063811",
+        "conversation_id": "1969343276651278661",
+        "created_at": "2025-09-20T10:10:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T11:10:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969343276651278661"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JpEqhSXqud",
+              "end": 41,
+              "expanded_url": "https://x.com/tuyoipanti/status/1969343276651278661/photo/1",
+              "media_key": "3_1969110898876039168",
+              "start": 18,
+              "url": "https://t.co/JpEqhSXqud"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969343276651278661",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 61,
+          "impression_count": 7181,
+          "like_count": 566,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 73
+        },
+        "reply_settings": "everyone",
+        "text": "褐色(?)エジプト猫耳ロリきりたん https://t.co/JpEqhSXqud"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 233,
+          "like_count": 3066,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 820
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-10T08:27:28.000Z",
+        "description": "私が楽しみにしていたお菓子をミキサーにブチ込んで独特なスムージーを作るのを今すぐに止めてくれ。\n(無断転載禁止・その他相談等は固定ツイートのリプ欄へ)\n\n✏️https://t.co/XExAqK7OSw\n🍄https://t.co/b7qvGbQ00j",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@tuyoipanti",
+                "end": 102,
+                "expanded_url": "https://skeb.jp/@tuyoipanti",
+                "start": 79,
+                "url": "https://t.co/XExAqK7OSw"
+              },
+              {
+                "display_url": "marshmallow-qa.com/tea61285355?t=…",
+                "end": 127,
+                "expanded_url": "https://marshmallow-qa.com/tea61285355?t=lVXPKr&utm",
+                "start": 104,
+                "url": "https://t.co/b7qvGbQ00j"
+              }
+            ]
+          }
+        },
+        "id": "1480456120515063811",
+        "location": "樹上",
+        "name": "しろじた",
+        "pinned_tweet_id": "1925448604933922959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1505209585573175298/-fbBXQT-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1287,
+          "following_count": 939,
+          "like_count": 15892,
+          "listed_count": 4,
+          "media_count": 234,
+          "tweet_count": 1650
+        },
+        "username": "tuyoipanti",
+        "verified": false
+      }
+    ]
+  }
+}

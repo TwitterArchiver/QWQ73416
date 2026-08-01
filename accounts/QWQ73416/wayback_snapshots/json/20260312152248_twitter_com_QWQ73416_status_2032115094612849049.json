@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "2032023796862107653",
+    "created_at": "2026-03-12T15:22:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T16:22:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032115094612849049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1762636006207913984",
+          "start": 0,
+          "username": "konx9527"
+        },
+        {
+          "end": 17,
+          "id": "1902568136450424832",
+          "start": 10,
+          "username": "aoim33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032115094612849049",
+    "in_reply_to_user_id": "1762636006207913984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032035417298780366",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@konx9527 @aoim33 因为他什么都没了解过🙃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "2032023796862107653",
+        "created_at": "2026-03-12T15:22:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T16:22:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032115094612849049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1762636006207913984",
+              "start": 0,
+              "username": "konx9527"
+            },
+            {
+              "end": 17,
+              "id": "1902568136450424832",
+              "start": 10,
+              "username": "aoim33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032115094612849049",
+        "in_reply_to_user_id": "1762636006207913984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032035417298780366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@konx9527 @aoim33 因为他什么都没了解过🙃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1762636006207913984",
+        "conversation_id": "2032023796862107653",
+        "created_at": "2026-03-12T10:06:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T11:06:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032035417298780366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1902568136450424832",
+              "start": 0,
+              "username": "aoim33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032035417298780366",
+        "in_reply_to_user_id": "1902568136450424832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 695,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032023796862107653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aoim33 为什么trans要说三遍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10🌟|GAHT/HRT:2025.10.7|\n割手的痕迹被我妈看到了，被骂了一顿|\n好闺蜜 @N2OXYN |\n→I an not a vitual account.(T~T)←|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 47,
+                "username": "N2OXYN"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "name": "🧊泠小米❄️",
+        "pinned_tweet_id": "2022184415632433414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023719096047771648/WvkPh1aM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 547,
+          "following_count": 307,
+          "like_count": 6215,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 1527
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-28T00:29:13.000Z",
+        "description": "INFP/🏳️‍⚧️ 已出柜mtf     性别认同探索中？\n                             泛性恋？/欢迎和我互fo（几乎不发帖子我不一定会fo）😈😈❤️🐱🤤  始于2008 she/her",
+        "id": "1762636006207913984",
+        "name": "k0nx🍥",
+        "pinned_tweet_id": "2028153465478750266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014742256259850240/3hIgZv_g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 712,
+          "like_count": 5380,
+          "listed_count": 2,
+          "media_count": 321,
+          "tweet_count": 2860
+        },
+        "username": "konx9527",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "ASD & ADHD research / Languages / Photography / 音ゲー Education & Psychology / CN・EN・JP /@supernovaArcaea team member / @aoim31",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 87,
+                "username": "supernovaArcaea"
+              },
+              {
+                "end": 125,
+                "start": 118,
+                "username": "aoim31"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 静安/徐汇 上海, 中国",
+        "name": "Aoi M",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017398408278081536/5-jcs20e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4204,
+          "following_count": 2619,
+          "like_count": 38271,
+          "listed_count": 21,
+          "media_count": 2061,
+          "tweet_count": 9029
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      }
+    ]
+  }
+}

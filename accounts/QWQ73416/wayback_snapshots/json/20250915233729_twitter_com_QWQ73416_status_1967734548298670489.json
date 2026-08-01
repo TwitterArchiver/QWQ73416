@@ -1,0 +1,414 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967423640015912960"
+      ],
+      "media_source_tweet_id": [
+        "1967423646575755774"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1967734548298670489",
+    "created_at": "2025-09-15T23:37:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T00:37:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967734548298670489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "273977443",
+          "start": 3,
+          "username": "yaguchiakira"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eRqxE37EVc",
+          "end": 100,
+          "expanded_url": "https://x.com/yaguchiakira/status/1967423646575755774/photo/1",
+          "media_key": "3_1967423640015912960",
+          "start": 77,
+          "url": "https://t.co/eRqxE37EVc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967734548298670489",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 390
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967423646575755774",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yaguchiakira: 褐エ猫ロ\n一次創作も描いたけど二次創作も上げちゃう(と言うかこっちが通常営業\nこの究極前の姿だけ知ってるって人多そう https://t.co/eRqxE37EVc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1967423640015912960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G02xYHHawAADL5r.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967423640015912960"
+          ],
+          "media_source_tweet_id": [
+            "1967423646575755774"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1967734548298670489",
+        "created_at": "2025-09-15T23:37:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T00:37:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967734548298670489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "273977443",
+              "start": 3,
+              "username": "yaguchiakira"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eRqxE37EVc",
+              "end": 100,
+              "expanded_url": "https://x.com/yaguchiakira/status/1967423646575755774/photo/1",
+              "media_key": "3_1967423640015912960",
+              "start": 77,
+              "url": "https://t.co/eRqxE37EVc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967734548298670489",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 390
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967423646575755774",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yaguchiakira: 褐エ猫ロ\n一次創作も描いたけど二次創作も上げちゃう(と言うかこっちが通常営業\nこの究極前の姿だけ知ってるって人多そう https://t.co/eRqxE37EVc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967423640015912960"
+          ]
+        },
+        "author_id": "273977443",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1967423646575755774",
+        "created_at": "2025-09-15T03:02:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T04:02:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967423646575755774"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eRqxE37EVc",
+              "end": 82,
+              "expanded_url": "https://x.com/yaguchiakira/status/1967423646575755774/photo/1",
+              "media_key": "3_1967423640015912960",
+              "start": 59,
+              "url": "https://t.co/eRqxE37EVc"
+            },
+            {
+              "display_url": "x.com/cactasis/statu…",
+              "end": 106,
+              "expanded_url": "https://twitter.com/cactasis/status/1962197990241955979",
+              "start": 83,
+              "url": "https://t.co/bVvmZ8s1Fc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967423646575755774",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 282,
+          "impression_count": 63301,
+          "like_count": 2827,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 390
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962197990241955979",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "褐エ猫ロ\n一次創作も描いたけど二次創作も上げちゃう(と言うかこっちが通常営業\nこの究極前の姿だけ知ってるって人多そう https://t.co/eRqxE37EVc https://t.co/bVvmZ8s1Fc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 225,
+          "like_count": 2724,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 717
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2011-03-29T13:59:14.000Z",
+        "description": "りおん が壁に向かって日常ツイートしたり絵を投下したりする場所。 BOOTH:https://t.co/tnAZ2jCcJw FANBOX: https://t.co/gg6lSpfUy6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "haneyasumetei.booth.pm",
+                "end": 62,
+                "expanded_url": "http://haneyasumetei.booth.pm",
+                "start": 39,
+                "url": "https://t.co/tnAZ2jCcJw"
+              },
+              {
+                "display_url": "rion9981.fanbox.cc",
+                "end": 94,
+                "expanded_url": "http://rion9981.fanbox.cc",
+                "start": 71,
+                "url": "https://t.co/gg6lSpfUy6"
+              }
+            ]
+          }
+        },
+        "id": "273977443",
+        "location": "日本",
+        "name": "りおん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1504656161391394825/DXxfUoHw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1467,
+          "following_count": 364,
+          "like_count": 159774,
+          "listed_count": 11,
+          "media_count": 7002,
+          "tweet_count": 112808
+        },
+        "username": "yaguchiakira",
+        "verified": false
+      }
+    ]
+  }
+}

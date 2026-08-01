@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969009452125921280"
+      ],
+      "media_source_tweet_id": [
+        "1969009703670764026"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1969333031207850432",
+    "created_at": "2025-09-20T09:29:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T10:29:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969333031207850432"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2172148645",
+          "start": 3,
+          "username": "Kyu_kei02"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LEadAGhYXr",
+          "end": 38,
+          "expanded_url": "https://x.com/Kyu_kei02/status/1969009703670764026/photo/1",
+          "media_key": "3_1969009452125921280",
+          "start": 15,
+          "url": "https://t.co/LEadAGhYXr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969333031207850432",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 149
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969009703670764026",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kyu_kei02: https://t.co/LEadAGhYXr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2865,
+        "media_key": "3_1969009452125921280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1NTqhlaIAAOZtt.jpg",
+        "width": 2026
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969009452125921280"
+          ],
+          "media_source_tweet_id": [
+            "1969009703670764026"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1969333031207850432",
+        "created_at": "2025-09-20T09:29:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T10:29:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969333031207850432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2172148645",
+              "start": 3,
+              "username": "Kyu_kei02"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LEadAGhYXr",
+              "end": 38,
+              "expanded_url": "https://x.com/Kyu_kei02/status/1969009703670764026/photo/1",
+              "media_key": "3_1969009452125921280",
+              "start": 15,
+              "url": "https://t.co/LEadAGhYXr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969333031207850432",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 149
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969009703670764026",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kyu_kei02: https://t.co/LEadAGhYXr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969009452125921280"
+          ]
+        },
+        "author_id": "2172148645",
+        "conversation_id": "1969009703670764026",
+        "created_at": "2025-09-19T12:04:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T13:04:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969009703670764026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LEadAGhYXr",
+              "end": 23,
+              "expanded_url": "https://x.com/Kyu_kei02/status/1969009703670764026/photo/1",
+              "media_key": "3_1969009452125921280",
+              "start": 0,
+              "url": "https://t.co/LEadAGhYXr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969009703670764026",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 70,
+          "impression_count": 17297,
+          "like_count": 832,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 149
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/LEadAGhYXr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 233,
+          "like_count": 3062,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 817
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2013-11-03T13:08:22.000Z",
+        "description": "成人済。好きなものいっぱい。描きたいものを好きなように描いているお絵描き大好きネズミ◆skeb https://t.co/kNCoZ1Ogzv ◆マシュマロ https://t.co/ooBWQEDaHU ◆欲しいものリスト https://t.co/iiwC7LX6BI ◆◆イラスト等の転載禁止◆◆",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@Kyu_kei02",
+                "end": 71,
+                "expanded_url": "http://skeb.jp/@Kyu_kei02",
+                "start": 48,
+                "url": "https://t.co/kNCoZ1Ogzv"
+              },
+              {
+                "display_url": "00m.in/XcOdu",
+                "end": 102,
+                "expanded_url": "https://00m.in/XcOdu",
+                "start": 79,
+                "url": "https://t.co/ooBWQEDaHU"
+              },
+              {
+                "display_url": "x.gd/Fok0WF",
+                "end": 136,
+                "expanded_url": "https://x.gd/Fok0WF",
+                "start": 113,
+                "url": "https://t.co/iiwC7LX6BI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/member.php?id=1853081",
+                "start": 0,
+                "url": "https://t.co/5eRCDIcSed"
+              }
+            ]
+          }
+        },
+        "id": "2172148645",
+        "location": "推しの胸の隙間",
+        "name": "床の間Q◆C106(日)西1\"む\"02b",
+        "pinned_tweet_id": "1967433001245323660",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966035641076166660/3yN6f6gl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18553,
+          "following_count": 1134,
+          "like_count": 112509,
+          "listed_count": 135,
+          "media_count": 12912,
+          "tweet_count": 211265
+        },
+        "url": "https://t.co/5eRCDIcSed",
+        "username": "Kyu_kei02",
+        "verified": true
+      }
+    ]
+  }
+}

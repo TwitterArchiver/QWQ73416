@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1959998714707390476",
+    "created_at": "2026-02-01T08:28:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-01T09:28:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017877766126141621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1866360876158398464",
+          "start": 0,
+          "username": "Akogare520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017877766126141621",
+    "in_reply_to_user_id": "1866360876158398464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959998714707390476",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akogare520 我刀掉到地上了。。。被老师提前一个月请回家了，让我下个学期再过来。。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 477,
+        "media_key": "3_1959998712018825216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzNQca4a8AA_M4e.jpg",
+        "width": 1279
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1959998714707390476",
+        "created_at": "2026-02-01T08:28:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T09:28:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017877766126141621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1866360876158398464",
+              "start": 0,
+              "username": "Akogare520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017877766126141621",
+        "in_reply_to_user_id": "1866360876158398464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959998714707390476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akogare520 我刀掉到地上了。。。被老师提前一个月请回家了，让我下个学期再过来。。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959998712018825216"
+          ]
+        },
+        "author_id": "1866360876158398464",
+        "conversation_id": "1959998714707390476",
+        "created_at": "2025-08-25T15:18:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T16:18:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959998714707390476"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 45,
+              "start": 41,
+              "tag": "mtf"
+            },
+            {
+              "end": 49,
+              "start": 46,
+              "tag": "药娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tQ1Q4CTbws",
+              "end": 73,
+              "expanded_url": "https://x.com/Konora20040421/status/1959998714707390476/photo/1",
+              "media_key": "3_1959998712018825216",
+              "start": 50,
+              "url": "https://t.co/tQ1Q4CTbws"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959998714707390476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 16034,
+          "like_count": 165,
+          "quote_count": 3,
+          "reply_count": 24,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "药圈现状:药娘休学就像是镀金去了，没休学过的药娘还真不好意思称自己是药娘的说（）\n#mtf #药娘 https://t.co/tQ1Q4CTbws"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|GAHT/HRT:2025.10.7|欢迎交朋友|一！个！都！不！准！死！|补佳乐已被母亲发现|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "MTF.wiki",
+                "end": 23,
+                "expanded_url": "http://MTF.wiki",
+                "start": 0,
+                "url": "https://t.co/7tmPTkeoFF"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "∠( ᐛ 」∠)_",
+        "name": "🍥泠小米🍥",
+        "pinned_tweet_id": "2017118020968337439",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979202568543784960/OeW4bpMU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 245,
+          "following_count": 273,
+          "like_count": 4951,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 1196
+        },
+        "url": "https://t.co/7tmPTkeoFF",
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-10T05:54:51.000Z",
+        "description": "04跨女⚧/持证含糖🍬/炸柜/srs无能/不安です/PTSD/愛の依茉脱  @ynjj945/依赖の主人  @vjnAlLAzmhIlbFH/苹果是本体🍎/药物续命/喜欢涩涩、ACG文化、三坑、哲学/自愈力弱🤧/同类贴贴🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 38,
+                "username": "ynjj945"
+              },
+              {
+                "end": 70,
+                "start": 54,
+                "username": "vjnAlLAzmhIlbFH"
+              }
+            ]
+          }
+        },
+        "id": "1866360876158398464",
+        "location": "冰块里",
+        "name": "苹果奶绿🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974837819135922177/2F6BeI8w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1113,
+          "following_count": 350,
+          "like_count": 821,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 981
+        },
+        "username": "Akogare520",
+        "verified": false
+      }
+    ]
+  }
+}

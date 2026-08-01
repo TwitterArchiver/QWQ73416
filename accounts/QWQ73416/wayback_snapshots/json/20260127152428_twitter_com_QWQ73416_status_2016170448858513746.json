@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2015452073773453312"
+      ],
+      "media_source_tweet_id": [
+        "2015452097320460472"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "2016170448858513746",
+    "created_at": "2026-01-27T15:24:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T16:24:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016170448858513746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "23573165",
+          "start": 3,
+          "username": "kasa_7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hhh4QH1wHD",
+          "end": 38,
+          "expanded_url": "https://x.com/kasa_7/status/2015452097320460472/photo/1",
+          "media_key": "3_2015452073773453312",
+          "start": 15,
+          "url": "https://t.co/hhh4QH1wHD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016170448858513746",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 560
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015452097320460472",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kasa_7: 練習 https://t.co/hhh4QH1wHD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1016,
+        "media_key": "3_2015452073773453312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_hS-5cXUAAEfWk.jpg",
+        "width": 810
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015452073773453312"
+          ],
+          "media_source_tweet_id": [
+            "2015452097320460472"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "2016170448858513746",
+        "created_at": "2026-01-27T15:24:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T16:24:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016170448858513746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "23573165",
+              "start": 3,
+              "username": "kasa_7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hhh4QH1wHD",
+              "end": 38,
+              "expanded_url": "https://x.com/kasa_7/status/2015452097320460472/photo/1",
+              "media_key": "3_2015452073773453312",
+              "start": 15,
+              "url": "https://t.co/hhh4QH1wHD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016170448858513746",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 560
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015452097320460472",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kasa_7: 練習 https://t.co/hhh4QH1wHD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015452073773453312"
+          ]
+        },
+        "author_id": "23573165",
+        "conversation_id": "2015452097320460472",
+        "created_at": "2026-01-25T15:49:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T16:49:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015452097320460472"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hhh4QH1wHD",
+              "end": 26,
+              "expanded_url": "https://x.com/kasa_7/status/2015452097320460472/photo/1",
+              "media_key": "3_2015452073773453312",
+              "start": 3,
+              "url": "https://t.co/hhh4QH1wHD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015452097320460472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1436,
+          "impression_count": 116313,
+          "like_count": 10188,
+          "quote_count": 4,
+          "reply_count": 7,
+          "retweet_count": 560
+        },
+        "reply_settings": "everyone",
+        "text": "練習 https://t.co/hhh4QH1wHD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|GAHT/HRT:2025.10.7|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "MTF.wiki",
+                "end": 23,
+                "expanded_url": "http://MTF.wiki",
+                "start": 0,
+                "url": "https://t.co/7tmPTkdQQ7"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "∠( ᐛ 」∠)_",
+        "name": "🍥泠小米🍥",
+        "pinned_tweet_id": "2011795096132600302",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979202568543784960/OeW4bpMU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 267,
+          "like_count": 4765,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 1172
+        },
+        "url": "https://t.co/7tmPTkdQQ7",
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2009-03-10T09:16:44.000Z",
+        "description": "絵うまくなりたい\ncoloso講座:https://t.co/E8z1BwGmXh\nBluesky: https://t.co/2t2SeavwZz\nskeb: https://t.co/oVJExxrax2\nFANBOX: https://t.co/FkH2kNwaQn",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bit.ly/41VzkFE",
+                "end": 41,
+                "expanded_url": "https://bit.ly/41VzkFE",
+                "start": 18,
+                "url": "https://t.co/E8z1BwGmXh"
+              },
+              {
+                "display_url": "bsky.app/profile/kasa-7…",
+                "end": 74,
+                "expanded_url": "https://bsky.app/profile/kasa-7.bsky.social",
+                "start": 51,
+                "url": "https://t.co/2t2SeavwZz"
+              },
+              {
+                "display_url": "skeb.jp/@kasa_7",
+                "end": 104,
+                "expanded_url": "http://skeb.jp/@kasa_7",
+                "start": 81,
+                "url": "https://t.co/oVJExxrax2"
+              },
+              {
+                "display_url": "kasa.fanbox.cc",
+                "end": 136,
+                "expanded_url": "http://kasa.fanbox.cc",
+                "start": 113,
+                "url": "https://t.co/FkH2kNwaQn"
+              }
+            ]
+          }
+        },
+        "id": "23573165",
+        "name": "笠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1801519005364326401/loOxFnrW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142525,
+          "following_count": 992,
+          "like_count": 26256,
+          "listed_count": 1330,
+          "media_count": 1062,
+          "tweet_count": 19833
+        },
+        "username": "kasa_7",
+        "verified": false
+      }
+    ]
+  }
+}

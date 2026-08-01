@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1967083185080357269",
+    "created_at": "2025-09-14T08:21:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T09:21:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967141543929860575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1884536290005368832",
+          "start": 0,
+          "username": "FGfr_218"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967141543929860575",
+    "in_reply_to_user_id": "1884536290005368832",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967083185080357269",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FGfr_218 凭此形态，可无伤进入绝密武大👍"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1967083181213184006",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0x7uzPbcAYDmz4.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1967083185080357269",
+        "created_at": "2025-09-14T08:21:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T09:21:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967141543929860575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1884536290005368832",
+              "start": 0,
+              "username": "FGfr_218"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967141543929860575",
+        "in_reply_to_user_id": "1884536290005368832",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967083185080357269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FGfr_218 凭此形态，可无伤进入绝密武大👍"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967083181213184006"
+          ]
+        },
+        "author_id": "1884536290005368832",
+        "conversation_id": "1967083185080357269",
+        "created_at": "2025-09-14T04:29:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T05:29:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967083185080357269"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pesy8zQOtA",
+              "end": 38,
+              "expanded_url": "https://x.com/FGfr_218/status/1967083185080357269/photo/1",
+              "media_key": "3_1967083181213184006",
+              "start": 15,
+              "url": "https://t.co/pesy8zQOtA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967083185080357269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 354,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天是蓝白粉形态出击图书馆） https://t.co/pesy8zQOtA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 221,
+          "like_count": 2468,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 662
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-29T09:37:26.000Z",
+        "description": "07年/重度社恐/重度性别.容貌焦虑/泛性恋/无证含糖/二次元/coser/目标赚够手术费/戒od中/加油加油gogogo/\n🚪5  可以解锁后续价格表）zfb口令红包/（最近加我的人太多了哇）",
+        "id": "1884536290005368832",
+        "name": "雯菓ふわり🏳️‍⚧️🍬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965976722937094144/x_29clzy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 604,
+          "following_count": 264,
+          "like_count": 775,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 688
+        },
+        "username": "FGfr_218",
+        "verified": true
+      }
+    ]
+  }
+}

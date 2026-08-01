@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967586635245346816"
+      ],
+      "media_source_tweet_id": [
+        "1967586807492808980"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1967944309757669873",
+    "created_at": "2025-09-16T13:31:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T14:31:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967944309757669873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "154467656",
+          "start": 3,
+          "username": "kougasya_meria"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sf0Q7dz6Cd",
+          "end": 48,
+          "expanded_url": "https://x.com/kougasya_meria/status/1967586807492808980/photo/1",
+          "media_key": "3_1967586635245346816",
+          "start": 25,
+          "url": "https://t.co/sf0Q7dz6Cd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967944309757669873",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 333
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967586807492808980",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kougasya_meria: wip2 https://t.co/sf0Q7dz6Cd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2105,
+        "media_key": "3_1967586635245346816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G05Fnrqa4AAAEOs.jpg",
+        "width": 1235
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967586635245346816"
+          ],
+          "media_source_tweet_id": [
+            "1967586807492808980"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1967944309757669873",
+        "created_at": "2025-09-16T13:31:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T14:31:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967944309757669873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "154467656",
+              "start": 3,
+              "username": "kougasya_meria"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sf0Q7dz6Cd",
+              "end": 48,
+              "expanded_url": "https://x.com/kougasya_meria/status/1967586807492808980/photo/1",
+              "media_key": "3_1967586635245346816",
+              "start": 25,
+              "url": "https://t.co/sf0Q7dz6Cd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967944309757669873",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 333
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967586807492808980",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kougasya_meria: wip2 https://t.co/sf0Q7dz6Cd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967586635245346816"
+          ]
+        },
+        "author_id": "154467656",
+        "conversation_id": "1967586807492808980",
+        "created_at": "2025-09-15T13:50:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T14:50:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967586807492808980"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sf0Q7dz6Cd",
+              "end": 28,
+              "expanded_url": "https://x.com/kougasya_meria/status/1967586807492808980/photo/1",
+              "media_key": "3_1967586635245346816",
+              "start": 5,
+              "url": "https://t.co/sf0Q7dz6Cd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967586807492808980",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 639,
+          "impression_count": 34243,
+          "like_count": 3572,
+          "quote_count": 2,
+          "reply_count": 4,
+          "retweet_count": 333
+        },
+        "reply_settings": "everyone",
+        "text": "wip2 https://t.co/sf0Q7dz6Cd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 226,
+          "like_count": 2836,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 761
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2010-06-11T09:05:31.000Z",
+        "description": "イラスト描いたりしてる \nSkebは開く時に事前告知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/772156",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/772156",
+                "start": 0,
+                "url": "https://t.co/4lA5oU0grf"
+              }
+            ]
+          }
+        },
+        "id": "154467656",
+        "name": "紅ヶ紗-kougasya-",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891742005694431233/tUtjVpN__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21054,
+          "following_count": 330,
+          "like_count": 53366,
+          "listed_count": 268,
+          "media_count": 29588,
+          "tweet_count": 343758
+        },
+        "url": "https://t.co/4lA5oU0grf",
+        "username": "kougasya_meria",
+        "verified": false
+      }
+    ]
+  }
+}

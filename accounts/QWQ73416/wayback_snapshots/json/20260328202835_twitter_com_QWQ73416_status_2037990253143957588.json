@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "2037742602402066715",
+    "created_at": "2026-03-28T20:28:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T21:28:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037990253143957588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1572300855881400320",
+          "start": 0,
+          "username": "Tsu_Zing"
+        },
+        {
+          "end": 25,
+          "id": "1918274202580467713",
+          "start": 10,
+          "username": "CyberKanjousen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037990253143957588",
+    "in_reply_to_user_id": "1572300855881400320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037989828609155093",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tsu_Zing @CyberKanjousen 我觉得很无所谓。。。我是一个房间里放三把刀，出门带两把刀的人。开盒了我有一个丑的无比的大头照，我会承认这就是我，如果要来主动找我，最好掂量掂量，我可没邀请你过来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "2037742602402066715",
+        "created_at": "2026-03-28T20:28:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T21:28:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037990253143957588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1572300855881400320",
+              "start": 0,
+              "username": "Tsu_Zing"
+            },
+            {
+              "end": 25,
+              "id": "1918274202580467713",
+              "start": 10,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037990253143957588",
+        "in_reply_to_user_id": "1572300855881400320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037989828609155093",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tsu_Zing @CyberKanjousen 我觉得很无所谓。。。我是一个房间里放三把刀，出门带两把刀的人。开盒了我有一个丑的无比的大头照，我会承认这就是我，如果要来主动找我，最好掂量掂量，我可没邀请你过来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1572300855881400320",
+        "conversation_id": "2037742602402066715",
+        "created_at": "2026-03-28T20:26:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T21:26:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037989828609155093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1955503492145283072",
+              "start": 0,
+              "username": "QWQ73416"
+            },
+            {
+              "end": 25,
+              "id": "1918274202580467713",
+              "start": 10,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037989828609155093",
+        "in_reply_to_user_id": "1955503492145283072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037987321996579299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QWQ73416 @CyberKanjousen 没有用，但是可以恶心别人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10🌟|GAHT/HRT:2025.10.7|\n割手的痕迹被我妈看到了，被骂了一顿|\n好闺蜜 @N2OXYN |\n→I an not a vitual account.(T~T)←|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 47,
+                "username": "N2OXYN"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "name": "🧊泠小米❄️",
+        "pinned_tweet_id": "2037669545633325393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023719096047771648/WvkPh1aM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 317,
+          "like_count": 6311,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 1601
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-20T19:05:42.000Z",
+        "description": "摆烂人 | Telegram https://t.co/IwQeuzi4as | 网站 https://t.co/ZWGhqQzo2X",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/TsuZing",
+                "end": 38,
+                "expanded_url": "http://t.me/TsuZing",
+                "start": 15,
+                "url": "https://t.co/IwQeuzi4as"
+              },
+              {
+                "display_url": "bytehorizon.net",
+                "end": 67,
+                "expanded_url": "http://bytehorizon.net",
+                "start": 44,
+                "url": "https://t.co/ZWGhqQzo2X"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bytehorizon.net",
+                "end": 23,
+                "expanded_url": "http://bytehorizon.net",
+                "start": 0,
+                "url": "https://t.co/ZWGhqQzo2X"
+              }
+            ]
+          }
+        },
+        "id": "1572300855881400320",
+        "name": "暮雨🪄初晴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964003941836013569/Es0n3he8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 48,
+          "like_count": 9519,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 250
+        },
+        "url": "https://t.co/ZWGhqQzo2X",
+        "username": "Tsu_Zing",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | 偶尔写些小说 | 和サイバー老婆 @Kanjousen0 贴贴！| CN/EN/JP | 崩舟终邦烤玩家 | まのさば好き | 友跨\n里推：@Kanjousen_dwb\n详细简介：https://t.co/LvGFVW831E\n回fo标准：https://t.co/amoo4JeGdP",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "Kanjousen0"
+              },
+              {
+                "end": 90,
+                "start": 76,
+                "username": "Kanjousen_dwb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "kanjousen.com/me",
+                "end": 119,
+                "expanded_url": "https://kanjousen.com/me",
+                "start": 96,
+                "url": "https://t.co/LvGFVW831E"
+              },
+              {
+                "display_url": "kanjousen.com/fo-block",
+                "end": 149,
+                "expanded_url": "https://kanjousen.com/fo-block",
+                "start": 126,
+                "url": "https://t.co/amoo4JeGdP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2029797324319543389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027329042102505472/oQOtKup5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 830,
+          "following_count": 330,
+          "like_count": 8542,
+          "listed_count": 3,
+          "media_count": 671,
+          "tweet_count": 3308
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

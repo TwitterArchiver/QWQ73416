@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028740755905449984"
+      ],
+      "media_source_tweet_id": [
+        "2028740800381919237"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "2028744959009185807",
+    "created_at": "2026-03-03T08:11:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T09:11:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028744959009185807"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1896812508289404928",
+          "start": 3,
+          "username": "erciyuanha87431"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hgo1mxcKzi",
+          "end": 81,
+          "expanded_url": "https://x.com/erciyuanha87431/status/2028740800381919237/photo/1",
+          "media_key": "3_2028740755905449984",
+          "start": 58,
+          "url": "https://t.co/hgo1mxcKzi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028744959009185807",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028740800381919237",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @erciyuanha87431: 教父目前的新群聊\n想讨论，堪比钟离假死的王烟洛，可进一步进群参加讨论🤓👍 https://t.co/hgo1mxcKzi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2028740755905449984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCeI-AEaEAAtZ1I.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028740755905449984"
+          ],
+          "media_source_tweet_id": [
+            "2028740800381919237"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "2028744959009185807",
+        "created_at": "2026-03-03T08:11:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T09:11:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028744959009185807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1896812508289404928",
+              "start": 3,
+              "username": "erciyuanha87431"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hgo1mxcKzi",
+              "end": 81,
+              "expanded_url": "https://x.com/erciyuanha87431/status/2028740800381919237/photo/1",
+              "media_key": "3_2028740755905449984",
+              "start": 58,
+              "url": "https://t.co/hgo1mxcKzi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028744959009185807",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028740800381919237",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @erciyuanha87431: 教父目前的新群聊\n想讨论，堪比钟离假死的王烟洛，可进一步进群参加讨论🤓👍 https://t.co/hgo1mxcKzi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028740755905449984"
+          ]
+        },
+        "author_id": "1896812508289404928",
+        "conversation_id": "2028740800381919237",
+        "created_at": "2026-03-03T07:54:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T08:54:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028740800381919237"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hgo1mxcKzi",
+              "end": 60,
+              "expanded_url": "https://x.com/erciyuanha87431/status/2028740800381919237/photo/1",
+              "media_key": "3_2028740755905449984",
+              "start": 37,
+              "url": "https://t.co/hgo1mxcKzi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028740800381919237",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "教父目前的新群聊\n想讨论，堪比钟离假死的王烟洛，可进一步进群参加讨论🤓👍 https://t.co/hgo1mxcKzi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10🌟|🍥GAHT/HRT:2025.10.7🏳️‍⚧️|\n割手的痕迹被我妈看到了，被骂了一顿|\n好闺蜜 @N2OXYN |\n→I an not a vitual account.(T~T)←|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 53,
+                "username": "N2OXYN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "MTF.wiki",
+                "end": 23,
+                "expanded_url": "http://MTF.wiki",
+                "start": 0,
+                "url": "https://t.co/7tmPTkeoFF"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "🫥",
+        "name": "🧊泠小米🍥❄️",
+        "pinned_tweet_id": "2022184415632433414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023719096047771648/WvkPh1aM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 546,
+          "following_count": 310,
+          "like_count": 6182,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 1510
+        },
+        "url": "https://t.co/7tmPTkeoFF",
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-04T06:38:52.000Z",
+        "description": "有抑郁症普通人一个🤗～超级喜欢交朋友（包容万物支持平权主义🇨🇳）\n关爱🍥小药娘🏳️‍⚧️🏳️‍🌈🇨🇳（求互Of）\n重点：并未吃糖🍥\n独爱一生的老婆：@siangel0911\n逃生舱：@zhoyhng276158\n引路人：@Lianshufa \n（我是双性恋😭不是一定就是同性恋😭）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "siangel0911"
+              },
+              {
+                "end": 105,
+                "start": 91,
+                "username": "zhoyhng276158"
+              },
+              {
+                "end": 120,
+                "start": 110,
+                "username": "Lianshufa"
+              }
+            ]
+          }
+        },
+        "id": "1896812508289404928",
+        "location": "类固醇星球",
+        "name": "🐹宇航🐹（关爱药娘版🏳️‍⚧️🏳️‍🌈互Of）我❤️福瑞🌈）药圈教父🍥）人脉王🍥）",
+        "pinned_tweet_id": "2028740800381919237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024699703582224384/Oqfhnfhj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 892,
+          "following_count": 1847,
+          "like_count": 1757,
+          "listed_count": 1,
+          "media_count": 401,
+          "tweet_count": 3544
+        },
+        "username": "erciyuanha87431",
+        "verified": false
+      }
+    ]
+  }
+}

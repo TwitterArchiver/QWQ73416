@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1977433250348793856"
+      ],
+      "media_source_tweet_id": [
+        "1977433266333622426"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1977759210050863459",
+    "created_at": "2025-10-13T15:31:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-13T16:31:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977759210050863459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1787748911878156288",
+          "start": 3,
+          "username": "anyue_1207"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hSx6uKfFca",
+          "end": 48,
+          "expanded_url": "https://x.com/anyue_1207/status/1977433266333622426/photo/1",
+          "media_key": "3_1977433250348793856",
+          "start": 25,
+          "url": "https://t.co/hSx6uKfFca"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977759210050863459",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977433266333622426",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @anyue_1207: 一个悲惨的故事😭 https://t.co/hSx6uKfFca"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 863,
+        "media_key": "3_1977433250348793856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3FBEHYWAAAWvzk.jpg",
+        "width": 1140
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977433250348793856"
+          ],
+          "media_source_tweet_id": [
+            "1977433266333622426"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1977759210050863459",
+        "created_at": "2025-10-13T15:31:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T16:31:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977759210050863459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1787748911878156288",
+              "start": 3,
+              "username": "anyue_1207"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hSx6uKfFca",
+              "end": 48,
+              "expanded_url": "https://x.com/anyue_1207/status/1977433266333622426/photo/1",
+              "media_key": "3_1977433250348793856",
+              "start": 25,
+              "url": "https://t.co/hSx6uKfFca"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977759210050863459",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977433266333622426",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @anyue_1207: 一个悲惨的故事😭 https://t.co/hSx6uKfFca"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977433250348793856"
+          ]
+        },
+        "author_id": "1787748911878156288",
+        "conversation_id": "1977433266333622426",
+        "created_at": "2025-10-12T17:56:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T18:56:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977433266333622426"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hSx6uKfFca",
+              "end": 32,
+              "expanded_url": "https://x.com/anyue_1207/status/1977433266333622426/photo/1",
+              "media_key": "3_1977433250348793856",
+              "start": 9,
+              "url": "https://t.co/hSx6uKfFca"
+            },
+            {
+              "display_url": "x.com/anyue_1207/sta…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/anyue_1207/status/1976971689830592673",
+              "start": 33,
+              "url": "https://t.co/Jdh56xm2NO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977433266333622426",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4877,
+          "like_count": 70,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976971689830592673",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一个悲惨的故事😭 https://t.co/hSx6uKfFca https://t.co/Jdh56xm2NO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|GAHT/HRT:2025.10.7|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "MTF.wiki",
+                "end": 23,
+                "expanded_url": "http://MTF.wiki",
+                "start": 0,
+                "url": "https://t.co/7tmPTkeoFF"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "∠( ᐛ 」∠)_",
+        "name": "🍥(￣ヘ￣🍥)",
+        "pinned_tweet_id": "1971859627869708434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 266,
+          "like_count": 4084,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1089
+        },
+        "url": "https://t.co/7tmPTkeoFF",
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-07T07:39:01.000Z",
+        "description": "MtF | hrt 2014.10.8 | INFJ | AuDHD",
+        "id": "1787748911878156288",
+        "name": "玥音止梦🏳‍⚧️",
+        "pinned_tweet_id": "1975744800734273961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918896469349928960/_xcW6Sl__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 928,
+          "following_count": 1525,
+          "like_count": 2560,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 202
+        },
+        "username": "anyue_1207",
+        "verified": false
+      }
+    ]
+  }
+}

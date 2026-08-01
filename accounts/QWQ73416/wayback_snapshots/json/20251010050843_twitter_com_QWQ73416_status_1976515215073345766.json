@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1976279914681930052",
+    "created_at": "2025-10-10T05:08:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T06:08:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976515215073345766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1633715238322466817",
+          "start": 0,
+          "username": "baimengmeng233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976515215073345766",
+    "in_reply_to_user_id": "1633715238322466817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976279914681930052",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baimengmeng233 加油加油加油"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1072,
+        "media_key": "3_1976279911565516801",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G20oG9maYAE_qz0.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1976279914681930052",
+        "created_at": "2025-10-10T05:08:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T06:08:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976515215073345766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1633715238322466817",
+              "start": 0,
+              "username": "baimengmeng233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976515215073345766",
+        "in_reply_to_user_id": "1633715238322466817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976279914681930052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baimengmeng233 加油加油加油"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976279911565516801"
+          ]
+        },
+        "author_id": "1633715238322466817",
+        "conversation_id": "1976279914681930052",
+        "created_at": "2025-10-09T13:33:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T14:33:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976279914681930052"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jp80fthCMC",
+              "end": 134,
+              "expanded_url": "https://x.com/baimengmeng233/status/1976279914681930052/photo/1",
+              "media_key": "3_1976279911565516801",
+              "start": 111,
+              "url": "https://t.co/jp80fthCMC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976279914681930052",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 934,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "至死不休反抗，我都能自立生活和好朋友陪着我还轮不到被彻底压垮。内心的负情绪我也不会屈服的，你这家伙反社会人格在我内心只是过去和现在的强大，但是我是从不怕的。受影响也不会被逼到做出更危险的事情了....我会对讨厌的人反击。 https://t.co/jp80fthCMC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|GAHT/HRT:2025.10.7|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "MTF.wiki",
+                "end": 23,
+                "expanded_url": "http://MTF.wiki",
+                "start": 0,
+                "url": "https://t.co/7tmPTkeoFF"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "∠( ᐛ 」∠)_",
+        "name": "🍥(￣ヘ￣🍥)",
+        "pinned_tweet_id": "1971859627869708434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 266,
+          "like_count": 4043,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1085
+        },
+        "url": "https://t.co/7tmPTkeoFF",
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-09T06:24:16.000Z",
+        "description": "20岁MTF🍥🏳️‍⚧️/性格奇怪/性取向是喜欢可爱的xnn和xyn/清水/持大证含糖/关系:没有/圈子不混只看戏的边缘独行者/中专毕业计算机自学编程业余笨蛋程序员一位。(扩列直接私聊我就可以了) 对我开盒我不在乎，随意。(稳定态)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "windplume.yn.cn",
+                "end": 23,
+                "expanded_url": "http://windplume.yn.cn",
+                "start": 0,
+                "url": "https://t.co/9kPRkmDchj"
+              }
+            ]
+          }
+        },
+        "id": "1633715238322466817",
+        "location": "终点之路—一切的起与终",
+        "name": "🍥萌萌🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962574343885770752/nqPSqAGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2314,
+          "following_count": 730,
+          "like_count": 9518,
+          "listed_count": 1,
+          "media_count": 492,
+          "tweet_count": 5923
+        },
+        "url": "https://t.co/9kPRkmDchj",
+        "username": "baimengmeng233",
+        "verified": false
+      }
+    ]
+  }
+}

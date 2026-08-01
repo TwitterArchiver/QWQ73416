@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967225468702375937"
+      ],
+      "media_source_tweet_id": [
+        "1967225604606230922"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1967541717131014153",
+    "created_at": "2025-09-15T10:51:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-15T11:51:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967541717131014153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "865193252550356992",
+          "start": 3,
+          "username": "ponchio39"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ySXX06MMtq",
+          "end": 43,
+          "expanded_url": "https://x.com/ponchio39/status/1967225604606230922/photo/1",
+          "media_key": "3_1967225468702375937",
+          "start": 20,
+          "url": "https://t.co/ySXX06MMtq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967541717131014153",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 759
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967225604606230922",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ponchio39: オアシス https://t.co/ySXX06MMtq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "3_1967225468702375937",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0z9JBcbQAEq2W8.jpg",
+        "width": 1762
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967225468702375937"
+          ],
+          "media_source_tweet_id": [
+            "1967225604606230922"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1967541717131014153",
+        "created_at": "2025-09-15T10:51:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T11:51:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967541717131014153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "865193252550356992",
+              "start": 3,
+              "username": "ponchio39"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ySXX06MMtq",
+              "end": 43,
+              "expanded_url": "https://x.com/ponchio39/status/1967225604606230922/photo/1",
+              "media_key": "3_1967225468702375937",
+              "start": 20,
+              "url": "https://t.co/ySXX06MMtq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967541717131014153",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 759
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967225604606230922",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ponchio39: オアシス https://t.co/ySXX06MMtq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967225468702375937"
+          ]
+        },
+        "author_id": "865193252550356992",
+        "conversation_id": "1967225604606230922",
+        "created_at": "2025-09-14T13:55:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T14:55:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967225604606230922"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ySXX06MMtq",
+              "end": 28,
+              "expanded_url": "https://x.com/ponchio39/status/1967225604606230922/photo/1",
+              "media_key": "3_1967225468702375937",
+              "start": 5,
+              "url": "https://t.co/ySXX06MMtq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967225604606230922",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 489,
+          "impression_count": 86150,
+          "like_count": 5191,
+          "quote_count": 6,
+          "reply_count": 5,
+          "retweet_count": 759
+        },
+        "reply_settings": "everyone",
+        "text": "オアシス https://t.co/ySXX06MMtq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 225,
+          "like_count": 2684,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 702
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-18T13:12:00.000Z",
+        "description": "ドッグファイター\n■pixiv https://t.co/WMllx3EGSV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/1040451",
+                "end": 39,
+                "expanded_url": "http://pixiv.net/users/1040451",
+                "start": 16,
+                "url": "https://t.co/WMllx3EGSV"
+              }
+            ]
+          }
+        },
+        "id": "865193252550356992",
+        "location": "tororojirusan@gmail.com",
+        "name": "とろろじる",
+        "pinned_tweet_id": "1586101488396689408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1323009913816190976/mFQPQStW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26978,
+          "following_count": 587,
+          "like_count": 92,
+          "listed_count": 365,
+          "media_count": 363,
+          "tweet_count": 2124
+        },
+        "username": "ponchio39",
+        "verified": false
+      }
+    ]
+  }
+}

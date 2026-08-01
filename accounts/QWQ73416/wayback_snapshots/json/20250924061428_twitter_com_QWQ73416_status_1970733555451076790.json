@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970733552053690369"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1970733555451076790",
+    "created_at": "2025-09-24T06:14:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T07:14:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1970733555451076790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1817821126640496640",
+          "start": 3,
+          "username": "MTNEKO8964"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Forget crushes! The Love Calculator extends your horizons to measure the love percentage between you and any Twitter user of your choice. Using a secret formula, this feature calculates the emotional compatibility you share. Just enter a Twitter handle and let the Love Calculator reveal the strength of your bond!",
+          "display_url": "infintytweet.me/love-calculato…",
+          "end": 53,
+          "expanded_url": "https://infintytweet.me/love-calculator?lang=zh",
+          "images": [
+            {
+              "height": 1884,
+              "url": "https://pbs.twimg.com/news_img/1970023099119886336/s5yRbciP?format=jpg&name=orig",
+              "width": 3600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1970023099119886336/s5yRbciP?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 30,
+          "status": 200,
+          "title": "Love Calculator • Infinitweet",
+          "unwound_url": "https://infintytweet.me/love-calculator?lang=zh",
+          "url": "https://t.co/2kKxcrsG2H"
+        },
+        {
+          "display_url": "pic.x.com/HfgqJQP3J9",
+          "end": 77,
+          "expanded_url": "https://x.com/QWQ73416/status/1970733555451076790/photo/1",
+          "media_key": "3_1970733552053690369",
+          "start": 54,
+          "url": "https://t.co/HfgqJQP3J9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970733555451076790",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我与 @MTNEKO8964 的爱兼容性为 80%\n\n➡️ https://t.co/2kKxcrsG2H https://t.co/HfgqJQP3J9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 550,
+        "media_key": "3_1970733552053690369",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1lzuWUaoAEftt-.png",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970733552053690369"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1970733555451076790",
+        "created_at": "2025-09-24T06:14:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T07:14:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970733555451076790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1817821126640496640",
+              "start": 3,
+              "username": "MTNEKO8964"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Forget crushes! The Love Calculator extends your horizons to measure the love percentage between you and any Twitter user of your choice. Using a secret formula, this feature calculates the emotional compatibility you share. Just enter a Twitter handle and let the Love Calculator reveal the strength of your bond!",
+              "display_url": "infintytweet.me/love-calculato…",
+              "end": 53,
+              "expanded_url": "https://infintytweet.me/love-calculator?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/1970023099119886336/s5yRbciP?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1970023099119886336/s5yRbciP?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 30,
+              "status": 200,
+              "title": "Love Calculator • Infinitweet",
+              "unwound_url": "https://infintytweet.me/love-calculator?lang=zh",
+              "url": "https://t.co/2kKxcrsG2H"
+            },
+            {
+              "display_url": "pic.x.com/HfgqJQP3J9",
+              "end": 77,
+              "expanded_url": "https://x.com/QWQ73416/status/1970733555451076790/photo/1",
+              "media_key": "3_1970733552053690369",
+              "start": 54,
+              "url": "https://t.co/HfgqJQP3J9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970733555451076790",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我与 @MTNEKO8964 的爱兼容性为 80%\n\n➡️ https://t.co/2kKxcrsG2H https://t.co/HfgqJQP3J9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 244,
+          "like_count": 3300,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 916
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-29T07:15:16.000Z",
+        "description": "MtX🍥 / 生日：2039.07.13 / -14岁xyn / hrt：25.2.11 / 55cm 169kg｜极度社恐 / 泛性恋 / 爱玩抽象 / 社会化程度极低的阿斯 / 一只努力学习做好人类的猫 / 世界是由面条和猫构成的｜互fo｜窝超级超级超级爱的宝宝❤️@sanmiguelnoodle",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 135,
+                "username": "sanmiguelnoodle"
+              }
+            ]
+          }
+        },
+        "id": "1817821126640496640",
+        "location": "评鉴亚硝酸钠的路上",
+        "name": "面条喵🍥🐱🐈",
+        "pinned_tweet_id": "1959530946673418708",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958605792330096640/47TPiqrZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2199,
+          "following_count": 2090,
+          "like_count": 36597,
+          "listed_count": 5,
+          "media_count": 423,
+          "tweet_count": 4684
+        },
+        "username": "MTNEKO8964",
+        "verified": false
+      }
+    ]
+  }
+}

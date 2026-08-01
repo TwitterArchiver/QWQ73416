@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1967204923579466108",
+    "created_at": "2025-09-14T13:47:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T14:47:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967223652975612069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1682957329673912320",
+          "start": 0,
+          "username": "kit_serizu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967223652975612069",
+    "in_reply_to_user_id": "1682957329673912320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967204923579466108",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kit_serizu 长发好好看(´◊ω◊｀)"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1967204920878415872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0zqc-1bwAAJWcS.jpg",
+        "width": 1077
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1967204923579466108",
+        "created_at": "2025-09-14T13:47:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T14:47:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967223652975612069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1682957329673912320",
+              "start": 0,
+              "username": "kit_serizu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967223652975612069",
+        "in_reply_to_user_id": "1682957329673912320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967204923579466108",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kit_serizu 长发好好看(´◊ω◊｀)"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967204920878415872"
+          ]
+        },
+        "author_id": "1682957329673912320",
+        "conversation_id": "1967204923579466108",
+        "created_at": "2025-09-14T12:32:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T13:32:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967204923579466108"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OJa8W3ntRD",
+              "end": 45,
+              "expanded_url": "https://x.com/kit_serizu/status/1967204923579466108/photo/1",
+              "media_key": "3_1967204920878415872",
+              "start": 22,
+              "url": "https://t.co/OJa8W3ntRD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967204923579466108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我喜欢在晚上洗澡，尽管这可能会让我生病（😖 https://t.co/OJa8W3ntRD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 222,
+          "like_count": 2556,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 670
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-23T03:34:44.000Z",
+        "description": "HRT 2024.9.3/ISFP\n♂ ENG/VIE/汉语(little bit)",
+        "id": "1682957329673912320",
+        "name": "serizeri",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966475163542986752/ukz0Pdkp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 375,
+          "like_count": 46922,
+          "listed_count": 1,
+          "media_count": 45,
+          "tweet_count": 536
+        },
+        "username": "kit_serizu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1961789188547997904",
+    "created_at": "2025-08-31T06:50:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T07:50:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962045271313088520"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1576459441863819264",
+          "start": 0,
+          "username": "jdnyzjsbudjdjd"
+        },
+        {
+          "end": 24,
+          "id": "1821167929662304263",
+          "start": 16,
+          "username": "kz152cx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962045271313088520",
+    "in_reply_to_user_id": "1576459441863819264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961991704325796080",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jdnyzjsbudjdjd @kz152cx 天选mtf(*╹▽╹*)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1961789188547997904",
+        "created_at": "2025-08-31T06:50:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T07:50:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962045271313088520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1576459441863819264",
+              "start": 0,
+              "username": "jdnyzjsbudjdjd"
+            },
+            {
+              "end": 24,
+              "id": "1821167929662304263",
+              "start": 16,
+              "username": "kz152cx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962045271313088520",
+        "in_reply_to_user_id": "1576459441863819264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961991704325796080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jdnyzjsbudjdjd @kz152cx 天选mtf(*╹▽╹*)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1576459441863819264",
+        "conversation_id": "1961789188547997904",
+        "created_at": "2025-08-31T03:17:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T04:17:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961991704325796080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1821167929662304263",
+              "start": 0,
+              "username": "kz152cx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961991704325796080",
+        "in_reply_to_user_id": "1821167929662304263",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 213,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961789188547997904",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kz152cx 为啥我第一次开发自己就进了好几根手指以及能用最小号的玩具。。。甚至没用润滑液就单纯的肠液都够用。。。不过后来一直没找到快感以及害怕后遗症，就没再玩过了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|小推@QWQ1885|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "QWQ1885"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 173,
+          "like_count": 1540,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 366
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-02T06:30:05.000Z",
+        "description": "含糖 深柜 社恐",
+        "id": "1576459441863819264",
+        "location": "火星",
+        "name": "mtf小乐",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803422825195380737/gK2bo1aX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 542,
+          "following_count": 106,
+          "like_count": 2348,
+          "listed_count": 2,
+          "media_count": 152,
+          "tweet_count": 3465
+        },
+        "username": "jdnyzjsbudjdjd",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-07T12:54:20.000Z",
+        "description": "INFP | 业余嵌入式开发 💻 & 最喜欢的人@ggccsxhn❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 24,
+                "username": "ggccsxhn"
+              }
+            ]
+          }
+        },
+        "id": "1821167929662304263",
+        "location": "陕西",
+        "name": "硫酸铜",
+        "pinned_tweet_id": "1891487605889368199",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949083915538628609/i0NyQ2QZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5451,
+          "following_count": 1400,
+          "like_count": 7162,
+          "listed_count": 6,
+          "media_count": 320,
+          "tweet_count": 4344
+        },
+        "username": "kz152cx",
+        "verified": false
+      }
+    ]
+  }
+}

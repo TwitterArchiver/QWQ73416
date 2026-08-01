@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "2039387100131529122",
+    "created_at": "2026-04-01T16:59:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T17:59:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039387100131529122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2001598933169315840",
+          "start": 3,
+          "username": "XldscX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039387100131529122",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039200342613893523",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XldscX: 如果一个跨性别者遗愿是死后用心理性别，但是你却说这是在打拳 lgbt 西方白左思想入侵，那你重开吧。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "2039387100131529122",
+        "created_at": "2026-04-01T16:59:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T17:59:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039387100131529122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2001598933169315840",
+              "start": 3,
+              "username": "XldscX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039387100131529122",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039200342613893523",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XldscX: 如果一个跨性别者遗愿是死后用心理性别，但是你却说这是在打拳 lgbt 西方白左思想入侵，那你重开吧。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001598933169315840",
+        "conversation_id": "2039200342613893523",
+        "created_at": "2026-04-01T04:37:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T05:37:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039200342613893523"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039200342613893523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1371,
+          "like_count": 96,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "如果一个跨性别者遗愿是死后用心理性别，但是你却说这是在打拳 lgbt 西方白左思想入侵，那你重开吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10🌟|GAHT/HRT:2025.10.7|\n割手的痕迹被我妈看到了，被骂了一顿|\n好闺蜜 @N2OXYN |\n→I an not a vitual account.(T~T)←|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 47,
+                "username": "N2OXYN"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "name": "🧊泠小米❄️",
+        "pinned_tweet_id": "2037669545633325393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023719096047771648/WvkPh1aM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 316,
+          "like_count": 6340,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 1614
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-18T10:23:02.000Z",
+        "description": "17y.o./生理男心理男/hrt24.4.20/181cm 59kg/学校跳楼存活记录No.1/平淡而没有任何特长/喜欢Apex,CS,ma和睡觉/R99 suki/🀄️🍃\n\n我是翎\n可以蹭蓝标互关，7000fo小号@AzureV1xen \n\n好厚米🇲🇴@letana358121\n对象♥️@juhao0721",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 109,
+                "username": "AzureV1xen"
+              },
+              {
+                "end": 141,
+                "start": 128,
+                "username": "letana358121"
+              },
+              {
+                "end": 156,
+                "start": 146,
+                "username": "juhao0721"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/llenium1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/llenium1",
+                "start": 0,
+                "url": "https://t.co/mE8Cawnpdp"
+              }
+            ]
+          }
+        },
+        "id": "2001598933169315840",
+        "location": "🇹🇼中華民國戰時陪都重慶市",
+        "name": "Re: Yu1kaX",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039264349282603008/_wWEfmzr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1115,
+          "following_count": 535,
+          "like_count": 14719,
+          "listed_count": 2,
+          "media_count": 280,
+          "tweet_count": 5334
+        },
+        "url": "https://t.co/mE8Cawnpdp",
+        "username": "XldscX",
+        "verified": true
+      }
+    ]
+  }
+}

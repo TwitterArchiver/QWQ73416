@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1962875302247596038",
+    "created_at": "2025-09-02T13:48:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T14:48:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962875302247596038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1962156064734138368",
+          "start": 3,
+          "username": "HydrogenNeko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962875302247596038",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962855187678421381",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HydrogenNeko: 我为HRT这事情付出了很多，几乎失去了所有：良好的教育环境、优秀的学术能力、良好的精神状态、可爱的朋友等等。午夜梦回，我经常思考自己经历了什么，又为什么这样凄惨...明明我在2023年是天才儿童？\n父母叽叽喳喳的说做自媒体毁了我，使我永远带上…"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "(图)2022年末，水素(化名)在SNS平台发表了手上包裹弹力绷带的图片，拍摄地点为潼南区大佛街道建设路标牌以北。",
+        "height": 715,
+        "media_key": "3_1962854669736464384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz117Cdb0AAFi1r.png",
+        "width": 715
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1962875302247596038",
+        "created_at": "2025-09-02T13:48:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T14:48:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962875302247596038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1962156064734138368",
+              "start": 3,
+              "username": "HydrogenNeko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962875302247596038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962855187678421381",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HydrogenNeko: 我为HRT这事情付出了很多，几乎失去了所有：良好的教育环境、优秀的学术能力、良好的精神状态、可爱的朋友等等。午夜梦回，我经常思考自己经历了什么，又为什么这样凄惨...明明我在2023年是天才儿童？\n父母叽叽喳喳的说做自媒体毁了我，使我永远带上…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962854669736464384"
+          ]
+        },
+        "author_id": "1962156064734138368",
+        "conversation_id": "1962855187678421381",
+        "created_at": "2025-09-02T12:28:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T13:28:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962855187678421381"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V9OXE0FUua",
+              "end": 171,
+              "expanded_url": "https://x.com/HydrogenNeko/status/1962855187678421381/photo/1",
+              "media_key": "3_1962854669736464384",
+              "start": 148,
+              "url": "https://t.co/V9OXE0FUua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962855187678421381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 96,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我为HRT这事情付出了很多，几乎失去了所有：良好的教育环境、优秀的学术能力、良好的精神状态、可爱的朋友等等。午夜梦回，我经常思考自己经历了什么，又为什么这样凄惨...明明我在2023年是天才儿童？\n父母叽叽喳喳的说做自媒体毁了我，使我永远带上假面...那当我摘下假面尽情歌唱，你们本该为我喝彩！ https://t.co/V9OXE0FUua"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|小推@QWQ1885|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "QWQ1885"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 199,
+          "like_count": 1754,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 477
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-31T14:10:44.000Z",
+        "description": "MTF🍥・我喜欢动漫和计算机・想和所有人成为朋友・仍在学习日语・ACGN+・才15岁x ・「すべてを癒す万能薬になりたい」・服务器、交换机、补佳乐！ #BBC最高通緝",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 83,
+                "start": 75,
+                "tag": "BBC最高通緝"
+              }
+            ]
+          }
+        },
+        "id": "1962156064734138368",
+        "name": "葉加瀬 水素🏳️‍⚧️",
+        "pinned_tweet_id": "1962163704134549962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962156244841709568/SgYFPIvk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 107,
+          "like_count": 258,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 124
+        },
+        "username": "HydrogenNeko",
+        "verified": false
+      }
+    ]
+  }
+}

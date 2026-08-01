@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "2043733112140796309",
+    "created_at": "2026-04-14T00:01:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T01:01:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043842047749329086"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1860552199585300482",
+          "start": 0,
+          "username": "Seven_Eraya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043842047749329086",
+    "in_reply_to_user_id": "1860552199585300482",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043733112140796309",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Seven_Eraya 炒作炒成啥了？他让你做啥你做啥？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 568,
+        "media_key": "3_2043733091630624769",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFzMay5asAEqEgB.jpg",
+        "width": 719
+      },
+      {
+        "height": 1612,
+        "media_key": "3_2043733110001676295",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFzMb3VasAc7XT5.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "2043733112140796309",
+        "created_at": "2026-04-14T00:01:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T01:01:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043842047749329086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1860552199585300482",
+              "start": 0,
+              "username": "Seven_Eraya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043842047749329086",
+        "in_reply_to_user_id": "1860552199585300482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043733112140796309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Seven_Eraya 炒作炒成啥了？他让你做啥你做啥？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043733091630624769",
+            "3_2043733110001676295"
+          ]
+        },
+        "author_id": "1860552199585300482",
+        "conversation_id": "2043733112140796309",
+        "created_at": "2026-04-13T16:48:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T17:48:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043733112140796309"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 130,
+              "start": 127,
+              "tag": "道歉"
+            },
+            {
+              "end": 135,
+              "start": 131,
+              "tag": "假讣告"
+            },
+            {
+              "end": 139,
+              "start": 136,
+              "tag": "真相"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mcqJGI89U3",
+              "end": 163,
+              "expanded_url": "https://x.com/Seven_Eraya/status/2043733112140796309/photo/1",
+              "media_key": "3_2043733091630624769",
+              "start": 140,
+              "url": "https://t.co/mcqJGI89U3"
+            },
+            {
+              "display_url": "pic.x.com/mcqJGI89U3",
+              "end": 163,
+              "expanded_url": "https://x.com/Seven_Eraya/status/2043733112140796309/photo/1",
+              "media_key": "3_2043733110001676295",
+              "start": 140,
+              "url": "https://t.co/mcqJGI89U3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043733112140796309",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 185,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "很抱歉各位\n我撒谎了 N2O\n并没有离开这个世界\n我对被我这个谎言欺骗的人表示歉意\n我既然发了这个帖子\n我就要承担这个责任\n我对因 N2O 这个假的讣告受到心理冲击、心理不适、精神创伤的人 被我欺骗的人表示歉意\n我愿意承担一切辱骂 唾弃\n我需要承担责任\n#道歉 #假讣告 #真相 https://t.co/mcqJGI89U3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10🌟|GAHT/HRT:2025.10.7|\n割手的痕迹被我妈看到了，被骂了一顿|\n好闺蜜 @N2OXYN |\n→I an not a vitual account.(T~T)←|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 47,
+                "username": "N2OXYN"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "name": "🧊泠小米❄️",
+        "pinned_tweet_id": "2037669545633325393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023719096047771648/WvkPh1aM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 683,
+          "following_count": 322,
+          "like_count": 6450,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 1677
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-24T05:15:08.000Z",
+        "description": "无证含糖🍥|边缘性人格特质|非典型强迫症|重度抑郁|性别烦躁|超强易敏体质|已拥盐|Hrt Start26.3.7|正在研究 C++11",
+        "id": "1860552199585300482",
+        "name": "Eraya🍥_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000119531575095296/-lELMvd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 36,
+          "like_count": 62,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 76
+        },
+        "username": "Seven_Eraya",
+        "verified": false
+      }
+    ]
+  }
+}

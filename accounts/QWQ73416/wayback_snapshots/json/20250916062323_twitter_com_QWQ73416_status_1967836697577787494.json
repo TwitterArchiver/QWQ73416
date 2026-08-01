@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1878613217888567296"
+      ],
+      "media_source_tweet_id": [
+        "1878613884468379893"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1967836697577787494",
+    "created_at": "2025-09-16T06:23:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T07:23:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967836697577787494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1599546260402638848",
+          "start": 3,
+          "username": "kaho_114514"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/L7PApE9C2v",
+          "end": 106,
+          "expanded_url": "https://x.com/chika_ichii/status/1878613884468379893/video/1",
+          "media_key": "13_1878613217888567296",
+          "start": 83,
+          "url": "https://t.co/L7PApE9C2v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967836697577787494",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 100
+    },
+    "referenced_tweets": [
+      {
+        "id": "1878613884468379893",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kaho_114514: 看到有好多xyn打日雌，却苦于自己不会扎针。咱特地录了一个教程，给大家演示一下最用的单人股外侧注射法和注意事项。还有额外tips！ https://t.co/L7PApE9C2v"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 389856,
+        "height": 720,
+        "media_key": "13_1878613217888567296",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1878613217888567296/img/Kfz5wI2w0cezeTE_.jpg",
+        "public_metrics": {
+          "view_count": 68485
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1878613217888567296/vid/avc1/480x270/N2BoZxnmmpJkfgpD.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1878613217888567296/vid/avc1/640x360/38ZFCVo70VIZaV2a.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1878613217888567296/vid/avc1/1280x720/151snjXzorV-6JJY.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1878613217888567296/pl/q72i9VBEPYXTh3gI.m3u8?tag=14"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1878613217888567296"
+          ],
+          "media_source_tweet_id": [
+            "1878613884468379893"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1967836697577787494",
+        "created_at": "2025-09-16T06:23:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T07:23:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967836697577787494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1599546260402638848",
+              "start": 3,
+              "username": "kaho_114514"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/L7PApE9C2v",
+              "end": 106,
+              "expanded_url": "https://x.com/chika_ichii/status/1878613884468379893/video/1",
+              "media_key": "13_1878613217888567296",
+              "start": 83,
+              "url": "https://t.co/L7PApE9C2v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967836697577787494",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 100
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878613884468379893",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kaho_114514: 看到有好多xyn打日雌，却苦于自己不会扎针。咱特地录了一个教程，给大家演示一下最用的单人股外侧注射法和注意事项。还有额外tips！ https://t.co/L7PApE9C2v"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1878613217888567296"
+          ]
+        },
+        "author_id": "1599546260402638848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1878613884468379893",
+        "created_at": "2025-01-13T01:23:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-13T02:23:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878613884468379893"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L7PApE9C2v",
+              "end": 89,
+              "expanded_url": "https://x.com/chika_ichii/status/1878613884468379893/video/1",
+              "media_key": "13_1878613217888567296",
+              "start": 66,
+              "url": "https://t.co/L7PApE9C2v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878613884468379893",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 421,
+          "impression_count": 148585,
+          "like_count": 823,
+          "quote_count": 14,
+          "reply_count": 32,
+          "retweet_count": 100
+        },
+        "reply_settings": "everyone",
+        "text": "看到有好多xyn打日雌，却苦于自己不会扎针。咱特地录了一个教程，给大家演示一下最用的单人股外侧注射法和注意事项。还有额外tips！ https://t.co/L7PApE9C2v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 226,
+          "like_count": 2809,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 750
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-04T23:28:52.000Z",
+        "description": "",
+        "id": "1599546260402638848",
+        "location": "東京都千代田区神田須田町1丁目12-3アルカディアビル",
+        "name": "王 千夏",
+        "pinned_tweet_id": "1909420985151033651",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1713906913589764096/h3IZfzmo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 708,
+          "following_count": 128,
+          "like_count": 254,
+          "listed_count": 4,
+          "media_count": 23,
+          "tweet_count": 142
+        },
+        "username": "kaho_114514",
+        "verified": true
+      }
+    ]
+  }
+}

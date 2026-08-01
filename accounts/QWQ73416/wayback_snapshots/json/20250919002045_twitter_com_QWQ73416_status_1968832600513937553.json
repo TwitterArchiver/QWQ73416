@@ -1,0 +1,420 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968594167850029056"
+      ],
+      "media_source_tweet_id": [
+        "1968594190603796739"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1968832600513937553",
+    "created_at": "2025-09-19T00:20:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T01:20:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968832600513937553"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1831493458332422144",
+          "start": 3,
+          "username": "mesh1w0kome"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AZThKbJtWC",
+          "end": 51,
+          "expanded_url": "https://x.com/mesh1w0kome/status/1968594190603796739/photo/1",
+          "media_key": "3_1968594167850029056",
+          "start": 28,
+          "url": "https://t.co/AZThKbJtWC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968832600513937553",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 88
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968594190603796739",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mesh1w0kome: 褐色エジプト猫耳ロリ https://t.co/AZThKbJtWC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3508,
+        "media_key": "3_1968594167850029056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1HZ9zGbUAAHUzI.jpg",
+        "width": 2480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968594167850029056"
+          ],
+          "media_source_tweet_id": [
+            "1968594190603796739"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1968832600513937553",
+        "created_at": "2025-09-19T00:20:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T01:20:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968832600513937553"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1831493458332422144",
+              "start": 3,
+              "username": "mesh1w0kome"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AZThKbJtWC",
+              "end": 51,
+              "expanded_url": "https://x.com/mesh1w0kome/status/1968594190603796739/photo/1",
+              "media_key": "3_1968594167850029056",
+              "start": 28,
+              "url": "https://t.co/AZThKbJtWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968832600513937553",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 88
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968594190603796739",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mesh1w0kome: 褐色エジプト猫耳ロリ https://t.co/AZThKbJtWC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968594167850029056"
+          ]
+        },
+        "author_id": "1831493458332422144",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1968594190603796739",
+        "created_at": "2025-09-18T08:33:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T09:33:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968594190603796739"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AZThKbJtWC",
+              "end": 34,
+              "expanded_url": "https://x.com/mesh1w0kome/status/1968594190603796739/photo/1",
+              "media_key": "3_1968594167850029056",
+              "start": 11,
+              "url": "https://t.co/AZThKbJtWC"
+            },
+            {
+              "display_url": "x.com/cactasis/statu…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/cactasis/status/1962197990241955979",
+              "start": 35,
+              "url": "https://t.co/SCHEtEZwo0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968594190603796739",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 123,
+          "impression_count": 11429,
+          "like_count": 834,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 88
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962197990241955979",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "褐色エジプト猫耳ロリ https://t.co/AZThKbJtWC https://t.co/SCHEtEZwo0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 230,
+          "like_count": 3030,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 806
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-05T00:45:18.000Z",
+        "description": "好きな娘描いてます┊︎【Skeb】https://t.co/j03uxAwnrB┊︎ mesh1w0kome@gmail.com📩",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@meshi0kome",
+                "end": 40,
+                "expanded_url": "https://skeb.jp/@meshi0kome",
+                "start": 17,
+                "url": "https://t.co/j03uxAwnrB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/mesh1w0kome",
+                "end": 23,
+                "expanded_url": "https://lit.link/mesh1w0kome",
+                "start": 0,
+                "url": "https://t.co/8LrhzOtK9v"
+              }
+            ]
+          }
+        },
+        "id": "1831493458332422144",
+        "location": "自作発言・AI学習禁止",
+        "name": "めしすしぃ🍚",
+        "pinned_tweet_id": "1839918967202455854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1943192293655425024/cJPvmTK1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 311,
+          "like_count": 13774,
+          "listed_count": 2,
+          "media_count": 52,
+          "tweet_count": 930
+        },
+        "url": "https://t.co/8LrhzOtK9v",
+        "username": "mesh1w0kome",
+        "verified": false
+      }
+    ]
+  }
+}

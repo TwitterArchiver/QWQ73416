@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970421327170523136"
+      ],
+      "media_source_tweet_id": [
+        "1970421334632231348"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1970732257091739787",
+    "created_at": "2025-09-24T06:09:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T07:09:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970732257091739787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1009783244970061824",
+          "start": 3,
+          "username": "MyakuroEkako"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9aN4vv4DfJ",
+          "end": 48,
+          "expanded_url": "https://x.com/MyakuroEkako/status/1970421334632231348/photo/1",
+          "media_key": "3_1970421327170523136",
+          "start": 25,
+          "url": "https://t.co/9aN4vv4DfJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970732257091739787",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 215
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970421334632231348",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MyakuroEkako: こゃ〜🦊✨️ https://t.co/9aN4vv4DfJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1970421327170523136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1hXwd_aUAAOKSy.jpg",
+        "width": 3206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970421327170523136"
+          ],
+          "media_source_tweet_id": [
+            "1970421334632231348"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1970732257091739787",
+        "created_at": "2025-09-24T06:09:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T07:09:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970732257091739787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1009783244970061824",
+              "start": 3,
+              "username": "MyakuroEkako"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9aN4vv4DfJ",
+              "end": 48,
+              "expanded_url": "https://x.com/MyakuroEkako/status/1970421334632231348/photo/1",
+              "media_key": "3_1970421327170523136",
+              "start": 25,
+              "url": "https://t.co/9aN4vv4DfJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970732257091739787",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 215
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970421334632231348",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MyakuroEkako: こゃ〜🦊✨️ https://t.co/9aN4vv4DfJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970421327170523136"
+          ]
+        },
+        "author_id": "1009783244970061824",
+        "conversation_id": "1970421334632231348",
+        "created_at": "2025-09-23T09:33:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T10:33:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970421334632231348"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9aN4vv4DfJ",
+              "end": 30,
+              "expanded_url": "https://x.com/MyakuroEkako/status/1970421334632231348/photo/1",
+              "media_key": "3_1970421327170523136",
+              "start": 7,
+              "url": "https://t.co/9aN4vv4DfJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970421334632231348",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 304,
+          "impression_count": 23992,
+          "like_count": 2517,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 215
+        },
+        "reply_settings": "everyone",
+        "text": "こゃ〜🦊✨️ https://t.co/9aN4vv4DfJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 240,
+          "like_count": 3294,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 915
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-21T13:01:01.000Z",
+        "description": "絵を描きます @MyaKuroK",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 7,
+                "username": "MyaKuroK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/34287195",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/34287195",
+                "start": 0,
+                "url": "https://t.co/lzqVesq2J2"
+              }
+            ]
+          }
+        },
+        "id": "1009783244970061824",
+        "name": "みゃくろ",
+        "pinned_tweet_id": "1726536763513159971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1720734292563931136/xnJTO8Bd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19130,
+          "following_count": 675,
+          "like_count": 96525,
+          "listed_count": 179,
+          "media_count": 258,
+          "tweet_count": 12041
+        },
+        "url": "https://t.co/lzqVesq2J2",
+        "username": "MyakuroEkako",
+        "verified": false
+      }
+    ]
+  }
+}

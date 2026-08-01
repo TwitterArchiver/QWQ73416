@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967598444043993088"
+      ],
+      "media_source_tweet_id": [
+        "1967598531717554378"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1967737867012390957",
+    "created_at": "2025-09-15T23:50:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T00:50:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967737867012390957"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1571644962856669184",
+          "start": 3,
+          "username": "empty_blanc"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NE1IVLDZ4q",
+          "end": 54,
+          "expanded_url": "https://x.com/empty_blanc/status/1967598531717554378/photo/1",
+          "media_key": "3_1967598444043993088",
+          "start": 31,
+          "url": "https://t.co/NE1IVLDZ4q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967737867012390957",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1616
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967598531717554378",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @empty_blanc: 褐色エジプト猫耳きりたん… https://t.co/NE1IVLDZ4q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1473,
+        "media_key": "3_1967598444043993088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G05QXC3agAAsHkv.jpg",
+        "width": 979
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967598444043993088"
+          ],
+          "media_source_tweet_id": [
+            "1967598531717554378"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1967737867012390957",
+        "created_at": "2025-09-15T23:50:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T00:50:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967737867012390957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1571644962856669184",
+              "start": 3,
+              "username": "empty_blanc"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NE1IVLDZ4q",
+              "end": 54,
+              "expanded_url": "https://x.com/empty_blanc/status/1967598531717554378/photo/1",
+              "media_key": "3_1967598444043993088",
+              "start": 31,
+              "url": "https://t.co/NE1IVLDZ4q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967737867012390957",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1616
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967598531717554378",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @empty_blanc: 褐色エジプト猫耳きりたん… https://t.co/NE1IVLDZ4q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967598444043993088"
+          ]
+        },
+        "author_id": "1571644962856669184",
+        "conversation_id": "1967598531717554378",
+        "created_at": "2025-09-15T14:37:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T15:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967598531717554378"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NE1IVLDZ4q",
+              "end": 37,
+              "expanded_url": "https://x.com/empty_blanc/status/1967598531717554378/photo/1",
+              "media_key": "3_1967598444043993088",
+              "start": 14,
+              "url": "https://t.co/NE1IVLDZ4q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967598531717554378",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2729,
+          "impression_count": 140736,
+          "like_count": 14840,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 1616
+        },
+        "reply_settings": "everyone",
+        "text": "褐色エジプト猫耳きりたん… https://t.co/NE1IVLDZ4q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 225,
+          "like_count": 2737,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 722
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-18T23:39:09.000Z",
+        "description": "試験運用お絵かきアカウント",
+        "id": "1571644962856669184",
+        "name": "白紙",
+        "pinned_tweet_id": "1754069709769830578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631733540726661120/ic5lx2rw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8546,
+          "following_count": 69,
+          "like_count": 942,
+          "listed_count": 109,
+          "media_count": 46,
+          "tweet_count": 309
+        },
+        "username": "empty_blanc",
+        "verified": false
+      }
+    ]
+  }
+}

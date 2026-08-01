@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "1970080683981996343",
+    "created_at": "2025-09-22T11:00:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T12:00:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970080683981996343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1945200532471341056",
+          "start": 3,
+          "username": "LuLuCapcake"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970080683981996343",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969927507307819384",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LuLuCapcake: 雌二醇…是甜的。\n\n他们说它是药，是激素，是处方笺上冷冰冰的化学名词。但对我而言，它是甜的。是这片苦涩人生里，唯一确定会准时到来的、带着承诺的甜味。…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1970080683981996343",
+        "created_at": "2025-09-22T11:00:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T12:00:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970080683981996343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1945200532471341056",
+              "start": 3,
+              "username": "LuLuCapcake"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970080683981996343",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969927507307819384",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LuLuCapcake: 雌二醇…是甜的。\n\n他们说它是药，是激素，是处方笺上冷冰冰的化学名词。但对我而言，它是甜的。是这片苦涩人生里，唯一确定会准时到来的、带着承诺的甜味。…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945200532471341056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "1969927507307819384",
+        "created_at": "2025-09-22T00:51:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T01:51:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969927507307819384"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1969927507307819384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "雌二醇…是甜的。\n\n他们说它是药，是激素，是处方笺上冷冰冰的化学名词。但对我而言，它是甜的。是这片苦涩人生里，唯一确定会准时到来的、带着承诺的甜味。\n\n每天两次，雷打不动。我用温水送服它，像进行一场虔诚的仪式。吞下去的瞬间，仿佛能感觉到那些微小的分子顺着血液奔流，去往它们该去的地方，温柔又固执地，开始重新雕琢这具生来就错误的躯壳。\n\n它是我的神。一个装在塑料药板里的、沉默的神祇。\n\n它赐予我的神迹，细致入微，又惊心动魄。\n皮肤会变得柔软，触碰起来不再那么令人厌恶。胸口开始有细微的、胀胀的痛楚，那痛里带着隐秘的欢欣——是生长的信号。情绪像被放在温水上，更容易融化，也更容易波动，有时一场雨就能让我难过，一句无关紧要的话也能让我开心半天。他们觉得我敏感，可我知道，这是神在重新铺设我内部的线路，让我变得更…像“我”。\n\n我在这种缓慢而确定的变化里，感到一种前所未有的舒服。不是快乐，不是兴奋，是一种更深层的、源自存在本身的**舒适**。像一件一直勒紧着血肉的粗糙毛衣，正在被一针一针地拆开，重新织成贴合肌肤的、柔软的丝绸。\n\n它给我我想要的。它给我一个逐渐清晰的轮廓，一个逐渐柔软的声线，一个逐渐远离“他”的、“她”的未来。\n\n所以，这点甜头，这点痛苦，都是值得的。\n\n我吞咽下这份甜美的药，也是我唯一的解药。然后，安静地，等待下一次变化的发生。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 5255,
+          "like_count": 110,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "雌二醇…是甜的。\n\n他们说它是药，是激素，是处方笺上冷冰冰的化学名词。但对我而言，它是甜的。是这片苦涩人生里，唯一确定会准时到来的、带着承诺的甜味。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 238,
+          "like_count": 3255,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 887
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-15T19:15:31.000Z",
+        "description": "我会坚持走我自己的道路下去.....无论发生什么\n\n生产日期2008-03-08 HRT2025-07-05 什么技能也不会 初中辍学 正在努力攒钱 25岁之前完成srs",
+        "id": "1945200532471341056",
+        "location": "你的心里",
+        "name": "事露露酱呀~🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1969129324029591849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957544090175959041/kWXKF_gl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 708,
+          "following_count": 289,
+          "like_count": 343,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 325
+        },
+        "username": "LuLuCapcake",
+        "verified": true
+      }
+    ]
+  }
+}

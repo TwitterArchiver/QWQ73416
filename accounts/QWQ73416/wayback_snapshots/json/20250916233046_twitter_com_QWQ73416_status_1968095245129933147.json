@@ -1,0 +1,407 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967910332447543296"
+      ],
+      "media_source_tweet_id": [
+        "1967910341263962254"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1968095245129933147",
+    "created_at": "2025-09-16T23:30:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T00:30:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968095245129933147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1669700245582917637",
+          "start": 3,
+          "username": "Sakura_Keita"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/y6LggRwg7L",
+          "end": 54,
+          "expanded_url": "https://x.com/Sakura_Keita/status/1967910341263962254/photo/1",
+          "media_key": "3_1967910332447543296",
+          "start": 31,
+          "url": "https://t.co/y6LggRwg7L"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968095245129933147",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 172
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967910341263962254",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sakura_Keita: 噂の褐色エジプト猫耳ロリ https://t.co/y6LggRwg7L"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2047,
+        "media_key": "3_1967910332447543296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G09sBVtbUAA3996.jpg",
+        "width": 1451
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967910332447543296"
+          ],
+          "media_source_tweet_id": [
+            "1967910341263962254"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1968095245129933147",
+        "created_at": "2025-09-16T23:30:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T00:30:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968095245129933147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1669700245582917637",
+              "start": 3,
+              "username": "Sakura_Keita"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/y6LggRwg7L",
+              "end": 54,
+              "expanded_url": "https://x.com/Sakura_Keita/status/1967910341263962254/photo/1",
+              "media_key": "3_1967910332447543296",
+              "start": 31,
+              "url": "https://t.co/y6LggRwg7L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968095245129933147",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 172
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967910341263962254",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sakura_Keita: 噂の褐色エジプト猫耳ロリ https://t.co/y6LggRwg7L"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967910332447543296"
+          ]
+        },
+        "author_id": "1669700245582917637",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1967910341263962254",
+        "created_at": "2025-09-16T11:16:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T12:16:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967910341263962254"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y6LggRwg7L",
+              "end": 36,
+              "expanded_url": "https://x.com/Sakura_Keita/status/1967910341263962254/photo/1",
+              "media_key": "3_1967910332447543296",
+              "start": 13,
+              "url": "https://t.co/y6LggRwg7L"
+            },
+            {
+              "display_url": "x.com/cactasis/statu…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/cactasis/status/1962197990241955979",
+              "start": 37,
+              "url": "https://t.co/7UtCapxjNF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967910341263962254",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 198,
+          "impression_count": 19252,
+          "like_count": 1544,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 172
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962197990241955979",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "噂の褐色エジプト猫耳ロリ https://t.co/y6LggRwg7L https://t.co/7UtCapxjNF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 228,
+          "like_count": 2869,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 770
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-16T13:35:44.000Z",
+        "description": "Illustrator║お仕事のご連絡はDMまで✉️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@Sakura_Keita",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@Sakura_Keita",
+                "start": 0,
+                "url": "https://t.co/TtiJc3tS4p"
+              }
+            ]
+          }
+        },
+        "id": "1669700245582917637",
+        "name": "佐倉景太",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1671493992327036928/33FKFVo-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 19,
+          "like_count": 4520,
+          "listed_count": 2,
+          "media_count": 166,
+          "tweet_count": 231
+        },
+        "url": "https://t.co/TtiJc3tS4p",
+        "username": "Sakura_Keita",
+        "verified": false
+      }
+    ]
+  }
+}

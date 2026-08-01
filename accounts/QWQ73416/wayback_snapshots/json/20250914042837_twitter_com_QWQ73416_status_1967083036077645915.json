@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1967083036077645915",
+    "created_at": "2025-09-14T04:28:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T05:28:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967083036077645915"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1966539497795117056",
+          "start": 3,
+          "username": "Yuwen_Tang1019"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967083036077645915",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967078742741971303",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yuwen_Tang1019: 彻底炸柜\n\n我妈发现我假牛子\n还帮我贴心的收拾好了，我一进屋看见，结果她问我\n：真捅pyz啊？\n我：....\nhrt还被她看到了，他问我色谱龙是啥，我还给她科普抗雄，结果她来一句\n“你永远都是男人”\n然后啊，然后\n她又把郊狼盒子拿过来问我…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1967083036077645915",
+        "created_at": "2025-09-14T04:28:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T05:28:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967083036077645915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1966539497795117056",
+              "start": 3,
+              "username": "Yuwen_Tang1019"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967083036077645915",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967078742741971303",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yuwen_Tang1019: 彻底炸柜\n\n我妈发现我假牛子\n还帮我贴心的收拾好了，我一进屋看见，结果她问我\n：真捅pyz啊？\n我：....\nhrt还被她看到了，他问我色谱龙是啥，我还给她科普抗雄，结果她来一句\n“你永远都是男人”\n然后啊，然后\n她又把郊狼盒子拿过来问我…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1966539497795117056",
+        "conversation_id": "1967078742741971303",
+        "created_at": "2025-09-14T04:11:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T05:11:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967078742741971303"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1967078742741971303",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "彻底炸柜\n\n我妈发现我假牛子\n还帮我贴心的收拾好了，我一进屋看见，结果她问我\n：真捅pyz啊？\n我：....\nhrt还被她看到了，他问我色谱龙是啥，我还给她科普抗雄，结果她来一句\n“你永远都是男人”\n然后啊，然后\n她又把郊狼盒子拿过来问我是不是药..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 221,
+          "like_count": 2460,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 661
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-12T16:29:01.000Z",
+        "description": "友跨MTF,反激跨🤔\n我的家人，孩子，笨蛋老婆和老公：@zhishi_cook🤤，@wowo_yz🥵\n仪器出厂日期19th.10.2010☺️\n在墨尔本🌝\n异常抽象的出轨多边家暴跨😱（但我的对象依然爱我喵🤓）pua人身攻击的高危mtf👹，从30th.6.2025开始hrt😋\n同类互关😈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "zhishi_cook"
+              },
+              {
+                "end": 49,
+                "start": 41,
+                "username": "wowo_yz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "MTF.WIKI",
+                "end": 23,
+                "expanded_url": "http://MTF.WIKI",
+                "start": 0,
+                "url": "https://t.co/brtIcvQKgy"
+              }
+            ]
+          }
+        },
+        "id": "1966539497795117056",
+        "location": "Melbourne, Victoria",
+        "name": "唐毓文",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966543244889894912/f4sbkyyM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 62,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 43
+        },
+        "url": "https://t.co/brtIcvQKgy",
+        "username": "Yuwen_Tang1019",
+        "verified": true
+      }
+    ]
+  }
+}

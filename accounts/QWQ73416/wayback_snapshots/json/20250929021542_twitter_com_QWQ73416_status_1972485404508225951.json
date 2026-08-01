@@ -1,0 +1,605 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1972317659401482240"
+      ],
+      "media_source_tweet_id": [
+        "1972319172043685954"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407086410884993026",
+          "name": "Blue Archive"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "1972485404508225951",
+    "created_at": "2025-09-29T02:15:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T03:15:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972485404508225951"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 17,
+          "normalized_text": "セイア",
+          "probability": 0.6041,
+          "start": 15,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 34,
+          "start": 29,
+          "tag": "ブルアカ"
+        },
+        {
+          "end": 49,
+          "start": 35,
+          "tag": "百合園セイア生誕祭2025"
+        },
+        {
+          "end": 62,
+          "start": 50,
+          "tag": "BlueArchive"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1652384089234874368",
+          "start": 3,
+          "username": "acalephea"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GFMGs1RuXb",
+          "end": 86,
+          "expanded_url": "https://x.com/acalephea/status/1972319172043685954/photo/1",
+          "media_key": "3_1972317659401482240",
+          "start": 63,
+          "url": "https://t.co/GFMGs1RuXb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972485404508225951",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 613
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972319172043685954",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @acalephea: セイア誕生日おめでとう!!\n#ブルアカ #百合園セイア生誕祭2025 #BlueArchive https://t.co/GFMGs1RuXb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1972317659401482240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G18UdiDa8AA25J1.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972317659401482240"
+          ],
+          "media_source_tweet_id": [
+            "1972319172043685954"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1972485404508225951",
+        "created_at": "2025-09-29T02:15:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T03:15:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972485404508225951"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "セイア",
+              "probability": 0.6041,
+              "start": 15,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 29,
+              "tag": "ブルアカ"
+            },
+            {
+              "end": 49,
+              "start": 35,
+              "tag": "百合園セイア生誕祭2025"
+            },
+            {
+              "end": 62,
+              "start": 50,
+              "tag": "BlueArchive"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1652384089234874368",
+              "start": 3,
+              "username": "acalephea"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GFMGs1RuXb",
+              "end": 86,
+              "expanded_url": "https://x.com/acalephea/status/1972319172043685954/photo/1",
+              "media_key": "3_1972317659401482240",
+              "start": 63,
+              "url": "https://t.co/GFMGs1RuXb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972485404508225951",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 613
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972319172043685954",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @acalephea: セイア誕生日おめでとう!!\n#ブルアカ #百合園セイア生誕祭2025 #BlueArchive https://t.co/GFMGs1RuXb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972317659401482240"
+          ]
+        },
+        "author_id": "1652384089234874368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407086410884993026",
+              "name": "Blue Archive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "1972319172043685954",
+        "created_at": "2025-09-28T15:15:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-28T16:09:19.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972317707019469197",
+          "1972319172043685954"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "セイア",
+              "probability": 0.6203,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 14,
+              "tag": "ブルアカ"
+            },
+            {
+              "end": 34,
+              "start": 20,
+              "tag": "百合園セイア生誕祭2025"
+            },
+            {
+              "end": 47,
+              "start": 35,
+              "tag": "BlueArchive"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GFMGs1RuXb",
+              "end": 71,
+              "expanded_url": "https://x.com/acalephea/status/1972319172043685954/photo/1",
+              "media_key": "3_1972317659401482240",
+              "start": 48,
+              "url": "https://t.co/GFMGs1RuXb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972319172043685954",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 901,
+          "impression_count": 50168,
+          "like_count": 6036,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 613
+        },
+        "reply_settings": "everyone",
+        "text": "セイア誕生日おめでとう!!\n#ブルアカ #百合園セイア生誕祭2025 #BlueArchive https://t.co/GFMGs1RuXb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "pinned_tweet_id": "1971859627869708434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 253,
+          "like_count": 3486,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 990
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-29T18:47:33.000Z",
+        "description": "お絵かきと3Dモデリングが趣味の人です。\nものすごくのびたい。\n最近はドットにハマってます。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/90340417",
+                "end": 23,
+                "expanded_url": "http://pixiv.net/users/90340417",
+                "start": 0,
+                "url": "https://t.co/AARHoTG37M"
+              }
+            ]
+          }
+        },
+        "id": "1652384089234874368",
+        "location": "アクロポリスUT居住",
+        "name": "acalepheaଳ（暴走中🎨",
+        "pinned_tweet_id": "1972319172043685954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972457288058454017/DLLqwKvc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1479,
+          "following_count": 545,
+          "like_count": 2202,
+          "listed_count": 11,
+          "media_count": 58,
+          "tweet_count": 497
+        },
+        "url": "https://t.co/AARHoTG37M",
+        "username": "acalephea",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1962408672367443968",
+    "created_at": "2025-09-01T06:54:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-01T07:54:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962408672367443968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1803314964284985344",
+          "start": 3,
+          "username": "jinluomiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962408672367443968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962171104099016745",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jinluomiao: 今天去找姐姐玩。。。进门一瞬间，姐姐就要求我脱下全部的衣服。。。然后三个女孩子看着我一个真的好丢脸啊。。。我很清楚的听到了一句：嗯。。真小。。小废物。。哈哈\n然后姐姐就拉起我往浴室走。进去之后姐姐就脱光了衣服，拿出了3.5的假肉棒。。顺带把我推到…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1962408672367443968",
+        "created_at": "2025-09-01T06:54:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T07:54:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962408672367443968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1803314964284985344",
+              "start": 3,
+              "username": "jinluomiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962408672367443968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962171104099016745",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jinluomiao: 今天去找姐姐玩。。。进门一瞬间，姐姐就要求我脱下全部的衣服。。。然后三个女孩子看着我一个真的好丢脸啊。。。我很清楚的听到了一句：嗯。。真小。。小废物。。哈哈\n然后姐姐就拉起我往浴室走。进去之后姐姐就脱光了衣服，拿出了3.5的假肉棒。。顺带把我推到…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1803314964284985344",
+        "conversation_id": "1962171104099016745",
+        "created_at": "2025-08-31T15:10:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T16:10:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962171104099016745"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1962171104099016745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1836,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今天去找姐姐玩。。。进门一瞬间，姐姐就要求我脱下全部的衣服。。。然后三个女孩子看着我一个真的好丢脸啊。。。我很清楚的听到了一句：嗯。。真小。。小废物。。哈哈\n然后姐姐就拉起我往浴室走。进去之后姐姐就脱光了衣服，拿出了3.5的假肉棒。。顺带把我推到花洒头下。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|小推@QWQ1885|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "QWQ1885"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 184,
+          "like_count": 1604,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 402
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-19T06:32:58.000Z",
+        "description": "阿瑾。。。笨蛋阿瑾\n05年-05日-05月\nINFP\n有主人啦。\n24年8月28号无证含糖\n休学中\n情绪状况良好\n调养身体中\n170cm-72kg\n互fo请私信我哦\n小号：@jinluomiao5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 86,
+                "username": "jinluomiao5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jinluomiao",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jinluomiao",
+                "start": 0,
+                "url": "https://t.co/kL6TQThccf"
+              }
+            ]
+          }
+        },
+        "id": "1803314964284985344",
+        "location": "主人需要阿瑾的每一个地方",
+        "name": "小阿瑾🍥（大笨蛋）",
+        "pinned_tweet_id": "1867250521729306631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863679245043544064/UEWeNeh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3101,
+          "following_count": 844,
+          "like_count": 23877,
+          "listed_count": 2,
+          "media_count": 216,
+          "tweet_count": 4579
+        },
+        "url": "https://t.co/kL6TQThccf",
+        "username": "jinluomiao",
+        "verified": false
+      }
+    ]
+  }
+}

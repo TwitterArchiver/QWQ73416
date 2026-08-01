@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1971501406843805696"
+      ],
+      "media_source_tweet_id": [
+        "1971501506429091888"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1971589641980825643",
+    "created_at": "2025-09-26T14:56:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-26T15:56:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1971589641980825643"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1504750243828490246",
+          "start": 3,
+          "username": "tsugu_no"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Kx9viS1i0H",
+          "end": 37,
+          "expanded_url": "https://x.com/tsugu_no/status/1971501506429091888/photo/1",
+          "media_key": "3_1971501406843805696",
+          "start": 14,
+          "url": "https://t.co/Kx9viS1i0H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1971589641980825643",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 78
+    },
+    "referenced_tweets": [
+      {
+        "id": "1971501506429091888",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tsugu_no: https://t.co/Kx9viS1i0H"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 717,
+        "media_key": "3_1971501406843805696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1wuFYUboAAJRd7.jpg",
+        "width": 794
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971501406843805696"
+          ],
+          "media_source_tweet_id": [
+            "1971501506429091888"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1971589641980825643",
+        "created_at": "2025-09-26T14:56:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T15:56:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1971589641980825643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1504750243828490246",
+              "start": 3,
+              "username": "tsugu_no"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kx9viS1i0H",
+              "end": 37,
+              "expanded_url": "https://x.com/tsugu_no/status/1971501506429091888/photo/1",
+              "media_key": "3_1971501406843805696",
+              "start": 14,
+              "url": "https://t.co/Kx9viS1i0H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971589641980825643",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 78
+        },
+        "referenced_tweets": [
+          {
+            "id": "1971501506429091888",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tsugu_no: https://t.co/Kx9viS1i0H"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1971501406843805696"
+          ]
+        },
+        "author_id": "1504750243828490246",
+        "conversation_id": "1971501506429091888",
+        "created_at": "2025-09-26T09:06:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-26T10:06:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1971501506429091888"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kx9viS1i0H",
+              "end": 23,
+              "expanded_url": "https://x.com/tsugu_no/status/1971501506429091888/photo/1",
+              "media_key": "3_1971501406843805696",
+              "start": 0,
+              "url": "https://t.co/Kx9viS1i0H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1971501506429091888",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 4881,
+          "like_count": 463,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 78
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Kx9viS1i0H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "pinned_tweet_id": "1971096075286216763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 252,
+          "like_count": 3413,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 961
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-18T09:23:54.000Z",
+        "description": "綺麗と可愛いをたくさん",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@tsugu_no",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@tsugu_no",
+                "start": 0,
+                "url": "https://t.co/j5g2aK1AwL"
+              }
+            ]
+          }
+        },
+        "id": "1504750243828490246",
+        "name": "つぐの。",
+        "pinned_tweet_id": "1947588215969615926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1610612855103172609/XU9pmzZU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1477,
+          "following_count": 702,
+          "like_count": 52817,
+          "listed_count": 14,
+          "media_count": 198,
+          "tweet_count": 356
+        },
+        "url": "https://t.co/j5g2aK1AwL",
+        "username": "tsugu_no",
+        "verified": false
+      }
+    ]
+  }
+}

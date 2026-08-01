@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025107432754872321",
+        "3_2025107433279160321",
+        "3_2025107433019113481",
+        "3_2025107435107807232"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2025107437611786394",
+    "created_at": "2026-02-21T07:16:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T08:16:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025107437611786394"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5Uj4XjzdPU",
+          "end": 72,
+          "expanded_url": "https://x.com/QWQ73416/status/2025107437611786394/photo/1",
+          "media_key": "3_2025107432754872321",
+          "start": 49,
+          "url": "https://t.co/5Uj4XjzdPU"
+        },
+        {
+          "display_url": "pic.x.com/5Uj4XjzdPU",
+          "end": 72,
+          "expanded_url": "https://x.com/QWQ73416/status/2025107437611786394/photo/1",
+          "media_key": "3_2025107433279160321",
+          "start": 49,
+          "url": "https://t.co/5Uj4XjzdPU"
+        },
+        {
+          "display_url": "pic.x.com/5Uj4XjzdPU",
+          "end": 72,
+          "expanded_url": "https://x.com/QWQ73416/status/2025107437611786394/photo/1",
+          "media_key": "3_2025107433019113481",
+          "start": 49,
+          "url": "https://t.co/5Uj4XjzdPU"
+        },
+        {
+          "display_url": "pic.x.com/5Uj4XjzdPU",
+          "end": 72,
+          "expanded_url": "https://x.com/QWQ73416/status/2025107437611786394/photo/1",
+          "media_key": "3_2025107435107807232",
+          "start": 49,
+          "url": "https://t.co/5Uj4XjzdPU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025107437611786394",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一切都只是唐毓文在自说自话，事实根本不是这样的，一切都只是唐÷自己在炒作！！！（大家帮忙转一下） https://t.co/5Uj4XjzdPU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2712,
+        "media_key": "3_2025107432754872321",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBqgewlbgAENK0E.jpg",
+        "width": 1220
+      },
+      {
+        "height": 4177,
+        "media_key": "3_2025107433279160321",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBqgeyibgAEuNeA.jpg",
+        "width": 1220
+      },
+      {
+        "height": 1652,
+        "media_key": "3_2025107433019113481",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBqgexkbgAkWNk2.jpg",
+        "width": 1220
+      },
+      {
+        "height": 3316,
+        "media_key": "3_2025107435107807232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBqge5WacAAJUf8.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025107432754872321",
+            "3_2025107433279160321",
+            "3_2025107433019113481",
+            "3_2025107435107807232"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2025107437611786394",
+        "created_at": "2026-02-21T07:16:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T08:16:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025107437611786394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5Uj4XjzdPU",
+              "end": 72,
+              "expanded_url": "https://x.com/QWQ73416/status/2025107437611786394/photo/1",
+              "media_key": "3_2025107432754872321",
+              "start": 49,
+              "url": "https://t.co/5Uj4XjzdPU"
+            },
+            {
+              "display_url": "pic.x.com/5Uj4XjzdPU",
+              "end": 72,
+              "expanded_url": "https://x.com/QWQ73416/status/2025107437611786394/photo/1",
+              "media_key": "3_2025107433279160321",
+              "start": 49,
+              "url": "https://t.co/5Uj4XjzdPU"
+            },
+            {
+              "display_url": "pic.x.com/5Uj4XjzdPU",
+              "end": 72,
+              "expanded_url": "https://x.com/QWQ73416/status/2025107437611786394/photo/1",
+              "media_key": "3_2025107433019113481",
+              "start": 49,
+              "url": "https://t.co/5Uj4XjzdPU"
+            },
+            {
+              "display_url": "pic.x.com/5Uj4XjzdPU",
+              "end": 72,
+              "expanded_url": "https://x.com/QWQ73416/status/2025107437611786394/photo/1",
+              "media_key": "3_2025107435107807232",
+              "start": 49,
+              "url": "https://t.co/5Uj4XjzdPU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025107437611786394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一切都只是唐毓文在自说自话，事实根本不是这样的，一切都只是唐÷自己在炒作！！！（大家帮忙转一下） https://t.co/5Uj4XjzdPU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10🌟|🍥GAHT/HRT:2025.10.7🏳️‍⚧️|\n割手的痕迹被我妈看到了，被骂了一顿|\n好闺蜜 @z8897031948836 |\n→I an not a vitual account.(T~T)←|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 53,
+                "username": "z8897031948836"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "MTF.wiki",
+                "end": 23,
+                "expanded_url": "http://MTF.wiki",
+                "start": 0,
+                "url": "https://t.co/UK9faF3NwN"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "🫥",
+        "name": "🧊泠小米🍥❄️",
+        "pinned_tweet_id": "2022184415632433414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023719096047771648/WvkPh1aM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 451,
+          "following_count": 309,
+          "like_count": 6094,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 1462
+        },
+        "url": "https://t.co/UK9faF3NwN",
+        "username": "QWQ73416",
+        "verified": false
+      }
+    ]
+  }
+}

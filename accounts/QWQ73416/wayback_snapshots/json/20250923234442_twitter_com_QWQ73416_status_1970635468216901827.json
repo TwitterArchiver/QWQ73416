@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970345962293075968"
+      ],
+      "media_source_tweet_id": [
+        "1970346362391945322"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1970635468216901827",
+    "created_at": "2025-09-23T23:44:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-24T00:44:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970635468216901827"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "294571969",
+          "start": 3,
+          "username": "zizi_niisan"
+        }
+      ],
+      "urls": [
+        {
+          "description": "ジジさんこんにちは！リクエスト失礼します。 お願いしたいのは、うちのこ狐娘2匹です。 赤いのがおトメさんといいます。狐耳はなく大きなリボンです。しっぽはあります。スカートは膝下ちょいくらいで、足に絆創膏ありです。 緑のがぎんといいます。こちらは狐耳あり、しっぽなしです。 2匹とも胸はぺったんこです。身長差は、おトメの頭がぎんのお腹にくるくらいです。 普段は無垢なキャラなのですが、今回はジジさんにちょっとダークな雰囲気で描いていただきたいと思います。 ちょっとした背景もお願いしたくて、夜の神社、鬼火の灯り、ジト目で妖しい感じ…辺りが希望するイメージです。 その他構図はお任せします。全身が収まっていなくても大丈夫です。 普段描いていらっしゃる1キャラの複数のアングルではない形ですが、よろしければご検討お願いいたします。 (リンク2つに分かれています) https://x.com/gongonfoxfox/status/1915165789717692848?t=eD-UOU-iJdaRTZFS-CcmQQ&s=19 https://x.com/gongonfoxfox/status/1929519162960785864?t=Q5TJyKmMYZ6LD88-l5MCTA&s=19",
+          "display_url": "skeb.jp/@zizi_niisan/w…",
+          "end": 63,
+          "expanded_url": "https://skeb.jp/@zizi_niisan/works/52",
+          "start": 40,
+          "status": 200,
+          "title": "ジジさんこんにちは！リ... by ジジ | Skeb",
+          "unwound_url": "https://skeb.jp/@zizi_niisan/works/52",
+          "url": "https://t.co/SLxUP2LROq"
+        },
+        {
+          "display_url": "pic.x.com/XllZA31i1W",
+          "end": 87,
+          "expanded_url": "https://x.com/zizi_niisan/status/1970346362391945322/photo/1",
+          "media_key": "3_1970345962293075968",
+          "start": 64,
+          "url": "https://t.co/XllZA31i1W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970635468216901827",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 49
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970346362391945322",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zizi_niisan: skebご依頼ありがとうございました！🎀⛩🦊\nhttps://t.co/SLxUP2LROq https://t.co/XllZA31i1W"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2865,
+        "media_key": "3_1970345962293075968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1gTNp8aoAASJiS.jpg",
+        "width": 2026
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970345962293075968"
+          ],
+          "media_source_tweet_id": [
+            "1970346362391945322"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1970635468216901827",
+        "created_at": "2025-09-23T23:44:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T00:44:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970635468216901827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "294571969",
+              "start": 3,
+              "username": "zizi_niisan"
+            }
+          ],
+          "urls": [
+            {
+              "description": "ジジさんこんにちは！リクエスト失礼します。 お願いしたいのは、うちのこ狐娘2匹です。 赤いのがおトメさんといいます。狐耳はなく大きなリボンです。しっぽはあります。スカートは膝下ちょいくらいで、足に絆創膏ありです。 緑のがぎんといいます。こちらは狐耳あり、しっぽなしです。 2匹とも胸はぺったんこです。身長差は、おトメの頭がぎんのお腹にくるくらいです。 普段は無垢なキャラなのですが、今回はジジさんにちょっとダークな雰囲気で描いていただきたいと思います。 ちょっとした背景もお願いしたくて、夜の神社、鬼火の灯り、ジト目で妖しい感じ…辺りが希望するイメージです。 その他構図はお任せします。全身が収まっていなくても大丈夫です。 普段描いていらっしゃる1キャラの複数のアングルではない形ですが、よろしければご検討お願いいたします。 (リンク2つに分かれています) https://x.com/gongonfoxfox/status/1915165789717692848?t=eD-UOU-iJdaRTZFS-CcmQQ&s=19 https://x.com/gongonfoxfox/status/1929519162960785864?t=Q5TJyKmMYZ6LD88-l5MCTA&s=19",
+              "display_url": "skeb.jp/@zizi_niisan/w…",
+              "end": 63,
+              "expanded_url": "https://skeb.jp/@zizi_niisan/works/52",
+              "start": 40,
+              "status": 200,
+              "title": "ジジさんこんにちは！リ... by ジジ | Skeb",
+              "unwound_url": "https://skeb.jp/@zizi_niisan/works/52",
+              "url": "https://t.co/SLxUP2LROq"
+            },
+            {
+              "display_url": "pic.x.com/XllZA31i1W",
+              "end": 87,
+              "expanded_url": "https://x.com/zizi_niisan/status/1970346362391945322/photo/1",
+              "media_key": "3_1970345962293075968",
+              "start": 64,
+              "url": "https://t.co/XllZA31i1W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970635468216901827",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 49
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970346362391945322",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zizi_niisan: skebご依頼ありがとうございました！🎀⛩🦊\nhttps://t.co/SLxUP2LROq https://t.co/XllZA31i1W"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970345962293075968"
+          ]
+        },
+        "author_id": "294571969",
+        "conversation_id": "1970346362391945322",
+        "created_at": "2025-09-23T04:35:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T05:35:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970346362391945322"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "ジジさんこんにちは！リクエスト失礼します。 お願いしたいのは、うちのこ狐娘2匹です。 赤いのがおトメさんといいます。狐耳はなく大きなリボンです。しっぽはあります。スカートは膝下ちょいくらいで、足に絆創膏ありです。 緑のがぎんといいます。こちらは狐耳あり、しっぽなしです。 2匹とも胸はぺったんこです。身長差は、おトメの頭がぎんのお腹にくるくらいです。 普段は無垢なキャラなのですが、今回はジジさんにちょっとダークな雰囲気で描いていただきたいと思います。 ちょっとした背景もお願いしたくて、夜の神社、鬼火の灯り、ジト目で妖しい感じ…辺りが希望するイメージです。 その他構図はお任せします。全身が収まっていなくても大丈夫です。 普段描いていらっしゃる1キャラの複数のアングルではない形ですが、よろしければご検討お願いいたします。 (リンク2つに分かれています) https://x.com/gongonfoxfox/status/1915165789717692848?t=eD-UOU-iJdaRTZFS-CcmQQ&s=19 https://x.com/gongonfoxfox/status/1929519162960785864?t=Q5TJyKmMYZ6LD88-l5MCTA&s=19",
+              "display_url": "skeb.jp/@zizi_niisan/w…",
+              "end": 46,
+              "expanded_url": "https://skeb.jp/@zizi_niisan/works/52",
+              "start": 23,
+              "status": 200,
+              "title": "ジジさんこんにちは！リ... by ジジ | Skeb",
+              "unwound_url": "https://skeb.jp/@zizi_niisan/works/52",
+              "url": "https://t.co/SLxUP2LROq"
+            },
+            {
+              "display_url": "pic.x.com/XllZA31i1W",
+              "end": 70,
+              "expanded_url": "https://x.com/zizi_niisan/status/1970346362391945322/photo/1",
+              "media_key": "3_1970345962293075968",
+              "start": 47,
+              "url": "https://t.co/XllZA31i1W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970346362391945322",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 9576,
+          "like_count": 334,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "skebご依頼ありがとうございました！🎀⛩🦊\nhttps://t.co/SLxUP2LROq https://t.co/XllZA31i1W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 240,
+          "like_count": 3292,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 909
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2011-05-07T11:42:00.000Z",
+        "description": "気ままにお絵描き。個人依頼受け付けてません。\n ✉【ziziimbn⭐︎https://t.co/s0STTNuY67】 雑垢(@zizi_oniisan) \n🦋https://t.co/KnM3FvE1B6\nskeb:https://t.co/tFJBZGX4UT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 64,
+                "username": "zizi_oniisan"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "gmail.com",
+                "end": 59,
+                "expanded_url": "http://gmail.com",
+                "start": 36,
+                "url": "https://t.co/s0STTNuY67"
+              },
+              {
+                "display_url": "bsky.app/profile/zizi-n…",
+                "end": 104,
+                "expanded_url": "https://bsky.app/profile/zizi-niisan.bsky.social",
+                "start": 81,
+                "url": "https://t.co/KnM3FvE1B6"
+              },
+              {
+                "display_url": "skeb.jp/@zizi_niisan",
+                "end": 133,
+                "expanded_url": "https://skeb.jp/@zizi_niisan",
+                "start": 110,
+                "url": "https://t.co/tFJBZGX4UT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/fanbox/creator…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/fanbox/creator/3732219",
+                "start": 0,
+                "url": "https://t.co/B8ctNsovMZ"
+              }
+            ]
+          }
+        },
+        "id": "294571969",
+        "location": "セーラー服とスク水と私",
+        "name": "ジジ",
+        "pinned_tweet_id": "1964485257199309079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1380553579207921666/Mum0iSAa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92355,
+          "following_count": 1684,
+          "like_count": 27582,
+          "listed_count": 869,
+          "media_count": 1824,
+          "tweet_count": 80510
+        },
+        "url": "https://t.co/B8ctNsovMZ",
+        "username": "zizi_niisan",
+        "verified": false
+      }
+    ]
+  }
+}

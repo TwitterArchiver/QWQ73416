@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962502745090670592"
+      ],
+      "media_source_tweet_id": [
+        "1962502874501620033"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1962776968447107143",
+    "created_at": "2025-09-02T07:17:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T08:17:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962776968447107143"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1962156064734138368",
+          "start": 3,
+          "username": "HydrogenNeko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/u3CoJhEftN",
+          "end": 60,
+          "expanded_url": "https://x.com/HydrogenNeko/status/1962502874501620033/photo/1",
+          "media_key": "3_1962502745090670592",
+          "start": 37,
+          "url": "https://t.co/u3CoJhEftN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962776968447107143",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962502874501620033",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HydrogenNeko: “0母真1已被做成魔方卫星发射上天” https://t.co/u3CoJhEftN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1962502745090670592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gzw12U_bwAAjq6U.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962502745090670592"
+          ],
+          "media_source_tweet_id": [
+            "1962502874501620033"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1962776968447107143",
+        "created_at": "2025-09-02T07:17:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T08:17:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962776968447107143"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1962156064734138368",
+              "start": 3,
+              "username": "HydrogenNeko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/u3CoJhEftN",
+              "end": 60,
+              "expanded_url": "https://x.com/HydrogenNeko/status/1962502874501620033/photo/1",
+              "media_key": "3_1962502745090670592",
+              "start": 37,
+              "url": "https://t.co/u3CoJhEftN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962776968447107143",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962502874501620033",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HydrogenNeko: “0母真1已被做成魔方卫星发射上天” https://t.co/u3CoJhEftN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962502745090670592"
+          ]
+        },
+        "author_id": "1962156064734138368",
+        "conversation_id": "1962502874501620033",
+        "created_at": "2025-09-01T13:08:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-01T14:08:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962502874501620033"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u3CoJhEftN",
+              "end": 42,
+              "expanded_url": "https://x.com/HydrogenNeko/status/1962502874501620033/photo/1",
+              "media_key": "3_1962502745090670592",
+              "start": 19,
+              "url": "https://t.co/u3CoJhEftN"
+            },
+            {
+              "display_url": "x.com/HydrogenNeko/s…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/HydrogenNeko/status/1962482117818175524",
+              "start": 43,
+              "url": "https://t.co/sCZp8xwdDJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962502874501620033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 235,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962482117818175524",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“0母真1已被做成魔方卫星发射上天” https://t.co/u3CoJhEftN https://t.co/sCZp8xwdDJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|小推@QWQ1885|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "QWQ1885"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 199,
+          "like_count": 1750,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 474
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-31T14:10:44.000Z",
+        "description": "MTF🍥・我喜欢动漫和计算机・想和所有人成为朋友・仍在学习日语・ACGN+・才15岁x ・すべてを癒す万能薬になりたい・服务器、交换机、 补佳乐！",
+        "id": "1962156064734138368",
+        "name": "葉加瀬 水素🏳️‍⚧️",
+        "pinned_tweet_id": "1962163704134549962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962156244841709568/SgYFPIvk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 100,
+          "like_count": 201,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 93
+        },
+        "username": "HydrogenNeko",
+        "verified": false
+      }
+    ]
+  }
+}

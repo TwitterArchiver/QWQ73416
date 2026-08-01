@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968659879411023872"
+      ],
+      "media_source_tweet_id": [
+        "1968659885911937271"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1968848335176929705",
+    "created_at": "2025-09-19T01:23:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-19T02:23:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968848335176929705"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "978525173321117697",
+          "start": 3,
+          "username": "kyousuke_kyouko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/93QExLZ2y9",
+          "end": 63,
+          "expanded_url": "https://x.com/kyousuke_kyouko/status/1968659885911937271/photo/1",
+          "media_key": "3_1968659879411023872",
+          "start": 40,
+          "url": "https://t.co/93QExLZ2y9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968848335176929705",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 72
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968659885911937271",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kyousuke_kyouko: 褐色のエジプトの猫耳の白スク水🐈‍⬛ https://t.co/93QExLZ2y9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1336,
+        "media_key": "3_1968659879411023872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1IVutvbgAAONZS.jpg",
+        "width": 967
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968659879411023872"
+          ],
+          "media_source_tweet_id": [
+            "1968659885911937271"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1968848335176929705",
+        "created_at": "2025-09-19T01:23:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T02:23:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968848335176929705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "978525173321117697",
+              "start": 3,
+              "username": "kyousuke_kyouko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/93QExLZ2y9",
+              "end": 63,
+              "expanded_url": "https://x.com/kyousuke_kyouko/status/1968659885911937271/photo/1",
+              "media_key": "3_1968659879411023872",
+              "start": 40,
+              "url": "https://t.co/93QExLZ2y9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968848335176929705",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 72
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968659885911937271",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kyousuke_kyouko: 褐色のエジプトの猫耳の白スク水🐈‍⬛ https://t.co/93QExLZ2y9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968659879411023872"
+          ]
+        },
+        "author_id": "978525173321117697",
+        "conversation_id": "1968659885911937271",
+        "created_at": "2025-09-18T12:54:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T13:54:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968659885911937271"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/93QExLZ2y9",
+              "end": 42,
+              "expanded_url": "https://x.com/kyousuke_kyouko/status/1968659885911937271/photo/1",
+              "media_key": "3_1968659879411023872",
+              "start": 19,
+              "url": "https://t.co/93QExLZ2y9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968659885911937271",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 181,
+          "impression_count": 8222,
+          "like_count": 1151,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 72
+        },
+        "reply_settings": "everyone",
+        "text": "褐色のエジプトの猫耳の白スク水🐈‍⬛ https://t.co/93QExLZ2y9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 231,
+          "like_count": 3046,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 813
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2018-03-27T06:52:36.000Z",
+        "description": "ただのAI利用者。投稿したものは基本的にAI生成物です。土日はお返事率低下します。---他SNSやpixiv等はリンク集からお願いします↓↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/kyousukekyouko",
+                "end": 23,
+                "expanded_url": "https://lit.link/kyousukekyouko",
+                "start": 0,
+                "url": "https://t.co/KF6uWcQ5Hl"
+              }
+            ]
+          }
+        },
+        "id": "978525173321117697",
+        "location": "日本",
+        "name": "京すけ🍭AIart",
+        "pinned_tweet_id": "1968147272098779629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788171346427756544/ap2PMNVh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43128,
+          "following_count": 748,
+          "like_count": 12846,
+          "listed_count": 221,
+          "media_count": 4275,
+          "tweet_count": 19090
+        },
+        "url": "https://t.co/KF6uWcQ5Hl",
+        "username": "kyousuke_kyouko",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1973373924445659143"
+      ],
+      "media_source_tweet_id": [
+        "1973373929541812420"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1973607305485885441",
+    "created_at": "2025-10-02T04:33:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-02T05:33:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973607305485885441"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1774110396854771712",
+          "start": 3,
+          "username": "JLGeasy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/L2iIjQH7mT",
+          "end": 49,
+          "expanded_url": "https://x.com/JLGeasy/status/1973373929541812420/photo/1",
+          "media_key": "3_1973373924445659143",
+          "start": 26,
+          "url": "https://t.co/L2iIjQH7mT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973607305485885441",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973373929541812420",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JLGeasy: 下楼接水被老太太说表子了 https://t.co/L2iIjQH7mT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1973373924445659143",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2LVIP-aIAcUa4I.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973373924445659143"
+          ],
+          "media_source_tweet_id": [
+            "1973373929541812420"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1973607305485885441",
+        "created_at": "2025-10-02T04:33:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-02T05:33:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973607305485885441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1774110396854771712",
+              "start": 3,
+              "username": "JLGeasy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/L2iIjQH7mT",
+              "end": 49,
+              "expanded_url": "https://x.com/JLGeasy/status/1973373929541812420/photo/1",
+              "media_key": "3_1973373924445659143",
+              "start": 26,
+              "url": "https://t.co/L2iIjQH7mT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973607305485885441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973373929541812420",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JLGeasy: 下楼接水被老太太说表子了 https://t.co/L2iIjQH7mT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1973373924445659143"
+          ]
+        },
+        "author_id": "1774110396854771712",
+        "conversation_id": "1973373929541812420",
+        "created_at": "2025-10-01T13:06:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T14:06:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973373929541812420"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/L2iIjQH7mT",
+              "end": 36,
+              "expanded_url": "https://x.com/JLGeasy/status/1973373929541812420/photo/1",
+              "media_key": "3_1973373924445659143",
+              "start": 13,
+              "url": "https://t.co/L2iIjQH7mT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973373929541812420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 50621,
+          "like_count": 549,
+          "quote_count": 0,
+          "reply_count": 44,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "下楼接水被老太太说表子了 https://t.co/L2iIjQH7mT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "pinned_tweet_id": "1971859627869708434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 255,
+          "like_count": 3598,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1020
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-30T16:24:27.000Z",
+        "description": "叫我easy就好，有证药娘，发发槽点还有女装之类的，还有就是道心不稳随时可能崩溃 /过门50（树洞easy随时为您服务）\n/尝试解救（大概两年后救出来）的可爱老婆是：@mengmeng000715 \ntg群：https://t.co/BuPTK6zgts",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 83,
+                "username": "mengmeng000715"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+Fgtgs1AMUMU3Y…",
+                "end": 127,
+                "expanded_url": "https://t.me/+Fgtgs1AMUMU3YjFl",
+                "start": 104,
+                "url": "https://t.co/BuPTK6zgts"
+              }
+            ]
+          }
+        },
+        "id": "1774110396854771712",
+        "location": "广州，东莞",
+        "name": "easy🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1893310840868102448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926604636653314048/NFrwFuLU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6480,
+          "following_count": 614,
+          "like_count": 5479,
+          "listed_count": 11,
+          "media_count": 501,
+          "tweet_count": 4229
+        },
+        "username": "JLGeasy",
+        "verified": false
+      }
+    ]
+  }
+}

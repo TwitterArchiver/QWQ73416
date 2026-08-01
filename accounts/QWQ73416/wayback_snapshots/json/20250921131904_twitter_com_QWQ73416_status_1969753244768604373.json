@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969696389329530881"
+      ],
+      "media_source_tweet_id": [
+        "1969696428667830459"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1969753244768604373",
+    "created_at": "2025-09-21T13:19:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-21T14:19:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969753244768604373"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 15,
+          "normalized_text": "け",
+          "probability": 0.9104,
+          "start": 15,
+          "type": "Person"
+        },
+        {
+          "end": 19,
+          "normalized_text": "もちゃん",
+          "probability": 0.485,
+          "start": 16,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2827574503",
+          "start": 3,
+          "username": "kamindani"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DmJz0yB5MW",
+          "end": 44,
+          "expanded_url": "https://x.com/kamindani/status/1969696428667830459/photo/1",
+          "media_key": "3_1969696389329530881",
+          "start": 21,
+          "url": "https://t.co/DmJz0yB5MW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969753244768604373",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 65
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969696428667830459",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kamindani: けもちゃん https://t.co/DmJz0yB5MW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3541,
+        "media_key": "3_1969696389329530881",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1XEbiFbMAEmVJ5.jpg",
+        "width": 2508
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969696389329530881"
+          ],
+          "media_source_tweet_id": [
+            "1969696428667830459"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1969753244768604373",
+        "created_at": "2025-09-21T13:19:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T14:19:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969753244768604373"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "け",
+              "probability": 0.9104,
+              "start": 15,
+              "type": "Person"
+            },
+            {
+              "end": 19,
+              "normalized_text": "もちゃん",
+              "probability": 0.485,
+              "start": 16,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2827574503",
+              "start": 3,
+              "username": "kamindani"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DmJz0yB5MW",
+              "end": 44,
+              "expanded_url": "https://x.com/kamindani/status/1969696428667830459/photo/1",
+              "media_key": "3_1969696389329530881",
+              "start": 21,
+              "url": "https://t.co/DmJz0yB5MW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969753244768604373",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 65
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969696428667830459",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kamindani: けもちゃん https://t.co/DmJz0yB5MW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969696389329530881"
+          ]
+        },
+        "author_id": "2827574503",
+        "conversation_id": "1969696428667830459",
+        "created_at": "2025-09-21T09:33:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T10:33:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969696428667830459"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "けもちゃん",
+              "probability": 0.5561,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DmJz0yB5MW",
+              "end": 29,
+              "expanded_url": "https://x.com/kamindani/status/1969696428667830459/photo/1",
+              "media_key": "3_1969696389329530881",
+              "start": 6,
+              "url": "https://t.co/DmJz0yB5MW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969696428667830459",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 5955,
+          "like_count": 460,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 65
+        },
+        "reply_settings": "everyone",
+        "text": "けもちゃん https://t.co/DmJz0yB5MW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 237,
+          "like_count": 3126,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 848
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2014-09-23T06:27:36.000Z",
+        "description": "お絵描き将軍兼業勤労者、令和5年度きらら6月号読切『さいはてララバイズ』/電撃文庫「こわれたせかいのむこうがわ」イラスト担当。コミュ弱の為リプ返は稀ですが、なんだかんだ見てますありがとうございます。ご依頼は（pixiv / twitter）のDMにて(※兼業故リクエスト応えられない場合がありますスミマセン)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/member.php?id=5105916",
+                "start": 0,
+                "url": "https://t.co/ZmxLnObdZH"
+              }
+            ]
+          }
+        },
+        "id": "2827574503",
+        "name": "カーミン@よどみない",
+        "pinned_tweet_id": "1969137022406201540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1070423386268983296/8ovaiRQ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130830,
+          "following_count": 4419,
+          "like_count": 10088,
+          "listed_count": 1646,
+          "media_count": 6164,
+          "tweet_count": 10183
+        },
+        "url": "https://t.co/ZmxLnObdZH",
+        "username": "kamindani",
+        "verified": false
+      }
+    ]
+  }
+}

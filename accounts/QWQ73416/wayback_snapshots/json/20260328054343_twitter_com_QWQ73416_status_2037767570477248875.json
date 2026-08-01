@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "2037767570477248875",
+    "created_at": "2026-03-28T05:43:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T06:43:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037767570477248875"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ElysiumFengxua…",
+          "end": 134,
+          "expanded_url": "https://twitter.com/ElysiumFengxuan/status/2037494762274738563",
+          "start": 111,
+          "url": "https://t.co/wNDz94mdIX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037767570477248875",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037494762274738563",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这种用佛教道教什么宗教说辞的来让人不要自杀，真的很无用唉。。。一听就很恶心，我妈也是这样。。。一点实质性的帮助都没有，一种乞求式的说教，是对情绪的绑架。\n“我不知道我需不需要下地狱，我只知道很难受，跟下地狱了没什么区别” https://t.co/wNDz94mdIX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2037494757761617921",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEair-QaEAE0y7h.jpg",
+        "width": 814
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "2037767570477248875",
+        "created_at": "2026-03-28T05:43:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T06:43:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037767570477248875"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ElysiumFengxua…",
+              "end": 134,
+              "expanded_url": "https://twitter.com/ElysiumFengxuan/status/2037494762274738563",
+              "start": 111,
+              "url": "https://t.co/wNDz94mdIX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037767570477248875",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037494762274738563",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这种用佛教道教什么宗教说辞的来让人不要自杀，真的很无用唉。。。一听就很恶心，我妈也是这样。。。一点实质性的帮助都没有，一种乞求式的说教，是对情绪的绑架。\n“我不知道我需不需要下地狱，我只知道很难受，跟下地狱了没什么区别” https://t.co/wNDz94mdIX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037494757761617921"
+          ]
+        },
+        "author_id": "1738907027362209792",
+        "conversation_id": "2037494762274738563",
+        "created_at": "2026-03-27T11:39:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T12:39:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037494762274738563"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oNxClo8qUQ",
+              "end": 50,
+              "expanded_url": "https://x.com/ElysiumFengxuan/status/2037494762274738563/photo/1",
+              "media_key": "3_2037494757761617921",
+              "start": 27,
+              "url": "https://t.co/oNxClo8qUQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037494762274738563",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 685,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "家人们好姐妹们补药紫砂哇紫砂会下地狱喷火的哇（发癫） https://t.co/oNxClo8qUQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10🌟|GAHT/HRT:2025.10.7|\n割手的痕迹被我妈看到了，被骂了一顿|\n好闺蜜 @N2OXYN |\n→I an not a vitual account.(T~T)←|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 47,
+                "username": "N2OXYN"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "name": "🧊泠小米❄️",
+        "pinned_tweet_id": "2037669545633325393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023719096047771648/WvkPh1aM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 314,
+          "like_count": 6234,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 1565
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-24T12:58:46.000Z",
+        "description": "可以叫我凤轩或贝茹忧||是只猫猫||她?它?||HRT 2024.05.23||05年友跨有证含糖||178cm55kg||已有对象||妹妹@JoelQinmetme||欢迎同类互fo||推上私信加QQvx||希望找同类||有记录以来凤轩三代||摆烂当猫ing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 70,
+                "username": "JoelQinmetme"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "egtxv.sdkdns1.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://egtxv.sdkdns1.com/#/register?code=nUggUFbg",
+                "start": 0,
+                "url": "https://t.co/jwK5gziVuI"
+              }
+            ]
+          }
+        },
+        "id": "1738907027362209792",
+        "location": "大药娘喵喵帝国",
+        "name": "𝓑𝓮𝓻𝓾𝓲𝓲𝓾_𝓕𝓮𝓷𝓰𝔁𝓾𝓪𝓷🏳‍⚧🍥",
+        "pinned_tweet_id": "2037128205392634265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990104122234957824/u_pKs-CI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1971,
+          "following_count": 2050,
+          "like_count": 4406,
+          "listed_count": 8,
+          "media_count": 1069,
+          "tweet_count": 8332
+        },
+        "url": "https://t.co/jwK5gziVuI",
+        "username": "ElysiumFengxuan",
+        "verified": false
+      }
+    ]
+  }
+}

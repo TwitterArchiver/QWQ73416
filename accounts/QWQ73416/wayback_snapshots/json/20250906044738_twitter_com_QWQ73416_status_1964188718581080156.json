@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1964188718581080156",
+    "created_at": "2025-09-06T04:47:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T05:47:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964188718581080156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1962156064734138368",
+          "start": 3,
+          "username": "HydrogenNeko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964188718581080156",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963897141140545686",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HydrogenNeko: 我有一個朋友在深圳失蹤了\n14嵗，還是讀書的年紀，只是因爲HRT使她顯得不同\n她本可有美好的人生，卻在逛展后徹底失聯，了無音訊\n\n我動用了所有的關係尋找她的足跡\n這不僅是因爲她是我朋友，更是因爲我作爲她的前輩\n從探針到開房同住、大關聯、快遞記…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 330,
+        "media_key": "3_1963897005220274176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G0Ep68uboAAxwAZ.jpg",
+        "width": 1196
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1964188718581080156",
+        "created_at": "2025-09-06T04:47:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T05:47:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964188718581080156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1962156064734138368",
+              "start": 3,
+              "username": "HydrogenNeko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964188718581080156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963897141140545686",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HydrogenNeko: 我有一個朋友在深圳失蹤了\n14嵗，還是讀書的年紀，只是因爲HRT使她顯得不同\n她本可有美好的人生，卻在逛展后徹底失聯，了無音訊\n\n我動用了所有的關係尋找她的足跡\n這不僅是因爲她是我朋友，更是因爲我作爲她的前輩\n從探針到開房同住、大關聯、快遞記…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963897005220274176"
+          ]
+        },
+        "author_id": "1962156064734138368",
+        "conversation_id": "1963897141140545686",
+        "created_at": "2025-09-05T09:29:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-05T10:29:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963897141140545686"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/85IMRN8dVd",
+              "end": 167,
+              "expanded_url": "https://x.com/HydrogenNeko/status/1963897141140545686/photo/1",
+              "media_key": "3_1963897005220274176",
+              "start": 144,
+              "url": "https://t.co/85IMRN8dVd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963897141140545686",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1350,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我有一個朋友在深圳失蹤了\n14嵗，還是讀書的年紀，只是因爲HRT使她顯得不同\n她本可有美好的人生，卻在逛展后徹底失聯，了無音訊\n\n我動用了所有的關係尋找她的足跡\n這不僅是因爲她是我朋友，更是因爲我作爲她的前輩\n從探針到開房同住、大關聯、快遞記錄，毫無綫索\n只能查到她在今年八月22日復學 https://t.co/85IMRN8dVd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|小推@QWQ1885|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "QWQ1885"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 214,
+          "like_count": 2163,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 590
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-31T14:10:44.000Z",
+        "description": "MTF🍥・「すべてを癒す万能薬になりたい」・業餘調查記者、偵探・座右銘「給我一個機会，譲我再一次登上塔尖！」#數位遊民的自我修養",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 64,
+                "start": 54,
+                "tag": "數位遊民的自我修養"
+              }
+            ]
+          }
+        },
+        "id": "1962156064734138368",
+        "name": "葉加瀬 水素🏳️‍⚧️",
+        "pinned_tweet_id": "1962163704134549962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962156244841709568/SgYFPIvk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 156,
+          "like_count": 587,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 266
+        },
+        "username": "HydrogenNeko",
+        "verified": false
+      }
+    ]
+  }
+}

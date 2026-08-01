@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1974152915565883452",
+    "created_at": "2025-10-03T16:41:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-03T17:41:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974152915565883452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1359720578446364675",
+          "start": 3,
+          "username": "4niuB_pp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974152915565883452",
+    "lang": "art",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974061984711889057",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @4niuB_pp: 🥺🥺\n🥺🥺🥺\n  🥺🥺🥺\n    🥺🥺🥺\n     🥺🥺🥺\n       🥺🥺🥺\n        🥺🥺🥺\n         🥺🥺🥺\n          🥺🥺🥺\n          🥺🥺🥺\n      🥺🥺🥺🥺\n 🥺🥺🥺🥺🥺🥺\n 🥺🥺🥺  🥺🥺🥺…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1974152915565883452",
+        "created_at": "2025-10-03T16:41:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T17:41:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974152915565883452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1359720578446364675",
+              "start": 3,
+              "username": "4niuB_pp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974152915565883452",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974061984711889057",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @4niuB_pp: 🥺🥺\n🥺🥺🥺\n  🥺🥺🥺\n    🥺🥺🥺\n     🥺🥺🥺\n       🥺🥺🥺\n        🥺🥺🥺\n         🥺🥺🥺\n          🥺🥺🥺\n          🥺🥺🥺\n      🥺🥺🥺🥺\n 🥺🥺🥺🥺🥺🥺\n 🥺🥺🥺  🥺🥺🥺…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1359720578446364675",
+        "conversation_id": "1974061984711889057",
+        "created_at": "2025-10-03T10:40:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-03T11:40:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1974061984711889057"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1974061984711889057",
+        "lang": "art",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 16110,
+          "like_count": 387,
+          "quote_count": 1,
+          "reply_count": 34,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "🥺🥺\n🥺🥺🥺\n  🥺🥺🥺\n    🥺🥺🥺\n     🥺🥺🥺\n       🥺🥺🥺\n        🥺🥺🥺\n         🥺🥺🥺\n          🥺🥺🥺\n          🥺🥺🥺\n      🥺🥺🥺🥺\n 🥺🥺🥺🥺🥺🥺\n 🥺🥺🥺  🥺🥺🥺\n    🥺🥺       🥺🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "pinned_tweet_id": "1971859627869708434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 262,
+          "like_count": 3700,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1026
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-11T04:27:20.000Z",
+        "description": "関東ノ民 日本人ではありません。俺は女の子\n@pienguin404  ←避難/🔑\n  ポスト/いいね≠賛同",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 22,
+                "username": "pienguin404"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/hi7l0tyayx2jau…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/hi7l0tyayx2jau4?t=YyjZyh&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/5dduyzl1B1"
+              }
+            ]
+          }
+        },
+        "id": "1359720578446364675",
+        "location": "鞍山鋼鉄公司 ↓匿名提问（マシュマロ）↓",
+        "name": "ぴギ🥺🐧@宿声参戦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960943217106673665/9AiPAylV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 942,
+          "following_count": 2268,
+          "like_count": 26269,
+          "listed_count": 8,
+          "media_count": 1247,
+          "tweet_count": 8391
+        },
+        "url": "https://t.co/5dduyzl1B1",
+        "username": "4niuB_pp",
+        "verified": false
+      }
+    ]
+  }
+}

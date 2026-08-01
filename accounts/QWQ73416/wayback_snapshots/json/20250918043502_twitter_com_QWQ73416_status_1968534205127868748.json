@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968298334801850368"
+      ],
+      "media_source_tweet_id": [
+        "1968298358608715984"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1968534205127868748",
+    "created_at": "2025-09-18T04:35:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T05:35:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968534205127868748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1259061551543103490",
+          "start": 3,
+          "username": "ginbosiP"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Jj6iKUqeA8",
+          "end": 51,
+          "expanded_url": "https://x.com/ginbosiP/status/1968298358608715984/photo/1",
+          "media_key": "3_1968298334801850368",
+          "start": 28,
+          "url": "https://t.co/Jj6iKUqeA8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968534205127868748",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 473
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968298358608715984",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ginbosiP: 褐色エジプト猫耳きりたん！ https://t.co/Jj6iKUqeA8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1431,
+        "media_key": "3_1968298334801850368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1DM6DHbcAAMaMD.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968298334801850368"
+          ],
+          "media_source_tweet_id": [
+            "1968298358608715984"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1968534205127868748",
+        "created_at": "2025-09-18T04:35:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T05:35:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968534205127868748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1259061551543103490",
+              "start": 3,
+              "username": "ginbosiP"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jj6iKUqeA8",
+              "end": 51,
+              "expanded_url": "https://x.com/ginbosiP/status/1968298358608715984/photo/1",
+              "media_key": "3_1968298334801850368",
+              "start": 28,
+              "url": "https://t.co/Jj6iKUqeA8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968534205127868748",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 473
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968298358608715984",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ginbosiP: 褐色エジプト猫耳きりたん！ https://t.co/Jj6iKUqeA8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968298334801850368"
+          ]
+        },
+        "author_id": "1259061551543103490",
+        "conversation_id": "1968298358608715984",
+        "created_at": "2025-09-17T12:57:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T13:57:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968298358608715984"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jj6iKUqeA8",
+              "end": 37,
+              "expanded_url": "https://x.com/ginbosiP/status/1968298358608715984/photo/1",
+              "media_key": "3_1968298334801850368",
+              "start": 14,
+              "url": "https://t.co/Jj6iKUqeA8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968298358608715984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 523,
+          "impression_count": 38170,
+          "like_count": 4077,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 473
+        },
+        "reply_settings": "everyone",
+        "text": "褐色エジプト猫耳きりたん！ https://t.co/Jj6iKUqeA8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 229,
+          "like_count": 2977,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 798
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-09T10:04:09.000Z",
+        "description": "他人に優しく、自分に甘く。下手なりに絵描いてます。https://t.co/dtTFJK2Wh7 干し芋のリスト→ https://t.co/MG1v5d5xkk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "seiga.nicovideo.jp/user/illust/29…",
+                "end": 48,
+                "expanded_url": "https://seiga.nicovideo.jp/user/illust/29796503",
+                "start": 25,
+                "url": "https://t.co/dtTFJK2Wh7"
+              },
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 81,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/1YM3GROOFKJC4?ref_=wl_share",
+                "start": 58,
+                "url": "https://t.co/MG1v5d5xkk"
+              }
+            ]
+          }
+        },
+        "id": "1259061551543103490",
+        "name": "銀星P",
+        "pinned_tweet_id": "1958113262165545429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1865694700222730240/WeEZBdUj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 835,
+          "following_count": 504,
+          "like_count": 21031,
+          "listed_count": 29,
+          "media_count": 974,
+          "tweet_count": 9625
+        },
+        "username": "ginbosiP",
+        "verified": false
+      }
+    ]
+  }
+}

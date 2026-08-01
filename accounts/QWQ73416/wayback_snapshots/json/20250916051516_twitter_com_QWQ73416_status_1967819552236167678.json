@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967728749492973568"
+      ],
+      "media_source_tweet_id": [
+        "1967728757835436264"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1967819552236167678",
+    "created_at": "2025-09-16T05:15:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T06:15:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967819552236167678"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1064198590602432512",
+          "start": 3,
+          "username": "9472_official"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oXOy67iXOK",
+          "end": 49,
+          "expanded_url": "https://x.com/9472_official/status/1967728757835436264/photo/1",
+          "media_key": "3_1967728749492973568",
+          "start": 26,
+          "url": "https://t.co/oXOy67iXOK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967819552236167678",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 100
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967728757835436264",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @9472_official: KNIGHT https://t.co/oXOy67iXOK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1967728749492973568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G07G30faMAA_6XG.jpg",
+        "width": 1396
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967728749492973568"
+          ],
+          "media_source_tweet_id": [
+            "1967728757835436264"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1967819552236167678",
+        "created_at": "2025-09-16T05:15:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T06:15:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967819552236167678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1064198590602432512",
+              "start": 3,
+              "username": "9472_official"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oXOy67iXOK",
+              "end": 49,
+              "expanded_url": "https://x.com/9472_official/status/1967728757835436264/photo/1",
+              "media_key": "3_1967728749492973568",
+              "start": 26,
+              "url": "https://t.co/oXOy67iXOK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967819552236167678",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 100
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967728757835436264",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @9472_official: KNIGHT https://t.co/oXOy67iXOK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967728749492973568"
+          ]
+        },
+        "author_id": "1064198590602432512",
+        "conversation_id": "1967728757835436264",
+        "created_at": "2025-09-15T23:14:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T00:14:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967728757835436264"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oXOy67iXOK",
+              "end": 30,
+              "expanded_url": "https://x.com/9472_official/status/1967728757835436264/photo/1",
+              "media_key": "3_1967728749492973568",
+              "start": 7,
+              "url": "https://t.co/oXOy67iXOK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967728757835436264",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 187,
+          "impression_count": 13485,
+          "like_count": 1229,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 100
+        },
+        "reply_settings": "everyone",
+        "text": "KNIGHT https://t.co/oXOy67iXOK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 226,
+          "like_count": 2789,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 739
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-18T16:48:10.000Z",
+        "description": "stpawn27@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/22924300",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/22924300",
+                "start": 0,
+                "url": "https://t.co/KhufVFKz8e"
+              }
+            ]
+          }
+        },
+        "id": "1064198590602432512",
+        "name": "9472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1505090776178384896/sN5lUv0L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8134,
+          "following_count": 137,
+          "like_count": 4462,
+          "listed_count": 41,
+          "media_count": 174,
+          "tweet_count": 1830
+        },
+        "url": "https://t.co/KhufVFKz8e",
+        "username": "9472_official",
+        "verified": false
+      }
+    ]
+  }
+}

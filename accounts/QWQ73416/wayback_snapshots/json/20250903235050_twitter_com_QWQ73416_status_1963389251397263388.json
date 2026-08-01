@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1963298045002444800"
+      ],
+      "media_source_tweet_id": [
+        "1963298049930784855"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1963389251397263388",
+    "created_at": "2025-09-03T23:50:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T00:50:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963389251397263388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1383524685661360128",
+          "start": 3,
+          "username": "tingusbungus"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0CRw3DpxOh",
+          "end": 54,
+          "expanded_url": "https://x.com/tingusbungus/status/1963298049930784855/photo/1",
+          "media_key": "3_1963298045002444800",
+          "start": 31,
+          "url": "https://t.co/0CRw3DpxOh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963389251397263388",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 105
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963298049930784855",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tingusbungus: Curiosity …… https://t.co/0CRw3DpxOh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1295,
+        "media_key": "3_1963298045002444800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz8JK4CW8AARyHk.jpg",
+        "width": 1712
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963298045002444800"
+          ],
+          "media_source_tweet_id": [
+            "1963298049930784855"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1963389251397263388",
+        "created_at": "2025-09-03T23:50:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T00:50:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963389251397263388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1383524685661360128",
+              "start": 3,
+              "username": "tingusbungus"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0CRw3DpxOh",
+              "end": 54,
+              "expanded_url": "https://x.com/tingusbungus/status/1963298049930784855/photo/1",
+              "media_key": "3_1963298045002444800",
+              "start": 31,
+              "url": "https://t.co/0CRw3DpxOh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963389251397263388",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 105
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963298049930784855",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tingusbungus: Curiosity …… https://t.co/0CRw3DpxOh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963298045002444800"
+          ]
+        },
+        "author_id": "1383524685661360128",
+        "conversation_id": "1963298049930784855",
+        "created_at": "2025-09-03T17:48:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T18:48:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963298049930784855"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0CRw3DpxOh",
+              "end": 36,
+              "expanded_url": "https://x.com/tingusbungus/status/1963298049930784855/photo/1",
+              "media_key": "3_1963298045002444800",
+              "start": 13,
+              "url": "https://t.co/0CRw3DpxOh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963298049930784855",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 114,
+          "impression_count": 4425,
+          "like_count": 924,
+          "quote_count": 4,
+          "reply_count": 8,
+          "retweet_count": 105
+        },
+        "reply_settings": "everyone",
+        "text": "Curiosity …… https://t.co/0CRw3DpxOh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|小推@QWQ1885|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "QWQ1885"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 210,
+          "like_count": 1959,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 544
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-17T20:56:24.000Z",
+        "description": "i like drawing things ^_^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fwing.pet",
+                "end": 23,
+                "expanded_url": "https://fwing.pet/",
+                "start": 0,
+                "url": "https://t.co/DOyzrNX7sT"
+              }
+            ]
+          }
+        },
+        "id": "1383524685661360128",
+        "location": "Bog",
+        "name": "ting",
+        "pinned_tweet_id": "1870893171615658481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777808281144107009/uAQUBPAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9491,
+          "following_count": 142,
+          "like_count": 22244,
+          "listed_count": 20,
+          "media_count": 871,
+          "tweet_count": 1745
+        },
+        "url": "https://t.co/DOyzrNX7sT",
+        "username": "tingusbungus",
+        "verified": false
+      }
+    ]
+  }
+}

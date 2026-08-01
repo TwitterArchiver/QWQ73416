@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1961774230007394792",
+    "created_at": "2025-08-30T12:53:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-30T13:53:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1961774230007394792"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1961774230007394792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感觉精神疾病真的好奇怪，不知道具体什么原理，朋友发病了，也不知道怎么办。看着朋友难受，自己也难受。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1961774230007394792",
+        "created_at": "2025-08-30T12:53:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T13:53:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961774230007394792"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1961774230007394792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉精神疾病真的好奇怪，不知道具体什么原理，朋友发病了，也不知道怎么办。看着朋友难受，自己也难受。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|小推@QWQ1885|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "QWQ1885"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 160,
+          "like_count": 1437,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 298
+        },
+        "username": "QWQ73416",
+        "verified": false
+      }
+    ]
+  }
+}

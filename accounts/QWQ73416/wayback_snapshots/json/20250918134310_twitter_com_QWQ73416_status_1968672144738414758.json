@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968580569102696448"
+      ],
+      "media_source_tweet_id": [
+        "1968580690834075720"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1968672144738414758",
+    "created_at": "2025-09-18T13:43:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T14:43:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968672144738414758"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1842594071841533952",
+          "start": 3,
+          "username": "32kki_ikki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iwSTvIkUV0",
+          "end": 39,
+          "expanded_url": "https://x.com/32kki_ikki/status/1968580690834075720/photo/1",
+          "media_key": "3_1968580569102696448",
+          "start": 16,
+          "url": "https://t.co/iwSTvIkUV0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968672144738414758",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 436
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968580690834075720",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @32kki_ikki: https://t.co/iwSTvIkUV0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_1968580569102696448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1HNmP0aQAAgyu2.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968580569102696448"
+          ],
+          "media_source_tweet_id": [
+            "1968580690834075720"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1968672144738414758",
+        "created_at": "2025-09-18T13:43:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T14:43:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968672144738414758"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1842594071841533952",
+              "start": 3,
+              "username": "32kki_ikki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iwSTvIkUV0",
+              "end": 39,
+              "expanded_url": "https://x.com/32kki_ikki/status/1968580690834075720/photo/1",
+              "media_key": "3_1968580569102696448",
+              "start": 16,
+              "url": "https://t.co/iwSTvIkUV0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968672144738414758",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 436
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968580690834075720",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @32kki_ikki: https://t.co/iwSTvIkUV0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968580569102696448"
+          ]
+        },
+        "author_id": "1842594071841533952",
+        "conversation_id": "1968580690834075720",
+        "created_at": "2025-09-18T07:39:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T08:39:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968580690834075720"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iwSTvIkUV0",
+              "end": 23,
+              "expanded_url": "https://x.com/32kki_ikki/status/1968580690834075720/photo/1",
+              "media_key": "3_1968580569102696448",
+              "start": 0,
+              "url": "https://t.co/iwSTvIkUV0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968580690834075720",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 423,
+          "impression_count": 38481,
+          "like_count": 3752,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 436
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/iwSTvIkUV0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 229,
+          "like_count": 3022,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 805
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-05T15:54:09.000Z",
+        "description": "これは私のボカロとボイスロイドFA垢 |\n\nﾒｲﾝ垢: @chibikki__",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 28,
+                "username": "chibikki__"
+              }
+            ]
+          }
+        },
+        "id": "1842594071841533952",
+        "location": "UTC+07:00",
+        "name": "ミニッキ",
+        "pinned_tweet_id": "1966419672250851414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964444217507532805/YG0V9wLG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 53,
+          "like_count": 334,
+          "listed_count": 14,
+          "media_count": 8,
+          "tweet_count": 41
+        },
+        "username": "32kki_ikki",
+        "verified": false
+      }
+    ]
+  }
+}

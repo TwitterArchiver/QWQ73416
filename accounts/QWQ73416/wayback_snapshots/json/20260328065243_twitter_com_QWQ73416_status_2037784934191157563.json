@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "2037783573114319213",
+    "created_at": "2026-03-28T06:52:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T07:52:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037784934191157563"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1314388633869152259",
+          "start": 0,
+          "username": "Swathy17531761"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037784934191157563",
+    "in_reply_to_user_id": "1314388633869152259",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037783573114319213",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Swathy17531761 知名度越少越好🫥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "2037783573114319213",
+        "created_at": "2026-03-28T06:52:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T07:52:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037784934191157563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1314388633869152259",
+              "start": 0,
+              "username": "Swathy17531761"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037784934191157563",
+        "in_reply_to_user_id": "1314388633869152259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037783573114319213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Swathy17531761 知名度越少越好🫥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1314388633869152259",
+        "conversation_id": "2037783573114319213",
+        "created_at": "2026-03-28T06:47:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T07:47:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037783573114319213"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 37,
+              "tag": "药娘"
+            },
+            {
+              "end": 45,
+              "start": 41,
+              "tag": "跨性别"
+            },
+            {
+              "end": 50,
+              "start": 46,
+              "tag": "mtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037783573114319213",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跨性别圈子里谁的知名度最大啊\n我只知道唐敏文、N55这两个的知名度比较高，#药娘 #跨性别 #mtf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10🌟|GAHT/HRT:2025.10.7|\n割手的痕迹被我妈看到了，被骂了一顿|\n好闺蜜 @N2OXYN |\n→I an not a vitual account.(T~T)←|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 47,
+                "username": "N2OXYN"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "name": "🧊泠小米❄️",
+        "pinned_tweet_id": "2037669545633325393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023719096047771648/WvkPh1aM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 315,
+          "like_count": 6262,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 1585
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-09T02:14:17.000Z",
+        "description": "这里是小汐~ !可以叫咱小汐或者汐宝~?身高\n165cm/目前体重125斤左右😮‍💨~嘴巴很笨不会说话/可加好友门槛备注打赏联系最低10加联系方式/可私信/暂无对象/随缘/可线下绿玩/半绿/逛街等什么的",
+        "id": "1314388633869152259",
+        "name": "小汐🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2032422857943470217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980594365820006400/OhzPUZi__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2496,
+          "following_count": 80,
+          "like_count": 13,
+          "listed_count": 5,
+          "media_count": 63,
+          "tweet_count": 363
+        },
+        "username": "Swathy17531761",
+        "verified": false
+      }
+    ]
+  }
+}

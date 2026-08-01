@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1970095594464329728"
+      ],
+      "media_source_tweet_id": [
+        "1970095616115278016"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1970105924779192598",
+    "created_at": "2025-09-22T12:40:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T13:40:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970105924779192598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1291827298392449024",
+          "start": 3,
+          "username": "rik0ring"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8roKaT3cDn",
+          "end": 37,
+          "expanded_url": "https://x.com/rik0ring/status/1970095616115278016/photo/1",
+          "media_key": "3_1970095594464329728",
+          "start": 14,
+          "url": "https://t.co/8roKaT3cDn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970105924779192598",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 248
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970095616115278016",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rik0ring: https://t.co/8roKaT3cDn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1970095594464329728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1cvgVGbwAA6s8d.jpg",
+        "width": 2893
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970095594464329728"
+          ],
+          "media_source_tweet_id": [
+            "1970095616115278016"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1970105924779192598",
+        "created_at": "2025-09-22T12:40:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T13:40:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970105924779192598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1291827298392449024",
+              "start": 3,
+              "username": "rik0ring"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8roKaT3cDn",
+              "end": 37,
+              "expanded_url": "https://x.com/rik0ring/status/1970095616115278016/photo/1",
+              "media_key": "3_1970095594464329728",
+              "start": 14,
+              "url": "https://t.co/8roKaT3cDn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970105924779192598",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 248
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970095616115278016",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rik0ring: https://t.co/8roKaT3cDn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970095594464329728"
+          ]
+        },
+        "author_id": "1291827298392449024",
+        "conversation_id": "1970095616115278016",
+        "created_at": "2025-09-22T11:59:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T12:59:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1970095616115278016"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8roKaT3cDn",
+              "end": 23,
+              "expanded_url": "https://x.com/rik0ring/status/1970095616115278016/photo/1",
+              "media_key": "3_1970095594464329728",
+              "start": 0,
+              "url": "https://t.co/8roKaT3cDn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970095616115278016",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 403,
+          "impression_count": 22666,
+          "like_count": 2244,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 248
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/8roKaT3cDn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 238,
+          "like_count": 3272,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 893
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-07T20:03:45.000Z",
+        "description": "📨CONTACT: rikoring16@gmail.com fanbox: https://t.co/YUTk0uYMgw ENG/中/日本語 OK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "rik0ring.fanbox.cc",
+                "end": 62,
+                "expanded_url": "https://rik0ring.fanbox.cc/",
+                "start": 39,
+                "url": "https://t.co/YUTk0uYMgw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/40317874",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/40317874",
+                "start": 0,
+                "url": "https://t.co/rmoYfw6qK5"
+              }
+            ]
+          }
+        },
+        "id": "1291827298392449024",
+        "name": "Riko",
+        "pinned_tweet_id": "1957704429073023378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894337707398017024/DBM5g_Us_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237485,
+          "following_count": 995,
+          "like_count": 14614,
+          "listed_count": 1584,
+          "media_count": 214,
+          "tweet_count": 7778
+        },
+        "url": "https://t.co/rmoYfw6qK5",
+        "username": "rik0ring",
+        "verified": true
+      }
+    ]
+  }
+}

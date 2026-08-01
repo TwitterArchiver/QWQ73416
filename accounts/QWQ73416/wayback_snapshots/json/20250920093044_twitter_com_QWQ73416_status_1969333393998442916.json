@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969051003220885504"
+      ],
+      "media_source_tweet_id": [
+        "1969051007146508301"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1969333393998442916",
+    "created_at": "2025-09-20T09:30:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-20T10:30:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969333393998442916"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1797660178638307329",
+          "start": 3,
+          "username": "gg7486008732081"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sT9OygTr1U",
+          "end": 112,
+          "expanded_url": "https://x.com/gg7486008732081/status/1969051007146508301/photo/1",
+          "media_key": "3_1969051003220885504",
+          "start": 89,
+          "url": "https://t.co/sT9OygTr1U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969333393998442916",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969051007146508301",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gg7486008732081: 一年前                                    一年后\n（我胸其实就是故意减下来的 我特别喜欢平胸谁懂） https://t.co/sT9OygTr1U"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2213,
+        "media_key": "3_1969051003220885504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1N5dHebgAAYuqu.jpg",
+        "width": 2213
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969051003220885504"
+          ],
+          "media_source_tweet_id": [
+            "1969051007146508301"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1969333393998442916",
+        "created_at": "2025-09-20T09:30:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-20T10:30:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969333393998442916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1797660178638307329",
+              "start": 3,
+              "username": "gg7486008732081"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sT9OygTr1U",
+              "end": 112,
+              "expanded_url": "https://x.com/gg7486008732081/status/1969051007146508301/photo/1",
+              "media_key": "3_1969051003220885504",
+              "start": 89,
+              "url": "https://t.co/sT9OygTr1U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969333393998442916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969051007146508301",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gg7486008732081: 一年前                                    一年后\n（我胸其实就是故意减下来的 我特别喜欢平胸谁懂） https://t.co/sT9OygTr1U"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969051003220885504"
+          ]
+        },
+        "author_id": "1797660178638307329",
+        "conversation_id": "1969051007146508301",
+        "created_at": "2025-09-19T14:48:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-19T15:48:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969051007146508301"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sT9OygTr1U",
+              "end": 91,
+              "expanded_url": "https://x.com/gg7486008732081/status/1969051007146508301/photo/1",
+              "media_key": "3_1969051003220885504",
+              "start": 68,
+              "url": "https://t.co/sT9OygTr1U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969051007146508301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 7759,
+          "like_count": 125,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "一年前                                    一年后\n（我胸其实就是故意减下来的 我特别喜欢平胸谁懂） https://t.co/sT9OygTr1U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 233,
+          "like_count": 3063,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 818
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-03T16:02:49.000Z",
+        "description": "推当大尺度朋友圈发小孩子不懂发着玩的/\n专门走小男孩正太赛道的主播/\n我希望你们能懂得墙内外要分开/\n请不要将我的x发在墙内 发现拉黑!\n白嫖勿扰 不过门不会回消息\n🚪100/520当你电子小狗 过520门请加这个号:sujiusamasuki 不过门不准加!\n过门有福利喵 可以多多支持主播嘛喵",
+        "id": "1797660178638307329",
+        "location": "🚪100/520过了就会获得一个萌萌的我",
+        "name": "tattoo",
+        "pinned_tweet_id": "1966145498999599533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967585969814863872/T9VLk8lu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11106,
+          "following_count": 347,
+          "like_count": 1049,
+          "listed_count": 39,
+          "media_count": 20,
+          "tweet_count": 163
+        },
+        "username": "gg7486008732081",
+        "verified": false
+      }
+    ]
+  }
+}

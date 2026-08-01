@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "2037977078109450689",
+    "created_at": "2026-03-28T19:36:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T20:36:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037977078109450689"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1952690690892468224",
+          "start": 3,
+          "username": "meowania_Fan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037977078109450689",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037568458465103872",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @meowania_Fan: “你一个男生，你不应该觉得自己帅吗”\n\n“你不喜欢女的你不就喜欢男的吗”\n\n“你这个样传出去了，我们的脸往哪放，我们怎么活，你以后结婚谁找你”\n\n“你整天不学习整天想这个？”\n\n“别跟我说了我永远都不会理解”\n\n“你要是以后敢去变性你就别回来…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "2037977078109450689",
+        "created_at": "2026-03-28T19:36:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T20:36:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037977078109450689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1952690690892468224",
+              "start": 3,
+              "username": "meowania_Fan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037977078109450689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037568458465103872",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @meowania_Fan: “你一个男生，你不应该觉得自己帅吗”\n\n“你不喜欢女的你不就喜欢男的吗”\n\n“你这个样传出去了，我们的脸往哪放，我们怎么活，你以后结婚谁找你”\n\n“你整天不学习整天想这个？”\n\n“别跟我说了我永远都不会理解”\n\n“你要是以后敢去变性你就别回来…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952690690892468224",
+        "conversation_id": "2037568458465103872",
+        "created_at": "2026-03-27T16:32:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T17:32:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037568458465103872"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037568458465103872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 203,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "“你一个男生，你不应该觉得自己帅吗”\n\n“你不喜欢女的你不就喜欢男的吗”\n\n“你这个样传出去了，我们的脸往哪放，我们怎么活，你以后结婚谁找你”\n\n“你整天不学习整天想这个？”\n\n“别跟我说了我永远都不会理解”\n\n“你要是以后敢去变性你就别回来了，这个家不认你”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10🌟|GAHT/HRT:2025.10.7|\n割手的痕迹被我妈看到了，被骂了一顿|\n好闺蜜 @N2OXYN |\n→I an not a vitual account.(T~T)←|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 47,
+                "username": "N2OXYN"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "name": "🧊泠小米❄️",
+        "pinned_tweet_id": "2037669545633325393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023719096047771648/WvkPh1aM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 316,
+          "like_count": 6289,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 1593
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-05T11:18:44.000Z",
+        "description": "一只09年高一猫｜🏳️‍⚧️无糖｜深柜｜183cm｜74kg｜OIer｜精神状态不明｜喜欢贴贴｜现实超级大社恐｜Minecraft｜欢迎来互fo聊天喵～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/meowania_fan",
+                "end": 23,
+                "expanded_url": "https://ngl.link/meowania_fan",
+                "start": 0,
+                "url": "https://t.co/CO8uHJ0a87"
+              }
+            ]
+          }
+        },
+        "id": "1952690690892468224",
+        "name": "Meowania",
+        "pinned_tweet_id": "2036105253691768903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021791717650010112/9BvDRLle_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 87,
+          "like_count": 167,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 77
+        },
+        "url": "https://t.co/CO8uHJ0a87",
+        "username": "meowania_Fan",
+        "verified": false
+      }
+    ]
+  }
+}

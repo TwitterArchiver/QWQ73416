@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "2037691871280189587",
+    "created_at": "2026-03-28T05:27:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T06:27:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037763432586600557"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1857802986837172224",
+          "start": 0,
+          "username": "LingJiaXin233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037763432586600557",
+    "in_reply_to_user_id": "1857802986837172224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037691871280189587",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LingJiaXin233 我操，我也想有工资😭😭😭😭😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1478,
+        "media_key": "3_2037691863306838016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEdV9BoboAAcWlH.jpg",
+        "width": 1283
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2037691863315140608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEdV9BqaUAAMooB.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "2037691871280189587",
+        "created_at": "2026-03-28T05:27:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T06:27:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037763432586600557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037763432586600557",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037691871280189587",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 我操，我也想有工资😭😭😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037691863306838016",
+            "3_2037691863315140608"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2037691871280189587",
+        "created_at": "2026-03-28T00:42:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T01:42:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037691871280189587"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yQolThmw5N",
+              "end": 34,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2037691871280189587/photo/1",
+              "media_key": "3_2037691863306838016",
+              "start": 11,
+              "url": "https://t.co/yQolThmw5N"
+            },
+            {
+              "display_url": "pic.x.com/yQolThmw5N",
+              "end": 34,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2037691871280189587/photo/1",
+              "media_key": "3_2037691863315140608",
+              "start": 11,
+              "url": "https://t.co/yQolThmw5N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037691871280189587",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 7379,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "msk的第二笔工资！ https://t.co/yQolThmw5N"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10🌟|GAHT/HRT:2025.10.7|\n割手的痕迹被我妈看到了，被骂了一顿|\n好闺蜜 @N2OXYN |\n→I an not a vitual account.(T~T)←|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 47,
+                "username": "N2OXYN"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "name": "🧊泠小米❄️",
+        "pinned_tweet_id": "2037669545633325393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023719096047771648/WvkPh1aM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 314,
+          "like_count": 6221,
+          "listed_count": 1,
+          "media_count": 49,
+          "tweet_count": 1556
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "希望给大家带来快乐🥰/蓝v互fo//不见证，不讨论政治不感兴趣！！！/侵删/逃生仓@adorableLing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 41,
+                "username": "adorableLing"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2847,
+          "following_count": 876,
+          "like_count": 10594,
+          "listed_count": 6,
+          "media_count": 409,
+          "tweet_count": 2906
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

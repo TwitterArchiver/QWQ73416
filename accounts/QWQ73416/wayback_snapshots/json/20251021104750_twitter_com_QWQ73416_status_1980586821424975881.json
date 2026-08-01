@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1980215286692532713",
+    "created_at": "2025-10-21T10:47:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T11:47:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980586821424975881"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1945070018905145344",
+          "start": 0,
+          "username": "DianaAnya0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980586821424975881",
+    "in_reply_to_user_id": "1945070018905145344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980215286692532713",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DianaAnya0 结合上面的聊天信息，我觉得撤回的表情才是真实想法🤔"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1424,
+        "media_key": "3_1980215277913616384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3sjTbrXsAAdmZN.jpg",
+        "width": 1008
+      },
+      {
+        "height": 382,
+        "media_key": "3_1980215277892554752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3sjTbmWUAAtqX2.jpg",
+        "width": 630
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1980215286692532713",
+        "created_at": "2025-10-21T10:47:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T11:47:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980586821424975881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1945070018905145344",
+              "start": 0,
+              "username": "DianaAnya0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980586821424975881",
+        "in_reply_to_user_id": "1945070018905145344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980215286692532713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DianaAnya0 结合上面的聊天信息，我觉得撤回的表情才是真实想法🤔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980215277913616384",
+            "3_1980215277892554752"
+          ]
+        },
+        "author_id": "1945070018905145344",
+        "conversation_id": "1980215286692532713",
+        "created_at": "2025-10-20T10:11:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T11:11:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980215286692532713"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K12XhjgKHc",
+              "end": 95,
+              "expanded_url": "https://x.com/DianaAnya0/status/1980215286692532713/photo/1",
+              "media_key": "3_1980215277913616384",
+              "start": 72,
+              "url": "https://t.co/K12XhjgKHc"
+            },
+            {
+              "display_url": "pic.x.com/K12XhjgKHc",
+              "end": 95,
+              "expanded_url": "https://x.com/DianaAnya0/status/1980215286692532713/photo/1",
+              "media_key": "3_1980215277892554752",
+              "start": 72,
+              "url": "https://t.co/K12XhjgKHc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980215286692532713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 7989,
+          "like_count": 69,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操，完了完了，刚才我妈让我助力pdd，我要发miss的表情包不小心点到左边那个了，，\n现在只祈祷我妈没有看到，我不该存这么危险的表情包的😭😭 https://t.co/K12XhjgKHc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|GAHT/HRT:2025.10.7|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "MTF.wiki",
+                "end": 23,
+                "expanded_url": "http://MTF.wiki",
+                "start": 0,
+                "url": "https://t.co/7tmPTkeoFF"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "∠( ᐛ 」∠)_",
+        "name": "🍥(￣ヘ￣🍥)",
+        "pinned_tweet_id": "1971859627869708434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979202568543784960/OeW4bpMU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 269,
+          "like_count": 4107,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1107
+        },
+        "url": "https://t.co/7tmPTkeoFF",
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-15T10:37:08.000Z",
+        "description": "05年身材超好的小药娘♡/ 每天会分享日常💬/ (4k.ex1音游人) (严格控制身材体重) (绳艺在学) (可S可M) (欢迎绳缚同好线下交流) (可约调,不性爱) (约课请tg私信) (防失联@SatouI0)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 98,
+                "username": "SatouI0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+YquI4nqikFw1M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+YquI4nqikFw1Mjgx",
+                "start": 0,
+                "url": "https://t.co/AcggUmCP5j"
+              }
+            ]
+          }
+        },
+        "id": "1945070018905145344",
+        "location": "Beijing",
+        "name": "砂糖桔🏳️‍⚧️（在校大学生",
+        "pinned_tweet_id": "1978814394852114756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948026167304581120/CphJnSlQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2251,
+          "following_count": 155,
+          "like_count": 2974,
+          "listed_count": 2,
+          "media_count": 99,
+          "tweet_count": 478
+        },
+        "url": "https://t.co/AcggUmCP5j",
+        "username": "DianaAnya0",
+        "verified": true
+      }
+    ]
+  }
+}

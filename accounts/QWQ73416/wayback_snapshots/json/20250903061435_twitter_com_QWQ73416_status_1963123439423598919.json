@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1962888597528604672"
+      ],
+      "media_source_tweet_id": [
+        "1962888610547630203"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1963123439423598919",
+    "created_at": "2025-09-03T06:14:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T07:14:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963123439423598919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "955869109337518080",
+          "start": 3,
+          "username": "EdnaaaaXD"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KcaBLFvkoE",
+          "end": 46,
+          "expanded_url": "https://x.com/EdnaaaaXD/status/1962888610547630203/photo/1",
+          "media_key": "3_1962888597528604672",
+          "start": 23,
+          "url": "https://t.co/KcaBLFvkoE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963123439423598919",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 54
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962888610547630203",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EdnaaaaXD: 这个可以发这里 https://t.co/KcaBLFvkoE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1399,
+        "media_key": "3_1962888597528604672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz2Ux5VbcAAhgW6.jpg",
+        "width": 985
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962888597528604672"
+          ],
+          "media_source_tweet_id": [
+            "1962888610547630203"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1963123439423598919",
+        "created_at": "2025-09-03T06:14:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T07:14:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963123439423598919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "955869109337518080",
+              "start": 3,
+              "username": "EdnaaaaXD"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KcaBLFvkoE",
+              "end": 46,
+              "expanded_url": "https://x.com/EdnaaaaXD/status/1962888610547630203/photo/1",
+              "media_key": "3_1962888597528604672",
+              "start": 23,
+              "url": "https://t.co/KcaBLFvkoE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963123439423598919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 54
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962888610547630203",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EdnaaaaXD: 这个可以发这里 https://t.co/KcaBLFvkoE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1962888597528604672"
+          ]
+        },
+        "author_id": "955869109337518080",
+        "conversation_id": "1962888610547630203",
+        "created_at": "2025-09-02T14:41:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T15:41:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962888610547630203"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KcaBLFvkoE",
+              "end": 31,
+              "expanded_url": "https://x.com/EdnaaaaXD/status/1962888610547630203/photo/1",
+              "media_key": "3_1962888597528604672",
+              "start": 8,
+              "url": "https://t.co/KcaBLFvkoE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962888610547630203",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 148,
+          "impression_count": 8315,
+          "like_count": 718,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "这个可以发这里 https://t.co/KcaBLFvkoE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|小推@QWQ1885|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "QWQ1885"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 204,
+          "like_count": 1894,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 520
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-23T18:25:29.000Z",
+        "description": "-",
+        "id": "955869109337518080",
+        "name": "zzz",
+        "pinned_tweet_id": "1158535873907924992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1545446512142221317/ieUGiJGt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8052,
+          "following_count": 198,
+          "like_count": 289,
+          "listed_count": 64,
+          "media_count": 26,
+          "tweet_count": 61
+        },
+        "username": "EdnaaaaXD",
+        "verified": false
+      }
+    ]
+  }
+}

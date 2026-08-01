@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967528747881644032"
+      ],
+      "media_source_tweet_id": [
+        "1967528756010250497"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1967733389907333363",
+    "created_at": "2025-09-15T23:32:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T00:32:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967733389907333363"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1336931480497389568",
+          "start": 3,
+          "username": "115MEG"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cE6olu1fAR",
+          "end": 40,
+          "expanded_url": "https://x.com/115MEG/status/1967528756010250497/photo/1",
+          "media_key": "3_1967528747881644032",
+          "start": 17,
+          "url": "https://t.co/cE6olu1fAR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967733389907333363",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 121
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967528756010250497",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @115MEG: ロリ練り https://t.co/cE6olu1fAR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2894,
+        "media_key": "3_1967528747881644032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G04Q-MbawAAzCzd.jpg",
+        "width": 2039
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967528747881644032"
+          ],
+          "media_source_tweet_id": [
+            "1967528756010250497"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1967733389907333363",
+        "created_at": "2025-09-15T23:32:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T00:32:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967733389907333363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1336931480497389568",
+              "start": 3,
+              "username": "115MEG"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cE6olu1fAR",
+              "end": 40,
+              "expanded_url": "https://x.com/115MEG/status/1967528756010250497/photo/1",
+              "media_key": "3_1967528747881644032",
+              "start": 17,
+              "url": "https://t.co/cE6olu1fAR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967733389907333363",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 121
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967528756010250497",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @115MEG: ロリ練り https://t.co/cE6olu1fAR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967528747881644032"
+          ]
+        },
+        "author_id": "1336931480497389568",
+        "conversation_id": "1967528756010250497",
+        "created_at": "2025-09-15T09:59:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T10:59:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967528756010250497"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cE6olu1fAR",
+              "end": 28,
+              "expanded_url": "https://x.com/115MEG/status/1967528756010250497/photo/1",
+              "media_key": "3_1967528747881644032",
+              "start": 5,
+              "url": "https://t.co/cE6olu1fAR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967528756010250497",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 101,
+          "impression_count": 12414,
+          "like_count": 1025,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 121
+        },
+        "reply_settings": "everyone",
+        "text": "ロリ練り https://t.co/cE6olu1fAR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 225,
+          "like_count": 2723,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 716
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-10T07:12:06.000Z",
+        "description": "絵を描いたり描かなかったりします！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@115meg",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@115meg",
+                "start": 0,
+                "url": "https://t.co/cyaFtEcwmW"
+              }
+            ]
+          }
+        },
+        "id": "1336931480497389568",
+        "name": "MEG",
+        "pinned_tweet_id": "1913183019088699729",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1431305080699949057/KYS1hn4L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33816,
+          "following_count": 96,
+          "like_count": 4243,
+          "listed_count": 190,
+          "media_count": 370,
+          "tweet_count": 2948
+        },
+        "url": "https://t.co/cyaFtEcwmW",
+        "username": "115MEG",
+        "verified": false
+      }
+    ]
+  }
+}

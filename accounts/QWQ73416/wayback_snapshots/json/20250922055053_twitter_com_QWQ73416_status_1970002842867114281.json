@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969964788571877376"
+      ],
+      "media_source_tweet_id": [
+        "1969965067447009385"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1970002842867114281",
+    "created_at": "2025-09-22T05:50:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T06:50:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970002842867114281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2940733338",
+          "start": 3,
+          "username": "SyHan__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/M0T5otFodj",
+          "end": 38,
+          "expanded_url": "https://x.com/SyHan__/status/1969965067447009385/photo/1",
+          "media_key": "3_1969964788571877376",
+          "start": 15,
+          "url": "https://t.co/M0T5otFodj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970002842867114281",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2356
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969965067447009385",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SyHan__: せ https://t.co/M0T5otFodj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_1969964788571877376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1a4ibLasAAz9n1.jpg",
+        "width": 2496
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969964788571877376"
+          ],
+          "media_source_tweet_id": [
+            "1969965067447009385"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1970002842867114281",
+        "created_at": "2025-09-22T05:50:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T06:50:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970002842867114281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2940733338",
+              "start": 3,
+              "username": "SyHan__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/M0T5otFodj",
+              "end": 38,
+              "expanded_url": "https://x.com/SyHan__/status/1969965067447009385/photo/1",
+              "media_key": "3_1969964788571877376",
+              "start": 15,
+              "url": "https://t.co/M0T5otFodj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970002842867114281",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2356
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969965067447009385",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SyHan__: せ https://t.co/M0T5otFodj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969964788571877376"
+          ]
+        },
+        "author_id": "2940733338",
+        "conversation_id": "1969965067447009385",
+        "created_at": "2025-09-22T03:20:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T04:20:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969965067447009385"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M0T5otFodj",
+              "end": 25,
+              "expanded_url": "https://x.com/SyHan__/status/1969965067447009385/photo/1",
+              "media_key": "3_1969964788571877376",
+              "start": 2,
+              "url": "https://t.co/M0T5otFodj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969965067447009385",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4818,
+          "impression_count": 167901,
+          "like_count": 21892,
+          "quote_count": 13,
+          "reply_count": 26,
+          "retweet_count": 2356
+        },
+        "reply_settings": "everyone",
+        "text": "せ https://t.co/M0T5otFodj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 238,
+          "like_count": 3189,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 872
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2014-12-23T13:23:57.000Z",
+        "description": "시한　\npixiv : https://t.co/bmw1t96OpY\n mail : syhandesu@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/12505972",
+                "end": 35,
+                "expanded_url": "https://www.pixiv.net/users/12505972",
+                "start": 12,
+                "url": "https://t.co/bmw1t96OpY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "chzzk.naver.com/81b7bd1cd69ebc…",
+                "end": 23,
+                "expanded_url": "https://chzzk.naver.com/81b7bd1cd69ebc564890637698cd546f",
+                "start": 0,
+                "url": "https://t.co/II7PlwJVIs"
+              }
+            ]
+          }
+        },
+        "id": "2940733338",
+        "location": "パソコンの前",
+        "name": "しはん",
+        "pinned_tweet_id": "1784407443017269285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955332193770934272/YBFpHIIl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315017,
+          "following_count": 803,
+          "like_count": 25538,
+          "listed_count": 1914,
+          "media_count": 2296,
+          "tweet_count": 6360
+        },
+        "url": "https://t.co/II7PlwJVIs",
+        "username": "SyHan__",
+        "verified": true
+      }
+    ]
+  }
+}

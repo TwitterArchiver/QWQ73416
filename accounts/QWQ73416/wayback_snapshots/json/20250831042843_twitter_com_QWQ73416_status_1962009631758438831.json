@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1961420340762157056"
+      ],
+      "media_source_tweet_id": [
+        "1961420347221446791"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1962009631758438831",
+    "created_at": "2025-08-31T04:28:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T05:28:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962009631758438831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "941608526324973569",
+          "start": 3,
+          "username": "amatou_rua"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/pdk3ifVlNE",
+          "end": 52,
+          "expanded_url": "https://x.com/amatou_rua/status/1961420347221446791/photo/1",
+          "media_key": "3_1961420340762157056",
+          "start": 29,
+          "url": "https://t.co/pdk3ifVlNE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962009631758438831",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 173
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961420347221446791",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amatou_rua: ₍ ᐢ. ̫ .ᐢ ₎♡ https://t.co/pdk3ifVlNE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1961420340762157056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzhdaGpaoAAbkWL.jpg",
+        "width": 1396
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961420340762157056"
+          ],
+          "media_source_tweet_id": [
+            "1961420347221446791"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1962009631758438831",
+        "created_at": "2025-08-31T04:28:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T05:28:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962009631758438831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "941608526324973569",
+              "start": 3,
+              "username": "amatou_rua"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/pdk3ifVlNE",
+              "end": 52,
+              "expanded_url": "https://x.com/amatou_rua/status/1961420347221446791/photo/1",
+              "media_key": "3_1961420340762157056",
+              "start": 29,
+              "url": "https://t.co/pdk3ifVlNE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962009631758438831",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 173
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961420347221446791",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amatou_rua: ₍ ᐢ. ̫ .ᐢ ₎♡ https://t.co/pdk3ifVlNE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961420340762157056"
+          ]
+        },
+        "author_id": "941608526324973569",
+        "conversation_id": "1961420347221446791",
+        "created_at": "2025-08-29T13:27:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T14:27:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961420347221446791"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pdk3ifVlNE",
+              "end": 36,
+              "expanded_url": "https://x.com/amatou_rua/status/1961420347221446791/photo/1",
+              "media_key": "3_1961420340762157056",
+              "start": 13,
+              "url": "https://t.co/pdk3ifVlNE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961420347221446791",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 268,
+          "impression_count": 32556,
+          "like_count": 2115,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 173
+        },
+        "reply_settings": "everyone",
+        "text": "₍ ᐢ. ̫ .ᐢ ₎♡ https://t.co/pdk3ifVlNE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|小推@QWQ1885|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "QWQ1885"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 165,
+          "like_count": 1487,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 319
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-15T09:59:01.000Z",
+        "description": "月杏(るあ)です。お絵描き🎨 絵柄不安定。ほぼDM返信してません。※イラストの無断使用やめてください。AI禁止。",
+        "id": "941608526324973569",
+        "name": "月杏。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961971177787924480/MLY0cQL9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3985,
+          "following_count": 460,
+          "like_count": 8415,
+          "listed_count": 90,
+          "media_count": 4,
+          "tweet_count": 3783
+        },
+        "username": "amatou_rua",
+        "verified": false
+      }
+    ]
+  }
+}

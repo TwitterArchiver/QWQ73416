@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967525635599089664"
+      ],
+      "media_source_tweet_id": [
+        "1967525641370361866"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1967775264852803749",
+    "created_at": "2025-09-16T02:19:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-16T03:19:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967775264852803749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1786400215018389505",
+          "start": 3,
+          "username": "roku0z_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SAx11Wt5AX",
+          "end": 45,
+          "expanded_url": "https://x.com/roku0z_/status/1967525641370361866/photo/1",
+          "media_key": "3_1967525635599089664",
+          "start": 22,
+          "url": "https://t.co/SAx11Wt5AX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967775264852803749",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 128
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967525641370361866",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @roku0z_: 新しい服装 🍁🐉 https://t.co/SAx11Wt5AX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1967525635599089664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G04OJCRbwAAowLr.jpg",
+        "width": 1997
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967525635599089664"
+          ],
+          "media_source_tweet_id": [
+            "1967525641370361866"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1967775264852803749",
+        "created_at": "2025-09-16T02:19:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T03:19:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967775264852803749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1786400215018389505",
+              "start": 3,
+              "username": "roku0z_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SAx11Wt5AX",
+              "end": 45,
+              "expanded_url": "https://x.com/roku0z_/status/1967525641370361866/photo/1",
+              "media_key": "3_1967525635599089664",
+              "start": 22,
+              "url": "https://t.co/SAx11Wt5AX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967775264852803749",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 128
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967525641370361866",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @roku0z_: 新しい服装 🍁🐉 https://t.co/SAx11Wt5AX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967525635599089664"
+          ]
+        },
+        "author_id": "1786400215018389505",
+        "conversation_id": "1967525641370361866",
+        "created_at": "2025-09-15T09:47:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-15T10:47:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967525641370361866"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SAx11Wt5AX",
+              "end": 32,
+              "expanded_url": "https://x.com/roku0z_/status/1967525641370361866/photo/1",
+              "media_key": "3_1967525635599089664",
+              "start": 9,
+              "url": "https://t.co/SAx11Wt5AX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967525641370361866",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 148,
+          "impression_count": 14483,
+          "like_count": 1389,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 128
+        },
+        "reply_settings": "everyone",
+        "text": "新しい服装 🍁🐉 https://t.co/SAx11Wt5AX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 225,
+          "like_count": 2763,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 732
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-03T14:19:47.000Z",
+        "description": "ケモノとポケモン描くよ！シャワーズ最推し🩵/ サブ垢@R0k6_ / ※無断転載､使用･トレス･AI学習❌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 26,
+                "username": "R0k6_"
+              }
+            ]
+          }
+        },
+        "id": "1786400215018389505",
+        "name": "ろく。",
+        "pinned_tweet_id": "1954498082936356951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964000776713629696/oa7hSejC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5854,
+          "following_count": 33,
+          "like_count": 2276,
+          "listed_count": 15,
+          "media_count": 110,
+          "tweet_count": 813
+        },
+        "username": "roku0z_",
+        "verified": false
+      }
+    ]
+  }
+}

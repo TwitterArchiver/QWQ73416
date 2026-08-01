@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1962751062525518281",
+    "created_at": "2025-09-02T05:34:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T06:34:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1962751062525518281"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mtnyan8964/sta…",
+          "end": 146,
+          "expanded_url": "https://twitter.com/mtnyan8964/status/1962671507710288300",
+          "start": 123,
+          "url": "https://t.co/GixiExtDMP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962751062525518281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962671507710288300",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "和各位姐姐告个别，今天就开学了，手机要被爸爸妈妈收走了，很开心和大家一起在这个群里度过一个愉快的暑假，我也和姐姐们学会了很多东西，比如：刷推，OD，吃糖，情人节找别的xyn贴贴。。。真是一个充实又收获满满的暑假啊，我们寒假再见吧！谢谢各位姐姐！ https://t.co/GixiExtDMP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1962751062525518281",
+        "created_at": "2025-09-02T05:34:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T06:34:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962751062525518281"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mtnyan8964/sta…",
+              "end": 146,
+              "expanded_url": "https://twitter.com/mtnyan8964/status/1962671507710288300",
+              "start": 123,
+              "url": "https://t.co/GixiExtDMP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962751062525518281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962671507710288300",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "和各位姐姐告个别，今天就开学了，手机要被爸爸妈妈收走了，很开心和大家一起在这个群里度过一个愉快的暑假，我也和姐姐们学会了很多东西，比如：刷推，OD，吃糖，情人节找别的xyn贴贴。。。真是一个充实又收获满满的暑假啊，我们寒假再见吧！谢谢各位姐姐！ https://t.co/GixiExtDMP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1893280336534216706",
+        "conversation_id": "1962671507710288300",
+        "created_at": "2025-09-02T00:18:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T01:18:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962671507710288300"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/DustSwallo1580…",
+              "end": 154,
+              "expanded_url": "https://twitter.com/DustSwallo15805/status/1962412776087019565",
+              "start": 131,
+              "url": "https://t.co/s7sEhJBfLc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962671507710288300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 278,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962412776087019565",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "和各位叔叔阿姨告个别，今天就开学了，手机要被爸爸妈妈收走了，很开心和大家一起在这个群里度过一个愉快的暑假，我也和大哥哥大姐姐们学会了很多东西，比如：喝酒，抽烟，骂人，情人节明明单身还吹牛逼。。。真是一个充实又收获满满的暑假啊，我们寒假再见吧！谢谢各位叔叔阿姨！ https://t.co/s7sEhJBfLc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|小推@QWQ1885|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "QWQ1885"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 195,
+          "like_count": 1714,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 454
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-22T12:43:12.000Z",
+        "description": "乌冬面也是一种面条，也是一只可爱的猫猫｜互fo",
+        "id": "1893280336534216706",
+        "location": "在给晶格口",
+        "name": "乌冬面🍥🐱",
+        "pinned_tweet_id": "1961536737232224760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961227208519028737/3F0v-y9L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 538,
+          "like_count": 1401,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 289
+        },
+        "username": "mtnyan8964",
+        "verified": false
+      }
+    ]
+  }
+}

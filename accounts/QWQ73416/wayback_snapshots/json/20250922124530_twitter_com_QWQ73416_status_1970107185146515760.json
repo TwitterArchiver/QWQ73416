@@ -1,0 +1,412 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969817437647597568"
+      ],
+      "media_source_tweet_id": [
+        "1969817443695526234"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1970107185146515760",
+    "created_at": "2025-09-22T12:45:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T13:45:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970107185146515760"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 23,
+          "start": 18,
+          "tag": "イラスト"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1740395535906025472",
+          "start": 3,
+          "username": "Nijuugoseiki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/akgedvD65S",
+          "end": 47,
+          "expanded_url": "https://x.com/Nijuugoseiki/status/1969817443695526234/photo/1",
+          "media_key": "3_1969817437647597568",
+          "start": 24,
+          "url": "https://t.co/akgedvD65S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970107185146515760",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969817443695526234",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nijuugoseiki: #イラスト https://t.co/akgedvD65S"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1969817437647597568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1YyheNa8AAnRvh.jpg",
+        "width": 1438
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969817437647597568"
+          ],
+          "media_source_tweet_id": [
+            "1969817443695526234"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1970107185146515760",
+        "created_at": "2025-09-22T12:45:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T13:45:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970107185146515760"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 18,
+              "tag": "イラスト"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1740395535906025472",
+              "start": 3,
+              "username": "Nijuugoseiki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/akgedvD65S",
+              "end": 47,
+              "expanded_url": "https://x.com/Nijuugoseiki/status/1969817443695526234/photo/1",
+              "media_key": "3_1969817437647597568",
+              "start": 24,
+              "url": "https://t.co/akgedvD65S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970107185146515760",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969817443695526234",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nijuugoseiki: #イラスト https://t.co/akgedvD65S"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969817437647597568"
+          ]
+        },
+        "author_id": "1740395535906025472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "1969817443695526234",
+        "created_at": "2025-09-21T17:34:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T18:34:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969817443695526234"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "イラスト"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/akgedvD65S",
+              "end": 29,
+              "expanded_url": "https://x.com/Nijuugoseiki/status/1969817443695526234/photo/1",
+              "media_key": "3_1969817437647597568",
+              "start": 6,
+              "url": "https://t.co/akgedvD65S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969817443695526234",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 5860,
+          "like_count": 561,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "#イラスト https://t.co/akgedvD65S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 238,
+          "like_count": 3277,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 896
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-28T15:33:52.000Z",
+        "description": "日本語勉強中 ┊♡⇢(@111x717) ໒꒱ ‧₊˚",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 11,
+                "username": "111x717"
+              }
+            ]
+          }
+        },
+        "id": "1740395535906025472",
+        "name": "ついすや",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955303803684786179/_QmgmfFu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 600,
+          "following_count": 31,
+          "like_count": 2732,
+          "listed_count": 5,
+          "media_count": 20,
+          "tweet_count": 38
+        },
+        "username": "Nijuugoseiki",
+        "verified": false
+      }
+    ]
+  }
+}

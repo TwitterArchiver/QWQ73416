@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1964742766161981541",
+    "created_at": "2025-09-07T18:26:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-07T19:26:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964757252977660269"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1962156064734138368",
+          "start": 0,
+          "username": "HydrogenNeko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/HelpMiaoDestin…",
+          "end": 37,
+          "expanded_url": "https://x.com/HelpMiaoDestiny/status/1964723353761329410",
+          "start": 14,
+          "url": "https://t.co/n5mbEIPBCh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964757252977660269",
+    "in_reply_to_user_id": "1962156064734138368",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964723353761329410",
+        "type": "quoted"
+      },
+      {
+        "id": "1964742766161981541",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HydrogenNeko https://t.co/n5mbEIPBCh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1964742766161981541",
+        "created_at": "2025-09-07T18:26:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T19:26:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964757252977660269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1962156064734138368",
+              "start": 0,
+              "username": "HydrogenNeko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/HelpMiaoDestin…",
+              "end": 37,
+              "expanded_url": "https://x.com/HelpMiaoDestiny/status/1964723353761329410",
+              "start": 14,
+              "url": "https://t.co/n5mbEIPBCh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964757252977660269",
+        "in_reply_to_user_id": "1962156064734138368",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964723353761329410",
+            "type": "quoted"
+          },
+          {
+            "id": "1964742766161981541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HydrogenNeko https://t.co/n5mbEIPBCh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1516428117161689091",
+        "conversation_id": "1964723353761329410",
+        "created_at": "2025-09-07T16:12:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T17:12:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964723353761329410"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1964723353761329410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 1,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果我活着一直很悲伤痛苦，天天都在哭，那还是早点跳楼自杀吧。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962156064734138368",
+        "conversation_id": "1964742766161981541",
+        "created_at": "2025-09-07T17:29:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T18:29:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964742766161981541"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "✦水素渐远✦’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1ZkKz…",
+              "end": 38,
+              "expanded_url": "https://x.com/i/spaces/1ZkKzZBRBQZKv",
+              "start": 15,
+              "status": 200,
+              "title": "Happening now: 直播救人 —— 自杀干预记录",
+              "unwound_url": "https://twitter.com/i/spaces/1ZkKzZBRBQZKv/peek",
+              "url": "https://t.co/FhzWH57rq7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964742766161981541",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "直播救人 —— 自杀干预记录 https://t.co/FhzWH57rq7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 218,
+          "like_count": 2297,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 627
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-31T14:10:44.000Z",
+        "description": "实际上叫葉加瀬 水素・MTF🍥・「すべてを癒す万能薬になりたい」・業餘調查記者、偵探・座右銘「給我一個機会，譲我再一次登上塔尖！」#數位遊民的自我修養",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 75,
+                "start": 65,
+                "tag": "數位遊民的自我修養"
+              }
+            ]
+          }
+        },
+        "id": "1962156064734138368",
+        "name": "✦水素渐远✦",
+        "pinned_tweet_id": "1962163704134549962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962156244841709568/SgYFPIvk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 180,
+          "like_count": 729,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 364
+        },
+        "username": "HydrogenNeko",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-19T14:48:04.000Z",
+        "description": "女大大二/双性恋跨女/童意识19岁雌二醇凝胶猫猫20泰蔡达武变女性术喉结术/废物韭菜/通模难久残废跨女无法骄傲/天赋党母亲党父家暴/脸好看女相女嗓260Hz无伪音/学金融/很穷绿推门槛妹/sub小猫/喜欢可爱/求买衣服/民主自由福利/微键政不爆照/167/60/80A/39码/沙漏型/忧郁绝望痛哭树洞/吾将死勿fo",
+        "id": "1516428117161689091",
+        "location": "深圳～喵～",
+        "name": "喵喵～快润🍁或快跳L！",
+        "pinned_tweet_id": "1936637694467281234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829205405588959236/dsr23eTn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4519,
+          "following_count": 453,
+          "like_count": 79937,
+          "listed_count": 11,
+          "media_count": 1062,
+          "tweet_count": 37914
+        },
+        "username": "HelpMiaoDestiny",
+        "verified": false
+      }
+    ]
+  }
+}

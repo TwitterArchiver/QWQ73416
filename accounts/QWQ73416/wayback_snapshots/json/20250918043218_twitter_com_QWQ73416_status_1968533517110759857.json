@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1968483166697464055",
+    "created_at": "2025-09-18T04:32:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T05:32:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968533517110759857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1966539497795117056",
+          "start": 0,
+          "username": "Yuwen_Tang1019"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968533517110759857",
+    "in_reply_to_user_id": "1966539497795117056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968483166697464055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuwen_Tang1019 吃上好的了QWQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1968483152722280448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1F0_3haQAA1qhp.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1968483153364008962",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1F0_56aQAI-rVS.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1968483166697464055",
+        "created_at": "2025-09-18T04:32:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T05:32:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968533517110759857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1966539497795117056",
+              "start": 0,
+              "username": "Yuwen_Tang1019"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968533517110759857",
+        "in_reply_to_user_id": "1966539497795117056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968483166697464055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuwen_Tang1019 吃上好的了QWQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968483152722280448",
+            "3_1968483153364008962"
+          ]
+        },
+        "author_id": "1966539497795117056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1968483166697464055",
+        "created_at": "2025-09-18T01:12:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T02:12:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968483166697464055"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Du9H1ZkORv",
+              "end": 47,
+              "expanded_url": "https://x.com/Yuwen_Tang1019/status/1968483166697464055/photo/1",
+              "media_key": "3_1968483152722280448",
+              "start": 24,
+              "url": "https://t.co/Du9H1ZkORv"
+            },
+            {
+              "display_url": "pic.x.com/Du9H1ZkORv",
+              "end": 47,
+              "expanded_url": "https://x.com/Yuwen_Tang1019/status/1968483166697464055/photo/1",
+              "media_key": "3_1968483153364008962",
+              "start": 24,
+              "url": "https://t.co/Du9H1ZkORv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968483166697464055",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 213,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哭了，这才20澳元\n捞饭鲜掉眉毛\n鸡嫩过学生妹 https://t.co/Du9H1ZkORv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 228,
+          "like_count": 2964,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 789
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-12T16:29:01.000Z",
+        "description": "友跨MTF,反激跨🤔\n笨蛋老婆和老公：@zhishi_cook🤤，@wowo_yz🥵\n仪器出厂日期19th.10.10☺️\n175/157减肥中🥹\n在墨尔本🌝\n泛性恋，多边😘\n异常抽象跨😱\n从30th.6.2025开始hrt😋\n同类互关😈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 19,
+                "username": "zhishi_cook"
+              },
+              {
+                "end": 41,
+                "start": 33,
+                "username": "wowo_yz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "MTF.WIKI",
+                "end": 23,
+                "expanded_url": "http://MTF.WIKI",
+                "start": 0,
+                "url": "https://t.co/brtIcvQKgy"
+              }
+            ]
+          }
+        },
+        "id": "1966539497795117056",
+        "location": "Melbourne, Victoria",
+        "name": "唐毓文",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966543244889894912/f4sbkyyM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 69,
+          "like_count": 5,
+          "listed_count": 2,
+          "media_count": 20,
+          "tweet_count": 151
+        },
+        "url": "https://t.co/brtIcvQKgy",
+        "username": "Yuwen_Tang1019",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1967919527838281728"
+      ],
+      "media_source_tweet_id": [
+        "1967919532716261561"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1968091028784812455",
+    "created_at": "2025-09-16T23:14:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T00:14:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968091028784812455"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1103499032893116416",
+          "start": 3,
+          "username": "ura_niboshi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cFOZHB1foj",
+          "end": 55,
+          "expanded_url": "https://x.com/ura_niboshi/status/1967919532716261561/photo/1",
+          "media_key": "3_1967919527838281728",
+          "start": 32,
+          "url": "https://t.co/cFOZHB1foj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968091028784812455",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 216
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967919532716261561",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ura_niboshi: 褐色エジプト猫耳娘描きました https://t.co/cFOZHB1foj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1967919527838281728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G090YlNa8AAFb2u.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967919527838281728"
+          ],
+          "media_source_tweet_id": [
+            "1967919532716261561"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1968091028784812455",
+        "created_at": "2025-09-16T23:14:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T00:14:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968091028784812455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1103499032893116416",
+              "start": 3,
+              "username": "ura_niboshi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cFOZHB1foj",
+              "end": 55,
+              "expanded_url": "https://x.com/ura_niboshi/status/1967919532716261561/photo/1",
+              "media_key": "3_1967919527838281728",
+              "start": 32,
+              "url": "https://t.co/cFOZHB1foj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968091028784812455",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 216
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967919532716261561",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ura_niboshi: 褐色エジプト猫耳娘描きました https://t.co/cFOZHB1foj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1967919527838281728"
+          ]
+        },
+        "author_id": "1103499032893116416",
+        "conversation_id": "1967919532716261561",
+        "created_at": "2025-09-16T11:52:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T12:52:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967919532716261561"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cFOZHB1foj",
+              "end": 38,
+              "expanded_url": "https://x.com/ura_niboshi/status/1967919532716261561/photo/1",
+              "media_key": "3_1967919527838281728",
+              "start": 15,
+              "url": "https://t.co/cFOZHB1foj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967919532716261561",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 317,
+          "impression_count": 15485,
+          "like_count": 1973,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 216
+        },
+        "reply_settings": "everyone",
+        "text": "褐色エジプト猫耳娘描きました https://t.co/cFOZHB1foj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 227,
+          "like_count": 2859,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 769
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-07T03:34:06.000Z",
+        "description": "中年お絵かきアカウント シャンティ/おにまい/美プラ系/レトロゲーキャラ/無断転載禁止AI学習は呪う skeb:https://t.co/GhdXHimilz pixiv: https://t.co/HrXrq0eMfm fantia:https://t.co/7Qm4gIPEkJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@ura_niboshi",
+                "end": 79,
+                "expanded_url": "http://skeb.jp/@ura_niboshi",
+                "start": 56,
+                "url": "https://t.co/GhdXHimilz"
+              },
+              {
+                "display_url": "pixiv.me/unkimo",
+                "end": 110,
+                "expanded_url": "http://pixiv.me/unkimo",
+                "start": 87,
+                "url": "https://t.co/HrXrq0eMfm"
+              },
+              {
+                "display_url": "fantia.jp/ero_niboshi",
+                "end": 141,
+                "expanded_url": "https://fantia.jp/ero_niboshi",
+                "start": 118,
+                "url": "https://t.co/7Qm4gIPEkJ"
+              }
+            ]
+          }
+        },
+        "id": "1103499032893116416",
+        "location": "hokkaido,JP",
+        "name": "裏にぼし@skeb緩募",
+        "pinned_tweet_id": "1735677648943157540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1144160309503901696/DADN0U8b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14661,
+          "following_count": 338,
+          "like_count": 6429,
+          "listed_count": 129,
+          "media_count": 2361,
+          "tweet_count": 6141
+        },
+        "username": "ura_niboshi",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "2041581253535961437",
+    "created_at": "2026-04-07T18:17:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T19:17:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041581253535961437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1705499676953497600",
+          "start": 3,
+          "username": "liwanmiaohy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041581253535961437",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041246932157571237",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @liwanmiaohy: 非针剂途径下的HRT综合最优方案 :\n⚠️请一定仔细查看图片，特别注意含服的细节！需要PDF完整版请私信找我\n本方案经作者本人（20岁，HRT约1个月）验证，血检结果如图\n该结果证明：每日4mg泰补含服 + 低剂量CPA（每两天12.5mg）…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2132,
+        "media_key": "3_2041246928697217024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFP3REPa0AAc2tK.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1796,
+        "media_key": "3_2041246927610900480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFP3RAMa8AAl06E.jpg",
+        "width": 1080
+      },
+      {
+        "height": 780,
+        "media_key": "3_2041246924666499073",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFP3Q1Oa8AEPV5Q.jpg",
+        "width": 1072
+      },
+      {
+        "height": 804,
+        "media_key": "3_2041246926390345728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFP3Q7pawAAhGhn.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "2041581253535961437",
+        "created_at": "2026-04-07T18:17:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T19:17:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041581253535961437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1705499676953497600",
+              "start": 3,
+              "username": "liwanmiaohy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041581253535961437",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041246932157571237",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @liwanmiaohy: 非针剂途径下的HRT综合最优方案 :\n⚠️请一定仔细查看图片，特别注意含服的细节！需要PDF完整版请私信找我\n本方案经作者本人（20岁，HRT约1个月）验证，血检结果如图\n该结果证明：每日4mg泰补含服 + 低剂量CPA（每两天12.5mg）…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041246928697217024",
+            "3_2041246927610900480",
+            "3_2041246924666499073",
+            "3_2041246926390345728"
+          ]
+        },
+        "author_id": "1705499676953497600",
+        "conversation_id": "2041246932157571237",
+        "created_at": "2026-04-06T20:09:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T21:09:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041246932157571237"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 157,
+              "start": 153,
+              "tag": "HRT"
+            },
+            {
+              "end": 162,
+              "start": 158,
+              "tag": "MtF"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dT4SZFr7uC",
+              "end": 186,
+              "expanded_url": "https://x.com/liwanmiaohy/status/2041246932157571237/photo/1",
+              "media_key": "3_2041246928697217024",
+              "start": 163,
+              "url": "https://t.co/dT4SZFr7uC"
+            },
+            {
+              "display_url": "pic.x.com/dT4SZFr7uC",
+              "end": 186,
+              "expanded_url": "https://x.com/liwanmiaohy/status/2041246932157571237/photo/1",
+              "media_key": "3_2041246927610900480",
+              "start": 163,
+              "url": "https://t.co/dT4SZFr7uC"
+            },
+            {
+              "display_url": "pic.x.com/dT4SZFr7uC",
+              "end": 186,
+              "expanded_url": "https://x.com/liwanmiaohy/status/2041246932157571237/photo/1",
+              "media_key": "3_2041246924666499073",
+              "start": 163,
+              "url": "https://t.co/dT4SZFr7uC"
+            },
+            {
+              "display_url": "pic.x.com/dT4SZFr7uC",
+              "end": 186,
+              "expanded_url": "https://x.com/liwanmiaohy/status/2041246932157571237/photo/1",
+              "media_key": "3_2041246926390345728",
+              "start": 163,
+              "url": "https://t.co/dT4SZFr7uC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041246932157571237",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 108,
+          "impression_count": 15187,
+          "like_count": 184,
+          "quote_count": 3,
+          "reply_count": 16,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "非针剂途径下的HRT综合最优方案 :\n⚠️请一定仔细查看图片，特别注意含服的细节！需要PDF完整版请私信找我\n本方案经作者本人（20岁，HRT约1个月）验证，血检结果如图\n该结果证明：每日4mg泰补含服 + 低剂量CPA（每两天12.5mg） 可使雌二醇进入女性生理范围，睾酮完全抑制，且对肝脏无明显影响\n#HRT #MtF https://t.co/dT4SZFr7uC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10🌟|GAHT/HRT:2025.10.7|\n割手的痕迹被我妈看到了，被骂了一顿|\n好闺蜜 @N2OXYN |\n→I an not a vitual account.(T~T)←|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 47,
+                "username": "N2OXYN"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "name": "🧊泠小米❄️",
+        "pinned_tweet_id": "2037669545633325393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023719096047771648/WvkPh1aM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 576,
+          "following_count": 318,
+          "like_count": 6356,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 1627
+        },
+        "username": "QWQ73416",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-23T08:29:58.000Z",
+        "description": "MtF🏳️‍⚧️🍥｜🍰2006.3.16｜HRT🍥2026.3.7｜INTP (Fi发达，Fe定向)｜欢迎互fo｜温柔🤗｜希望言语能给你带来些许温暖🥰｜全网同名喵🐱｜\n鬓边茉莉为谁妍，月下窗前等君怜。——莉绾｜\n花满枝头香九归，茉莉无言语自绯。——《南宋市肆记》",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lizihanfs",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lizihanfs",
+                "start": 0,
+                "url": "https://t.co/jG0piqE7vs"
+              }
+            ]
+          }
+        },
+        "id": "1705499676953497600",
+        "location": "孝感",
+        "name": "莉绾喵 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2041246932157571237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014748896451264512/oNiSK2fE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 751,
+          "following_count": 591,
+          "like_count": 1924,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 1032
+        },
+        "url": "https://t.co/jG0piqE7vs",
+        "username": "liwanmiaohy",
+        "verified": false
+      }
+    ]
+  }
+}

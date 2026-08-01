@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1964192853778726972",
+    "created_at": "2025-09-06T05:04:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-06T06:04:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1964192853778726972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1824818634809806848",
+          "start": 3,
+          "username": "hsgmxz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1964192853778726972",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964163559568339391",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hsgmxz: 而且还在本子上画自以为很像的某种器官🤮\n还编自己认为很高级的黄词缩写（其实就是拼音）\n还拿给不懂的人猜 要是ta不知道就会被这群嘲笑\n而且对黄色外号也情有独钟\n老师说个相近的词语那群就要起哄\n而且还莫名其妙的就开始笑\n去问为什么笑 还会说一些毫无逻辑的话…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1964192853778726972",
+        "created_at": "2025-09-06T05:04:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T06:04:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1964192853778726972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1824818634809806848",
+              "start": 3,
+              "username": "hsgmxz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964192853778726972",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964163559568339391",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hsgmxz: 而且还在本子上画自以为很像的某种器官🤮\n还编自己认为很高级的黄词缩写（其实就是拼音）\n还拿给不懂的人猜 要是ta不知道就会被这群嘲笑\n而且对黄色外号也情有独钟\n老师说个相近的词语那群就要起哄\n而且还莫名其妙的就开始笑\n去问为什么笑 还会说一些毫无逻辑的话…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824818634809806848",
+        "conversation_id": "1964163559568339391",
+        "created_at": "2025-09-06T03:07:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-06T04:07:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964163559568339391"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsgmxz/status/…",
+              "end": 169,
+              "expanded_url": "https://twitter.com/hsgmxz/status/1963622140340469996",
+              "start": 146,
+              "url": "https://t.co/YHE53xxVYs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1964163559568339391",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 122,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963622140340469996",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "而且还在本子上画自以为很像的某种器官🤮\n还编自己认为很高级的黄词缩写（其实就是拼音）\n还拿给不懂的人猜 要是ta不知道就会被这群嘲笑\n而且对黄色外号也情有独钟\n老师说个相近的词语那群就要起哄\n而且还莫名其妙的就开始笑\n去问为什么笑 还会说一些毫无逻辑的话\n真是无语死了 男的怎么会这么恶心😅 https://t.co/YHE53xxVYs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|小推@QWQ1885|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "QWQ1885"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 215,
+          "like_count": 2174,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 596
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-17T14:40:51.000Z",
+        "description": "「この世には息もできない人が沢山いるんですよ。」mtf🏳️‍⚧️|含糖2025.7.26|初音ミク大好き。🥰|欢迎贴贴|同类互fo|2011.1.24|intp-t",
+        "id": "1824818634809806848",
+        "location": "誰もいないセカイ",
+        "name": "萌新 honoka🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1961932350256005418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956290303792660480/uak33Kmx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 664,
+          "following_count": 826,
+          "like_count": 1970,
+          "listed_count": 1,
+          "media_count": 43,
+          "tweet_count": 380
+        },
+        "username": "hsgmxz",
+        "verified": false
+      }
+    ]
+  }
+}

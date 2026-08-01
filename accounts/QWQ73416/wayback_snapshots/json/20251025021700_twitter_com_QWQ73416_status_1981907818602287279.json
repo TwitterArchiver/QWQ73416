@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1980482580605800809",
+    "created_at": "2025-10-25T02:17:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-25T03:17:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981907818602287279"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1606490599095402497",
+          "start": 0,
+          "username": "Logic_HZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981907818602287279",
+    "in_reply_to_user_id": "1606490599095402497",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980892549817725409",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Logic_HZ 摸摸，下次注意吧( ˘ω˘ )"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1980482580605800809",
+        "created_at": "2025-10-25T02:17:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T03:17:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981907818602287279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1606490599095402497",
+              "start": 0,
+              "username": "Logic_HZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981907818602287279",
+        "in_reply_to_user_id": "1606490599095402497",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980892549817725409",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Logic_HZ 摸摸，下次注意吧( ˘ω˘ )"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1606490599095402497",
+        "conversation_id": "1980482580605800809",
+        "created_at": "2025-10-22T07:02:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-22T08:02:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980892549817725409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1955503492145283072",
+              "start": 0,
+              "username": "QWQ73416"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980892549817725409",
+        "in_reply_to_user_id": "1955503492145283072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 343,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980884685095072125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QWQ73416 我只觉得很尴尬……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|GAHT/HRT:2025.10.7|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "MTF.wiki",
+                "end": 23,
+                "expanded_url": "http://MTF.wiki",
+                "start": 0,
+                "url": "https://t.co/7tmPTkeoFF"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "∠( ᐛ 」∠)_",
+        "name": "🍥(￣ヘ￣🍥)",
+        "pinned_tweet_id": "1971859627869708434",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979202568543784960/OeW4bpMU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 272,
+          "like_count": 4136,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 1120
+        },
+        "url": "https://t.co/7tmPTkeoFF",
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-24T03:23:09.000Z",
+        "description": "why not?",
+        "id": "1606490599095402497",
+        "location": "大路街187号",
+        "name": "MoFi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882164116510625792/SUfuFsWQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 224,
+          "like_count": 2157,
+          "listed_count": 2,
+          "media_count": 143,
+          "tweet_count": 844
+        },
+        "username": "Logic_HZ",
+        "verified": false
+      }
+    ]
+  }
+}

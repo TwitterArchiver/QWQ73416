@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1961654682805514240"
+      ],
+      "media_source_tweet_id": [
+        "1961654693219975313"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1962005012349116494",
+    "created_at": "2025-08-31T04:10:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T05:10:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962005012349116494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1378333126498263041",
+          "start": 3,
+          "username": "usagon3333"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PROOOmeuve",
+          "end": 44,
+          "expanded_url": "https://x.com/usagon3333/status/1961654693219975313/photo/1",
+          "media_key": "3_1961654682805514240",
+          "start": 21,
+          "url": "https://t.co/PROOOmeuve"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962005012349116494",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 115
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961654693219975313",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @usagon3333: おしゃれ https://t.co/PROOOmeuve"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1156,
+        "media_key": "3_1961654682805514240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzkyimyasAALE0I.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961654682805514240"
+          ],
+          "media_source_tweet_id": [
+            "1961654693219975313"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1962005012349116494",
+        "created_at": "2025-08-31T04:10:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T05:10:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962005012349116494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1378333126498263041",
+              "start": 3,
+              "username": "usagon3333"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PROOOmeuve",
+              "end": 44,
+              "expanded_url": "https://x.com/usagon3333/status/1961654693219975313/photo/1",
+              "media_key": "3_1961654682805514240",
+              "start": 21,
+              "url": "https://t.co/PROOOmeuve"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962005012349116494",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 115
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961654693219975313",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @usagon3333: おしゃれ https://t.co/PROOOmeuve"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961654682805514240"
+          ]
+        },
+        "author_id": "1378333126498263041",
+        "conversation_id": "1961654693219975313",
+        "created_at": "2025-08-30T04:58:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T05:58:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961654693219975313"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PROOOmeuve",
+              "end": 28,
+              "expanded_url": "https://x.com/usagon3333/status/1961654693219975313/photo/1",
+              "media_key": "3_1961654682805514240",
+              "start": 5,
+              "url": "https://t.co/PROOOmeuve"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961654693219975313",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 8341,
+          "like_count": 729,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 115
+        },
+        "reply_settings": "following",
+        "text": "おしゃれ https://t.co/PROOOmeuve"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|小推@QWQ1885|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "QWQ1885"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 164,
+          "like_count": 1482,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 316
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-03T13:07:41.000Z",
+        "description": "かわいいうさちゃんへっだー！\n(@Yamagonzaresu55)\nskeb https://t.co/dqS4zaGjyp\nすきま https://t.co/aj1PL7IHDa\ndo not repost my art\n\nAI学習と無断転載はおやめください",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 16,
+                "username": "Yamagonzaresu55"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@usagon3333",
+                "end": 62,
+                "expanded_url": "https://skeb.jp/@usagon3333",
+                "start": 39,
+                "url": "https://t.co/dqS4zaGjyp"
+              },
+              {
+                "display_url": "skima.jp/profile?id=220…",
+                "end": 90,
+                "expanded_url": "https://skima.jp/profile?id=22030",
+                "start": 67,
+                "url": "https://t.co/aj1PL7IHDa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/usagon331?igsh…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/usagon331?igshid=ZGUzMzM3NWJiOQ==",
+                "start": 0,
+                "url": "https://t.co/W1fgkhRj2g"
+              }
+            ]
+          }
+        },
+        "id": "1378333126498263041",
+        "name": "うー玉",
+        "pinned_tweet_id": "1867482327326372234",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796798396197634048/VlU9R6rG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43799,
+          "following_count": 272,
+          "like_count": 19087,
+          "listed_count": 397,
+          "media_count": 1630,
+          "tweet_count": 7819
+        },
+        "url": "https://t.co/W1fgkhRj2g",
+        "username": "usagon3333",
+        "verified": false
+      }
+    ]
+  }
+}

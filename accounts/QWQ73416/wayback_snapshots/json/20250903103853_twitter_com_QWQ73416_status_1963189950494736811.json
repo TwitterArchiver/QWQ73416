@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "1963188244260204913",
+    "created_at": "2025-09-03T10:38:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T11:38:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963189950494736811"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1491429513779359745",
+          "start": 0,
+          "username": "mizuchanqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963189950494736811",
+    "in_reply_to_user_id": "1491429513779359745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963188244260204913",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mizuchanqwq 那只能祝你在那边安好了QWQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1963188225146748928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz6lShMaAAAQt2C.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "1963188244260204913",
+        "created_at": "2025-09-03T10:38:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T11:38:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963189950494736811"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1491429513779359745",
+              "start": 0,
+              "username": "mizuchanqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963189950494736811",
+        "in_reply_to_user_id": "1491429513779359745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963188244260204913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mizuchanqwq 那只能祝你在那边安好了QWQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963188225146748928"
+          ]
+        },
+        "author_id": "1491429513779359745",
+        "conversation_id": "1963188244260204913",
+        "created_at": "2025-09-03T10:32:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T11:32:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963188244260204913"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aZI2iYw8uH",
+              "end": 68,
+              "expanded_url": "https://x.com/mizuchanqwq/status/1963188244260204913/photo/1",
+              "media_key": "3_1963188225146748928",
+              "start": 45,
+              "url": "https://t.co/aZI2iYw8uH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963188244260204913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "對不起\n中國內地的朋友……\n我估計永遠也貼不了你們了……\n因為我再也無法踏足那塊土地…… https://t.co/aZI2iYw8uH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|小推@QWQ1885|\n→I an not a vitual account.(T~T)←",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "QWQ1885"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 206,
+          "like_count": 1902,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 523
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-09T15:11:30.000Z",
+        "description": "永遠是一隻可愛的小貓qwq / 最可愛的柚子貓貓@yuzuchanqwq 🥺🐱❤️ / 餘命兩年 請多陪陪我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 24,
+                "username": "yuzuchanqwq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/The7sRef",
+                "end": 23,
+                "expanded_url": "https://t.me/The7sRef",
+                "start": 0,
+                "url": "https://t.co/tcjbcDmEKy"
+              }
+            ]
+          }
+        },
+        "id": "1491429513779359745",
+        "location": "貓屬橫濱",
+        "name": "若水醬🍥",
+        "pinned_tweet_id": "1962734630223872005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953110536339775489/AgnBjz6m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2349,
+          "following_count": 2189,
+          "like_count": 86322,
+          "listed_count": 7,
+          "media_count": 1951,
+          "tweet_count": 10170
+        },
+        "url": "https://t.co/tcjbcDmEKy",
+        "username": "mizuchanqwq",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1969828408189157376"
+      ],
+      "media_source_tweet_id": [
+        "1969828413994332264"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1969919353106907350",
+    "created_at": "2025-09-22T00:19:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-22T01:19:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1969919353106907350"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1091465962686165000",
+          "start": 3,
+          "username": "Waffuccino"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Z1tCKb4fE8",
+          "end": 58,
+          "expanded_url": "https://x.com/Waffuccino/status/1969828413994332264/photo/1",
+          "media_key": "3_1969828408189157376",
+          "start": 35,
+          "url": "https://t.co/Z1tCKb4fE8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1969919353106907350",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 45
+    },
+    "referenced_tweets": [
+      {
+        "id": "1969828413994332264",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Waffuccino: Nervous stupid 🐾🖤🦴 https://t.co/Z1tCKb4fE8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1969828408189157376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1Y8gCqWgAADevh.jpg",
+        "width": 1299
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969828408189157376"
+          ],
+          "media_source_tweet_id": [
+            "1969828413994332264"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1969919353106907350",
+        "created_at": "2025-09-22T00:19:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-22T01:19:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1969919353106907350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1091465962686165000",
+              "start": 3,
+              "username": "Waffuccino"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z1tCKb4fE8",
+              "end": 58,
+              "expanded_url": "https://x.com/Waffuccino/status/1969828413994332264/photo/1",
+              "media_key": "3_1969828408189157376",
+              "start": 35,
+              "url": "https://t.co/Z1tCKb4fE8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969919353106907350",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 45
+        },
+        "referenced_tweets": [
+          {
+            "id": "1969828413994332264",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Waffuccino: Nervous stupid 🐾🖤🦴 https://t.co/Z1tCKb4fE8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1969828408189157376"
+          ]
+        },
+        "author_id": "1091465962686165000",
+        "conversation_id": "1969828413994332264",
+        "created_at": "2025-09-21T18:17:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-21T19:17:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1969828413994332264"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z1tCKb4fE8",
+              "end": 42,
+              "expanded_url": "https://x.com/Waffuccino/status/1969828413994332264/photo/1",
+              "media_key": "3_1969828408189157376",
+              "start": 19,
+              "url": "https://t.co/Z1tCKb4fE8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1969828413994332264",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 81,
+          "impression_count": 5324,
+          "like_count": 748,
+          "quote_count": 1,
+          "reply_count": 18,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "Nervous stupid 🐾🖤🦴 https://t.co/Z1tCKb4fE8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 238,
+          "like_count": 3182,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 869
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-01T22:38:58.000Z",
+        "description": "✨🖤| loser stray dog waffu waffu |🖤✨ | love art!!! Drawing for me and you! 🐾 Art #DrawFika 🖤 Mama: @kuri_nyann Papa: @caffrigg",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 89,
+                "start": 80,
+                "tag": "DrawFika"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 109,
+                "start": 98,
+                "username": "kuri_nyann"
+              },
+              {
+                "end": 125,
+                "start": 116,
+                "username": "caffrigg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/waffuccino",
+                "end": 23,
+                "expanded_url": "http://twitch.tv/waffuccino",
+                "start": 0,
+                "url": "https://t.co/GdwnzFCD7i"
+              }
+            ]
+          }
+        },
+        "id": "1091465962686165000",
+        "location": "Underland┋🇸🇪┋Waffu",
+        "name": "Waffu VT 🇸🇪",
+        "pinned_tweet_id": "1944791680453849542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889789867535536128/ml-3Ed5D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42667,
+          "following_count": 820,
+          "like_count": 64391,
+          "listed_count": 118,
+          "media_count": 128,
+          "tweet_count": 1565
+        },
+        "url": "https://t.co/GdwnzFCD7i",
+        "username": "Waffuccino",
+        "verified": false
+      }
+    ]
+  }
+}

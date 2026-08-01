@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968366928369434624"
+      ],
+      "media_source_tweet_id": [
+        "1968366933293805740"
+      ]
+    },
+    "author_id": "1955503492145283072",
+    "conversation_id": "1968534327660093753",
+    "created_at": "2025-09-18T04:35:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T05:35:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968534327660093753"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 63,
+          "normalized_text": "Mackdonal",
+          "probability": 0.7037,
+          "start": 55,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1383524685661360128",
+          "start": 3,
+          "username": "tingusbungus"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oFJn4e42yj",
+          "end": 88,
+          "expanded_url": "https://x.com/tingusbungus/status/1968366933293805740/photo/1",
+          "media_key": "3_1968366928369434624",
+          "start": 65,
+          "url": "https://t.co/oFJn4e42yj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968534327660093753",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 241
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968366933293805740",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tingusbungus: Dressing up all classy just to go to Mackdonal https://t.co/oFJn4e42yj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1624,
+        "media_key": "3_1968366928369434624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1ELSuEWQAA1KcQ.jpg",
+        "width": 1754
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968366928369434624"
+          ],
+          "media_source_tweet_id": [
+            "1968366933293805740"
+          ]
+        },
+        "author_id": "1955503492145283072",
+        "conversation_id": "1968534327660093753",
+        "created_at": "2025-09-18T04:35:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T05:35:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968534327660093753"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 63,
+              "normalized_text": "Mackdonal",
+              "probability": 0.7037,
+              "start": 55,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1383524685661360128",
+              "start": 3,
+              "username": "tingusbungus"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oFJn4e42yj",
+              "end": 88,
+              "expanded_url": "https://x.com/tingusbungus/status/1968366933293805740/photo/1",
+              "media_key": "3_1968366928369434624",
+              "start": 65,
+              "url": "https://t.co/oFJn4e42yj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968534327660093753",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 241
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968366933293805740",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tingusbungus: Dressing up all classy just to go to Mackdonal https://t.co/oFJn4e42yj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968366928369434624"
+          ]
+        },
+        "author_id": "1383524685661360128",
+        "conversation_id": "1968366933293805740",
+        "created_at": "2025-09-17T17:30:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T18:30:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968366933293805740"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 45,
+              "normalized_text": "Mackdonal",
+              "probability": 0.5641,
+              "start": 37,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oFJn4e42yj",
+              "end": 70,
+              "expanded_url": "https://x.com/tingusbungus/status/1968366933293805740/photo/1",
+              "media_key": "3_1968366928369434624",
+              "start": 47,
+              "url": "https://t.co/oFJn4e42yj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968366933293805740",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 248,
+          "impression_count": 14605,
+          "like_count": 2419,
+          "quote_count": 6,
+          "reply_count": 17,
+          "retweet_count": 241
+        },
+        "reply_settings": "everyone",
+        "text": "Dressing up all classy just to go to Mackdonal https://t.co/oFJn4e42yj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "10|友跨|欢迎交朋友|一！个！都！不！准！死！|\n→I an not a vitual account.(T~T)←",
+        "id": "1955503492145283072",
+        "location": "China",
+        "name": "o(￣ヘ￣o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960640030176944128/LQ-T01WA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 229,
+          "like_count": 2980,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 800
+        },
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-17T20:56:24.000Z",
+        "description": "i like drawing things ^_^",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "fwing.pet",
+                "end": 23,
+                "expanded_url": "https://fwing.pet/",
+                "start": 0,
+                "url": "https://t.co/DOyzrNX7sT"
+              }
+            ]
+          }
+        },
+        "id": "1383524685661360128",
+        "location": "Bog",
+        "name": "ting",
+        "pinned_tweet_id": "1870893171615658481",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777808281144107009/uAQUBPAl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12675,
+          "following_count": 141,
+          "like_count": 22595,
+          "listed_count": 24,
+          "media_count": 894,
+          "tweet_count": 1793
+        },
+        "url": "https://t.co/DOyzrNX7sT",
+        "username": "tingusbungus",
+        "verified": false
+      }
+    ]
+  }
+}
