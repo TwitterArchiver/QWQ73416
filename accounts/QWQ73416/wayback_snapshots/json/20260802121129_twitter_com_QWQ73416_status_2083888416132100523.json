@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1955503492145283072",
+    "conversation_id": "2083578893349597342",
+    "created_at": "2026-08-02T12:11:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T13:11:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083888416132100523"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1893984432270475264",
+          "start": 0,
+          "username": "bailixing114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083888416132100523",
+    "in_reply_to_user_id": "1893984432270475264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083578893349597342",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bailixing114514 色不能放在一个篮子里（）\n注意防潮呀，要不买个专门的药盒装？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2083578886693310464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOpb9Urb0AAh6HS.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955503492145283072",
+        "conversation_id": "2083578893349597342",
+        "created_at": "2026-08-02T12:11:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T13:11:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083888416132100523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1893984432270475264",
+              "start": 0,
+              "username": "bailixing114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083888416132100523",
+        "in_reply_to_user_id": "1893984432270475264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083578893349597342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bailixing114514 色不能放在一个篮子里（）\n注意防潮呀，要不买个专门的药盒装？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083578886693310464"
+          ]
+        },
+        "author_id": "1893984432270475264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2083578893349597342",
+        "created_at": "2026-08-01T15:41:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T16:15:19.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083572291116613698",
+          "2083578893349597342"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C8bSMWAQz3",
+              "end": 50,
+              "expanded_url": "https://x.com/bailixing114514/status/2083578893349597342/photo/1",
+              "media_key": "3_2083578886693310464",
+              "start": 27,
+              "url": "https://t.co/C8bSMWAQz3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083578893349597342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2603,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 27,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么色会发霉啊？\n难道霉菌也是小药娘?!\n😭😭😭😭 https://t.co/C8bSMWAQz3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-08-13T05:35:59.000Z",
+        "description": "|GAHT/HRT:2025.10.7|\n这里烂透了，以后任何事情都别跟我扯上关系，不参与任何所谓的“跨圈”的任何事情\n新推 @QWQ1885",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 63,
+                "username": "QWQ1885"
+              }
+            ]
+          }
+        },
+        "id": "1955503492145283072",
+        "name": "🧊泠小米BAYER❄️",
+        "pinned_tweet_id": "2078686557410849005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023719096047771648/WvkPh1aM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 693,
+          "following_count": 317,
+          "like_count": 6295,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 1753
+        },
+        "url": "",
+        "username": "QWQ73416",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-24T11:20:59.000Z",
+        "description": "鬼知道大号 @baizhouzi520 怎么封了😅|小证含糖家长党🍥|hrt日期2024.12.11|did成员有白洲，黎星，诗遥，haku……|术力口重度依赖|同类欢迎互fo喵～|梗图真人喵！不是机器人！|同类蓝v互fo喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 6,
+                "username": "baizhouzi520"
+              }
+            ]
+          }
+        },
+        "id": "1893984432270475264",
+        "location": "浦島トンネル",
+        "name": "白白白白洲洲洲洲🍥🍔🍙💊（二代目）",
+        "pinned_tweet_id": "2017032358017532265",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049428712932913152/44JwCgoy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 288,
+          "like_count": 1134,
+          "listed_count": 1,
+          "media_count": 142,
+          "tweet_count": 261
+        },
+        "url": "",
+        "username": "bailixing114514",
+        "verified": true
+      }
+    ]
+  }
+}
